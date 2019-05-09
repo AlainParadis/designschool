@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+<body>
+	{% include top-nav.html %}
+<section>
+	<aside>
+		<h4>Topics</h4>
+		{% for topic in site[page.level] %}
+			{% if topic.type == 'generic' %}
+			<span><a href="{{ site.baseurl }}{{topic.url}}" title="{{topic.title}}">{{topic.title}}</a></span>
+			{% endif %}
+		{% endfor %}
+
+		{% if page.video %}
+			<div class="video-tutorials">
+				<a href="{{ page.video }}" title="Video tutorials for this lesson" target="_blank"><img alt="Video Tutorials for This Lesson" src="/images/svg/video-tutorials.svg"></a>
+			</div>
+		{% endif %}
+
+		{% if page.downloads %}
+			<div class="downloads">
+				<a href="{{ page.downloads }}" title="File downloads for this lesson"><img alt="File Downloads for This Lesson" src="/images/svg/file-downloads.svg"></a>
+			</div>
+		{% endif %}
+
+		{% if page.downloads2 %}
+			<div class="downloads">
+				<a href="{{ page.downloads }}" title="File downloads for this lesson"><img alt="File Downloads for This Lesson" src="/images/svg/file-downloads.svg"></a>
+			</div>
+		{% endif %}
+	</aside>
+	<article>
+		<h2>{{ page.title }}</h2>
+		<div class="wrapper-appsused">
+		<span class="appsused">Apps Used:</span>
+				{% if page.appsused contains 'macos' %}
+			<span class="app-icon"><img src="{{ site.baseurl }}/images/icon-macos.svg" alt="Mac OS"></span>
+				{% endif %}
+				{% if page.appsused contains 'cc' %}
+			<span class="app-icon"><img src="{{ site.baseurl }}/images/icon-cc.svg" alt="Adobe Creative Cloud"></span>
+				{% endif %}
+				{% if page.appsused contains 'indd' %}
+			<span class="app-icon"><img src="{{ site.baseurl }}/images/icon-indd.svg" alt="Adobe InDesign"></span>
+				{% endif %}
+				{% if page.appsused contains 'ai' %}
+			<span class="app-icon"><img src="{{ site.baseurl }}/images/icon-ai.svg" alt="Adobe Illustrator"></span>
+				{% endif %}
+				{% if page.appsused contains 'psd' %}
+			<span class="app-icon"><img src="{{ site.baseurl }}/images/icon-psd.svg" alt="Adobe Photoshop"></span>
+				{% endif %}
+				{% if page.appsused contains 'pdf' %}
+			<span class="app-icon"><img src="{{ site.baseurl }}/images/icon-pdf.svg" alt="Adobe Acrobat"></span>
+				{% endif %}
+				{% if page.appsused contains 'xd' %}
+			<span class="app-icon"><img src="{{ site.baseurl }}/images/icon-xd.svg" alt="Adobe Xd"></span>
+				{% endif %}
+				{% if page.appsused contains 'incopy' %}
+			<span class="app-icon"><img src="{{ site.baseurl }}/images/icon-incopy.svg" alt="Adobe InCopy"></span>
+				{% endif %}
+		</div>
+		<div class="description">
+		{{page.description}}
+		</div>
+		<h3>Notes</h3>
+		 <div>
+			{{ page.details | markdownify }}
+		 </div>
+	</article>
+</section>
+    <footer>{% include footer.html %}</footer>
+  </body>
+</html>

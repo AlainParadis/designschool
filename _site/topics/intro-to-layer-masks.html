@@ -1,0 +1,779 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+	<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>
+	  
+		AC Computer Graphics : Intro to Layer Masks
+	  
+	</title>
+	<meta name="generator" content="BBEdit 11.5" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="/css/main.css" rel="stylesheet">
+	<link href="/css/layout.css" rel="stylesheet">
+	<link href="/css/typography.css" rel="stylesheet">
+
+<!-- Social Tags -->
+
+<!-- for Google -->
+<meta name="description" content="Layer Masks are arguably the most powerful, most frequently used tool in the whole Photoshop universe. We'll create pixel-based Layer Masks to achieve different results." />
+
+<meta name="author" content="Alain Paradis, Algonquin College" />
+<meta name="copyright" content="Alain Paradis, Algonquin College, 2017-2018" />
+
+<!-- for Facebook -->          
+<meta property="og:title" content="Intro to Layer Masks" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="/images/general/algonquin-brand-panel.jpg" />
+<meta property="og:url" content="/topics/intro-to-layer-masks.html" />
+<meta property="og:description" content="Layer Masks are arguably the most powerful, most frequently used tool in the whole Photoshop universe. We'll create pixel-based Layer Masks to achieve different results." />
+
+<!-- for Twitter -->          
+<meta name="twitter:site" content="@alainparadis" />
+<meta name="twitter:title" content="Intro to Layer Masks" />
+<meta name="twitter:description" content="Layer Masks are arguably the most powerful, most frequently used tool in the whole Photoshop universe. We'll create pixel-based Layer Masks to achieve different results." />
+<meta name="twitter:image" content="/images/general/algonquin-brand-panel.jpg" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End of Social Tags -->
+
+<!-- This is the Adobe Adobe Fonts script. -->
+
+<script src="https://use.typekit.net/lqr6ffc.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<!-- Start Google Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-87728502-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- End Google Analytics Tracking Code -->
+
+<!-- This are the Favicon links. -->
+	<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="/favicon/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/favicon/manifest.json">
+	<link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="theme-color" content="#ffffff">
+
+</head>
+<body>
+<header class="sans" role="banner">
+	<nav role="navigation">
+		<div class="left fw600">
+	<div class="item">
+		<a href="/" title="Home" class="">
+				Home 
+			</a>
+	</div>
+	<div class="item">
+		<a href="/cg1/index.html" title="Semester One" class="current">
+			CG1 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg2/index.html" title="Semester Two" class="">
+			CG2 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg3/index.html" title="Semester Three" class="">
+			CG3 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg4/index.html" title="Semester Four" class="">
+			CG4 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg5/index.html" title="Semester Five" class="">
+			CG5 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg6/index.html" title="Semester Six" class="">
+			CG6 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/fpp/index.html" title="Fieldwork & Professional Practice" class="">
+			Fieldwork 
+		</a>
+	</div>
+</div>
+<div class="right fw300">
+	<div class="item">
+		<a href="/setup/index.html" title="Setup" class="">Set&nbsp;Up</a>
+	</div>
+	<div class="item">
+		<a href="/topics/stock.html" title="Stock Photography" class="">Stock</a>
+	</div>
+	<div class="item">
+		<a href="http://www.youtube.com/accomputergraphics" title="AC Computer Graphics Video Tutorials" target="_blank">YouTube</a>
+	</div>
+	<div class="item">
+		<a href="https://brightspace.algonquincollege.com/d2l/home" title="Brighspace, Your Learning Management System" target="_blank">Brightspace</a>
+	</div>
+</div>
+	</nav>
+	<div class="site-logo page-logo">
+			<a href="/" title="Home">
+		<img alt="Algonquin College Computer Graphics Logo" src="/images/svg/logo-ac-computer-graphics.svg">
+			</a>
+	</div>
+</header>
+<section class="page-title">
+	<div class="left"></div>
+	<div class="center">
+		<h1 class="fs20 fw300">Intro to Layer Masks</h1>
+		<div class="description sans fs12 fw300">
+		Layer Masks are arguably the most powerful, most frequently used tool in the whole Photoshop universe. We'll create pixel-based Layer Masks to achieve different results.
+		</div>
+	</div>
+	<div class="right">
+		
+		<div>
+		<span class="appsused sans uc f500 fs70">Apps Used:</span>
+		
+		
+		
+		
+		<span class="app-icon"><img src="/images/svg/icon-psd.svg" alt="Adobe Photoshop"></span>
+		
+		
+		
+		
+		</div>
+		
+	</div>
+</section>
+<section>
+	<aside>
+			<h3 class="uc fs10">Topics</h3>
+
+<nav>
+<ul>
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/setup-day1-cg1.html" title="0: Congratulations on being accepted into the Graphic Design program at Algonquin College. We have a number of topics to cover in our first Computer Graphics class." class="item sans  ">Day One</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/drawing-with-shapes.html" title="2.0: Using Illustrator's shape tools to draw can be an effective way to create smooth paths and predictable results." class="item sans  ">Drawing with Shapes</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/pen-tool.html" title="2.1: The Pen Tool is one of the trickiest tools in Illustrator. It's also one of the most fundamental to vector drawing. You need to do your time with the tool in order to tame it." class="item sans  ">Pen Tool</a></li>
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/setting-type.html" title="2.2: Adobe Illustrator is pretty good at setting type. It's no InDesign, but it can set point type, area type, type on a path and more. What's really great, is that you don't always need to draw a box to type." class="item sans  ">Setting Type</a></li>
+	
+
+	
+		<li><a href="/topics/types-of-swatches.html" title="2.3: Illustrator is a go-to application for print design as well as design for the screen. Depending on your intent, you'll need to make decisions about colour. We'll learn to create and edit global, spot, RGB, CMYK colour swatches in Illustrator." class="item sans  ">Types of Swatches</a></li>
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/gradients-and-blends.html" title="2.4: Create, edit and apply gradients to strokes and fills in Adobe Illustrator." class="item sans  ">Gradients & Blends</a></li>
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/illustrator-fundamentals.html" title="2.9: This is a summative assignment which includes all the Illustrator skills you've learned to date." class="item sans summative ">Illustrator Fundamentals</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/our-first-layout.html" title="3.3: In our introduction to page layout in InDesign, we'll build a single page layout promoting Apple's Mac Mini desktop computer." class="item sans  ">Our First Layout</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/vw-layout.html" title="3.9: Use the provided files to build the Volkswagen advertisement according to the included PDF design guide." class="item sans summative ">VW Layout</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/raster-image-fundamentals.html" title="4.1: Understanding the properties of raster images is crucial to building efficient web sites, mobile apps and printed material. The concepts of pixel dimensions, resolution, colour space and more all play a role in creating graphics that save load times and print quickly." class="item sans  ">Raster Image Fundamentals</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/layers.html" title="4.3: Layers are among the fundamental features in Photoshop which aid editing. Superficially, they're simple, but the feature set goes deep." class="item sans  ">Layers</a></li>
+	
+
+	
+
+	
+		<li><a href="/topics/intro-to-layer-masks.html" title="4.4: Layer Masks are arguably the most powerful, most frequently used tool in the whole Photoshop universe. We'll create pixel-based Layer Masks to achieve different results." class="item sans  limegreen">Intro to Layer Masks</a></li>
+	
+
+	
+
+	
+		<li><a href="/topics/retouching-fundamentals.html" title="4.6: We'll use the Clone Stamp Tool, the Healing Brush and Content Aware tools to remove blemishes from a photograph." class="item sans  ">Retouching Fundamentals</a></li>
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/magazine-cover.html" title="4.9: We'll use all the Photoshop tools we've covered to date to design a magazine cover using a non-destructive workflow." class="item sans summative ">Magazine Cover</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+</ul>
+</nav>
+		</aside>
+	<main role="main">
+			
+			<h3>Watch the Video Tutorial</h3>
+			<div id="embed-youtube-container">
+				<iframe src="https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDXxSkeR7f0X8DmBp0hlEaj" frameborder="0" allowfullscreen></iframe>
+			</div>
+			
+		 <div>
+			<p>Layer Masks are used to:</p>
+
+<ul>
+  <li>Erase (mask) areas of a photo.</li>
+  <li>Select an area of a photo to apply an effect.</li>
+  <li>Apply Adjustment Layers selectively.</li>
+  <li>Combine photos in one canvas.</li>
+  <li>…and much, much more.</li>
+</ul>
+
+<figure>
+  <img class="size50" alt="layers-panel-mask-icon" src="/images/photoshop-intro-to-layer-masks/layers-panel-mask-icon.jpg" />
+<figcaption>
+  Whenever you have an icon in the second column in your layers panel, that's a mask.
+</figcaption>
+</figure>
+
+<div class="attentionbox tip">
+  The benefit of using a mask is that it's part of a non-destructive workflow in Photoshop. The alternative would be to erase pixels, rather than hiding (or masking) them, which is never advisable.
+</div>
+
+<h3 id="important-keyboard-commands">Important Keyboard Commands</h3>
+
+<ul>
+  <li>d = Default colours in foreground/background swatches.</li>
+  <li>x = Swap foreground/background swatches.</li>
+  <li>⌥-delete = Fill with foreground colour</li>
+  <li>⌘-delete = Fill with background colour.</li>
+  <li>⌘-a = Select all.</li>
+  <li>⌘-d = Deselect all.</li>
+  <li>Shift-⌘-i = Invert selection.</li>
+</ul>
+
+<h2 id="raster-layer-masks">Raster Layer Masks</h2>
+
+<p>A raster layer mask is a greyscale image, where darker pixels hide the underlying photo to increasing degrees. It works a bit like a dimmer on a light switch. The darker the pixels are on the mask, the less you can see the photo on that layer.</p>
+
+<figure>
+    <img class="size100" alt="photoshop-layer-mask-example" src="/images/photoshop-intro-to-layer-masks/photoshop-layer-mask-example.jpg" />
+<figcaption>
+On a mask, darker the gradient gets, the more the photo will be hidden.
+</figcaption>
+</figure>
+
+<p>You can mask content by:</p>
+
+<ol>
+  <li>creating a mask, then painting with black, white or grey.</li>
+  <li>creating a selection, then creating a mask.</li>
+</ol>
+
+<p>There are more techniques for creating masks, but these two will get you started.</p>
+
+<h3 id="simple-mask">Simple Mask</h3>
+
+<p>Lets start with replacing the background on a photo by hiding the original one to reveal the one on the layer below. In this case, we’ll change the background to a beach scene.</p>
+
+<p><img class="size100" alt="photoshop-layer-masks-simple-mask" src="/images/photoshop-intro-to-layer-masks/photoshop-layer-masks-simple-mask.jpg" /></p>
+
+<p>You can use Select &amp; Mask to refine your mask’s edge. Simply double-click on the mask’s icon in the Layers panel to access it.</p>
+
+<figure>
+    <img class="size100" alt="photoshop-select-and-mask" src="/images/photoshop-intro-to-layer-masks/photoshop-select-and-mask.jpg" />
+<figcaption>
+<ol>
+	<li>Refine Edge tool</li>
+	<li>Choose preview mode</li>
+	<li>Set auto edge detection</li>
+	<li>Sharpen or feather edges</li>
+	<li>Set how to output new mask</li>
+</ol>
+</figcaption>
+</figure>
+
+<p>Use the Refine Edge tool to paint along the edge. Photoshop will detect edges, then try to guess how to enhance the selection.</p>
+
+<h3 id="masking-to-blend-photos">Masking to Blend Photos</h3>
+
+<p>We can also use masks to blend photos. We’ll use the Gradient Tool on the mask. Since black hides and white reveals, this will make the photo on the top layer gradually become transparent to partially reveal the photo below.</p>
+
+<p><img class="size100" alt="photoshop-layer-masks-gradient-mask" src="/images/photoshop-intro-to-layer-masks/photoshop-layer-masks-gradient-mask.jpg" /></p>
+
+<div class="attentionbox tip">
+  A black to white gradient replaces itself each time to drag one. A black to transparent gradient adds to itself each time you drag one.
+</div>
+
+<h3 id="masking-with-a-photo">Masking with a Photo</h3>
+
+<p><img alt="photoshop-paste-on-a-mask" src="/images/photoshop-intro-to-layer-masks/photoshop-paste-on-a-mask.jpg" class="size100" /></p>
+
+<p>A Layer Mask is a greyscale image. Where the pixels are dark on the mask, they’re hiding whatever’s on the layer below. Where they’re light, they reveal what’s on the layers below. It stands to reason that if we paste a photo onto a mask, it will do the same, hopefully giving us interesting results.</p>
+
+<h3 id="bonus-technique">Bonus Technique</h3>
+
+<p>We’ll use content from two stacked layers to take the best elements from each photo. In the end, everyone will have a smile on their faces. We’ll use Auto-Align Layers and Layer Masks to accomplish this. You’ll see; it’s pretty cool.</p>
+
+		 </div>
+			
+			<div>
+			
+				<h2 class="fw300 fs16">Formative Activity</h2>
+			
+			
+<h3 id="simple-mask">Simple Mask</h3>
+
+<p>Mask the background, with the help of the Select &amp; Mask feature, if needed.</p>
+
+<p><img class="size100" alt="layer-masks-simple-mask-summative" src="/images/photoshop-intro-to-layer-masks/summative-simple-mask-summative.jpg" /></p>
+
+<p>Don’t Save As… or rename the file. Just Save, then close it.</p>
+
+<h3 id="masking-to-blend-photos">Masking to Blend Photos</h3>
+
+<p>Use a gradient on a mask to blend the road into the forest.</p>
+
+<p><img class="size100" alt="summative-gradient-on-a-mask" src="/images/photoshop-intro-to-layer-masks/summative-gradient-on-a-mask.jpg" /></p>
+
+<h3 id="masking-with-a-photo">Masking with a Photo</h3>
+
+<p>Use the provided Ink Blot layer to mask the panorama. Remember that <span class="command">⌘-i</span> inverts colours.</p>
+
+<p><img class="size100" alt="summative-paste-onto-a-mask" src="/images/photoshop-intro-to-layer-masks/summative-paste-onto-a-mask.jpg" /></p>
+
+<h3 id="bonus-technique">Bonus Technique</h3>
+
+<p>Using a layer mask, make the two woman’s eyes work best for the photo.</p>
+
+<p><img class="size100" alt="summative-replace-eyes" src="/images/photoshop-intro-to-layer-masks/summative-replace-eyes.jpg" /></p>
+
+		 </div>
+			
+		</main>
+	<aside id="rightrail" class="sans">
+				
+					<div class="button download">
+							<a href="https://www.dropbox.com/s/50uqa0oa0wiq2xp/photoshop-intro-to-layer-masks.zip?dl=1" title="Download practice & exercise files for this assignment." class="fw600 uc white" target="_blank">Download Files</a>
+					</div>
+				
+			
+			<div class="formsum">
+			<h3 class="fs90 uc">Assessment</h3>
+				<p>
+					This is a <span class="fw600">formative</span> assignment. That means that you'll be learning and practicing new software skills. This assignment contributes to your final grade in the course. This work will be graded as either:
+				</p>
+				<div class="completeincomplete">
+					<span class="complete fw600">Complete</span>
+					<span class="incomplete fw600">Incomplete</span>
+				</div>
+				<p>
+				If needed, I will provide written feedback on your performance.
+				</p>
+			</div>
+			
+				
+				
+				<h3 class="uc">Supplemental Links</h3>
+					
+							<ul>
+  <li><a href="https://helpx.adobe.com/photoshop/using/masking-layers.html" target="_blank" title="Adobe: Mask Layers">Adobe: Mask Layers</a></li>
+</ul>
+
+					
+				
+				
+			 <div id="submission">
+				<h3 class="uc">Submission Instructions</h3>
+				<div class="submission">
+				
+				
+				
+				
+				
+				
+				
+					<p>
+	Once you've completed your work, save and close your documents. Name <b>the exercise folder</b> Last name, First name, Group Nº, Intro to Layer Masks so,
+</p>
+<div class="filename">
+		Appleseed-Johnny-#-Intro to Layer Masks
+</div>
+<p>
+	Right-click <b>the exercise folder only</b>, then choose <span class="command">Compress...</span> to create a zip file for submission.
+</p>
+<p>
+	<span class="limegreen">Failure to submit your files as directed will incur a proportional loss of points. If your file/folder is not named with your name, you will earn a zero. <a href="assessment.html#filenames" title="Why is file naming important?">Why?</a></span>
+</p>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				</div>
+			 </div>
+				
+				
+							<div class="button">
+								<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=84512&grpid=0&isprv=0&bp=0&ou=92671" target="_blank" title="Submit your files here." class="submit">Submit Your Files</a>
+							</div>
+				
+		 </aside>
+</section>
+		<footer class="sans" role="contentinfo">
+<div class="site-logo">
+	<a href="/"><img src="/images/svg/logo-ac-computer-graphics.svg" alt="AC Computer Graphics Home"></a>
+</div>
+<nav>
+	<div class="items">
+			<div class="item">
+				<a href="/" title="Home" class="fw600 ">
+						Home 
+					</a>
+			</div>
+		<div class="item">
+			<a href="/cg1/index.html" title="Semester One" class="fw600 current">
+				CG1 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg2/index.html" title="Semester Two" class="fw600 ">
+				CG2 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg3/index.html" title="Semester Three" class="fw600 ">
+				CG3 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg4/index.html" title="Semester Four" class="fw600 ">
+				CG4 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg5/index.html" title="Semester Five" class="fw600 ">
+				CG5 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg6/index.html" title="Semester Six" class="fw600 ">
+				CG6 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/fpp/index.html" title="Fieldwork & Professional Practice" class="fw600 ">
+				Fieldwork 
+			</a>
+		</div>
+	</div>
+	<div class="items fw300">
+		<div class="item">
+			<a href="/setup/index.html" title="Setup" class="">Set&nbsp;Up</a>
+		</div>
+		<div class="item">
+			<a href="/topics/stock.html" title="Stock Photography" class="">Stock</a>
+		</div>
+		<div class="item">
+			<a href="http://www.youtube.com/accomputergraphics" title="AC Computer Graphics Video Tutorials" target="_blank">YouTube</a>
+		</div>
+		<div class="item">
+			<a href="https://brightspace.algonquincollege.com/d2l/home" title="Brightspace, Your Learning Management System" target="_blank">Brightspace</a>
+		</div>
+	</div>
+</nav>
+<div class="block">
+	<div class="items">
+		<div class="item"><a href="https://www.algonquincollege.com/counselling/home/" alt:="Algonquin College Counselling Services" target="_blank">Counselling Services</a></div>
+		<div class="item"><a href="https://www.algonquincollege.com/cal" alt:="Centre for Accessible Learning" target="_blank">Centre for Accessible Learning</a></div>
+		<div class="item"><a href="https://www.algonquincollege.com/ccr/" alt:="Algonquin College Co-Curricular Activities" target="_blank">Co-Curriculars</a></div>
+	</div>	
+	<div class="items">
+		<div class="item"><a href="/topics/feedback.html" title="Anonymous Student Feedback.">Anonymous Course Feedback</a></div>
+		<div class="item"><a href="/topics/assessment.html" title="Assessment">Assessment</a></div>
+		<div class="item"><a href="/topics/hardware.html" title="These are the hardware requirements for the Graphic Design Program at Algonquin College.">Hardware Requirements</a></div>
+	</div>
+	<div class="items">
+		<div class="item"><a href="https://algonquindesign.ca" title="The Algonquin Design Program Page">AlgonquinDesign.ca</a></div>
+		<div class="item"><a href="https://www.behance.net/algonquindesign" title="The Algonquin Design Program Behance Page">Algonquin Design Behance</a></div>
+		<div class="item"><a href="/topics/pantone-books.html" title="Submitting assignments on Brightspace.">Purchase Pantone Books</a></div>
+	</div>
+	<div class="items">
+		<div class="item"><a href="/topics/rgd.html" title="DesignThinkers Conference">DesignThinkers</a></div>
+		<div class="item"><a href="https://algonquindesign.ca/fieldwork/" title="Info on Fieldwork">Fieldwork</a></div>
+		<div class="item"><a href="/topics/calendars.html" title="Course Calendars">Calendars</a></div>
+	</div>
+</div>
+<div class="block">
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+		<span itemprop="name" class="fw600 item">Alain Paradis</span>
+		<span itemprop="jobTitle" class="item">Coordinator & Professor</span>
+		<span class="item">Office: N200A</span>
+		<span itemprop="email" class="item"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#97;&#114;&#97;&#100;&#105;&#97;&#64;&#97;&#108;&#103;&#111;&#110;&#113;&#117;&#105;&#110;&#99;&#111;&#108;&#108;&#101;&#103;&#101;&#46;&#99;&#111;&#109;">E-Mail</a></span>
+		<span class="item"><a href="https://twitter.com/alainparadis" title="Al's Twitter account">Twitter</a></span>
+		<span itemprop="telephone" class="item"><a href="tel:+16136182138">+1-613-618-2138</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+			<span itemprop="name" class="item fw600">Greg Treadwell</span>
+			<span itemprop="jobTitle">Instructor</span>
+			<span class="item"><a href="mailto:treadwg@algonquincollege.com" title="Contact Greg via e-mail.">E-Mail</a></span>
+			<span class="item"><a href="https://twitter.com/gregtreadwell" title="Follow Greg on Twitter">Twitter</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+			<span itemprop="name" class="item fw600">Anish Parmar</span>
+			<span itemprop="jobTitle" class="item">Instructor</span>
+			<span class="item"><a href="mailto:anish.s.parmar@gmail.com" title="Contact Anish via e-mail.">E-Mail</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+	</div>
+</div>
+<div class="block school-address">
+	<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+	<span class="fw600">Algonquin College</span>
+	<span itemprop="streetAddress">N200-1385 Woodroffe Ave.</span>
+	<span itemprop="addressLocality">Ottawa,</span>
+	<span itemprop="addressRegion">ON,</span>
+	<span itemprop="addressCountry">Canada</span>
+	<span itemprop="postalCode">K2G 1V8</span>
+</div>
+</footer>
+</body>
+</html>

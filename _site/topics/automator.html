@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+	<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>
+	  
+		AC Computer Graphics : Automator
+	  
+	</title>
+	<meta name="generator" content="BBEdit 11.5" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="/css/main.css" rel="stylesheet">
+	<link href="/css/layout.css" rel="stylesheet">
+	<link href="/css/typography.css" rel="stylesheet">
+
+<!-- Social Tags -->
+
+<!-- for Google -->
+<meta name="description" content="Performing repetitive tasks on your computer can cause errors and be really tedious. Automator is an often ignored app which can perform the same work faster and without errors." />
+
+<meta name="author" content="Alain Paradis, Algonquin College" />
+<meta name="copyright" content="Alain Paradis, Algonquin College, 2017-2018" />
+
+<!-- for Facebook -->          
+<meta property="og:title" content="Automator" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="/images/general/algonquin-brand-panel.jpg" />
+<meta property="og:url" content="/topics/automator.html" />
+<meta property="og:description" content="Performing repetitive tasks on your computer can cause errors and be really tedious. Automator is an often ignored app which can perform the same work faster and without errors." />
+
+<!-- for Twitter -->          
+<meta name="twitter:site" content="@alainparadis" />
+<meta name="twitter:title" content="Automator" />
+<meta name="twitter:description" content="Performing repetitive tasks on your computer can cause errors and be really tedious. Automator is an often ignored app which can perform the same work faster and without errors." />
+<meta name="twitter:image" content="/images/general/algonquin-brand-panel.jpg" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End of Social Tags -->
+
+<!-- This is the Adobe Adobe Fonts script. -->
+
+<script src="https://use.typekit.net/lqr6ffc.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<!-- Start Google Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-87728502-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- End Google Analytics Tracking Code -->
+
+<!-- This are the Favicon links. -->
+	<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="/favicon/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/favicon/manifest.json">
+	<link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="theme-color" content="#ffffff">
+
+</head>
+<body>
+<header class="sans" role="banner">
+	<nav role="navigation">
+		<div class="left fw600">
+	<div class="item">
+		<a href="/" title="Home" class="">
+				Home 
+			</a>
+	</div>
+	<div class="item">
+		<a href="/cg1/index.html" title="Semester One" class="">
+			CG1 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg2/index.html" title="Semester Two" class="">
+			CG2 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg3/index.html" title="Semester Three" class="">
+			CG3 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg4/index.html" title="Semester Four" class="">
+			CG4 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg5/index.html" title="Semester Five" class="">
+			CG5 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg6/index.html" title="Semester Six" class="">
+			CG6 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/fpp/index.html" title="Fieldwork & Professional Practice" class="">
+			Fieldwork 
+		</a>
+	</div>
+</div>
+<div class="right fw300">
+	<div class="item">
+		<a href="/setup/index.html" title="Setup" class="">Set&nbsp;Up</a>
+	</div>
+	<div class="item">
+		<a href="/topics/stock.html" title="Stock Photography" class="">Stock</a>
+	</div>
+	<div class="item">
+		<a href="http://www.youtube.com/accomputergraphics" title="AC Computer Graphics Video Tutorials" target="_blank">YouTube</a>
+	</div>
+	<div class="item">
+		<a href="https://brightspace.algonquincollege.com/d2l/home" title="Brighspace, Your Learning Management System" target="_blank">Brightspace</a>
+	</div>
+</div>
+	</nav>
+	<div class="site-logo page-logo">
+			<a href="/" title="Home">
+		<img alt="Algonquin College Computer Graphics Logo" src="/images/svg/logo-ac-computer-graphics.svg">
+			</a>
+	</div>
+</header>
+<section class="page-title">
+	<div class="left"></div>
+	<div class="center">
+		<h1 class="fs20 fw300">Automator</h1>
+		<div class="description sans fs12 fw300">
+		Performing repetitive tasks on your computer can cause errors and be really tedious. Automator is an often ignored app which can perform the same work faster and without errors.
+		</div>
+	</div>
+	<div class="right">
+		
+		<div>
+		<span class="appsused sans uc f500 fs70">Apps Used:</span>
+		<span class="app-icon"><img src="/images/svg/icon-macos.svg" alt="Mac OS"></span>
+		
+		
+		
+		
+		
+		
+		
+		
+		</div>
+		
+	</div>
+</section>
+<section>
+	<aside>
+			<h3 class="uc fs10">Topics</h3>
+
+<nav>
+<ul>
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/vector-drawing.html" title="3.3: InDesign is surprisingly adept at illustration. There's often no need to jump into Illustrator to create vector art. It can be done right in your page layout in InDesign." class="item sans  ">Vector Drawing</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/appearance-and-graphic-styles.html" title="5.0: The Appearance Panel contains each element of a graphic, including strokes, fills, effects and more. It should be on your screen at all times. Use it for all your stylin'.
+" class="item sans  ">Appearance & Graphic Styles</a></li>
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/tables.html" title="5.1: The potential usefulness of Tables in InDesign is virtually limitless. We'll start with the basics, then progress to blow-your-mind tables that you can't even tell are tables. You'll see. It'll blow your mind." class="item sans  ">Tables</a></li>
+	
+
+	
+
+	
+		<li><a href="/topics/draw-with-new-tools.html" title="5.2: In the past few years, Adobe have created new drawing tools for Illustrator. These enhance basic vector drawing capabilities beyond the tools that have been in Illustrator since its inception in the 1980's." class="item sans  ">Draw with New Tools</a></li>
+	
+
+	
+		<li><a href="/topics/next-and-nested-styles.html" title="5.4: Next and Nested styles are two different things in InDesign. When thy are combined, they really offer powerful tools to style text with only a few clicks." class="item sans  ">Next & Nested Styles</a></li>
+	
+
+	
+		<li><a href="/topics/text-variables.html" title="5.5: Automatic page numbering, automatic story jumps, text variables; these are only some of the tools we'll use to create a publication in InDesign. They all allow us to have content that updates dynamically, which makes editing a breeze." class="item sans  ">Text Variables</a></li>
+	
+
+	
+
+	
+		<li><a href="/topics/structured-text.html" title="5.9: In this summative assignment, you'll use the provided files to build the layouts as directed." class="item sans summative ">Structured Text</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/sugar-skull.html" title="6.9: Use the Illustrator skills you've learned to date to draw a sugar skull." class="item sans summative ">Sugar Skull</a></li>
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/automator.html" title="9.0: Performing repetitive tasks on your computer can cause errors and be really tedious. Automator is an often ignored app which can perform the same work faster and without errors." class="item sans  limegreen">Automator</a></li>
+	
+
+</ul>
+</nav>
+		</aside>
+	<main role="main">
+			
+			<h3>Watch the Video Tutorial</h3>
+			<div id="embed-youtube-container">
+				<iframe src="https://www.youtube.com/embed/g7OAyK9FjQo?list=PL4qBMvigUSLBQ81-YCSdw7GqKhk4sEZxv" frameborder="0" allowfullscreen></iframe>
+			</div>
+			
+		 <div>
+			<h2 id="how-otto-works">How Otto Works</h2>
+
+<p>You don’t have an employee on which you can hand off tedious tasks like renaming hundreds of files or resizing a folder full of images. Well, actually now you do have one. Otto will save time and he won’t make any mistakes.</p>
+
+<p><img class="size50" alt="automator-meet-otto" src="/images/macos-automator/automator-meet-otto.jpg" /></p>
+
+<p>The Automator app creates documents. Each time you go <span class="command">File &gt; New</span>, it will create a new document, then ask you what type of automation you wish to create. This is what this looks like.</p>
+
+<p><img class="size100" alt="automator-new-document" src="/images/macos-automator/automator-new-document.jpg" /></p>
+
+<ol>
+  <li>Library: These are the areas that Automator can automate.</li>
+  <li>Actions: These are all the actions Automator can do.</li>
+  <li>Types: These are the different types of automations.</li>
+  <li>Workflow: This is where you stack actions so that they run sequentially.</li>
+  <li>Description: This is where Automator describes the action you’ve targeted.</li>
+  <li>Log or Variables: This area displays a log of your workflow after it has run. It’s also the variables area.</li>
+</ol>
+
+<p>To create a workflow, drag one or more actions into the workflow pane. The order in which you stack them counts because one action feeds the next. If your workflow doesn’t work, there will be an error message in the Log pane at the bottom of the window.</p>
+
+<h3 id="types-of-automations">Types of Automations</h3>
+
+<dl>
+  <dt>Workflows:</dt>
+  <dd>These are the simplest types of automation. Simply drag actions into the workflow pane, then click the <span class="command">Run</span> button.</dd>
+  <dt>Application:</dt>
+  <dd>This creates a macOS application from your workflow. You double-click on its icon like any other app and your workflow will run.</dd>
+  <dt>Service:</dt>
+  <dd>This makes your workflow accessible from a right-click menu in Finder.</dd>
+  <dt>Print Plugin:</dt>
+  <dd>Workflows created from here are accessible from within the Print dialogue.</dd>
+  <dt>Folder Action:</dt>
+  <dd>These workflows are attached to a folder so that it’s run when you add something to the folder.</dd>
+  <dt>Calendar Alarm:</dt>
+  <dd>These are scheduled workflows. Create the workflow, then schedule it in Apple’s Calendar app. So, they can be recurring.</dd>
+  <dt>Image Capture Plugin:</dt>
+  <dd>Workflows are applied to images from within the Image Capture application.</dd>
+  <dt>Dictation Command:</dt>
+  <dd>This makes your automation workflows triggerable with speech commands.</dd>
+</dl>
+
+<div class="attentionbox tip">
+If you discover that you've chosen the wrong type of automation, you can always change it after the fact by going <span class="command">File &gt; Convert To...</span>, then choose the type you want.
+</div>
+
+<h2 id="a-simple-workflow">A Simple Workflow</h2>
+
+<p>Let’s rename a large number of files using a simple workflow. Launch Automator, then choose to create a new workflow. Save it into the provided <span class="command">01-simple-workflow</span> folder named <em>Rename Finder Items.workflow</em>.</p>
+
+<p><img class="size15" alt="automator-workflow-icon" src="/images/macos-automator/automator-workflow-icon.jpg" /></p>
+
+<p>All you need to do is drag all the provided files into the workflow pane for Automator to act only on these files. It will add its own <span class="command">Get Specified Items</span> action.</p>
+
+<p><img class="size100" alt="automator-workflow-rename-finder-items" src="/images/macos-automator/automator-workflow-rename-finder-items.jpg" /></p>
+
+<p>Do a search for <em>rename</em>. Drag the <span class="command">Rename Finder Items</span> action into your workflow. Set it up as shown above. This means you’ll drag it in a few times. You can see that we’re going to make the file names lower case. We’ll replace all spaces and underscores with hyphens.</p>
+
+<p>So, this</p>
+
+<p>Text File 31.txt</p>
+
+<p>will become this</p>
+
+<p>text-file-31.txt.</p>
+
+<p>Do you see how this could be useful for web design? All your web site pages and images should be named without spaces and all lower case. Now you don’t need to do this manually anymore. Otto can act on many files at once for you.</p>
+
+<p>Save this workflow file into the <span class="command">01-simple-workflow</span> folder named <em>Rename Finder Items.workflow</em>.</p>
+
+<h2 id="a-finder-service">A Finder Service</h2>
+
+<p><img class="size15" alt="automator-finder-service-icon" src="/images/macos-automator/automator-finder-service-icon.jpg" /></p>
+
+<p>The above workflow is all well and good, but it’s quite a bit of work to create such a workflow each time you want to rename files and folders. To this end, we’ll create a <em>Finder Service</em>.</p>
+
+<p>Let’s create a Finder Service which we can envoke with a right-click in Finder. We’ll make it a workflow that we can have rename files and folders however we want.</p>
+
+<p><img class="size100" alt="automator-finder-service" src="/images/macos-automator/automator-finder-service.jpg" /></p>
+
+<p>Save this file as <span class="command">Rename Finder Items</span>. You don’t choose the location where it’s saved. All Finder Services are stored in <span class="command">Home Directory &gt; Library &gt; Services</span>. If you need to edit your service, you can find it there, then open to edit.</p>
+
+<p><img class="size100" alt="automator-finder-services-finder-menu" src="/images/macos-automator/automator-finder-services-finder-menu.jpg" /></p>
+
+<p>To envoke the action, simply right-click on files and/or folders in Finder. Go <span class="command">Services &gt; Rename Finder Items</span>. The beauty of this is that the action asks you how you want to rename the selected files. The action asks because you’ve checked <span class="command">Show this action when the workflow runs</span> when you created the service.</p>
+
+<h3 id="make-web-friendly-service">Make Web Friendly Service</h3>
+
+<p>Let’s make a <em>Make Web-Friendly</em> service so you can quickly renamed batches of files for your web dev projects. Create a new Automator document. Add these actions:</p>
+
+<ol>
+  <li>Rename Finder Items: Replace a Space character with a hyphen.</li>
+  <li>Rename Finder Items: Replace and Underscore character with a hyphen.</li>
+  <li>Rename Finder Items: Make the whole file name lower case.</li>
+</ol>
+
+<p>Save the Automator document as Make Web-Friendly. Now, when you need to rename a batch of files or folders, you can do it with a right-click.</p>
+
+<h2 id="a-folder-action">A Folder Action</h2>
+
+<p><img class="size15" alt="automator-folder-action-icon" src="/images/macos-automator/automator-folder-action-icon.jpg" /></p>
+
+<p>You can create an Automator workflow, then attach it to a specific folder. When you add files to the folder, the action does its thing.</p>
+
+<div class="attentionbox tip">
+Folder Actions are stored here: <span class="command">/Users/*username*/Library/Workflows/Applications/</span>
+</div>
+
+<p>Let’s create an workflow which will resize images. The workflow is meant for really large image files which you want to make smaller to post online or send via e-mail.</p>
+
+<p><img class="size100" alt="automator-folder-action-resize-images" src="/images/macos-automator/automator-folder-action-resize-images.jpg" /></p>
+
+<p><mark>Note that this workflow is destructive.</mark> It’s going to resize the originals of any images you put in the folder. Point the action to the provided 02-images-to-1500px folder. Copy the provided images into that folder, then watch the magic happen. All images copied into this folder will be resized to 1500 pixels wide. <em>-1550px</em> will be appended to the file names, then they get moved to the 03-processed-images folder.</p>
+
+<p>You can edit a Folder Action after the fact by right-clicking on the folder itself.</p>
+
+<p><img class="size75" alt="automator-edit-folder-action" src="/images/macos-automator/automator-edit-folder-action.jpg" /></p>
+
+<p>On the left is a list of folders on your computer which have actions attached to them. On the right is a list of all the folder actions you’ve created.</p>
+
+<h2 id="a-calendar-action">A Calendar Action</h2>
+
+<p><img class="size15" alt="automator-calendar-action-icon" src="/images/macos-automator/automator-calendar-action-icon.jpg" /></p>
+
+<p>You can create a workflow, then have it triggered by a calendar event. Let’s set up a backup schedule for a specific folder. This workflow will copy a folder from one place to another daily.</p>
+
+<div class="attentionbox tip">
+Calendar Actions are stored here: <span class="command">/Users/*username*/Library/Workflows/Applications/</span>
+</div>
+
+<p><img class="size100" alt="automator-calendar-action" src="/images/macos-automator/automator-calendar-action.jpg" /></p>
+
+<p>As you can see, the workflow copies the files from the original location to the folder called <span class="command">03-backup-destination</span>. Once you save the workflow, the Apple Calendar app launches. It allows you to enter the time and frequency of the backup action.</p>
+
+		 </div>
+			
+			<div>
+			
+				<h2 class="fw300 fs16">Formative Activity</h2>
+			
+			
+<p>Read through all the instructions for each workflow, then create it.</p>
+
+<h3 id="a-simple-workflow">A Simple Workflow</h3>
+
+<p>Create a simple workflow that will:</p>
+
+<ol>
+  <li>Get text content of your clipboard.</li>
+  <li>Use Text to Audio File to convert text to audio into our <span class="command">00-your-automator-files</span> folder with the voice of <em>Alex</em>.</li>
+  <li>Add an action that will have the file open in the QuickTime app.</li>
+</ol>
+
+<p>Save this workflow file into the <span class="command">00-your-automator-files</span> too. Name the workflow <em>Text-to-Audio.workflow</em>.</p>
+
+<p>Copy the text below, then use it in the action.</p>
+
+<blockquote>
+  <p>If I die of Vanity, promise me, promise me. That if they bury me some place I don’t want to be. That you’ll dig me up and transport me. Unceremoniously away from the swollen city breeze, garbage bag trees. Whispers of disease, and acts of enormity. And lower me slowly, sadly, and properly. Get Ry Cooder to sing my eulogy. At the hundredth meridian.</p>
+</blockquote>
+
+<p>Save the resulting audio file into your <span class="command">00-your-automator-files</span> folder named <em>Hip.aiff</em>.</p>
+
+<h3 id="a-finder-service">A Finder Service</h3>
+
+<p>Create a Finder Service which will combine PDF files you select in Finder. Use the provided PDF files – all 100 of them – to combine into one file. Name it <span class="command">Combined.pdf</span>. Put it in the <span class="command">00-your-automator-files</span> folder.</p>
+
+<p>Note that after you’ve added an action to combine the PDF files in Finder, you’ll need an action to open that file. Once it’s opened, save it manually into your <span class="command">00-your-automator-files</span> folder named <em>Combined.pdf</em>.</p>
+
+<p><img class="size33" alt="automator-finder-service-context-menu" src="/images/macos-automator/automator-finder-service-context-menu.jpg" /></p>
+
+<p>Take a screen shot of your context menu by using <span class="command">⌘-Shift-4</span>, then draw a marquee around the menu. The image will appear on your Desktop. Rename it <em>Combine PDFs.png</em>. Move it in the <span class="command">00-your-automator-files</span> folder too.</p>
+
+<h3 id="a-folder-action">A Folder Action</h3>
+
+<p>Create a folder action which will apply Quartz effect to your photos. Use the images you have in your <span class="command">02-images-to-1500px</span> folder. Apply a Quartz effect of your choice on a copy of these images. So…</p>
+
+<ol>
+  <li>Create a Folder Action workflow and give it the <span class="command">00-attach-quartz-workflow</span> folder to attach to.</li>
+  <li>Add the required actions to your workflow add the Quartz effect.</li>
+  <li>Add an action which will move the processed photos into the <span class="command">01-quartz-processed</span> folder.</li>
+  <li>Save the workflow as the name of the effect. So, <span class="command">make-images-sepia</span> or something like this.</li>
+  <li>In Finder (not in Automator), <mark>Copy</mark> the photos from the <span class="command">02-images-to-1500px</span> into the <span class="command">00-attach-quartz-workflow</span> folder.</li>
+</ol>
+
+<p>I’ll know you’ve completed the task because there will be images in the folder with an effect on them.</p>
+
+		 </div>
+			
+		</main>
+	<aside id="rightrail" class="sans">
+				
+			
+			<div class="formsum">
+			<h3 class="fs90 uc">Assessment</h3>
+				<p>
+					This is a <span class="fw600">formative</span> assignment. That means that you'll be learning and practicing new software skills. This assignment contributes to your final grade in the course. This work will be graded as either:
+				</p>
+				<div class="completeincomplete">
+					<span class="complete fw600">Complete</span>
+					<span class="incomplete fw600">Incomplete</span>
+				</div>
+				<p>
+				If needed, I will provide written feedback on your performance.
+				</p>
+			</div>
+			
+				
+				
+				
+			 <div id="submission">
+				<h3 class="uc">Submission Instructions</h3>
+				<div class="submission">
+				
+				
+				
+				
+				
+				
+				
+					<p>
+	Once you've completed your work, save and close your documents. Name <b>the exercise folder</b> Last name, First name, Group Nº, Automator so,
+</p>
+<div class="filename">
+		Appleseed-Johnny-#-Automator
+</div>
+<p>
+	Right-click <b>the exercise folder only</b>, then choose <span class="command">Compress...</span> to create a zip file for submission.
+</p>
+<p>
+	<span class="limegreen">Failure to submit your files as directed will incur a proportional loss of points. If your file/folder is not named with your name, you will earn a zero. <a href="assessment.html#filenames" title="Why is file naming important?">Why?</a></span>
+</p>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				</div>
+			 </div>
+				
+				
+							<div class="button">
+								<a href="https://brightspace.algonquincollege.com/d2l/home" target="_blank" title="Submit your files here." class="submit">Submit Your Files</a>
+							</div>
+				
+		 </aside>
+</section>
+		<footer class="sans" role="contentinfo">
+<div class="site-logo">
+	<a href="/"><img src="/images/svg/logo-ac-computer-graphics.svg" alt="AC Computer Graphics Home"></a>
+</div>
+<nav>
+	<div class="items">
+			<div class="item">
+				<a href="/" title="Home" class="fw600 ">
+						Home 
+					</a>
+			</div>
+		<div class="item">
+			<a href="/cg1/index.html" title="Semester One" class="fw600 ">
+				CG1 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg2/index.html" title="Semester Two" class="fw600 ">
+				CG2 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg3/index.html" title="Semester Three" class="fw600 ">
+				CG3 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg4/index.html" title="Semester Four" class="fw600 ">
+				CG4 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg5/index.html" title="Semester Five" class="fw600 ">
+				CG5 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg6/index.html" title="Semester Six" class="fw600 ">
+				CG6 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/fpp/index.html" title="Fieldwork & Professional Practice" class="fw600 ">
+				Fieldwork 
+			</a>
+		</div>
+	</div>
+	<div class="items fw300">
+		<div class="item">
+			<a href="/setup/index.html" title="Setup" class="">Set&nbsp;Up</a>
+		</div>
+		<div class="item">
+			<a href="/topics/stock.html" title="Stock Photography" class="">Stock</a>
+		</div>
+		<div class="item">
+			<a href="http://www.youtube.com/accomputergraphics" title="AC Computer Graphics Video Tutorials" target="_blank">YouTube</a>
+		</div>
+		<div class="item">
+			<a href="https://brightspace.algonquincollege.com/d2l/home" title="Brightspace, Your Learning Management System" target="_blank">Brightspace</a>
+		</div>
+	</div>
+</nav>
+<div class="block">
+	<div class="items">
+		<div class="item"><a href="https://www.algonquincollege.com/counselling/home/" alt:="Algonquin College Counselling Services" target="_blank">Counselling Services</a></div>
+		<div class="item"><a href="https://www.algonquincollege.com/cal" alt:="Centre for Accessible Learning" target="_blank">Centre for Accessible Learning</a></div>
+		<div class="item"><a href="https://www.algonquincollege.com/ccr/" alt:="Algonquin College Co-Curricular Activities" target="_blank">Co-Curriculars</a></div>
+	</div>	
+	<div class="items">
+		<div class="item"><a href="/topics/feedback.html" title="Anonymous Student Feedback.">Anonymous Course Feedback</a></div>
+		<div class="item"><a href="/topics/assessment.html" title="Assessment">Assessment</a></div>
+		<div class="item"><a href="/topics/hardware.html" title="These are the hardware requirements for the Graphic Design Program at Algonquin College.">Hardware Requirements</a></div>
+	</div>
+	<div class="items">
+		<div class="item"><a href="https://algonquindesign.ca" title="The Algonquin Design Program Page">AlgonquinDesign.ca</a></div>
+		<div class="item"><a href="https://www.behance.net/algonquindesign" title="The Algonquin Design Program Behance Page">Algonquin Design Behance</a></div>
+		<div class="item"><a href="/topics/pantone-books.html" title="Submitting assignments on Brightspace.">Purchase Pantone Books</a></div>
+	</div>
+	<div class="items">
+		<div class="item"><a href="/topics/rgd.html" title="DesignThinkers Conference">DesignThinkers</a></div>
+		<div class="item"><a href="https://algonquindesign.ca/fieldwork/" title="Info on Fieldwork">Fieldwork</a></div>
+		<div class="item"><a href="/topics/calendars.html" title="Course Calendars">Calendars</a></div>
+	</div>
+</div>
+<div class="block">
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+		<span itemprop="name" class="fw600 item">Alain Paradis</span>
+		<span itemprop="jobTitle" class="item">Coordinator & Professor</span>
+		<span class="item">Office: N200A</span>
+		<span itemprop="email" class="item"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#97;&#114;&#97;&#100;&#105;&#97;&#64;&#97;&#108;&#103;&#111;&#110;&#113;&#117;&#105;&#110;&#99;&#111;&#108;&#108;&#101;&#103;&#101;&#46;&#99;&#111;&#109;">E-Mail</a></span>
+		<span class="item"><a href="https://twitter.com/alainparadis" title="Al's Twitter account">Twitter</a></span>
+		<span itemprop="telephone" class="item"><a href="tel:+16136182138">+1-613-618-2138</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+			<span itemprop="name" class="item fw600">Greg Treadwell</span>
+			<span itemprop="jobTitle">Instructor</span>
+			<span class="item"><a href="mailto:treadwg@algonquincollege.com" title="Contact Greg via e-mail.">E-Mail</a></span>
+			<span class="item"><a href="https://twitter.com/gregtreadwell" title="Follow Greg on Twitter">Twitter</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+			<span itemprop="name" class="item fw600">Anish Parmar</span>
+			<span itemprop="jobTitle" class="item">Instructor</span>
+			<span class="item"><a href="mailto:anish.s.parmar@gmail.com" title="Contact Anish via e-mail.">E-Mail</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+	</div>
+</div>
+<div class="block school-address">
+	<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+	<span class="fw600">Algonquin College</span>
+	<span itemprop="streetAddress">N200-1385 Woodroffe Ave.</span>
+	<span itemprop="addressLocality">Ottawa,</span>
+	<span itemprop="addressRegion">ON,</span>
+	<span itemprop="addressCountry">Canada</span>
+	<span itemprop="postalCode">K2G 1V8</span>
+</div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "name": "cg",
+  "private": true,
+  "scripts": {
+    "build-site": "jekyll build",
+    "build": "npm run build-site",
+    "deploy:site": "rsync -rtvz --delete ./_site/ alainparadis@rsync.keycdn.com:cg/",
+    "deploy": "npm run deploy:site",
+    "build-n-deploy": "npm run build && npm run deploy"
+  }
+}

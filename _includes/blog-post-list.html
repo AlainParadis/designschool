@@ -1,0 +1,16 @@
+<section class="wrapper">
+	<article class="blog">
+		<h2>
+			Blog Post List
+		</h2>
+		<ul class="post-list">
+			{% for post in site.categories['CG1'] %}			
+			<li><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}&nbsp;&nbsp;||&nbsp;&nbsp;Categories: {{ post.category }}</span> 
+			<h2>
+				<a class="post-link" href="{{ post.url }}">{{ post.title }}</a> 
+			</h2>
+			</li>
+			{% endfor %}
+		</ul>
+	</article>
+</section>

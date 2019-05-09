@@ -1,0 +1,260 @@
+/*
+Dark Green: #00673E;
+Lime Green: #94C947;
+Orange: #D94F2C;
+*/
+
+html
+{
+	font-size: 16px;
+	line-height: 1.4;
+	font-family: "proxima-nova", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	color: #4C4C4C;
+}
+
+body a { color: #4C4C4C; }
+a:focus { outline: 2px solid #000; }
+
+body a:hover
+{
+	color: #666;
+	text-decoration: none;
+}
+
+::selection
+{
+	background: #FFE200;
+	/* WebKit/Blink Browsers */
+	color: #00673E;
+}
+
+::-moz-selection
+{
+	background: #FFE200;
+	/* Gecko Browsers */
+	color: #00673E;
+}
+
+.darkgreen, a.darkgreen { #00673E: ; }
+.limegreen, a.limegreen { #94C947: ; }
+.red { color: #FB0207; }
+.nounderline { text-decoration: none; }
+
+/*Font Size*/
+.fs50 { font-size: 0.5rem; }
+.fs70 { font-size: 0.7rem; }
+.fs80 { font-size: 0.8rem; }
+.fs90 { font-size: 0.9rem; }
+.fs10 { font-size: 1.0rem; }
+.fs11 { font-size: 1.1rem; }
+.fs12 { font-size: 1.2rem; }
+.fs15 { font-size: 1.5rem; }
+.fs16 { font-size: 1.6rem; }
+.fs20 { font-size: 2.0rem; }
+.fs25 { font-size: 2.5rem; }
+.fs30 { font-size: 3.0rem; }
+
+/*Font Weight# */
+.fw100 { font-weight: 100; }
+.fw300 { font-weight: 300; }
+.fw400 { font-weight: 400; }
+.fw500 { font-weight: 500; }
+.fw600 { font-weight: 600; }
+.fw700 { font-weight: 700; }
+
+h1, h2, h3, h4, h5, h6
+{
+	font-family: "proxima-nova",sans-serif;
+	font-weight: 600;
+	color: #00673E;
+	margin-top: 0;
+	margin-bottom: 0rem;
+}
+
+h1
+{
+	font-size: 1.625rem;
+	font-weight: 700;
+}
+
+h2
+{
+	font-size: 1.250rem;
+	font-weight: 600;
+}
+
+h3
+{
+	font-size: 1.000rem;
+	font-weight: 600;
+	color: #94C947;
+}
+
+h4
+{
+	font-size: 0.900rem;
+	font-weight: 500;
+	color: #94C947;
+}
+
+h5 { font-size: 0.900rem; }
+h6 { font-size: 0.900rem; }
+b, bold { font-weight: 700; }
+em { font-style: italic; }
+.textcenter, a.textcenter { text-align: center !important; }
+.sans { font-family: "proxima-nova", sans-serif; }
+.small { font-size: .8rem; }
+.limegreen { color: #94C947; }
+.darkgreen { color: #00673E; }
+.orange { color: #D94F2C; }
+.white { color: #ffffff; }
+a.decoration-none { text-decoration: none; }
+.uc { text-transform: uppercase; }
+ol, ul, dl { font-family: "proxima-nova", sans-serif; }
+
+dt
+{
+	font-weight: 600;
+	font-size: .9rem;
+}
+
+cite
+{
+	font-style: normal;
+	font-size: 0.80rem;
+	font-family: "proxima-nova",sans-serif;
+	font-weight: 400;
+}
+
+.current
+{
+	border: solid 1px #94C947;
+	text-decoration: none;
+}
+
+.command
+{
+	background: #ededed;
+	font-family: "proxima-nova", sans-serif;
+	font-size: .80rem;
+	font-weight: 400;
+	padding: .2em;
+	border-radius: 4px;
+	border: 1px solid #dfdfdf;
+}
+
+mark
+{
+	font-family: "proxima-nova", sans-serif;
+	color: #000;
+	background-color: rgba(208, 218, 192, 1);
+	opacity: 1;
+	border-radius: 4px;
+	padding-left: 0.20rem;
+	padding-right: 0.20rem;
+}
+
+.attentionbox { font-family: "proxima-nova", sans-serif; }
+.summative { font-weight: 600; }
+.summative a { padding-left: 0em; }
+
+.panel h3
+{
+	font-size: 1.5rem;
+	font-weight: 700;
+	margin: .25em 0em .25em .75em;
+}
+
+article h3 { text-transform: uppercase; }
+.panel h3 a { text-decoration: none; }
+
+blockquote
+{
+	quotes: "\201C""\201D""\2018""\2019";
+	margin: 2rem 0 2rem 0;
+	font-style: italic;
+	font-size: 1.5rem;
+	font-weight: 100;
+}
+
+blockquote::before
+{
+	font-family: "proxima-nova", sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	color: #ccc;
+	content: "“";
+	font-size: 6rem;
+	line-height: 0em;
+	margin-right: 0em;
+	margin-left: -2.5rem;
+	vertical-align: -0.4em;
+}
+
+.form { font-family: "proxima-nova", sans-serif; }
+.form .item { margin-bottom: 3rem; }
+label { margin-right: 1rem; }
+
+select
+{
+	padding: 5px;
+	font-size: 16px;
+	font-family: "proxima-nova", sans-serif;
+	line-height: 1;
+	border: solid 1px #94C947;
+	border-radius: 0;
+	-webkit-appearance: none;
+	width: 240px;
+	height: 34px;
+	overflow: hidden;
+	background: url(/images/general/select-arrow.png) no-repeat right #fff;
+}
+
+blockquote p { display: inline; }
+aside a { color: #00673E; }
+
+aside a:hover
+{
+	text-decoration: none;
+	color: #94C947;
+}
+
+footer a { font-weight: 400; }
+footer a:hover { text-decoration: underline; }
+footer .block a:hover { text-decoration: none; }
+
+/* 25rem = 400px */
+
+@media only screen and (min-width: 25em)
+{
+	html { font-size: 100%; }
+}
+
+/* 38rem = 608px */
+
+@media only screen and (min-width: 38em)
+{
+	html { font-size: 110%; }
+	header .item { font-size: 0.8rem; }
+	aside#rightrail { font-size: 0.8rem; }
+}
+
+/* 60rem = 960px */
+
+@media only screen and (min-width: 60em)
+{
+	html
+	{
+		font-size: 120%;
+		line-height: 1.5;
+	}
+}
+
+/* 90rem = 1440px */
+
+@media only screen and (min-width: 90em)
+{
+	html { font-size: 130%; }
+}

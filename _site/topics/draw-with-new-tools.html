@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+	<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>
+	  
+		AC Computer Graphics : Draw with New Tools
+	  
+	</title>
+	<meta name="generator" content="BBEdit 11.5" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="/css/main.css" rel="stylesheet">
+	<link href="/css/layout.css" rel="stylesheet">
+	<link href="/css/typography.css" rel="stylesheet">
+
+<!-- Social Tags -->
+
+<!-- for Google -->
+<meta name="description" content="In the past few years, Adobe have created new drawing tools for Illustrator. These enhance basic vector drawing capabilities beyond the tools that have been in Illustrator since its inception in the 1980's." />
+
+<meta name="author" content="Alain Paradis, Algonquin College" />
+<meta name="copyright" content="Alain Paradis, Algonquin College, 2017-2018" />
+
+<!-- for Facebook -->          
+<meta property="og:title" content="Draw with New Tools" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="/images/general/algonquin-brand-panel.jpg" />
+<meta property="og:url" content="/topics/draw-with-new-tools.html" />
+<meta property="og:description" content="In the past few years, Adobe have created new drawing tools for Illustrator. These enhance basic vector drawing capabilities beyond the tools that have been in Illustrator since its inception in the 1980's." />
+
+<!-- for Twitter -->          
+<meta name="twitter:site" content="@alainparadis" />
+<meta name="twitter:title" content="Draw with New Tools" />
+<meta name="twitter:description" content="In the past few years, Adobe have created new drawing tools for Illustrator. These enhance basic vector drawing capabilities beyond the tools that have been in Illustrator since its inception in the 1980's." />
+<meta name="twitter:image" content="/images/general/algonquin-brand-panel.jpg" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End of Social Tags -->
+
+<!-- This is the Adobe Adobe Fonts script. -->
+
+<script src="https://use.typekit.net/lqr6ffc.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<!-- Start Google Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-87728502-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- End Google Analytics Tracking Code -->
+
+<!-- This are the Favicon links. -->
+	<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="/favicon/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/favicon/manifest.json">
+	<link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="theme-color" content="#ffffff">
+
+</head>
+<body>
+<header class="sans" role="banner">
+	<nav role="navigation">
+		<div class="left fw600">
+	<div class="item">
+		<a href="/" title="Home" class="">
+				Home 
+			</a>
+	</div>
+	<div class="item">
+		<a href="/cg1/index.html" title="Semester One" class="">
+			CG1 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg2/index.html" title="Semester Two" class="">
+			CG2 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg3/index.html" title="Semester Three" class="">
+			CG3 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg4/index.html" title="Semester Four" class="">
+			CG4 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg5/index.html" title="Semester Five" class="">
+			CG5 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg6/index.html" title="Semester Six" class="">
+			CG6 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/fpp/index.html" title="Fieldwork & Professional Practice" class="">
+			Fieldwork 
+		</a>
+	</div>
+</div>
+<div class="right fw300">
+	<div class="item">
+		<a href="/setup/index.html" title="Setup" class="">Set&nbsp;Up</a>
+	</div>
+	<div class="item">
+		<a href="/topics/stock.html" title="Stock Photography" class="">Stock</a>
+	</div>
+	<div class="item">
+		<a href="http://www.youtube.com/accomputergraphics" title="AC Computer Graphics Video Tutorials" target="_blank">YouTube</a>
+	</div>
+	<div class="item">
+		<a href="https://brightspace.algonquincollege.com/d2l/home" title="Brighspace, Your Learning Management System" target="_blank">Brightspace</a>
+	</div>
+</div>
+	</nav>
+	<div class="site-logo page-logo">
+			<a href="/" title="Home">
+		<img alt="Algonquin College Computer Graphics Logo" src="/images/svg/logo-ac-computer-graphics.svg">
+			</a>
+	</div>
+</header>
+<section class="page-title">
+	<div class="left"></div>
+	<div class="center">
+		<h1 class="fs20 fw300">Draw with New Tools</h1>
+		<div class="description sans fs12 fw300">
+		In the past few years, Adobe have created new drawing tools for Illustrator. These enhance basic vector drawing capabilities beyond the tools that have been in Illustrator since its inception in the 1980's.
+		</div>
+	</div>
+	<div class="right">
+		
+		<div>
+		<span class="appsused sans uc f500 fs70">Apps Used:</span>
+		
+		
+		
+		<span class="app-icon"><img src="/images/svg/icon-ai.svg" alt="Adobe Illustrator"></span>
+		
+		
+		
+		
+		
+		</div>
+		
+	</div>
+</section>
+<section>
+	<aside>
+			<h3 class="uc fs10">Topics</h3>
+
+<nav>
+<ul>
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/vector-drawing.html" title="3.3: InDesign is surprisingly adept at illustration. There's often no need to jump into Illustrator to create vector art. It can be done right in your page layout in InDesign." class="item sans  ">Vector Drawing</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/appearance-and-graphic-styles.html" title="5.0: The Appearance Panel contains each element of a graphic, including strokes, fills, effects and more. It should be on your screen at all times. Use it for all your stylin'.
+" class="item sans  ">Appearance & Graphic Styles</a></li>
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/tables.html" title="5.1: The potential usefulness of Tables in InDesign is virtually limitless. We'll start with the basics, then progress to blow-your-mind tables that you can't even tell are tables. You'll see. It'll blow your mind." class="item sans  ">Tables</a></li>
+	
+
+	
+
+	
+		<li><a href="/topics/draw-with-new-tools.html" title="5.2: In the past few years, Adobe have created new drawing tools for Illustrator. These enhance basic vector drawing capabilities beyond the tools that have been in Illustrator since its inception in the 1980's." class="item sans  limegreen">Draw with New Tools</a></li>
+	
+
+	
+		<li><a href="/topics/next-and-nested-styles.html" title="5.4: Next and Nested styles are two different things in InDesign. When thy are combined, they really offer powerful tools to style text with only a few clicks." class="item sans  ">Next & Nested Styles</a></li>
+	
+
+	
+		<li><a href="/topics/text-variables.html" title="5.5: Automatic page numbering, automatic story jumps, text variables; these are only some of the tools we'll use to create a publication in InDesign. They all allow us to have content that updates dynamically, which makes editing a breeze." class="item sans  ">Text Variables</a></li>
+	
+
+	
+
+	
+		<li><a href="/topics/structured-text.html" title="5.9: In this summative assignment, you'll use the provided files to build the layouts as directed." class="item sans summative ">Structured Text</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/sugar-skull.html" title="6.9: Use the Illustrator skills you've learned to date to draw a sugar skull." class="item sans summative ">Sugar Skull</a></li>
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/automator.html" title="9.0: Performing repetitive tasks on your computer can cause errors and be really tedious. Automator is an often ignored app which can perform the same work faster and without errors." class="item sans  ">Automator</a></li>
+	
+
+</ul>
+</nav>
+		</aside>
+	<main role="main">
+			
+			<h3>Watch the Video Tutorial</h3>
+			<div id="embed-youtube-container">
+				<iframe src="https://www.youtube.com/embed/aqyZiVOtOYc" frameborder="0" allowfullscreen></iframe>
+			</div>
+			
+		 <div>
+			<h2 id="curvature-tool">Curvature Tool</h2>
+
+<p><img class="size15 left" alt="Illustrator Curvature Tool Icon" src="/images/illustrator-draw-new-tools/tool-icon-curvature-tool.svg" /></p>
+
+<p><a href="https://helpx.adobe.com/illustrator/using/curvature-tool.html" target="_blank" title="Adobe's Curvature Tool Support Page" class="sans small">Adobe’s Curvature Tool Support Page</a></p>
+
+<p>The keyboard shortcut for the Curvature tool is <span class="command">Shift-Tilde</span>.</p>
+
+<p>The Curvature Tool is nested under the Pen Tool. In fact, you could say it’s a new, improved version of the Pen Tool. It allows you to easily create smooth or corner points as well as convert them.</p>
+
+<p><img class="size75" alt="curvature-tool" src="/images/illustrator-draw-new-tools/curvature-tool.gif" /></p>
+
+<p>The Curvature Tool allows you to click from one point to another. The Rubber Band function shows you where the path will land before each click. Default paths have smooth points. To get corner points, either Option-click or double-click. The Escape key drops the path.</p>
+
+<h2 id="shape-builder-tool">Shape Builder Tool</h2>
+
+<p><img class="size15 left" alt="Illustrator Curvature Tool Icon" src="/images/illustrator-draw-new-tools/tool-icon-shape-builder-tool.svg" /></p>
+
+<p><a href="https://helpx.adobe.com/illustrator/using/building-new-shapes-using-shape.html#remove" target="_blank" title="Adobe's Curvature Tool Support Page" class="sans small">Adobe’s Shaper Tool Support Page</a></p>
+
+<p>The keyboard shortcut for the Shape Builder tool is <span class="command">Shift-M</span>.</p>
+
+<p>With the Shape Builder Tool, you can drag across shapes to either unite them or subtract them. Simply drag across multiple overlapping shapes to unite them. Option-drag to subtract them.</p>
+
+<p><img class="size75" alt="shape-builder-tool" src="/images/illustrator-draw-new-tools/shape-builder-tool.gif" /></p>
+
+<p>The Shape Builder tool has options. To access them, simply double-click on the tool. See <a href="https://helpx.adobe.com/illustrator/using/building-new-shapes-using-shape.html#about_the_shape_builder_tool" target="_blank" title="Adobe's support page for details">Adobe’s support page for details</a>.</p>
+
+<h2 id="shaper-tool">Shaper Tool</h2>
+
+<p><img class="size15 left" alt="Illustrator Shaper Tool Icon" src="/images/illustrator-draw-new-tools/tool-icon-shaper-tool.svg" /></p>
+
+<p><a href="https://helpx.adobe.com/illustrator/using/building-new-shapes-using-shape.html" target="_blank" title="Adobe's Curvature Tool Support Page" class="sans small">Adobe’s Shaper Tool Support Page</a></p>
+
+<p>The keyboard shortcut for the Shaper tool is <span class="command">Shift-N</span>.</p>
+
+<p>The Shaper tool allows you to draw simple geometric shapes by drawing with the mouse. You draw with the mouse. When you drop the mouse, the shape will become a clean vector shape. The tool was kind of made to be used on a tablet running a full version of Windows. You could draw with your finger.</p>
+
+<figure>
+    <img class="size75" alt="illustrator-shaper-tool" src="/images/illustrator-draw-new-tools/illustrator-shaper-tool.gif" />
+<figcaption>
+  Illustrator's Shaper Tool builds clean vector shapes as you use your mouse.
+</figcaption>
+</figure>
+<p>If you draw two overlapping shapes, you can erase intersecting parts by scribbling. When you scribble, the resulting shapes becomes a Shaper Group. The shapes are all still there. They just have no fill or strokes on parts of them.</p>
+
+<p>If you double-click on the group, you enter Isolation Mode. You can then move the individual shapes around.</p>
+
+<p>Once you’ve drawn multiple overlapping shapes, you can click on them with the Shaper Tool to enter Face Selection Mode. At this point, you can edit their colours.</p>
+
+<p>When you’re in Face Selection Mode, there’s an arrow icon on its edge. If you click it, you enter Construction Mode. You can then select any of the individual shapes to edit them.</p>
+
+<p>You can remove one of the shapes from the Shaper Group by dragging outside the rectangle.</p>
+
+<h2 id="blob-brush">Blob Brush</h2>
+
+<p><img class="size15 left" alt="Illustrator Blob Brush Tool Icon" src="/images/illustrator-draw-new-tools/tool-icon-blob-brush.svg" /></p>
+
+<p><a href="https://helpx.adobe.com/illustrator/atv/cs6-tutorials/using-the-blob-brush-and-eraser-tools.html" target="_blank" title="Adobe's Blob Brush Tool Support Page" class="sans small">Adobe’s Blob Brush Tool Support Page</a></p>
+
+<p>The keyboard shortcut for the Blob Brush is <span class="command">Shift-B</span>.</p>
+
+<p>With the Blob Brush draws fills whether you draw with a fill or a stroke. Shift-dragging constrains proportions. You can use the Eraser Tool to <em>carve</em> into the Blob Brush shape.</p>
+
+<div class="attentionbox tip">
+Keep your eyes on the screen. [&nbsp;&nbsp;and&nbsp;&nbsp;] &nbsp; make your brush smaller and larger, respectively.
+</div>
+
+<p>You can double-click on the Blob Brush tool for settings.</p>
+
+<p><img class="size50" alt="blob-brush-options" src="/images/illustrator-draw-new-tools/blob-brush-options.jpg" /></p>
+
+<p>If you deselect what you’ve drawn to date, then draw again, it starts a new shape.</p>
+
+<h2 id="pencil-tool">Pencil Tool</h2>
+
+<p><img class="size15 left" alt="Illustrator Pencil Tool Icon" src="/images/illustrator-draw-new-tools/tool-icon-pencil-tool.svg" /></p>
+
+<p><a href="https://helpx.adobe.com/illustrator/using/enhanced-pencil-tool.html" target="_blank" title="Adobe's Pencil Tool Support Page" class="sans small">Adobe’s Pencil Tool Support Page</a></p>
+
+<p>The keyboard shortcut for the Pencil tool is <span class="command">N</span>.</p>
+
+<p>The Pencil Tool was really not useful before it was re-engineered a few years ago. You can draw quite well, even when drawing with your mouse.</p>
+
+<p>There are useful settings for the Pencil Tool. Simply double-click on the tool to access them.</p>
+
+<p><img class="size50" alt="pencil-tool-options" src="/images/illustrator-draw-new-tools/pencil-tool-options.jpg" /></p>
+
+<p>Fidelity refers to how closely the resulting path resembles what you actually drew. It’s really useful whether you’re drawing with a mouse or a pen tablet.</p>
+
+<p>Keep selected makes it that the path you just drew stays selected. When you combine this function with Edit selected paths, it allows you to add to existing paths as you draw.</p>
+
+<p>After having drawn a path, if you brush along it, it will re-shape itself. You can massage lines into place by repeatedly brushing them. …really helpful.</p>
+
+<h3 id="the-pencil-tool-gallery">The Pencil Tool Gallery</h3>
+
+<p><img class="size33" alt="illustrator-pencil-tool-gallery" src="/images/illustrator-draw-new-tools/illustrator-pencil-tool-gallery.jpg" /></p>
+
+<ol>
+  <li>Shaper Tool, 2. Pencil Tool, 3. Smooth Tool, 4. Path Eraser Tool, 5. Join Tool</li>
+</ol>
+
+<h3 id="pencil-tool-options">Pencil Tool Options</h3>
+
+<p>Before you draw with the Pencil Tool and a mouse, it’s a good idea to double-click on the tool to access its options.</p>
+
+<p><img class="size33" alt="illustrator-pencil-tool-options" src="/images/illustrator-draw-new-tools/illustrator-pencil-tool-options.jpg" /></p>
+
+<p>We’ll want to increase its smoothness because drawing with a mouse usually creates pretty bumpy results. Test the results of using a smoother setting. Is it too inaccurate for you? If so, dial it down. Find the settings that feel right for your drawing style.</p>
+
+<p>Shift-dragging with the Pencil Tool constrains paths to 45º angles. If you hold the Option after you’ve clicked with Pencil Tool, it will create straight paths as you drag without constraining to a specific angle.</p>
+
+<h2 id="variable-width-paths">Variable-Width Paths</h2>
+
+<p>Applying variable-width paths to your artwork gives it a more fluid appearance. The tool is very adept at tapering the width of the stroke. The controls are very precise and easy to use.</p>
+
+<p><img class="size75" alt="illustrator-variable-width-example" src="/images/illustrator-draw-new-tools/illustrator-variable-width-example.jpg" /></p>
+
+<p>Draw a path with any tool in Illustrator. Use the Width Tool – <span class="command">Shift-W</span>. Hover your cursor over the path. A diamond shape will appear called a <span class="command">Width Point</span> along the path. Your cursor will have a + on it. Furthermore, if you have Smart Guides turned on – <span class="command">⌘-U</span> – you’ll see a label next to your cursor with the weights of the stroke. It even displays the weight on either side of the path.</p>
+
+<p>Now click and drag up or down. The width of the stroke will grow where you’re dragging.</p>
+
+<p>A Width Point is not an anchor point. It doesn’t affect the structure of the path. It only affects what the path looks like. To proove this, type <span class="command">⌘-Y</span> to switch to Outline Mode. You’ll see that your variable-width stroke still has the original, straight path.</p>
+
+<div class="attentionbox tip">
+You don't even need to select the path for the Width Tool to act on it. Just hover, then click-drag.
+</div>
+
+<p>When you apply a variable width, the weight displayed in the Stroke panel is the widest part of the path.</p>
+
+<h2 id="editing-variable-widths">Editing Variable Widths</h2>
+
+<p>If you double-click on an existing Width Point, a dialogue will appear with weight options.</p>
+
+<p><img class="size75" alt="illustrator-variable-weight-dialogue" src="/images/illustrator-draw-new-tools/illustrator-variable-weight-dialogue.jpg" /></p>
+
+<p>If you want to make a variable-width stroke bigger on one side of the path than the other, you can option-drag on the width point. Only that side of the path will be affected. You can drag the width point along the path. It re-adjusts the tapering automatically. You can adjust them proportionally by holding the Shift key.</p>
+
+<div class="attentionbox tip">
+Since variable-width strokes are so fluid, it looks better to have a round cap on your paths.
+</div>
+
+<p>To delete a width point, you can double-click on it, then hit the <span class="command">Delete</span> button in the dialogue. A second option is to click on a width point with the Width Tool, then simply hit the <span class="command">Delete</span> key.</p>
+
+<p>Drawing with variable-width strokes is a bit different than usual drawing in Illustrator. Usually, we have a tendency to close our paths. That is, we draw back to the original anchor point. When using variable-width strokes, this can sometimes look wrong. It’s sometimes better to draw separate, open paths.</p>
+
+<p>If you have multiple strokes you wish affect at once, you can style one. Switch to your Eye Dropper Tool. Hold the ⌘ key to temporarily switch to the Selection Tool. Click on another path. Let go of the ⌘ key, then click on the styled path to eye dropper it.</p>
+
+<h2 id="width-profiles">Width Profiles</h2>
+
+<p>Illustrator has a libary of profiles. You can access it from the Control bar. You can also access them from the Stroke panel.</p>
+
+<p><img class="size75" alt="illustrator-variable-width-profiles" src="/images/illustrator-draw-new-tools/illustrator-variable-width-profiles.jpg" /></p>
+<ol>
+  <li>Add to Profiles, 2. Delete Profile, 3. Reset Profiles</li>
+</ol>
+
+<p>Unlike other panels in Illustrator, which are document-specific, the Variable-Width Profiles panel is a Library. So it applies to all documents. If you create a profile in one Illustrator document, that profile will be available in all of your Illustrator documents.</p>
+
+<p>Likewise, if you reset the profiles, it will delete all custom profiles. They’ll be gone forerever, with one exception. The only way to get them back would be if you have a stroke with that profile on it. You could re-add it to the menu.</p>
+
+<p>If you apply a Variable-Width Profile to a path, then save those attributes as a Graphic Style, the variable-width attributes will get stored in that style. This helps during client revisions. If an edit to a variable path width is needed, all you need to do is edit the Graphic Style. All your artwork with that style will change.</p>
+
+		 </div>
+			
+			<div>
+			
+				<h2 class="fw300 fs16">Formative Activity</h2>
+			
+			<p>Your job is to <a href="http://bit.ly/2qLudWs" target="_blank" title="download superhero line art from here">download superhero line art from here</a>. Place the raster drawing in Illustrator using <span class="command">File &gt; Place…</span>. Make sure the Linked checkbox is checked in the Place dialogue as you import it.</p>
+
+<p>Size and position the artwork on a letter landscape or portrait page. Lock its layer.</p>
+
+<p><img class="size100" alt="layers-panel-exercise" src="/images/illustrator-draw-new-tools/layers-panel-exercise.jpg" /></p>
+
+<p>Create a new layer named My Artwork. There should be <strong>no</strong> type in this document. Use the drawing tools on this page to replicate your character with strokes only.</p>
+
+		 </div>
+			
+		</main>
+	<aside id="rightrail" class="sans">
+				
+			
+			<div class="formsum">
+			<h3 class="fs90 uc">Assessment</h3>
+				<p>
+					This is a <span class="fw600">formative</span> assignment. That means that you'll be learning and practicing new software skills. This assignment contributes to your final grade in the course. This work will be graded as either:
+				</p>
+				<div class="completeincomplete">
+					<span class="complete fw600">Complete</span>
+					<span class="incomplete fw600">Incomplete</span>
+				</div>
+				<p>
+				If needed, I will provide written feedback on your performance.
+				</p>
+			</div>
+			
+				
+				
+				<h3 class="uc">Supplemental Links</h3>
+					
+							<ul>
+  <li><a href="https://helpx.adobe.com/illustrator/using/drawing-pen-curvature-or-pencil.html" target="_blank" title="Pen, Curvature &amp; Pen Tools">Pen, Curvature &amp; Pen Tools</a></li>
+  <li><a href="https://helpx.adobe.com/illustrator/using/building-new-shapes-using-shape.html" target="_blank" title="Shaper &amp; Shape Builder Tools">Shaper &amp; Shape Builder Tools</a></li>
+  <li><a href="https://helpx.adobe.com/illustrator/atv/cs6-tutorials/using-the-blob-brush-and-eraser-tools.html" target="_blank" title="Blob Brush &amp; Eraser Tools">Blob Brush &amp; Eraser Tools</a></li>
+  <li>Adobe: <a href="https://helpx.adobe.com/illustrator/how-to/new-pencil-tool-in-illustrator.html" target="_blank" title="All New Pencil Tool">All New Pencil Tool</a></li>
+  <li>Adobe: <a href="https://www.youtube.com/embed/n1CcJuTl70c?rel=0" target="_blank" title="Shaper Tool">Shaper Tool</a></li>
+</ul>
+
+					
+				
+				
+			 <div id="submission">
+				<h3 class="uc">Submission Instructions</h3>
+				<div class="submission">
+				
+				
+				
+				
+				
+				
+				
+					<p>
+	Once you've completed your work, save and close your documents. Name <b>the exercise folder</b> Last name, First name, Group Nº, Draw with New Tools so,
+</p>
+<div class="filename">
+		Appleseed-Johnny-#-Draw with New Tools
+</div>
+<p>
+	Right-click <b>the exercise folder only</b>, then choose <span class="command">Compress...</span> to create a zip file for submission.
+</p>
+<p>
+	<span class="limegreen">Failure to submit your files as directed will incur a proportional loss of points. If your file/folder is not named with your name, you will earn a zero. <a href="assessment.html#filenames" title="Why is file naming important?">Why?</a></span>
+</p>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				</div>
+			 </div>
+				
+				
+							<div class="button">
+								<a href="https://brightspace.algonquincollege.com/d2l/home" target="_blank" title="Submit your files here." class="submit">Submit Your Files</a>
+							</div>
+				
+		 </aside>
+</section>
+		<footer class="sans" role="contentinfo">
+<div class="site-logo">
+	<a href="/"><img src="/images/svg/logo-ac-computer-graphics.svg" alt="AC Computer Graphics Home"></a>
+</div>
+<nav>
+	<div class="items">
+			<div class="item">
+				<a href="/" title="Home" class="fw600 ">
+						Home 
+					</a>
+			</div>
+		<div class="item">
+			<a href="/cg1/index.html" title="Semester One" class="fw600 ">
+				CG1 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg2/index.html" title="Semester Two" class="fw600 ">
+				CG2 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg3/index.html" title="Semester Three" class="fw600 ">
+				CG3 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg4/index.html" title="Semester Four" class="fw600 ">
+				CG4 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg5/index.html" title="Semester Five" class="fw600 ">
+				CG5 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg6/index.html" title="Semester Six" class="fw600 ">
+				CG6 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/fpp/index.html" title="Fieldwork & Professional Practice" class="fw600 ">
+				Fieldwork 
+			</a>
+		</div>
+	</div>
+	<div class="items fw300">
+		<div class="item">
+			<a href="/setup/index.html" title="Setup" class="">Set&nbsp;Up</a>
+		</div>
+		<div class="item">
+			<a href="/topics/stock.html" title="Stock Photography" class="">Stock</a>
+		</div>
+		<div class="item">
+			<a href="http://www.youtube.com/accomputergraphics" title="AC Computer Graphics Video Tutorials" target="_blank">YouTube</a>
+		</div>
+		<div class="item">
+			<a href="https://brightspace.algonquincollege.com/d2l/home" title="Brightspace, Your Learning Management System" target="_blank">Brightspace</a>
+		</div>
+	</div>
+</nav>
+<div class="block">
+	<div class="items">
+		<div class="item"><a href="https://www.algonquincollege.com/counselling/home/" alt:="Algonquin College Counselling Services" target="_blank">Counselling Services</a></div>
+		<div class="item"><a href="https://www.algonquincollege.com/cal" alt:="Centre for Accessible Learning" target="_blank">Centre for Accessible Learning</a></div>
+		<div class="item"><a href="https://www.algonquincollege.com/ccr/" alt:="Algonquin College Co-Curricular Activities" target="_blank">Co-Curriculars</a></div>
+	</div>	
+	<div class="items">
+		<div class="item"><a href="/topics/feedback.html" title="Anonymous Student Feedback.">Anonymous Course Feedback</a></div>
+		<div class="item"><a href="/topics/assessment.html" title="Assessment">Assessment</a></div>
+		<div class="item"><a href="/topics/hardware.html" title="These are the hardware requirements for the Graphic Design Program at Algonquin College.">Hardware Requirements</a></div>
+	</div>
+	<div class="items">
+		<div class="item"><a href="https://algonquindesign.ca" title="The Algonquin Design Program Page">AlgonquinDesign.ca</a></div>
+		<div class="item"><a href="https://www.behance.net/algonquindesign" title="The Algonquin Design Program Behance Page">Algonquin Design Behance</a></div>
+		<div class="item"><a href="/topics/pantone-books.html" title="Submitting assignments on Brightspace.">Purchase Pantone Books</a></div>
+	</div>
+	<div class="items">
+		<div class="item"><a href="/topics/rgd.html" title="DesignThinkers Conference">DesignThinkers</a></div>
+		<div class="item"><a href="https://algonquindesign.ca/fieldwork/" title="Info on Fieldwork">Fieldwork</a></div>
+		<div class="item"><a href="/topics/calendars.html" title="Course Calendars">Calendars</a></div>
+	</div>
+</div>
+<div class="block">
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+		<span itemprop="name" class="fw600 item">Alain Paradis</span>
+		<span itemprop="jobTitle" class="item">Coordinator & Professor</span>
+		<span class="item">Office: N200A</span>
+		<span itemprop="email" class="item"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#97;&#114;&#97;&#100;&#105;&#97;&#64;&#97;&#108;&#103;&#111;&#110;&#113;&#117;&#105;&#110;&#99;&#111;&#108;&#108;&#101;&#103;&#101;&#46;&#99;&#111;&#109;">E-Mail</a></span>
+		<span class="item"><a href="https://twitter.com/alainparadis" title="Al's Twitter account">Twitter</a></span>
+		<span itemprop="telephone" class="item"><a href="tel:+16136182138">+1-613-618-2138</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+			<span itemprop="name" class="item fw600">Greg Treadwell</span>
+			<span itemprop="jobTitle">Instructor</span>
+			<span class="item"><a href="mailto:treadwg@algonquincollege.com" title="Contact Greg via e-mail.">E-Mail</a></span>
+			<span class="item"><a href="https://twitter.com/gregtreadwell" title="Follow Greg on Twitter">Twitter</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+			<span itemprop="name" class="item fw600">Anish Parmar</span>
+			<span itemprop="jobTitle" class="item">Instructor</span>
+			<span class="item"><a href="mailto:anish.s.parmar@gmail.com" title="Contact Anish via e-mail.">E-Mail</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+	</div>
+</div>
+<div class="block school-address">
+	<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+	<span class="fw600">Algonquin College</span>
+	<span itemprop="streetAddress">N200-1385 Woodroffe Ave.</span>
+	<span itemprop="addressLocality">Ottawa,</span>
+	<span itemprop="addressRegion">ON,</span>
+	<span itemprop="addressCountry">Canada</span>
+	<span itemprop="postalCode">K2G 1V8</span>
+</div>
+</footer>
+</body>
+</html>

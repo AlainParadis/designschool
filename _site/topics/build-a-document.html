@@ -1,0 +1,1140 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+	<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>
+	  
+		AC Computer Graphics : Build a Document
+	  
+	</title>
+	<meta name="generator" content="BBEdit 11.5" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="/css/main.css" rel="stylesheet">
+	<link href="/css/layout.css" rel="stylesheet">
+	<link href="/css/typography.css" rel="stylesheet">
+
+<!-- Social Tags -->
+
+<!-- for Google -->
+<meta name="description" content="In this assignment, we'll look at the foundations of building an InDesign document from scratch. We'll set up the document to for maximum flexibility when doing revisions. This is really how every InDesign document you make should be built." />
+
+<meta name="author" content="Alain Paradis, Algonquin College" />
+<meta name="copyright" content="Alain Paradis, Algonquin College, 2017-2018" />
+
+<!-- for Facebook -->          
+<meta property="og:title" content="Build a Document" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="/images/general/algonquin-brand-panel.jpg" />
+<meta property="og:url" content="/topics/build-a-document.html" />
+<meta property="og:description" content="In this assignment, we'll look at the foundations of building an InDesign document from scratch. We'll set up the document to for maximum flexibility when doing revisions. This is really how every InDesign document you make should be built." />
+
+<!-- for Twitter -->          
+<meta name="twitter:site" content="@alainparadis" />
+<meta name="twitter:title" content="Build a Document" />
+<meta name="twitter:description" content="In this assignment, we'll look at the foundations of building an InDesign document from scratch. We'll set up the document to for maximum flexibility when doing revisions. This is really how every InDesign document you make should be built." />
+<meta name="twitter:image" content="/images/general/algonquin-brand-panel.jpg" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End of Social Tags -->
+
+<!-- This is the Adobe Adobe Fonts script. -->
+
+<script src="https://use.typekit.net/lqr6ffc.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<!-- Start Google Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-87728502-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- End Google Analytics Tracking Code -->
+
+<!-- This are the Favicon links. -->
+	<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="/favicon/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/favicon/manifest.json">
+	<link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="theme-color" content="#ffffff">
+
+</head>
+<body>
+<header class="sans" role="banner">
+	<nav role="navigation">
+		<div class="left fw600">
+	<div class="item">
+		<a href="/" title="Home" class="">
+				Home 
+			</a>
+	</div>
+	<div class="item">
+		<a href="/cg1/index.html" title="Semester One" class="">
+			CG1 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg2/index.html" title="Semester Two" class="current">
+			CG2 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg3/index.html" title="Semester Three" class="">
+			CG3 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg4/index.html" title="Semester Four" class="">
+			CG4 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg5/index.html" title="Semester Five" class="">
+			CG5 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg6/index.html" title="Semester Six" class="">
+			CG6 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/fpp/index.html" title="Fieldwork & Professional Practice" class="">
+			Fieldwork 
+		</a>
+	</div>
+</div>
+<div class="right fw300">
+	<div class="item">
+		<a href="/setup/index.html" title="Setup" class="">Set&nbsp;Up</a>
+	</div>
+	<div class="item">
+		<a href="/topics/stock.html" title="Stock Photography" class="">Stock</a>
+	</div>
+	<div class="item">
+		<a href="http://www.youtube.com/accomputergraphics" title="AC Computer Graphics Video Tutorials" target="_blank">YouTube</a>
+	</div>
+	<div class="item">
+		<a href="https://brightspace.algonquincollege.com/d2l/home" title="Brighspace, Your Learning Management System" target="_blank">Brightspace</a>
+	</div>
+</div>
+	</nav>
+	<div class="site-logo page-logo">
+			<a href="/" title="Home">
+		<img alt="Algonquin College Computer Graphics Logo" src="/images/svg/logo-ac-computer-graphics.svg">
+			</a>
+	</div>
+</header>
+<section class="page-title">
+	<div class="left"></div>
+	<div class="center">
+		<h1 class="fs20 fw300">Build a Document</h1>
+		<div class="description sans fs12 fw300">
+		In this assignment, we'll look at the foundations of building an InDesign document from scratch. We'll set up the document to for maximum flexibility when doing revisions. This is really how every InDesign document you make should be built.
+		</div>
+	</div>
+	<div class="right">
+		
+		<div>
+		<span class="appsused sans uc f500 fs70">Apps Used:</span>
+		
+		
+		<span class="app-icon"><img src="/images/svg/icon-indd.svg" alt="Adobe InDesign"></span>
+		
+		
+		
+		
+		
+		
+		</div>
+		
+	</div>
+</section>
+<section>
+	<aside>
+			<h3 class="uc fs10">Topics</h3>
+
+<nav>
+<ul>
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/setup-day1-cg2.html" title="0: As we start classes, it's important to get set up for the semester. Follow the instructions below." class="item sans  ">Semester Start</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/graph-design.html" title="1.0: Boring graphs can really put the kibosh on a great design. As a designer, one of the most difficult and rewarding jobs is to transform boring data into exciting, engaging visuals. The challenge is to present so many numbers in a compelling way." class="item sans  ">Graph Design</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/graph-layout.html" title="1.9: Boring graphs can really put the kibosh on a great design. As a designer, one of the most difficult and rewarding jobs is to transform boring data into exciting, engaging visuals. The challenge is to present so many numbers in a compelling way." class="item sans summative ">Graph Layout</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/image-trace.html" title="2.0: Adobe have designed a wonderful workflow for getting a sketch off paper into vectors in Illustrator. You can even create multiple colour versions in a matter of seconds. Let's give it a go." class="item sans  ">Image Trace</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/live-paint-recolour.html" title="2.1: Wouldn't it be really cool to have a tool which can produce multiple colour schemes in your work in a flash? Well Illustrator has this built in. It's called Recolour Artwork." class="item sans  ">Live Paint & Recolour</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/your-illustration.html" title="2.9: Your job is to draw your own image, scan it, then use Image Trace to vectorize it. Once it's vectors, use Live Paint and Edit Colours to create a total of three different colour variations." class="item sans summative ">Your Illustration</a></li>
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/build-a-document.html" title="3.0: In this assignment, we'll look at the foundations of building an InDesign document from scratch. We'll set up the document to for maximum flexibility when doing revisions. This is really how every InDesign document you make should be built." class="item sans  limegreen">Build a Document</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/build-a-magazine.html" title="3.9: As a follow up to our first document construction, you will build these magazine pages with the provided content, based on the provided model. " class="item sans summative ">Build a Magazine</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/selecting.html" title="4.0: Selecting pixels is central to editing in Photoshop. Leveraging the characteristics of the photo is critical to getting a good selection. From there after, you can target selected pixels for editing. All this is done in a non-destructive workflow." class="item sans  ">Selecting</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/blend-modes.html" title="4.2: Blend Modes are used like paints being mixed. You have your base colour which you blend to obtain your blended result." class="item sans  ">Blend Modes</a></li>
+	
+
+	
+
+	
+		<li><a href="/topics/masking-hair.html" title="4.3: Before you can correct, you must select. This is a time-tested saying amongst Photoshop pros. Learning to make accurate selections of complex and detailed objects in Photoshop is a life-long learning process. We'll continue that here." class="item sans  ">Masking Hair</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/compositing.html" title="4.9: In Photoshop, a composite is a collage of multiple photos and graphics with a theme. The focus of this assignment is to build one of these compositions in the most non-destructive, editable way possible." class="item sans summative ">Compositing</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/tabs-and-indents.html" title="5.0: The all-mighty tab character can do wonders in InDesign. We'll explore setting indented text and building grids with tabs and indents, too." class="item sans  ">Tabs & Indents</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/bullet-and-number-lists.html" title="5.2: Whether they are bulleted or numbered, InDesign is very adept at creating lists. There are very granular, flexible controls to create the lists that fit your design." class="item sans  ">Bullet & Number Lists</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+</ul>
+</nav>
+		</aside>
+	<main role="main">
+			
+			<h3>Watch the Video Tutorial</h3>
+			<div id="embed-youtube-container">
+				<iframe src="https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLAM7iNFT5e-fXbxQn2nt7X7" frameborder="0" allowfullscreen></iframe>
+			</div>
+			
+		 <div>
+			<h2 id="before-we-start">Before We Start…</h2>
+
+<p>Let’s change a few settings in InDesign before we start building our document. You need to do this with <em>no</em> document open.</p>
+
+<div class="attentionbox borderlimegreen1 center pad05 width50 textcenter marginbottom10">
+  <a href="setup-indesign.html" title="InDesign Setup" class="sans fw600 fs12 limegreen width50">InDesign Setup</a>
+</div>
+
+<p>Once you’re done these changes, quit and re-launch InDesign.</p>
+
+<h2 id="planning-your-layout">Planning Your Layout</h2>
+
+<p>Before starting to build the file for your publication, you need to plan the layout. I create my layout sketches on thumbnails printed from InDesign. Use tabloid-sized pages to sketch them out.</p>
+
+<figure>
+    <img class="size100 borderlimegreen1" alt="indesign-page-layout-thumbnails" src="/images/indesign-build-a-document/indesign-printed-grid-thumbnails.jpg" />
+<figcaption>
+  Use a pencil, a FineLiner and a Sharpie to create your layout sketches on thumbnails printed from InDesign.
+</figcaption>
+</figure>
+
+<p>There’s a tutorial in the playlist above on how to print your page layout grid on tabloid sheets. Draw out your sketches on these pages. The better the planning, the less time it will take you to build your plublication.</p>
+
+<div class="attentionbox tip">
+  Build your Master Pages based on these thumbnails. Remember! Design on paper, then build on the computer.
+</div>
+
+<h2 id="new-document-settings">New Document Settings</h2>
+
+<p>We want to pay attention when setting up our document in the New Document dialogue. But don’t be too nervous about it. If you need to, you can change settings after the fact.</p>
+
+<h3 id="anatomy-of-the-page-grid">Anatomy Of The Page Grid</h3>
+
+<p>The page grid is the framework that holds your layout together. It’s unseen when printed, but essential to consistent pages.</p>
+
+<figure>
+    <img class="size100" alt="indesign-facing-pages-grid" src="/images/indesign-build-a-document/indesign-facing-pages-grid.jpg" />
+<figcaption>
+  These are the parts of the page grid.
+</figcaption>
+</figure>
+
+<p>To start, keep your grids as simple as possible. The first goal is to keep line length and margins reasonable.</p>
+
+<figure>
+    <img class="size100" alt="indesign-page-grid-columns" src="/images/indesign-build-a-document/indesign-page-grid-columns.jpg" />
+<figcaption>
+  See how an eight-column grid is mostly used as a four-column grid.
+</figcaption>
+</figure>
+
+<p>For most part, you can ignore the eights. Use this as a four-column grid. The same goes for a six-column grid. Use it as a three-column page.</p>
+
+<h3 id="facing-pages">Facing pages?</h3>
+
+<p>Use facing pages if your document is a saddle-stitched publication. If it’s going to be printed as loose sheets, then you don’t need to use Facing Pages.</p>
+
+<figure>
+  <img class="size100 borderlimegreen1" alt="indesign-facing-pages" src="/images/indesign-build-a-document/indesign-facing-pages.jpg" />
+<figcaption>
+  Facing Pages in the New Document dialogue.
+</figcaption>
+</figure>
+
+<h3 id="primary-text-frame">Primary Text Frame</h3>
+
+<p>When you’re reading a mainstream magazine, there’s usually a lot going on in the pages. There are ads, side bars, titles, photos and more. There’s also the guts of the main story you’re reading. Well, those text frames are the Primary Text Frames. They make up the flow of the main story. They’re like a stream going through your document.</p>
+
+<figure>
+    <img class="size100" alt="indesign-primary-text-frame" src="/images/indesign-build-a-document/indesign-primary-text-frame.jpg" />
+<figcaption>
+  Primary Text frames are used for the main text of a story.
+</figcaption>
+</figure>
+
+<p>There can only be one primary text stream through a document. The beauty of Primary Text Frames is that when you apply a new Master with a Primary Frame, it adapts to the new layout with the text simply re-flowing through it.</p>
+
+<p>If you didn’t check the Primary Text Frame checkbox when you created the document, you can always go to your Master Pages to activate them there. All you need to do is click on the icon shown above to make the little arrow appear.</p>
+
+<h3 id="bleeds">Bleeds</h3>
+
+<p>The page bleed is the excess space you set to allow for inaccuracy when your commercial printer trims your pages. It’s usually ⅛″. In InDesign, it appears as a red line around the perimeter of your pages.</p>
+
+<figure>
+    <img class="size75" alt="indesign-bleeds" src="/images/indesign-build-a-document/indesign-bleeds.jpg" />
+<figcaption>
+  Add a bleed to your document from the New Document dialogue.
+</figcaption>
+</figure>
+
+<p>When you’re setting up your new document in InDesign, it’s a good idea to add a bleed. Even if you’re not sure that the document will bleed, there’s no harm in having it there. At least you won’t need to add it after the fact if you discover you need it.</p>
+
+<figure>
+  <img class="size50 borderlimegreen1" alt="indesign-toggle-lock-shortcut" src="/images/indesign-build-a-document/indesign-toggle-lock-shortcut.gif" />
+<figcaption>
+  Navigate the Margins &amp; Columns dialogue with the keyboard.
+</figcaption>
+</figure>
+
+<h2 id="master-pages">Master Pages</h2>
+
+<h3 id="set-up-a-horizontal-grid">Set Up a Horizontal Grid</h3>
+
+<p>Go to your A-Master, then use <span class="command">Layout &gt; Create Guides…</span> To create horizontal guides on your pages.</p>
+
+<figure>
+    <img class="size50" alt="indesign-create-guides" src="/images/indesign-build-a-document/indesign-create-guides.jpg" />
+<figcaption>
+  Create guides to structure your layout.
+</figcaption>
+</figure>
+
+<p>These guides will give you a structure for aligning objects.</p>
+
+<h3 id="master-text-frames">Master Text Frames</h3>
+
+<p>Text frames which are on Master Pages appear on all pages that have that Master applied to them. Master pages act like templates for your pages. If you modify a Master Page’s layout, all the pages with that Master applied will change.</p>
+
+<p>If you modify a Master item on a document page, that item will no longer change with the Master.</p>
+
+<p>Master Page items are locked on document pages. That means that you cannot select them on the document page without unlocking them. You can <span class="command">Shift-⌘-click</span> on a locked frame on a document page to unlock it. Alternatively, you can type <span class="command">Shift-⌘-⌥-L</span> to unlock all Master Page elements on a document page.</p>
+
+<h3 id="automatic-page-numbering">Automatic Page Numbering</h3>
+
+<p>InDesign can assign page numbers automatically. All you need to do is type <span class="command">Shift-⌥-⌘-N</span> in a text frame on a Master Page.</p>
+
+<figure>
+    <img class="size100 borderlimegreen1" alt="indesign-automatic-page-numbers" src="/images/indesign-build-a-document/indesign-automatic-page-numbers.jpg" />
+<figcaption>
+  See how the letter on the Master Page become the actual page number on the document pages.
+</figcaption>
+</figure>
+
+<p>It’s a good idea to set the alignment of the page folios to Away from Spine.</p>
+
+<div class="attentionbox tip">
+  You can drag a master's icon in the Pages Panel onto another to base it on that master. For example, Drag B-Master onto A-Master to base B on A.
+</div>
+
+<h2 id="managing-text-frames">Managing Text Frames</h2>
+
+<p>Your document can have a series of threaded frames. That means that the text from one story will flow from one frame to the next across pages. You can also have a single text frame that doesn’t connect to another.</p>
+
+<p>In InDesign, a <em>Story</em> is one or a series of threaded text frames. You’ll know you’ve come to the end of the story when you see the # symbol at the end of the text.</p>
+
+<figure>
+    <img class="size50 borderlimegreen1" alt="indesign-overset-text" src="/images/indesign-build-a-document/indesign-overset-text.jpg" />
+<figcaption>
+  The <span class="red">&#8862;</span> symbol means that you have too much text for the frame.
+</figcaption>
+</figure>
+
+<p>If you ever see the <span class="red">⊞</span> symbol shown above, it means that you have overset text. This means that there’s too much text to fit in the box. The excess text just doesn’t appear on screen.</p>
+
+<p>To resolve this, you can either make your frame larger, or make the text flow to another frame by threading it.</p>
+
+<h3 id="text-threads">Text Threads</h3>
+
+<p>Go <span class="command">View &gt; Extras &gt; Show Text Threads</span>. We want to turn on text threads. Do this with no document open so that the setting sticks for all future documents. That’s what we call an InDesign <i>default</i>.</p>
+
+<figure>
+    <img class="size100 borderlimegreen1" alt="indesign-text-threads" src="/images/indesign-build-a-document/indesign-text-threads.jpg" />
+<figcaption>
+  This is the text thread indicator. It only appears when the frames are selected.
+</figcaption>
+</figure>
+
+<p>Text frames can be linked so the text flows from one to another. This is called threading. The little square at the bottom right of a text frame is called the <i>out port</i>.</p>
+
+<figure>
+    <img class="size33 borderlimegreen1" alt="indesign-out-port" src="/images/indesign-build-a-document/indesign-out-port.jpg" />
+<figcaption>
+  This is the <em>Out Port</em>.
+</figcaption>
+</figure>
+
+<p>It indicates if text in the current frame threads to another frame, as it does in the image above. You don’t need to select the frame. If there’s an arrow in the out-port, it means that it’s threaded.</p>
+
+<p>To thread text, click on the out port. You’ll get a cursor loaded with text. Just click anywhere on another frame to create a thread.</p>
+
+<p>If you wish to insert a new frame between two threaded ones, simply click on the out port. You’ll get a cursor loaded with text. Click and drag to create a new frame in the story.</p>
+
+<p>To break a thread, double-click on the out port. It will become overset text. You can then re-thread it to a new frame.</p>
+
+<h4 id="story-jumps">Story Jumps</h4>
+
+<p>A story jump is a bit of text that reads something like <em>Continues on page 23</em>. Let’s create story jumps. We’ll store them in our CC Libraries, so we can re-use them at will.</p>
+
+<figure>
+    <img class="size100 borderlimegreen1" alt="indesign-story-jump" src="/images/indesign-build-a-document/indesign-story-jump.jpg" />
+<figcaption>
+  Set up story jumps, then add them to Libraries as a graphic, not text.
+</figcaption>
+</figure>
+
+<div class="attentionbox tip">
+  If we add story jumps to our Libraries panel as text, it doesn't retain our box formatting. If we add it as a graphic, it will.
+</div>
+
+<h2 id="styling-text">Styling Text</h2>
+
+<h3 id="base-styles">Base Styles</h3>
+
+<p>We create <i>base styles</i> with the goal of easing revisions. We want to set a base serif and a base sans-serif paragraph style. If we need to change the underlying fonts in our document, all we’ll need to do is change one style and all the inheriting styles will change.</p>
+
+<p>Create a <i>Base Sans</i> paragraph style. The only item you set in this style is the font family. We want to have a <i>Base Serif</i> too. If you want, you can use <i>Basic Paragraph</i> for this. Again, just set the font family.</p>
+
+<figure>
+    <img class="size75" alt="indesign-based-on-paragraph-styles" src="/images/indesign-build-a-document/indesign-based-on-paragraph-styles.jpg" />
+<figcaption>
+  Base all Sans Serif styles on Base Sans. All Serif styles based on Basic Paragraph.
+</figcaption>
+</figure>
+
+<p>When you create all other styles, make them all <i>Based on</i> the base style. The base styles should be the parent of all the styles you create. When we change the font family in the base style, all other styles will inherit the change automatically. This is a real time-saver and headache avoider.</p>
+
+<p>All text in all of your documents need to have a Paragraph Style applied to make revisions easier. It also prevents omissions in editing.</p>
+
+<p>Body text us usually somewhere between 9 and 11 points in size, depending on the characteristics of your chosen font. The default leading in InDesign is 120%. This means that if your body text is set at 10 points, your leading will be 12 points. Don’t change this unless you really have a good reason.</p>
+
+<figure>
+    <img class="size75 borderlimegreen1" alt="indesign-line-length" src="/images/indesign-build-a-document/indesign-line-length.jpg" />
+<figcaption>
+  Your line length limit should be 35-45 characters.
+</figcaption>
+</figure>
+
+<p>We should be aiming for line lengths of 35 to 45 characters per line. You can check the number of characters per line using the Info panel. Highlight a line of text and refer to the panel for the character count.</p>
+
+<h3 id="styling-headlines">Styling Headlines</h3>
+
+<figure>
+    <img class="size75 borderlimegreen1" alt="indesign-balance-ragged-lines" src="/images/indesign-build-a-document/indesign-balance-ragged-lines.jpg" />
+<figcaption>
+  Balance Ragged Lines is <span class="red">only for headlines!</span>
+</figcaption>
+</figure>
+
+<p>When styling a large title, a deck or another short paragraph with large text, we want to turn on <span class="command">Balance Ragged Lines</span> in the paragraph style. Never turn on this feature for long lengths of text like body copy. The line length will become uneven.</p>
+
+<h3 id="spacing-paragraphs">Spacing Paragraphs</h3>
+
+<p>We need a subtle but clear indication when one paragraph ends and another begins. The choices are a first line indent at the start of the paragraph, or a space after the paragraph.</p>
+
+<figure>
+    <img class="size100 borderlimegreen1" alt="indesign-paragraph-spacing" src="/images/indesign-build-a-document/indesign-paragraph-spacing.jpg" />
+<figcaption>
+  These are your two options for spacing paragraphs. Never use both at once.
+</figcaption>
+</figure>
+
+<p>When you use a space after the paragraph, these spaces cumulatively burn up a lot of room in your doucument. If space is precious, it may be better to use a first line indent. Size your first line indent at 1em. That means make it the same size as your type size. 9pt type, 9pt first line indent.</p>
+
+<h3 id="character-styles">Character Styles</h3>
+
+<p>Use Character Styles sparingly and only where necessary. They’re used for styling at a character level and not at a paragraph level. They’re good for italicising words and the like.</p>
+
+<figure>
+    <img class="size75" alt="indesign-character-styles" src="/images/indesign-build-a-document/indesign-character-styles.jpg" />
+<figcaption>
+  Character styles are for styling characters.
+</figcaption>
+</figure>
+
+<h4 id="grep-styles">GREP Styles</h4>
+
+<p>GREP Styles apply Character Styles when a certain condition is met. You could autotmatically make every instance of the word ‘français’ appear as <span style="color: #c13633; font-style: italic; font-weight:bold;">français</span> across your whole document.</p>
+
+<figure>
+    <img class="size100 borderlimegreen1" alt="indesign-grep-styles" src="/images/indesign-build-a-document/indesign-grep-styles.jpg" />
+<figcaption>
+  GREP Styles allow you to style text automatically, as it's created.
+</figcaption>
+</figure>
+
+<p>All you need to do is tell it which Character Style to apply to the text. You also need to tell it which text to apply it to. InDesign will dynamically apply the style as it encounters the criteria. GREP Styles can do much more. We haven’t even touched on the actual GREP patterns here. We’ll come back to them in the future.</p>
+
+<h2 id="drop-caps">Drop Caps</h2>
+
+<p>We’ll style a drop cap with the help of <a href="drop-caps.html" title="Learn how to create a drop cap character in InDesign.">this information</a>.</p>
+
+<h2 id="paragraph-rules">Paragraph Rules</h2>
+
+<p>Paragraph Rules are horizontal lines which can be activated in a Paragraph Style. They appear either above or below a paragraph. Remember, in InDesign, a paragraph can be as short as one glyph!</p>
+
+<figure>
+    <img class="size75 borderlimegreen1" alt="indesign-paragraph-rules" src="/images/indesign-build-a-document/indesign-paragraph-rules.jpg" />
+<figcaption>
+  Paragraph Rules are lines that come before or after a whole paragraph.
+</figcaption>
+</figure>
+
+<h2 id="styling-pull-quotes">Styling Pull Quotes</h2>
+
+<p>Second to a headline, a pull-quote can really be an attention-getter. Pulling a quote from the text with provocative text will draw the reader to your story.</p>
+
+<figure>
+    <img class="size100 borderlimegreen1" alt="indesign-pull-quote-formatting" src="/images/indesign-build-a-document/indesign-pull-quote-formatting.jpg" />
+<figcaption>
+  This is how you can show some creativity when styling a pull quote.
+</figcaption>
+</figure>
+
+<p>Pull quotes are set in a separate text frame in InDesign. We take a quote from the text (leaving it in the text) and copy it into its own frame, then style it with distinctive type and decorative quotation marks. The sans-serif font should be based on our <em>Base Sans</em>. Style a large quotation mark by typing a large quote mark in its own text frame. We want it light behind the text. Go to Swatches panel and create a New Tint Swatch. This takes the current colour and saves the tint as a swatch. Once it’s styled, select the frame and go <span class="command">Type &gt; Create Outlines</span>. Group the quote mark frame and the quote frame itself. Add a text wrap on the frame with the second button in the panel. Add 9pt padding around it.</p>
+
+<div class="attentionbox tip">
+  Remember to hit ⌘-b to make the box stretch its height automatically to fit any text.
+</div>
+
+<p>Let’s add the pull quote to the CC Libraries panel so we can insert one at any time.</p>
+
+<h2 id="styling-sidebar-stories">Styling Sidebar Stories</h2>
+
+<p>Sidebar stories are separate but related stories. They’ll be of interest to the reader of the main story. A separate text frame is created and styled to stand out, sometimes with a background colour.</p>
+
+<figure>
+  <img class="size100 borderlimegreen1" alt="indesign-sidebar-story-formatting" src="/images/indesign-build-a-document/indesign-sidebar-story-formatting.jpg" />
+<figcaption>
+  A sidebar story is its own self-contained story related to another.
+</figcaption>
+</figure>
+
+<div class="attentionbox tip">
+  Remember to adjust the size of the box so it exceeds the margins by a few points.
+</div>
+
+<p>Sidebar stories can be another entry point for the reader. It’s easier to digest than the longer feature story. A reader may read the sidebar, then decide to dive into the feature.</p>
+
+<p>We’ll create a separate text frame which will contain the headline and the sidebar story. It will have a wrap on it to push away the main text frame.</p>
+
+<h3 id="story-enders">Story Enders</h3>
+
+<p>A story-ender is a small graphic that indicates you’ve read to the end of the story. All you need to do is create a small graphic. Place the insertion point at the end of the story. Paste the graphic inline.</p>
+
+<p>It’s a good idea to save the story-ender in your CC Libraries<a name="assignment">.</a></p>
+
+		 </div>
+			
+			<div>
+			
+				<h2 class="fw300 fs16">Formative Activity</h2>
+			
+			<p>Download the provided text. Create a new InDesign document with these settings. Pay attention to each field in this dialogue.</p>
+
+<figure>
+    <img class="size75" alt="indesign-new-document-dialogue" src="/images/indesign-build-a-document/indesign-new-document-dialogue.jpg" />
+<figcaption>
+  Carefully set up your document with these settings. This is what your pages panel should look like.
+</figcaption>
+</figure>
+
+<h3 id="cc-library">CC Library</h3>
+
+<p>Create a Library called CG2 Build a Document. We’ll store assets for this project here for re-use.</p>
+
+<h3 id="layers">Layers</h3>
+
+<p>Rename Layer 1 to Text. Create a new layer. Call it Images.</p>
+
+<h3 id="master-pages">Master Pages</h3>
+
+<p>Let’s create our Master Pages based on our sketches. In the panel below, 2C &amp; 3C refer to how many columns wide our text frames are.</p>
+
+<p>Rename <em>A-Master</em> to <em>A-Grid-Folio</em>. Place guides on the page using <span class="command">Layout &gt; Create Guides…</span>, like this:</p>
+
+<figure>
+    <img class="size100 borderlimegreen1" alt="indesign-master-page-setup" src="/images/indesign-build-a-document/indesign-master-page-setup-create-guides.jpg" />
+<figcaption>
+  Set up your Master Pages like this. Note which masters are based on which.
+</figcaption>
+</figure>
+
+<p>Continue to create Master Pages named as they are above. They’ll all be blank as you create them.</p>
+
+<div class="attentionbox shortcut">
+  Use ⌘-; to show and hide guides.
+</div>
+
+<figure>
+    <img class="size100" alt="indesign-master-pages-layouts" src="/images/indesign-build-a-document/indesign-master-pages-layouts.jpg" />
+<figcaption>
+  Create text and image frames on your Master Pages as shown above.
+</figcaption>
+</figure>
+
+<p>Remember to place all image frames on the Images layer. Place the text frames on the Text layer.</p>
+
+<h3 id="styling-text">Styling Text</h3>
+
+<p>Start by activating the fonts we’re going to need for our layout.</p>
+
+<ul>
+  <li><a href="https://fonts.adobe.com/fonts/abril" title="Activate Abril Font" target="_blank">AbrilText-Italic</a></li>
+  <li>AbrilText-Regular</li>
+  <li><a href="https://fonts.adobe.com/fonts/proxima-nova" title="Activate Proxima Nova" target="_blank">ProximaNova-Bold</a></li>
+  <li>ProximaNova-Extrabld</li>
+  <li>ProximaNova-Regular</li>
+  <li>ProximaNova-RegularIt</li>
+  <li>ProximaNova-Medium</li>
+  <li>ProximaNova-Semibold</li>
+</ul>
+
+<p>Now, create these paragraph styles.</p>
+
+<figure>
+    <img class="size50" alt="indesign-paragraph-style-names" src="/images/indesign-build-a-document/indesign-paragraph-style-names.jpg" />
+<figcaption>
+  These are the descriptions for all the paragraph styles.
+</figcaption>
+</figure>
+
+<h3 id="apply-masters">Apply Masters</h3>
+
+<p>Let’s apply Master Pages to our document pages. Use the provided PDF as a guide. There may be some minor differences. It’s fine. Sometimes we riff off a Master Page.</p>
+
+<div class="attentionbox achtung">
+  We'll only format the first story. Once it's completely set up, we'll add more pages to our document, then format the rest.
+</div>
+
+<h3 id="automatic-page-numbers">Automatic Page Numbers</h3>
+
+<p>Add page numbers on A-Grid-Folios using <span class="command">Shift-⌥-⌘-N</span>. Give the numbers their own paragraph style named Folios. It’s a good idea to set the alignment of the page folios to Away from Spine or Center.</p>
+
+<h4 id="grep-style">GREP Style</h4>
+
+<p>In your body copy paragraph style, go to GREP Styles. Make it that each instance of the words <span style="color: red;">Supreme Court</span> is coloured red.</p>
+
+<h4 id="drop-cap">Drop Cap</h4>
+
+<figure>
+    <img class="size33 borderlimegreen1" alt="indesign-drop-cap-formatting" src="/images/indesign-build-a-document/indesign-drop-cap-formatting.jpg" />
+<figcaption>
+  Format your drop cap in a separate paragraph style.
+</figcaption>
+</figure>
+
+<p>Create a Drop Cap Paragraph Style. Use the font Proxima Nova Bold for your drop cap. If you need a reminder of the process, <a href="drop-caps.html" title="How to make a Drop Cap in InDesign">read this…</a></p>
+
+<h3 id="pull-quote">Pull Quote</h3>
+
+<p>Use the provided text to create a pull quote as shown on the design guide.</p>
+
+<figure>
+    <img class="size100 borderlimegreen1" alt="indesign-pull-quote-formatting" src="/images/indesign-build-a-document/indesign-pull-quote-formatting.jpg" />
+<figcaption>
+  Format a pull-quote, then add it to the CC Libraries panel.
+</figcaption>
+</figure>
+
+<h3 id="sidebar-story">Sidebar Story</h3>
+
+<p>Use the provided text to create a sidebar story as shown on the design guide.</p>
+
+<figure>
+  <img class="size100 borderlimegreen1" alt="indesign-sidebar-story-formatting" src="/images/indesign-build-a-document/indesign-sidebar-story-formatting.jpg" />
+<figcaption>
+  Style the sidebar story as shown. Note how the box is slightly wider than the margins.
+</figcaption>
+</figure>
+
+<h3 id="story-ender">Story-Ender</h3>
+
+<p>Create a small green square. Paste it into a text frame. Insert a Non-Breaking Space character before it. Make sure the leading matches that of the Body Copy text.</p>
+
+<figure>
+    <img class="size75 borderlimegreen1" alt="indesign-story-ender" src="/images/indesign-build-a-document/indesign-story-ender.jpg" />
+<figcaption>
+  A story-ender indicates the story ends here.
+</figcaption>
+</figure>
+
+<h2 id="more-pages">More Pages…</h2>
+
+<p>Now that we have all our design elements set up, it’s simple to add pages to our InDesign document. Let’s increase it to 12 pages.</p>
+
+<div class="attentionbox reminder">
+  Reminder: A publication always needs to have a number of pages divisible by 4.
+</div>
+
+<p>Let’s create the rest of the document based on the provided PDF design guide.</p>
+
+		 </div>
+			
+		</main>
+	<aside id="rightrail" class="sans">
+				
+					<div class="button download">
+							<a href="https://www.dropbox.com/s/3d0h80uw6hrrhb1/indesign-build-a-document.zip?dl=1" title="Download practice & exercise files for this assignment." class="fw600 uc white" target="_blank">Download Files</a>
+					</div>
+				
+			
+			<div class="formsum">
+			<h3 class="fs90 uc">Assessment</h3>
+				<p>
+					This is a <span class="fw600">formative</span> assignment. That means that you'll be learning and practicing new software skills. This assignment contributes to your final grade in the course. This work will be graded as either:
+				</p>
+				<div class="completeincomplete">
+					<span class="complete fw600">Complete</span>
+					<span class="incomplete fw600">Incomplete</span>
+				</div>
+				<p>
+				If needed, I will provide written feedback on your performance.
+				</p>
+			</div>
+			
+				
+				
+				<h3 class="uc">Supplemental Links</h3>
+					
+							<ul>
+  <li><a href="#assignment" title="Go to the assignment">The assignment</a></li>
+  <li>Adobe: <a href="https://helpx.adobe.com/indesign/user-guide.html?topic=/indesign/morehelp/layout_and_design.ug.js" title="InDesign Layout &amp; Design" target="_blank">InDesign Layout &amp; Design</a></li>
+  <li>Adobe: <a href="https://helpx.adobe.com/indesign/using/master-pages.html" title="Master Pages" target="_blank">Master Pages</a></li>
+  <li>Adobe: <a href="https://helpx.adobe.com/indesign/using/paragraph-character-styles.html" title="Paragraph &amp; Character Styles" target="_blank">Paragraph &amp; Character Styles</a></li>
+</ul>
+
+					
+				
+				
+			 <div id="submission">
+				<h3 class="uc">Submission Instructions</h3>
+				<div class="submission">
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+					  <p>
+    Make sure your InDesign document is named Last name, First name, Group Nº, assignment name. So,
+  </p>
+  <div class="filename">
+		Appleseed-Johnny-#-Build a Document.indd
+  </div>
+  <p>
+    Check your font usage to only include Adobe Fonts. To do so, go <span class="command">Type > Find Fonts</span>. There should only be Adobe Fonts in the list.
+  </p>
+  <p>
+    Check your image usage in the Links panel. Make sure there are no warning icons in the panel.
+  </p>
+  <p>
+    Once this is done, save your document, then package it using <span class="command">File > Package</span>. The resulting folder will already be named properly. Zip-compress the folder by right-clicking on it, then choosing <span class="command">Compress...</span>.
+  </p>
+<p>
+	<span class="limegreen">Failure to submit your files as directed will incur a proportional loss of points. If your file/folder is not named with your name, you will earn a zero. <a href="assessment.html#filenames" title="Why is file naming important?">Why?</a></span>
+</p>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				</div>
+			 </div>
+				
+				
+							<div class="button">
+								<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=128477&grpid=0&isprv=0&bp=0&ou=145550" target="_blank" title="Submit your files here." class="submit">Submit Your Files</a>
+							</div>
+				
+		 </aside>
+</section>
+		<footer class="sans" role="contentinfo">
+<div class="site-logo">
+	<a href="/"><img src="/images/svg/logo-ac-computer-graphics.svg" alt="AC Computer Graphics Home"></a>
+</div>
+<nav>
+	<div class="items">
+			<div class="item">
+				<a href="/" title="Home" class="fw600 ">
+						Home 
+					</a>
+			</div>
+		<div class="item">
+			<a href="/cg1/index.html" title="Semester One" class="fw600 ">
+				CG1 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg2/index.html" title="Semester Two" class="fw600 current">
+				CG2 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg3/index.html" title="Semester Three" class="fw600 ">
+				CG3 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg4/index.html" title="Semester Four" class="fw600 ">
+				CG4 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg5/index.html" title="Semester Five" class="fw600 ">
+				CG5 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg6/index.html" title="Semester Six" class="fw600 ">
+				CG6 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/fpp/index.html" title="Fieldwork & Professional Practice" class="fw600 ">
+				Fieldwork 
+			</a>
+		</div>
+	</div>
+	<div class="items fw300">
+		<div class="item">
+			<a href="/setup/index.html" title="Setup" class="">Set&nbsp;Up</a>
+		</div>
+		<div class="item">
+			<a href="/topics/stock.html" title="Stock Photography" class="">Stock</a>
+		</div>
+		<div class="item">
+			<a href="http://www.youtube.com/accomputergraphics" title="AC Computer Graphics Video Tutorials" target="_blank">YouTube</a>
+		</div>
+		<div class="item">
+			<a href="https://brightspace.algonquincollege.com/d2l/home" title="Brightspace, Your Learning Management System" target="_blank">Brightspace</a>
+		</div>
+	</div>
+</nav>
+<div class="block">
+	<div class="items">
+		<div class="item"><a href="https://www.algonquincollege.com/counselling/home/" alt:="Algonquin College Counselling Services" target="_blank">Counselling Services</a></div>
+		<div class="item"><a href="https://www.algonquincollege.com/cal" alt:="Centre for Accessible Learning" target="_blank">Centre for Accessible Learning</a></div>
+		<div class="item"><a href="https://www.algonquincollege.com/ccr/" alt:="Algonquin College Co-Curricular Activities" target="_blank">Co-Curriculars</a></div>
+	</div>	
+	<div class="items">
+		<div class="item"><a href="/topics/feedback.html" title="Anonymous Student Feedback.">Anonymous Course Feedback</a></div>
+		<div class="item"><a href="/topics/assessment.html" title="Assessment">Assessment</a></div>
+		<div class="item"><a href="/topics/hardware.html" title="These are the hardware requirements for the Graphic Design Program at Algonquin College.">Hardware Requirements</a></div>
+	</div>
+	<div class="items">
+		<div class="item"><a href="https://algonquindesign.ca" title="The Algonquin Design Program Page">AlgonquinDesign.ca</a></div>
+		<div class="item"><a href="https://www.behance.net/algonquindesign" title="The Algonquin Design Program Behance Page">Algonquin Design Behance</a></div>
+		<div class="item"><a href="/topics/pantone-books.html" title="Submitting assignments on Brightspace.">Purchase Pantone Books</a></div>
+	</div>
+	<div class="items">
+		<div class="item"><a href="/topics/rgd.html" title="DesignThinkers Conference">DesignThinkers</a></div>
+		<div class="item"><a href="https://algonquindesign.ca/fieldwork/" title="Info on Fieldwork">Fieldwork</a></div>
+		<div class="item"><a href="/topics/calendars.html" title="Course Calendars">Calendars</a></div>
+	</div>
+</div>
+<div class="block">
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+		<span itemprop="name" class="fw600 item">Alain Paradis</span>
+		<span itemprop="jobTitle" class="item">Coordinator & Professor</span>
+		<span class="item">Office: N200A</span>
+		<span itemprop="email" class="item"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#97;&#114;&#97;&#100;&#105;&#97;&#64;&#97;&#108;&#103;&#111;&#110;&#113;&#117;&#105;&#110;&#99;&#111;&#108;&#108;&#101;&#103;&#101;&#46;&#99;&#111;&#109;">E-Mail</a></span>
+		<span class="item"><a href="https://twitter.com/alainparadis" title="Al's Twitter account">Twitter</a></span>
+		<span itemprop="telephone" class="item"><a href="tel:+16136182138">+1-613-618-2138</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+			<span itemprop="name" class="item fw600">Greg Treadwell</span>
+			<span itemprop="jobTitle">Instructor</span>
+			<span class="item"><a href="mailto:treadwg@algonquincollege.com" title="Contact Greg via e-mail.">E-Mail</a></span>
+			<span class="item"><a href="https://twitter.com/gregtreadwell" title="Follow Greg on Twitter">Twitter</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+			<span itemprop="name" class="item fw600">Anish Parmar</span>
+			<span itemprop="jobTitle" class="item">Instructor</span>
+			<span class="item"><a href="mailto:anish.s.parmar@gmail.com" title="Contact Anish via e-mail.">E-Mail</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+	</div>
+</div>
+<div class="block school-address">
+	<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+	<span class="fw600">Algonquin College</span>
+	<span itemprop="streetAddress">N200-1385 Woodroffe Ave.</span>
+	<span itemprop="addressLocality">Ottawa,</span>
+	<span itemprop="addressRegion">ON,</span>
+	<span itemprop="addressCountry">Canada</span>
+	<span itemprop="postalCode">K2G 1V8</span>
+</div>
+</footer>
+</body>
+</html>

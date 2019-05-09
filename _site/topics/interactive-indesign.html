@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+	<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>
+	  
+		AC Computer Graphics : Interactive InDesign
+	  
+	</title>
+	<meta name="generator" content="BBEdit 11.5" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="/css/main.css" rel="stylesheet">
+	<link href="/css/layout.css" rel="stylesheet">
+	<link href="/css/typography.css" rel="stylesheet">
+
+<!-- Social Tags -->
+
+<!-- for Google -->
+<meta name="description" content="In this lesson, we'll explore interactivity in InDesign with the eventual goal of an output to PDF, ePub and Adobe's Publish Online service." />
+
+<meta name="author" content="Alain Paradis, Algonquin College" />
+<meta name="copyright" content="Alain Paradis, Algonquin College, 2017-2018" />
+
+<!-- for Facebook -->          
+<meta property="og:title" content="Interactive InDesign" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="/images/general/algonquin-brand-panel.jpg" />
+<meta property="og:url" content="/topics/interactive-indesign.html" />
+<meta property="og:description" content="In this lesson, we'll explore interactivity in InDesign with the eventual goal of an output to PDF, ePub and Adobe's Publish Online service." />
+
+<!-- for Twitter -->          
+<meta name="twitter:site" content="@alainparadis" />
+<meta name="twitter:title" content="Interactive InDesign" />
+<meta name="twitter:description" content="In this lesson, we'll explore interactivity in InDesign with the eventual goal of an output to PDF, ePub and Adobe's Publish Online service." />
+<meta name="twitter:image" content="/images/general/algonquin-brand-panel.jpg" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End of Social Tags -->
+
+<!-- This is the Adobe Adobe Fonts script. -->
+
+<script src="https://use.typekit.net/lqr6ffc.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<!-- Start Google Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-87728502-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- End Google Analytics Tracking Code -->
+
+<!-- This are the Favicon links. -->
+	<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="/favicon/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/favicon/manifest.json">
+	<link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="theme-color" content="#ffffff">
+
+</head>
+<body>
+<header class="sans" role="banner">
+	<nav role="navigation">
+		<div class="left fw600">
+	<div class="item">
+		<a href="/" title="Home" class="">
+				Home 
+			</a>
+	</div>
+	<div class="item">
+		<a href="/cg1/index.html" title="Semester One" class="">
+			CG1 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg2/index.html" title="Semester Two" class="">
+			CG2 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg3/index.html" title="Semester Three" class="">
+			CG3 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg4/index.html" title="Semester Four" class="">
+			CG4 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg5/index.html" title="Semester Five" class="current">
+			CG5 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg6/index.html" title="Semester Six" class="">
+			CG6 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/fpp/index.html" title="Fieldwork & Professional Practice" class="">
+			Fieldwork 
+		</a>
+	</div>
+</div>
+<div class="right fw300">
+	<div class="item">
+		<a href="/setup/index.html" title="Setup" class="">Set&nbsp;Up</a>
+	</div>
+	<div class="item">
+		<a href="/topics/stock.html" title="Stock Photography" class="">Stock</a>
+	</div>
+	<div class="item">
+		<a href="http://www.youtube.com/accomputergraphics" title="AC Computer Graphics Video Tutorials" target="_blank">YouTube</a>
+	</div>
+	<div class="item">
+		<a href="https://brightspace.algonquincollege.com/d2l/home" title="Brighspace, Your Learning Management System" target="_blank">Brightspace</a>
+	</div>
+</div>
+	</nav>
+	<div class="site-logo page-logo">
+			<a href="/" title="Home">
+		<img alt="Algonquin College Computer Graphics Logo" src="/images/svg/logo-ac-computer-graphics.svg">
+			</a>
+	</div>
+</header>
+<section class="page-title">
+	<div class="left"></div>
+	<div class="center">
+		<h1 class="fs20 fw300">Interactive InDesign</h1>
+		<div class="description sans fs12 fw300">
+		In this lesson, we'll explore interactivity in InDesign with the eventual goal of an output to PDF, ePub and Adobe's Publish Online service.
+		</div>
+	</div>
+	<div class="right">
+		
+		<div>
+		<span class="appsused sans uc f500 fs70">Apps Used:</span>
+		
+		<span class="app-icon"><img src="/images/svg/icon-cc.svg" alt="Adobe Creative Cloud"></span>
+		<span class="app-icon"><img src="/images/svg/icon-indd.svg" alt="Adobe InDesign"></span>
+		
+		
+		<span class="app-icon"><img src="/images/svg/icon-pdf.svg" alt="Adobe Acrobat"></span>
+		
+		
+		
+		</div>
+		
+	</div>
+</section>
+<section>
+	<aside>
+			<h3 class="uc fs10">Topics</h3>
+
+<nav>
+<ul>
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/intro-to-isometrics.html" title="1.0: We'll learn what isometric illustration is. How does it differ from drawing in a two-point perspective? We'll look at some examples and applications for isometrics." class="item sans  ">Intro to Isometrics</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/isometric-illustration.html" title="1.9: Now that you know how to draw in an isometric projection, you'll illustrate a process with characters in it." class="item sans summative ">Isometric Illustration</a></li>
+	
+
+	
+		<li><a href="/topics/custom-vector-brushes.html" title="2.0: We're going emulate the real-world process of painting by creating natural-looking brushes." class="item sans  ">Custom Vector Brushes</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/paint-a-character.html" title="2.9: We're going emulate the real-world process of painting by creating natural-looking brushes." class="item sans summative ">Paint a Character</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/smart-objects.html" title="3.0: Photoshop mockups are layered files in which you can insert an image of a portfolio piece to show it in its natural environment." class="item sans  ">Smart Objects</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/mockups.html" title="3.9: Create mockups that you can use to promote your work online or in print. It will be easy to swap out portfolio pieces in your files, thanks to smart objects." class="item sans summative ">Mockups</a></li>
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/variable-data.html" title="4.0: Variable Data in Illustrator is a little-know feature that can save you hours of tedious, error-prone work." class="item sans  ">Variable Data</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/skateboard-parks-cards.html" title="4.9: Use the provided data to design and build a series of post cards for each of Ottawa's skateboard parks." class="item sans summative ">Skateboard Parks Cards</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/interactive-indesign.html" title="5.0: In this lesson, we'll explore interactivity in InDesign with the eventual goal of an output to PDF, ePub and Adobe's Publish Online service." class="item sans  limegreen">Interactive InDesign</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/interactive-pdf.html" title="5.9: It's a good idea to create a PDF version of your portfolio in case you need to present it without an internet connection. This is a local, dependable, self-contained multimedia portfolio that will never fail you." class="item sans summative ">Interactive PDF</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+</ul>
+</nav>
+		</aside>
+	<main role="main">
+			
+			<h3>Watch the Video Tutorial</h3>
+			<div id="embed-youtube-container">
+				<iframe src="https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLApCkZmFu02T_fnG2WR-mQz" frameborder="0" allowfullscreen></iframe>
+			</div>
+			
+		 <div>
+			<h2 id="why-interactivity-in-indesign">Why Interactivity in InDesign?</h2>
+
+<p>InDesign is the leader in page layout for print. Why would it have so many tools to author interactivity? The answer includes at least two file formats, ePUB and PDF. These two formats can contain hyperlinks, interactive tables of contents, audio, video and more. When we combine InDesign’s awesome powers for page layout with its interactive capabilites, you get a PDF &amp; ePUB producing powerhouse.</p>
+
+<h2 id="hyperlinks">Hyperlinks</h2>
+
+<p>Hyperlinks in InDesign serve the same purpose as one on the web. You have a source and a destination. In your PDF file, you can click on text or an object, then it will take you somewhere else in your document. Hyperlinks can even take you to a separate file on your computer. Imagine a link in a PDF that opens another PDF. Convenient.</p>
+
+<h3 id="hyperlink-to-a-url">Hyperlink to a URL</h3>
+
+<p><img class="size100" alt="indesign-create-hyperlinks" src="/images/indesign-interactive-indesign/indesign-create-hyperlinks.jpg" /></p>
+
+<p>It’s quite straighforward to create a link to a web page. You can link text or an object. Make a selection in InDesign. Create a new link in the Hyperlinks panel. Add a destination URL. InDesign will automatically create a character style named Hyperlink. You’re free to edit its appearance.</p>
+
+<h3 id="hyperlink-to-a-file">Hyperlink to a File</h3>
+
+<p>Hyperlinks can open files on your computer. This could be convenient if you have a large catalogue of InDesign files. One can link to another.</p>
+
+<p><img class="size100" alt="indesign-hyperlink-to-file" src="/images/indesign-interactive-indesign/indesign-hyperlink-to-file.jpg" /></p>
+
+<p>It’s important to organize all related files ahead of time. If you link to a file, then you move it to another location, the link will break.</p>
+
+<h3 id="to-a-text-anchor">…to a text anchor</h3>
+
+<p>Links to a an anchor allow you to target specific text or an object.</p>
+
+<p><img class="size100" alt="indesign-hyperlink-to-destination" src="/images/indesign-interactive-indesign/indesign-hyperlink-to-destination.jpg" /></p>
+
+<p>Establish the destination anchor first. Once that’s done, create a Text Anchor link to the destination.</p>
+
+<h2 id="bookmarks">Bookmarks</h2>
+
+<blockquote>
+  <p>A bookmark is a type of link with representative text that makes it easier to navigate documents exported as Adobe PDF. Bookmarks you create in the InDesign document appear in the Bookmarks tab on the left side of the Acrobat or Adobe Reader window. Each bookmark jumps to a text anchor or a page. <cite><a href="https://helpx.adobe.com/indesign/using/bookmarks.html" target="_blank" title="Citations">Adobe</a></cite></p>
+</blockquote>
+
+<p><img class="size100" alt="indesign-bookmarks" src="/images/indesign-interactive-indesign/indesign-bookmarks.jpg" /></p>
+
+<p>All you need to do is to highlight some text, them create a new bookmark in the Bookmarks panel. Nothing acutally appears in InDesign. It’s when you export to PDF that the bookmarks appear in Acrobat’s Bookmarks panel.</p>
+
+<h2 id="buttons">Buttons</h2>
+
+<p>Create a button in InDesign to perform an action such as printing, jump to a page, opening a web site or even changing the zoom factor. Buttons can act like a hyperlink, but they can do much more.</p>
+
+<p><img class="size75" alt="indesign-create-button" src="/images/indesign-interactive-indesign/indesign-create-button.jpg" /></p>
+
+<p>You can see all the actions a button can perform. You can also determine the button’s appearance for a hover state and a click state. Explore the options in the Buttons panel.</p>
+
+<h2 id="movies--sounds">Movies &amp; Sounds</h2>
+
+<p>InDesign has the ability to import audio and video files with the <span class="command">File &gt; Place…</span> command. The best format for video is h.264 encoded MP4. You can also import MP3 files.</p>
+
+<p><img class="size100" alt="indesign-media-video" src="/images/indesign-interactive-indesign/indesign-media-video.jpg" /></p>
+
+<p>There are a number of options for video playback in the Media panel. Most of them are self-explanatory.</p>
+
+<dl>
+  <dt>Poster</dt>
+  <dd>The poster frame is the image you see when the video is not playing. You can choose a custom image, which allows you to customize the appearance of the video on the page.</dd>
+  <dt>Controller</dt>
+  <dd>You can customize the appearance of the controller. If you don’t customize it a default controller allows the user to play, pause and skim the video.</dd>
+  <dt>Navigation Points</dt>
+  <dd>These allow you to play a video from a different point.</dd>
+</dl>
+
+<blockquote>
+  <p>Keep track of the media files you add to an InDesign document during the production cycle. If you move a linked media clip after adding it to the document, use the Links panel to relink it. If you send the InDesign document to another person, include any media files you add. <cite><a href="https://helpx.adobe.com/indesign/using/bookmarks.html" target="_blank" title="Citations">Adobe</a></cite></p>
+</blockquote>
+
+<h2 id="export-to-pdf">Export to PDF</h2>
+
+<p>To produce a PDF that will diplay all of these wonderful interactive elements, you need to choose the Interactive PDF format.</p>
+
+<p><img class="size100" alt="indesign-export-pdf-settings" src="/images/indesign-interactive-indesign/indesign-export-pdf-settings.jpg" /></p>
+
+<p>There are additional settings in the options dialogue.</p>
+
+		 </div>
+			
+			<div>
+			
+				<h2 class="fw300 fs16">Formative Activity</h2>
+			
+			<p>Use the provided InDesign document to create each of the interactive items.</p>
+
+<h3 id="link-to-a-url">Link to a URL</h3>
+
+<p>Create a link that opens the AlgonquinDesign.ca web page.</p>
+
+<p><img class="size100" alt="indesign-link-to-apple" src="/images/indesign-interactive-indesign/indesign-link-to-algonquindesign.jpg" /></p>
+
+<h3 id="video">Video</h3>
+
+<p>Place the provided video on page 8, as wide as the margins. Set it to auto-play.</p>
+
+<p><img class="size100" alt="indesign-video-useless-machine" src="/images/indesign-interactive-indesign/indesign-video-useless-machine.jpg" /></p>
+
+<h3 id="link-to-a-file">Link to a File</h3>
+
+<p>Create a link that opens the provided GIF file.</p>
+
+<p><img class="size100" alt="indesign-link-to-file-exercise" src="/images/indesign-interactive-indesign/indesign-link-to-file-exercise.jpg" /></p>
+
+<h3 id="link-to-a-text-anchor">Link to a Text Anchor</h3>
+
+<p>Create a link to a specific word on a separate page.</p>
+
+<p><img class="size100" alt="indesign-text-anchor-exercise" src="/images/indesign-interactive-indesign/indesign-text-anchor-exercise.jpg" /></p>
+
+<h3 id="bookmark">Bookmark</h3>
+
+<p>Create three bookmarks based on the text on pages 2, 4 and 6.</p>
+
+<p><img class="size100" alt="indesign-bookmarks-exercise" src="/images/indesign-interactive-indesign/indesign-bookmarks-exercise.jpg" /></p>
+
+<h3 id="buttons">Buttons</h3>
+
+<p>Create two buttons in the provided document – one on page 1 to go to page 8, one on page 8 to zoom to Fit Width.</p>
+
+<p><img class="size100" alt="indesign-buttons-exercise" src="/images/indesign-interactive-indesign/indesign-buttons-exercise.jpg" /></p>
+
+<p>Once you’re done, export your InDesign document as an interactive PDF.</p>
+
+		 </div>
+			
+		</main>
+	<aside id="rightrail" class="sans">
+				
+					<div class="button download">
+							<a href="https://www.dropbox.com/s/90mrd4pg8qftpx0/indesign-interactive-indesign.zip?dl=1" title="Download practice & exercise files for this assignment." class="fw600 uc white" target="_blank">Download Files</a>
+					</div>
+				
+			
+			<div class="formsum">
+			<h3 class="fs90 uc">Assessment</h3>
+				<p>
+					This is a <span class="fw600">formative</span> assignment. That means that you'll be learning and practicing new software skills. This assignment contributes to your final grade in the course. This work will be graded as either:
+				</p>
+				<div class="completeincomplete">
+					<span class="complete fw600">Complete</span>
+					<span class="incomplete fw600">Incomplete</span>
+				</div>
+				<p>
+				If needed, I will provide written feedback on your performance.
+				</p>
+			</div>
+			
+				
+				
+				<h3 class="uc">Supplemental Links</h3>
+					
+							<ul>
+  <li>Adobe: <a href="https://helpx.adobe.com/indesign/using/hyperlinks.html" target="_blank" title="Hyperlinks">Hyperlinks</a></li>
+  <li>Adobe: <a href="https://helpx.adobe.com/indesign/using/bookmarks.html" target="_blank" title="Bookmarks">Bookmarks</a></li>
+  <li>Adobe: <a href="https://helpx.adobe.com/indesign/using/interactivity-5.html" target="_blank" title="Buttons">Buttons</a></li>
+  <li>Adobe: <a href="https://helpx.adobe.com/indesign/using/movies-sounds.html" target="_blank" title="Movies &amp; Sounds">Movies &amp; Sounds</a></li>
+</ul>
+
+					
+				
+				
+			 <div id="submission">
+				<h3 class="uc">Submission Instructions</h3>
+				<div class="submission">
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+					<p>
+Once you've completed your work, export your InDesign document as an interactive PDF with the settings shown above. Make sure the PDF is named Last name, First name, Group Nº, Interactive InDesign.pdf so,
+</p>
+<div class="filename">
+		Appleseed-Johnny-#-Interactive InDesign.pdf
+</div>
+<p>
+	Do not compress the file. Submit the native PDF file on Brightspace.
+</p>
+<p>
+	<span class="limegreen">Failure to submit your files as directed will incur a proportional loss of points. If your file/folder is not named with your name, you will earn a zero. <a href="assessment.html#filenames" title="Why is file naming important?">Why?</a></span>
+</p>
+				
+				
+				
+				
+				
+				
+				
+				
+				</div>
+			 </div>
+				
+				
+							<div class="button">
+								<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86525&grpid=0&isprv=0&bp=0&ou=92682" target="_blank" title="Submit your files here." class="submit">Submit Your Files</a>
+							</div>
+				
+		 </aside>
+</section>
+		<footer class="sans" role="contentinfo">
+<div class="site-logo">
+	<a href="/"><img src="/images/svg/logo-ac-computer-graphics.svg" alt="AC Computer Graphics Home"></a>
+</div>
+<nav>
+	<div class="items">
+			<div class="item">
+				<a href="/" title="Home" class="fw600 ">
+						Home 
+					</a>
+			</div>
+		<div class="item">
+			<a href="/cg1/index.html" title="Semester One" class="fw600 ">
+				CG1 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg2/index.html" title="Semester Two" class="fw600 ">
+				CG2 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg3/index.html" title="Semester Three" class="fw600 ">
+				CG3 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg4/index.html" title="Semester Four" class="fw600 ">
+				CG4 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg5/index.html" title="Semester Five" class="fw600 current">
+				CG5 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg6/index.html" title="Semester Six" class="fw600 ">
+				CG6 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/fpp/index.html" title="Fieldwork & Professional Practice" class="fw600 ">
+				Fieldwork 
+			</a>
+		</div>
+	</div>
+	<div class="items fw300">
+		<div class="item">
+			<a href="/setup/index.html" title="Setup" class="">Set&nbsp;Up</a>
+		</div>
+		<div class="item">
+			<a href="/topics/stock.html" title="Stock Photography" class="">Stock</a>
+		</div>
+		<div class="item">
+			<a href="http://www.youtube.com/accomputergraphics" title="AC Computer Graphics Video Tutorials" target="_blank">YouTube</a>
+		</div>
+		<div class="item">
+			<a href="https://brightspace.algonquincollege.com/d2l/home" title="Brightspace, Your Learning Management System" target="_blank">Brightspace</a>
+		</div>
+	</div>
+</nav>
+<div class="block">
+	<div class="items">
+		<div class="item"><a href="https://www.algonquincollege.com/counselling/home/" alt:="Algonquin College Counselling Services" target="_blank">Counselling Services</a></div>
+		<div class="item"><a href="https://www.algonquincollege.com/cal" alt:="Centre for Accessible Learning" target="_blank">Centre for Accessible Learning</a></div>
+		<div class="item"><a href="https://www.algonquincollege.com/ccr/" alt:="Algonquin College Co-Curricular Activities" target="_blank">Co-Curriculars</a></div>
+	</div>	
+	<div class="items">
+		<div class="item"><a href="/topics/feedback.html" title="Anonymous Student Feedback.">Anonymous Course Feedback</a></div>
+		<div class="item"><a href="/topics/assessment.html" title="Assessment">Assessment</a></div>
+		<div class="item"><a href="/topics/hardware.html" title="These are the hardware requirements for the Graphic Design Program at Algonquin College.">Hardware Requirements</a></div>
+	</div>
+	<div class="items">
+		<div class="item"><a href="https://algonquindesign.ca" title="The Algonquin Design Program Page">AlgonquinDesign.ca</a></div>
+		<div class="item"><a href="https://www.behance.net/algonquindesign" title="The Algonquin Design Program Behance Page">Algonquin Design Behance</a></div>
+		<div class="item"><a href="/topics/pantone-books.html" title="Submitting assignments on Brightspace.">Purchase Pantone Books</a></div>
+	</div>
+	<div class="items">
+		<div class="item"><a href="/topics/rgd.html" title="DesignThinkers Conference">DesignThinkers</a></div>
+		<div class="item"><a href="https://algonquindesign.ca/fieldwork/" title="Info on Fieldwork">Fieldwork</a></div>
+		<div class="item"><a href="/topics/calendars.html" title="Course Calendars">Calendars</a></div>
+	</div>
+</div>
+<div class="block">
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+		<span itemprop="name" class="fw600 item">Alain Paradis</span>
+		<span itemprop="jobTitle" class="item">Coordinator & Professor</span>
+		<span class="item">Office: N200A</span>
+		<span itemprop="email" class="item"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#97;&#114;&#97;&#100;&#105;&#97;&#64;&#97;&#108;&#103;&#111;&#110;&#113;&#117;&#105;&#110;&#99;&#111;&#108;&#108;&#101;&#103;&#101;&#46;&#99;&#111;&#109;">E-Mail</a></span>
+		<span class="item"><a href="https://twitter.com/alainparadis" title="Al's Twitter account">Twitter</a></span>
+		<span itemprop="telephone" class="item"><a href="tel:+16136182138">+1-613-618-2138</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+			<span itemprop="name" class="item fw600">Greg Treadwell</span>
+			<span itemprop="jobTitle">Instructor</span>
+			<span class="item"><a href="mailto:treadwg@algonquincollege.com" title="Contact Greg via e-mail.">E-Mail</a></span>
+			<span class="item"><a href="https://twitter.com/gregtreadwell" title="Follow Greg on Twitter">Twitter</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+			<span itemprop="name" class="item fw600">Anish Parmar</span>
+			<span itemprop="jobTitle" class="item">Instructor</span>
+			<span class="item"><a href="mailto:anish.s.parmar@gmail.com" title="Contact Anish via e-mail.">E-Mail</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+	</div>
+</div>
+<div class="block school-address">
+	<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+	<span class="fw600">Algonquin College</span>
+	<span itemprop="streetAddress">N200-1385 Woodroffe Ave.</span>
+	<span itemprop="addressLocality">Ottawa,</span>
+	<span itemprop="addressRegion">ON,</span>
+	<span itemprop="addressCountry">Canada</span>
+	<span itemprop="postalCode">K2G 1V8</span>
+</div>
+</footer>
+</body>
+</html>

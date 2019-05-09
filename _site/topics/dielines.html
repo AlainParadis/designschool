@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+	<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>
+	  
+		AC Computer Graphics : Die Lines
+	  
+	</title>
+	<meta name="generator" content="BBEdit 11.5" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="/css/main.css" rel="stylesheet">
+	<link href="/css/layout.css" rel="stylesheet">
+	<link href="/css/typography.css" rel="stylesheet">
+
+<!-- Social Tags -->
+
+<!-- for Google -->
+<meta name="description" content="A die is used to cut paper stock for kit folders, packaging and more. To create a physical die, you need to design its outline first." />
+
+<meta name="author" content="Alain Paradis, Algonquin College" />
+<meta name="copyright" content="Alain Paradis, Algonquin College, 2017-2018" />
+
+<!-- for Facebook -->          
+<meta property="og:title" content="Die Lines" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="/images/general/algonquin-brand-panel.jpg" />
+<meta property="og:url" content="/topics/dielines.html" />
+<meta property="og:description" content="A die is used to cut paper stock for kit folders, packaging and more. To create a physical die, you need to design its outline first." />
+
+<!-- for Twitter -->          
+<meta name="twitter:site" content="@alainparadis" />
+<meta name="twitter:title" content="Die Lines" />
+<meta name="twitter:description" content="A die is used to cut paper stock for kit folders, packaging and more. To create a physical die, you need to design its outline first." />
+<meta name="twitter:image" content="/images/general/algonquin-brand-panel.jpg" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End of Social Tags -->
+
+<!-- This is the Adobe Adobe Fonts script. -->
+
+<script src="https://use.typekit.net/lqr6ffc.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<!-- Start Google Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-87728502-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- End Google Analytics Tracking Code -->
+
+<!-- This are the Favicon links. -->
+	<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="/favicon/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/favicon/manifest.json">
+	<link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="theme-color" content="#ffffff">
+
+</head>
+<body>
+<header class="sans" role="banner">
+	<nav role="navigation">
+		<div class="left fw600">
+	<div class="item">
+		<a href="/" title="Home" class="">
+				Home 
+			</a>
+	</div>
+	<div class="item">
+		<a href="/cg1/index.html" title="Semester One" class="">
+			CG1 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg2/index.html" title="Semester Two" class="">
+			CG2 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg3/index.html" title="Semester Three" class="current">
+			CG3 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg4/index.html" title="Semester Four" class="">
+			CG4 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg5/index.html" title="Semester Five" class="">
+			CG5 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg6/index.html" title="Semester Six" class="">
+			CG6 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/fpp/index.html" title="Fieldwork & Professional Practice" class="">
+			Fieldwork 
+		</a>
+	</div>
+</div>
+<div class="right fw300">
+	<div class="item">
+		<a href="/setup/index.html" title="Setup" class="">Set&nbsp;Up</a>
+	</div>
+	<div class="item">
+		<a href="/topics/stock.html" title="Stock Photography" class="">Stock</a>
+	</div>
+	<div class="item">
+		<a href="http://www.youtube.com/accomputergraphics" title="AC Computer Graphics Video Tutorials" target="_blank">YouTube</a>
+	</div>
+	<div class="item">
+		<a href="https://brightspace.algonquincollege.com/d2l/home" title="Brighspace, Your Learning Management System" target="_blank">Brightspace</a>
+	</div>
+</div>
+	</nav>
+	<div class="site-logo page-logo">
+			<a href="/" title="Home">
+		<img alt="Algonquin College Computer Graphics Logo" src="/images/svg/logo-ac-computer-graphics.svg">
+			</a>
+	</div>
+</header>
+<section class="page-title">
+	<div class="left"></div>
+	<div class="center">
+		<h1 class="fs20 fw300">Die Lines</h1>
+		<div class="description sans fs12 fw300">
+		A die is used to cut paper stock for kit folders, packaging and more. To create a physical die, you need to design its outline first.
+		</div>
+	</div>
+	<div class="right">
+		
+		<div>
+		<span class="appsused sans uc f500 fs70">Apps Used:</span>
+		
+		
+		<span class="app-icon"><img src="/images/svg/icon-indd.svg" alt="Adobe InDesign"></span>
+		<span class="app-icon"><img src="/images/svg/icon-ai.svg" alt="Adobe Illustrator"></span>
+		
+		
+		
+		
+		
+		</div>
+		
+	</div>
+</section>
+<section>
+	<aside>
+			<h3 class="uc fs10">Topics</h3>
+
+<nav>
+<ul>
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/dielines.html" title="1.0: A die is used to cut paper stock for kit folders, packaging and more. To create a physical die, you need to design its outline first." class="item sans  limegreen">Die Lines</a></li>
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/duotones.html" title="1.1: A duotone Photoshop image is a greyscale image printed with a coloured ink rather than with black ink. You can obtain striking results with a well thought-out production strategy." class="item sans  ">Duotones</a></li>
+	
+
+	
+
+	
+		<li><a href="/topics/spot-colour-channels.html" title="1.2: At times, four colour process printing can be quite bland. There are times when you want a more crafted printed piece with more accurate colours and more punch. This is where spot colour printing can come to the rescue." class="item sans  ">Spot Colour Channels</a></li>
+	
+
+	
+
+	
+		<li><a href="/topics/beautiful-line-art.html" title="1.3: Line art is artwork which only contains black and white pixels. Line art images always contain sharp edges with no greys or colours. You would think that it would be the easiest to scan. The problem is that bitmap images often end up either lacking detail or clogged in darker areas. The Bitmap or Black & White settings in your scanning software will rarely yield favourable results. I'll show you how to create beautiful line art." class="item sans  ">Beautiful Line Art</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/prepress-skillz.html" title="2.9: Designers need to get a solid handle on file prep for the press. The skillz below are some essential skillz you need to master." class="item sans summative ">Prepress Skillz</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/brushes.html" title="3.0: You don't need to be a fine artist to create beautiful artwork with brushes in Photoshop. As a matter of fact, Photoshop brushes can help the novice painter create stunning artwork. It also opens new possibilities for the more experienced." class="item sans  ">Brushes</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/pastel-drawing.html" title="3.9: In this unit, we'll set up Photoshop for Pastel drawing, including installing a workspace file, swatches and more. By the end of this module, you'll be able to produce artwork that looks like it was made with real pastels." class="item sans summative ">Pastel Drawing</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/page-layout-formative.html" title="4.0: " class="item sans  ">Page Layout Formative</a></li>
+	
+
+	
+		<li><a href="/topics/page-layout-output.html" title="4.1: " class="item sans  ">Page Layout Output</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/page-layout-summative.html" title="4.9: " class="item sans summative ">Page Layout Summative</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+</ul>
+</nav>
+		</aside>
+	<main role="main">
+			
+			<h3>Watch the Video Tutorial</h3>
+			<div id="embed-youtube-container">
+				<iframe src="https://www.youtube.com/embed/Ga2Xi2ngo20?rel=0" frameborder="0" allowfullscreen></iframe>
+			</div>
+			
+		 <div>
+			<!--- Find a youtube video of a die cutter in use. --->
+
+<p>When you design any sort of packaging, a kit folder or some other printed piece that has a custom shape, the printer needs to cut the custom shape from the stock. To do so, they’ll produce a physical die. The die is pressed hard against the stock until it cuts it to punch out the desired shape.</p>
+
+<!--- IMAGE: image of a physical die. --->
+
+<!--- IMAGE: Image of items that require a die, like a package, a kit folder and something else. --->
+
+<h2 id="anatomy-of-a-package">Anatomy of a Package</h2>
+
+<p>A die cut can cut a shape out of a sheet. But it can also score and create slits.</p>
+
+<p><img class="size100" alt="dielines-move-copy" src="/images/dielines/die-line.svg" /></p>
+
+<p>As you can see in the image, the shape of the box has been cut out of some card stock. More than that, the scoring was also done. There’s a slit cut in the top flap so the user can close the box after the initial seal has been broken.</p>
+
+<h2 id="planning">Planning</h2>
+
+<p>It’s really important to plan before drawing out your die line. The best way to plan is to take out some scrap paper and your Xacto to build a mockup of your design. Eventually, your design will be physically cut out of card stock, so you can imagine that accuracy is of the utmost importance.</p>
+
+<div class="attentionbox achtung">
+  Your printer is an invaluable resource at this stage. Get them involved in the process at the outset. They'll likely have valuable advice. They'll also flag any issues early in the process, avoiding any costly mistakes.
+</div>
+
+<p>If you’re basing your design on an existing piece, it’s worth scanning, then tracing the original in Illustrator.</p>
+
+<h2 id="draw-your-die-line">Draw Your Die Line</h2>
+
+<h3 id="delete-unused">Delete Unused…</h3>
+
+<p>Before we start drawing, let’s delete all the swatches from all panels. These are the affected panels:</p>
+
+<ul>
+  <li>Swatches</li>
+  <li>Symbols</li>
+  <li>Graphic Styles</li>
+  <li>Brushes</li>
+</ul>
+
+<p>Go to the respective panel menues. Select Delete unusued… ⌥-click on the panel’s trash icon to delete them without a confirmation dialogue.</p>
+
+<h3 id="spot-colour">Spot Colour</h3>
+
+<p>Before you get drawing, you need to create a spot colour in Illustrator with which you will draw your die line. It can be any colour. Name the swatch Die Line.</p>
+
+<p><img class="size75" alt="dielines-new-spot-colour" src="/images/dielines/dielines-new-spot-colour.jpg" /></p>
+
+<p>Make sure you die line colour is actually a spot colour. You can tell it is by the dot in the corner of the swatch’s icon.</p>
+
+<h3 id="set-up-graphic-styles">Set up Graphic Styles</h3>
+
+<p>On a die line, a solid stroke represents a cut. A dashed stroke represents a fold. We really want things to be consistent.</p>
+
+<p><img class="size75" alt="dielines-fold-line-graphic-style" src="/images/dielines/dielines-fold-line-graphic-style.jpg" /></p>
+
+<p>Let’s create a graphic style for the dashed line.</p>
+
+<h3 id="drawing">Drawing</h3>
+
+<p>The Pen Tool is the only way to go when drawing a dieline. You can’t easily use the shape tools. You can build your package from almost only one line. Draw a line, then use the move/copy dialogue and the Transform panel or the Move dialogue to create your design.</p>
+
+<p><img class="size75" alt="dielines-move-copy" src="/images/dielines/dielines-move-copy.gif" /></p>
+
+<p>In this case, I select the stroke, hit Return, then enter the value I want. Click copy. Done.</p>
+
+<div class="attentionbox tip">
+  This may seem crazy, but in Illustrator (and in InDesign), a negative number will move a shape upwards and a positive number moves it down in the Transform panel. Numbers are coordinates from the top-left corner of the page. Get it?
+</div>
+
+<p>As you draw, keep extras of the shapes you bild on your canvas in case you need to re-used them. When I’m done, I usually hide them on a layer that’s off and non-printing. I delete them from the file I send to print.</p>
+
+<p>As you draw with the Pen Tool, the Scissor Tool may come in handy too. It’s useful for snipping paths. If you have overlapping paths, it snips the one you have selected.</p>
+
+<h3 id="slits">Slits</h3>
+
+<p>Slits are a cut made on the inside of the piece that don’t reach the edges. You’ve fought with them on the flaps of a cereal box to re-close it. They’re simply a regular line drawn in Illustrator. They’re not dashed.</p>
+
+<h2 id="to-indesign">To InDesign!</h2>
+
+<p>We want to place our completed die line on a page in InDesign in order to place our artwork on it. InDesign is most flexible for doing the layout of your content. If your design allows, you could always complete the whole design in Illustrator. Avoid doing this if your design involves placed images and a lot of text. InDesign is really your best solution for this.</p>
+
+<p><img class="size100" alt="dielines-document-setup" src="/images/dielines/dielines-indesign-document-setup.jpg" /></p>
+
+<p>I’ve created an InDesign document that’s slightly larger than my die line. Use File &gt; Place… to import your native Illustrator (.ai) file onto the page. As you’re placing, simply click, don’t drag. This will place the image at 100% of its orginal dimensions. You need to double-check this in the control bar.</p>
+
+<div class="attentionbox achtung">
+  If your die line is scaled in InDesign all of your artwork is going to be produced at the wrong size.
+</div>
+
+<p>Once my die line art is in place, I name and lock its layer. Create a new layer beneath this one on which you’ll place all of your artwork.</p>
+
+<div class="attentionbox tip">
+  Once you're done, empty out your panels in InDesign, too.
+</div>
+
+<h2 id="to-production">To Production!</h2>
+
+<p>Using InDesign’s Package function is the best way to collect assets to send to production. The native Illustrator document will be in the Links folder. It may be worth creating another copy of the file at the root of your project folder. It’s also a good idea to print and assemble your die line to make everything absolutely obvious to the printer. You can write instructions on it, if needed.</p>
+
+		 </div>
+			
+			<div>
+			
+				<h2 class="fw300 fs16">Formative Activity</h2>
+			
+			<h2 id="software-skills">Software Skills</h2>
+
+<ul>
+  <li>Transform panel.</li>
+  <li>Spot colours (for strokes on the die-line.)</li>
+  <li>Create artwork on separate illustrator layers.</li>
+  <li>Import everything into InDesign upon completion.</li>
+  <li>Check Separations Preview panel for correct colour break.</li>
+  <li>Printers’ marks</li>
+</ul>
+
+<p>Draw a die line in Illustrator based on this image.</p>
+
+<p><img class="size100" alt="dielines-move-copy" src="/images/dielines/die-line.svg" /></p>
+
+		 </div>
+			
+		</main>
+	<aside id="rightrail" class="sans">
+				
+			
+			<div class="formsum">
+			<h3 class="fs90 uc">Assessment</h3>
+				<p>
+					This is a <span class="fw600">formative</span> assignment. That means that you'll be learning and practicing new software skills. This assignment contributes to your final grade in the course. This work will be graded as either:
+				</p>
+				<div class="completeincomplete">
+					<span class="complete fw600">Complete</span>
+					<span class="incomplete fw600">Incomplete</span>
+				</div>
+				<p>
+				If needed, I will provide written feedback on your performance.
+				</p>
+			</div>
+			
+				
+				
+				<h3 class="uc">Supplemental Links</h3>
+					
+							<ul>
+  <li><a href="http://media2.fwpublications.com/DESIGN/Digital-Downloads/handmade-packaging-creating-a-dieline.pdf" target="_blank" title="How to make a die line">Make a die line</a></li>
+  <li><a href="http://www.claytowne.com/beats-digging-ditches/dieline-tutorial-how-to-create-a-dieline-for-your-product-package-design/" target="_blank" title="How to make a die line">How to make a die line</a></li>
+</ul>
+
+					
+				
+				
+			 <div id="submission">
+				<h3 class="uc">Submission Instructions</h3>
+				<div class="submission">
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+					  <p>
+    Make sure your InDesign document is named Last name, First name, Group Nº, assignment name. So,
+  </p>
+  <div class="filename">
+		Appleseed-Johnny-#-Die Lines.indd
+  </div>
+  <p>
+    Check your font usage to only include Adobe Fonts. To do so, go <span class="command">Type > Find Fonts</span>. There should only be Adobe Fonts in the list.
+  </p>
+  <p>
+    Check your image usage in the Links panel. Make sure there are no warning icons in the panel.
+  </p>
+  <p>
+    Once this is done, save your document, then package it using <span class="command">File > Package</span>. The resulting folder will already be named properly. Zip-compress the folder by right-clicking on it, then choosing <span class="command">Compress...</span>.
+  </p>
+<p>
+	<span class="limegreen">Failure to submit your files as directed will incur a proportional loss of points. If your file/folder is not named with your name, you will earn a zero. <a href="assessment.html#filenames" title="Why is file naming important?">Why?</a></span>
+</p>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				</div>
+			 </div>
+				
+				
+							<div class="button">
+								<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86416&grpid=0&isprv=0&bp=0&ou=92653" target="_blank" title="Submit your files here." class="submit">Submit Your Files</a>
+							</div>
+				
+		 </aside>
+</section>
+		<footer class="sans" role="contentinfo">
+<div class="site-logo">
+	<a href="/"><img src="/images/svg/logo-ac-computer-graphics.svg" alt="AC Computer Graphics Home"></a>
+</div>
+<nav>
+	<div class="items">
+			<div class="item">
+				<a href="/" title="Home" class="fw600 ">
+						Home 
+					</a>
+			</div>
+		<div class="item">
+			<a href="/cg1/index.html" title="Semester One" class="fw600 ">
+				CG1 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg2/index.html" title="Semester Two" class="fw600 ">
+				CG2 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg3/index.html" title="Semester Three" class="fw600 current">
+				CG3 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg4/index.html" title="Semester Four" class="fw600 ">
+				CG4 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg5/index.html" title="Semester Five" class="fw600 ">
+				CG5 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg6/index.html" title="Semester Six" class="fw600 ">
+				CG6 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/fpp/index.html" title="Fieldwork & Professional Practice" class="fw600 ">
+				Fieldwork 
+			</a>
+		</div>
+	</div>
+	<div class="items fw300">
+		<div class="item">
+			<a href="/setup/index.html" title="Setup" class="">Set&nbsp;Up</a>
+		</div>
+		<div class="item">
+			<a href="/topics/stock.html" title="Stock Photography" class="">Stock</a>
+		</div>
+		<div class="item">
+			<a href="http://www.youtube.com/accomputergraphics" title="AC Computer Graphics Video Tutorials" target="_blank">YouTube</a>
+		</div>
+		<div class="item">
+			<a href="https://brightspace.algonquincollege.com/d2l/home" title="Brightspace, Your Learning Management System" target="_blank">Brightspace</a>
+		</div>
+	</div>
+</nav>
+<div class="block">
+	<div class="items">
+		<div class="item"><a href="https://www.algonquincollege.com/counselling/home/" alt:="Algonquin College Counselling Services" target="_blank">Counselling Services</a></div>
+		<div class="item"><a href="https://www.algonquincollege.com/cal" alt:="Centre for Accessible Learning" target="_blank">Centre for Accessible Learning</a></div>
+		<div class="item"><a href="https://www.algonquincollege.com/ccr/" alt:="Algonquin College Co-Curricular Activities" target="_blank">Co-Curriculars</a></div>
+	</div>	
+	<div class="items">
+		<div class="item"><a href="/topics/feedback.html" title="Anonymous Student Feedback.">Anonymous Course Feedback</a></div>
+		<div class="item"><a href="/topics/assessment.html" title="Assessment">Assessment</a></div>
+		<div class="item"><a href="/topics/hardware.html" title="These are the hardware requirements for the Graphic Design Program at Algonquin College.">Hardware Requirements</a></div>
+	</div>
+	<div class="items">
+		<div class="item"><a href="https://algonquindesign.ca" title="The Algonquin Design Program Page">AlgonquinDesign.ca</a></div>
+		<div class="item"><a href="https://www.behance.net/algonquindesign" title="The Algonquin Design Program Behance Page">Algonquin Design Behance</a></div>
+		<div class="item"><a href="/topics/pantone-books.html" title="Submitting assignments on Brightspace.">Purchase Pantone Books</a></div>
+	</div>
+	<div class="items">
+		<div class="item"><a href="/topics/rgd.html" title="DesignThinkers Conference">DesignThinkers</a></div>
+		<div class="item"><a href="https://algonquindesign.ca/fieldwork/" title="Info on Fieldwork">Fieldwork</a></div>
+		<div class="item"><a href="/topics/calendars.html" title="Course Calendars">Calendars</a></div>
+	</div>
+</div>
+<div class="block">
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+		<span itemprop="name" class="fw600 item">Alain Paradis</span>
+		<span itemprop="jobTitle" class="item">Coordinator & Professor</span>
+		<span class="item">Office: N200A</span>
+		<span itemprop="email" class="item"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#97;&#114;&#97;&#100;&#105;&#97;&#64;&#97;&#108;&#103;&#111;&#110;&#113;&#117;&#105;&#110;&#99;&#111;&#108;&#108;&#101;&#103;&#101;&#46;&#99;&#111;&#109;">E-Mail</a></span>
+		<span class="item"><a href="https://twitter.com/alainparadis" title="Al's Twitter account">Twitter</a></span>
+		<span itemprop="telephone" class="item"><a href="tel:+16136182138">+1-613-618-2138</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+			<span itemprop="name" class="item fw600">Greg Treadwell</span>
+			<span itemprop="jobTitle">Instructor</span>
+			<span class="item"><a href="mailto:treadwg@algonquincollege.com" title="Contact Greg via e-mail.">E-Mail</a></span>
+			<span class="item"><a href="https://twitter.com/gregtreadwell" title="Follow Greg on Twitter">Twitter</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+			<span itemprop="name" class="item fw600">Anish Parmar</span>
+			<span itemprop="jobTitle" class="item">Instructor</span>
+			<span class="item"><a href="mailto:anish.s.parmar@gmail.com" title="Contact Anish via e-mail.">E-Mail</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+	</div>
+</div>
+<div class="block school-address">
+	<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+	<span class="fw600">Algonquin College</span>
+	<span itemprop="streetAddress">N200-1385 Woodroffe Ave.</span>
+	<span itemprop="addressLocality">Ottawa,</span>
+	<span itemprop="addressRegion">ON,</span>
+	<span itemprop="addressCountry">Canada</span>
+	<span itemprop="postalCode">K2G 1V8</span>
+</div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<h3 class="uc fs10">Topics</h3>
+{% assign all_topics = site.topics | sort: 'sortorder' %}
+<nav>
+<ul>
+	{% for topic in all_topics %}
+	{% if topic.level contains page.level %}
+		<li><a href="{{ site.baseurl }}{{topic.url}}" title="{{topic.sortorder}}: {{topic.description}}" class="item sans {% if topic.formsum == 'summative' %}summative{% endif %} {% if topic.url contains page.url %}limegreen{% endif %}">{{topic.title}}</a></li>
+	{% endif %}
+{% endfor %}
+</ul>
+</nav>

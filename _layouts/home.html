@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+<body>
+<header class="sans">
+	<nav>
+		{% include top-nav.html %}
+	</nav>
+	<div class="site-id">
+		<div class="site-logo">
+		<a href="{{ site.baseurl }}/">
+		<img class="site-logo stacked" alt="Algonquin College Graphic Design Program Computer Graphics Course Curriculum" src="/images/svg/logo-ac-computer-graphics-stacked.svg">
+		<img class="site-logo horizontal size100" alt="Algonquin College Graphic Design Program Computer Graphics Course Curriculum" src="/images/svg/logo-ac-computer-graphics.svg">
+		</a>
+		</div>
+		<div class="description sans fw300">
+			{{page.description}}
+		</div>
+	</div>
+</header>
+<section>
+	<div class="panel panel-cg1">
+		<h3><a href="{{ site.baseurl }}/cg1/index.html" title="Course Home" class="darkgreen font12">{{ site.data.stream[0].coursetitle }}</a></h3>
+		{% include panel.html course=site.topics coursename='cg1' %}
+	</div>
+	<div class="panel panel-cg2">
+		<h3><a href="{{ site.baseurl }}/cg2/index.html" title="Course Home" class="darkgreen font12">{{ site.data.stream[1].coursetitle }}</a></h3>
+		{% include panel.html course=site.topics coursename='cg2' %}
+	</div>
+	<div class="panel panel-cg3">
+		<h3><a href="{{ site.baseurl }}/cg3/index.html" title="Course Home" class="darkgreen font12">{{ site.data.stream[2].coursetitle }}</a></h3>
+		{% include panel.html course=site.topics coursename='cg3' %}
+	</div>
+	<div class="panel panel-cg4">
+		<h3><a href="{{ site.baseurl }}/cg4/index.html" title="Course Home" class="darkgreen font12">{{ site.data.stream[3].coursetitle }}</a></h3>
+		{% include panel.html course=site.topics coursename='cg4' %}
+	</div>
+	<div class="panel panel-cg5">
+		<h3><a href="{{ site.baseurl }}/cg5/index.html" title="Course Home" class="darkgreen font12">{{ site.data.stream[4].coursetitle }}</a></h3>
+		{% include panel.html course=site.topics coursename='cg5' %}
+	</div>
+	<div class="panel panel-cg6">
+		<h3><a href="{{ site.baseurl }}/cg6/index.html" title="Course Home" class="darkgreen font12">{{ site.data.stream[5].coursetitle }}</a></h3>
+		{% include panel.html course=site.topics coursename='cg6' %}
+	</div>
+</section>
+{% include footer.html %}
+  </body>
+</html>

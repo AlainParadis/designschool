@@ -1,0 +1,31 @@
+<div class="table sans">
+	<div class="table-row">
+		<div class="table-header fw700">
+			Title
+		</div>
+		<div class="table-header fw700">
+			Apps
+		</div>
+  	</div> 
+{% assign all_topics = include.course | sort: 'sortorder' %}
+	{% for topic in all_topics %}
+	{% if topic.level contains include.coursename %}
+	<div class="table-row {% if topic.formsum == 'summative' %}summative{% endif %}">
+		<div class="table-cell title {% if topic.formsum == 'summative' %}summative{% endif %}">
+			<a href="{{ site.baseurl }}{{topic.url}}" title="{{ topic.sortorder }}: {{ topic.description }}">{{ topic.title }}</a>
+		</div>
+		<div class="table-cell {% if topic.formsum == 'summative' %}summative{% endif %}">
+			{% if topic.appsused contains 'macos' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-macos.svg" alt="Mac OS icon"></span>{% endif %}
+			{% if topic.appsused contains 'cc' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-cc.svg" alt="Creative Cloud icon"></span>{% endif %}
+			{% if topic.appsused contains 'indd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-indd.svg" alt="InDesign icon"></span>{% endif %}
+			{% if topic.appsused contains 'ai' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-ai.svg" alt="Illustrator icon"></span>{% endif %}
+			{% if topic.appsused contains 'psd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-psd.svg" alt="Photoshop icon"></span>{% endif %}
+			{% if topic.appsused contains 'lr' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-lr.svg" alt="Lightroom icon"></span>{% endif %}
+			{% if topic.appsused contains 'pdf' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-pdf.svg" alt="Acrobat icon"></span>{% endif %}
+			{% if topic.appsused contains 'xd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-xd.svg" alt="Xd icon"></span>{% endif %}
+			{% if topic.appsused contains 'dn' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-dn.svg" alt="Adobe Dimensions"></span>{% endif %}
+		</div>
+	</div>
+	{% endif %}
+{% endfor %}
+</div>

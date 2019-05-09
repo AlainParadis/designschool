@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+<body>
+<header>
+	<div>
+		{% include top-nav.html %}
+	</div>
+</header>
+	<section>
+		<article>
+			{% if page.title %}
+			<h2>{{ page.title }}</h2>
+			{% endif %}
+			{% if page.description %}
+			<div class="description">
+				 {{ page.description | markdownify }}
+			</div>
+			{% endif %}
+			{{content}}
+		</article>
+	</section>
+	<footer>{% include footer.html %}</footer>
+</body>
+</html>

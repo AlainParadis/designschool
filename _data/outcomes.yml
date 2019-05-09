@@ -1,0 +1,163 @@
+- indesign: #Nº 0
+  align-panel: InDesign - Use the Align panel to aling or distribute objects on the page.
+  artwork-bleeds: InDesign - Make artwork bleed exactly 1/8".
+  book-creation: InDesign - Learn how to create a book document.
+  bulleted-lists: InDesign - Create and format bulleted lists with Paragraph Styles.
+  character-style-underlines: InDesign - Use Character Styles to create underlines in InDesign.
+  character-styles-name: InDesign - Name Character Styles by font family, size & colour.
+  character-styles-organize: InDesign - Organize Paragraph Styles in their palette.
+  character-styles-use: InDesign - Use Character Styles to style text in the appropriate circumstance.
+  colour-swatches: InDesign - Learn how to create colour swatches of various types.
+  colour-theme-tool: InDesign - Use the Colour Theme Tool to exctract colours from an image to create a theme.
+  compound-paths: InDesign - 
+  content-collector-tool: InDesign - Use the Content Conveyor Tool to re-use content in your document.
+  cmyk: InDesign - Convert images to CMYK colour mode for commercial printing.
+  defaults: InDesign - Edit default InDesign settings.
+  document-bleeds: InDesign - Create 1/8\" bleeds in your document setup.
+  document-facing-pages: InDesign - Use facing pages in a document formatted to be a publication.
+  document-grid-layout-use: InDesign - Design pages to align content to the document grid.
+  document-grid-layout: InDesign - Document setup with a page grid.
+  document-non-facing-pages: InDesign - Use non-facing pages in a document intended for loose leaf binding or loose pages.
+  file-name: InDesign - Name submitted files as directed.
+  fold-marks: InDesign - Create accurate fold marks in InDesign.
+  fonts: InDesign - Ensure that only the fonts used in the design are present in the file, and no others.
+  frame-fitting-options: InDesign - Learn how to edit a frame to fit its content, or vice-versa.
+  gap-tool: InDesign - Use the Gap Tool to edit spaces between elements on the page.
+  glyphs-and-special-characters: InDesign - Lookup and use specific glyphs and special characters.
+  gradient-feather-tool: InDesign - Learn how to use the Gradient Feather Tool.
+  indesign-tabes-cell-styles: InDesign - Use Cell Styles in InDesign to format table cell.
+  indesign-tables-styles: InDesign - Use Table Styles to format tables in InDesign.
+  indesign-tables: InDesign - Create tables in InDesign.
+  keyboard-shortcuts: InDesign - Create and edit sets of keyboard shortcuts.
+  layer-names: InDesign - Name layers appropriately in Photoshop
+  master-pages-use: InDesign - Place artwork on Master Pages when appropriate.
+  object-styles: InDesign - Use Object Styles to store effects on styled objects.
+  package-files: InDesign - Use the Package function in InDesign to submit with all support files.
+  page-tool: InDesign - Use the page tool to edit the dimensions of pages in a document.
+  page-numbering: InDesign - Create and edit automatice page numbers in InDesign.
+  paragraph-rules-forms: InDesign - Use Paragraph Rules in the context of Form Design.
+  paragraph-styles-name: InDesign - Name Paragraph Styles by font family, size & colour.
+  paragraph-styles-organize: InDesign - Organize Paragraph Styles in their palette.
+  paragraph-styles-use: InDesign - Use Paragraph Style to style text.
+  pathfinder: InDesign - Use the Pathfinder palette to edit shapes.
+  place-100-percent: InDesign - Re-size images in Photoshop so they're at 100% in InDesign.
+  place-cmyk: InDesign - Placed images in InDesign in CMYK mode for print.
+  place-vector-images: InDesign - Place Illustrator documents in InDesign.
+  preferences: InDesign - Edit default preferences in InDesign.
+  preflight-panel: InDesign - Learn to use the Preflight Panel to ensure print-readiness.
+  running-headers: InDesign - Create and edit running headers.
+  shape-tools: InDesign - Use various shape tools to draw in InDesign.
+  table-of-contents: InDesign - Create a table of contents for a long document.
+  tables: InDesign - Create and edit tables.
+  tables-styles: InDesign - Store table styling in Table Styles.
+  tabs-and-indents: InDesign - Set tabs and indents to properly format text.
+  text-composition: InDesign - Use Text Composition settings to fine-tune text.
+  text-frame-creation: InDesign - Create multi-column text frames.
+  text-frame-threading: InDesign - Learn how to manage text frame threatding.
+  text-wraps: InDesign - Learn how to make text wrap around or jump over objects.
+  transparency: InDesign - Create, edit and manage transparency.
+  workspaces: Photoshop - Create and Edit custom workspaces.
+
+# Create a multi-page document with columns, margins and bleeds in InDesign.
+# This formatted text will include columns, paragraphs, bulleted lists and tables.
+
+- Photoshop: Photoshop #Nº 1
+  adjustment-layers: Photoshop - Use Adjustment Layers in Photoshop files to create effects.
+  actions: Photoshop - Use Actions to automate workflows.
+  blend-modes: Photoshop - Use Blend Modes to achieve colour effects.
+  clipping-paths: Photoshop - Use Photoshop's Pen Tool to close-crop an area of a photo.
+  clone-stamp-tool: Photoshop - Use the Clone Stamp tool in Photoshop to repair raster images non-destructively.
+  clone-stamp: Photoshop - Use the Clone Stamp tool in Photoshop to repair raster images non-destructively.
+  colour-depth: Photoshop - Understand colour depth (or bit depth)
+  colour-mode-cmyk: Photoshop - Set the colour mode of Photoshop files to CMYK for print.
+  colour-mode-rgb: Photoshop - Set the colour mode of Photoshop files to RGB for the screen.
+  file-name: Photoshop - Name submitted files as directed.
+  healing-brush: Photoshop - Use the Healing Brush tool in Photoshop to repair raster images non-destructively.
+  layer-masks: Photoshop - Use layer masks in Photoshop to hide areas of an image.
+  layer-organization: Photoshop - Organize and name layers & layer groups in Photoshop.
+  named-layers: Photoshop - Name layers contextually.
+  patch-tool: Photoshop - Use the Patch tool in Photohsop to repair raster images non-destructively.
+  pixel-dimensions: Photoshop - Change the pixel dimensions of Photoshop files as directed.
+  preferences: Photohsop - Edit default preferences in Photoshop.
+  resolution: Photoshop - Set the resolution of raster files as directed.
+  smart-objects: Photoshop - Convert a regular raster layer to a Smart Object.
+  type-point-type: Photoshop - Create and style Point Type for short amounts of text.
+  type-area-type: Photoshop - Create and style Area Type for paragraphs of text.
+  type-type-on-a-path: Photoshop - Create and style Type on a Path.
+  workspaces: Photoshop - Create and Edit custom workspaces.
+
+
+# Understand the concept of raster image resolution
+# Understand raster image pixel dimensions.
+# Understand colour depth (or bit depth)
+# Understand raster image colour modes.
+
+- Illustrator: #Nº 2
+  actions: Illustrator - Use Actions to automate workflows.
+  align: Illustrator - Use the Align functionality to align or distribute artwork.
+  artboards: Illustrator - Create, edit and manage artboards.
+  artwork-bleeds: Illustrator - Make artwork bleed exactly 1/8"; no more, no less.
+  blends: Illustrator - Use Blends to create repeating artwork.
+  brushes: Illustrator - Create edit and use Brushes.
+  colour-swatches: Illustrator - Effectively manage regular, global, gradient, pattern and spot colour swatches.
+  colour-guide: Illustrator - Use the Colour Guides palette to create, edit and manage colour themes.
+  colour-themes: Illustrator - Use the Colour Themes palette to create, edit and manage colour themes.
+  compount-paths: Illustrator - Create Compound Paths to ...
+  cmyk-document: Illustrator - Set up documents with only CMYK colours for four colour process printing.
+  create-document: Illustrator - Create an Illustrator document which adheres to given specifications.
+  default-document: Illustrator - Edit Illustrator's default document.
+  document-bleeds: Illustrator - Create 1/8\" bleeds in the document setup.
+  draw-modes: Illustrator - Use Draw Inside and Draw Behind modes.
+  file-name: Illustrator - Name submitted files as directed.
+  gradient-mesh: Illustrator - Use the Gradient Mesh tool to create artwork.
+  graphic-styles: Illustrator - Use Graphic Styles to make editing artwork easier.
+  graphs: Illustrator - Use the Graph Tool to create live, editable charts.
+  image-trace: Illustrator - Use the Image Trace functionality to vectorize raster artwork.
+  layer-organization: Illustrator - Organize artwork on named Layers, as directed.
+  opacity-mask: Illustrator - Create an Opacity Mask to hide or reveal artwork in an editable way.
+  pathfinder: Illustrator - Use Pathfinder to edit shapes.
+  pattern-tool: Illustrator - Use the Pattern function in Illustrator.
+  pen-tool-tracing: Illustrator - Use the Pen Tool to trace artwork in Illustrator. What we're looking for here is closed paths that circle around to where they started. They need to be kink-free and gap-free paths.
+  place-100-percent: Illustrator - Re-size images in Photoshop so they're at 100% in Illustrator.
+  place-raster-images: Illustrator - Place linked (not embedded) raster image in Illustrator.
+  preferences: Illustrator - Edit default preferences in Illustrator.
+  spot-colour-document: Illustrator - Set up documents with only spot colours for commercial printing.
+  symbols: Illustrator - Use Symbols to make editing many pieces of artwork easier.
+  touch-type-tool: Illustrator - Use the Touch Type Tool to create cutom type effects.
+  transparency: Illustrator - Create, edit and manage transparent artwork for print.
+  type-point-type: Illustrator - Create and style Point Type for short amounts of text.
+  type-area-type: Illustrator - Create and style Area Type for paragraphs of text.
+  type-type-on-a-path: Illustrator - Create and style Type on a Path.
+  width-tool: Illustrator - Use the Width Tool to create, edit and manage custom paths.
+  workspaces: Photoshop - Create and Edit custom workspaces.
+
+- Acrobat: #Nº 3
+  seps: Acrobat - Create a colour separated PDF file.
+  crop-marks: Acrobat - Create a PDF file with crop marks.
+  pdf-file-size: Acrobat - Use Adobe Distiller to create as small a PDF as possible.
+  press-ready-pdf: Acrobat - Create a press-ready PDF file.
+  # I need to add all Acrobat forms skills here.
+
+- MacOS: #Nº 4
+  adobe-installation: Finder - Install Adobe Creative Cloud application as demonstrated.
+  adobe-updates: Finder - Adobe desktop apps are up to date.
+  browser-downloads-folder: Finder - Change your browser's downloads folder to the Desktop, so you can organize files right away.
+  canvas-login: Finder - Log in to Canvas to access your course materials.
+  connect-to-vpn: Finder - Log in to the College's VPN nextwork.
+  desktop-view-options: Finder - Change your Desktop View Options to match those in the provided video tutorial.
+  dock-setup: Finder - Set up your Mac's Dock as shown in the provided video tutorial.
+  file-organization: Finder - Organize project files on your computer.
+  finder-preferences: Finder - Set your Finder Preferences as set out in the provided video tutorial.
+  folder-structure: Finder - Create a folder structure per semester/course/assignment.
+  font-folder-setup: Finder - Set up provided font files and folders as demonstrated.
+  macos-updates: Finder - Mac operating system updates have been installed.
+  office-installation: Finder - Install Microsoft Office 2016 for Mac.
+  organize-fonts: Finder - Organize and activate fonts.
+  printers-setup: Finder - Install provided printer drivers for the classrooms and for the Print Shop.
+  scanning: Image Capture - Use the Image Capture app on your Mac to scan images which adhere to given specifications.
+  time-machine-backup: Finder - Have a Time Machine backup that's no older than 3 days.
+  time-machine-setup: Finder - Purchase and set up an external hard drive running Time Machine.
+  open-with-settings: Finder - Change your Finder settings so raster images open in Adobe Photoshop.
+
+- Design: #Nº 5
+  colour-theme: Design - Devise a colour theme for an illustration.

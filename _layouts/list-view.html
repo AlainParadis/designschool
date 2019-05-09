@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+<body>
+<header class="sans">
+	{% include top-nav.html %}
+  <div class="masthead">
+  	{% include header.html %}
+  </div>
+<div class="wrapper">
+<article>
+	<div class="description">
+		{{ page.description | markdownify }}
+	</div>
+	<ul>
+  {% assign all_topics = site.topics | sort: 'sortorder' %}
+  	{% for cards in all_topics %}
+  	{% if cards.type == 'card' %}
+    {% if cards.level %}
+			<li><a href="{{ site.baseurl }}{{cards.url}}" class="">{{cards.title}}</a></li>
+    {% endif %}
+    {% endif %} 
+    {% endfor %}
+	</ul>
+</article>
+      </div>
+    {% include footer.html %}
+  </body>
+</html>

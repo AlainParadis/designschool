@@ -1,0 +1,31 @@
+- coursetitle: Computer Graphics One # Stream [0]
+  nickname: CG One
+  shortname: CG1
+
+- coursetitle: Computer Graphics Two # Stream [1]
+  nickname: CG Two
+  shortname: CG2
+
+- coursetitle: Computer Graphics Three # Stream [2]
+  nickname: CG Three
+  shortname: CG3
+
+- coursetitle: Computer Graphics Four # Stream [3]
+  nickname: CG Four
+  shortname: CG4
+
+- coursetitle: Computer Graphics Five # Stream [4]
+  nickname: CG Five
+  shortname: CG5
+
+- coursetitle: Computer Graphics Six # Stream [5]
+  nickname: CG Six
+  shortname: CG6
+
+- coursetitle: Setup # Stream [6]
+  nickname: Setup
+  shortname: setup
+
+- coursetitle: Fieldwork # Stream [7]
+  nickname: Fieldwork
+  shortname: Fieldwork

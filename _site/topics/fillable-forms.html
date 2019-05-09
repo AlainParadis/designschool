@@ -1,0 +1,847 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+	<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>
+	  
+		AC Computer Graphics : Fillable Forms
+	  
+	</title>
+	<meta name="generator" content="BBEdit 11.5" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="/css/main.css" rel="stylesheet">
+	<link href="/css/layout.css" rel="stylesheet">
+	<link href="/css/typography.css" rel="stylesheet">
+
+<!-- Social Tags -->
+
+<!-- for Google -->
+<meta name="description" content="Creating a fillable form using the Acrobat PDF format is a reliable, flexible and versatile way to have forms distributed and signed. We'll explore this functionality today." />
+
+<meta name="author" content="Alain Paradis, Algonquin College" />
+<meta name="copyright" content="Alain Paradis, Algonquin College, 2017-2018" />
+
+<!-- for Facebook -->          
+<meta property="og:title" content="Fillable Forms" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="/images/general/algonquin-brand-panel.jpg" />
+<meta property="og:url" content="/topics/fillable-forms.html" />
+<meta property="og:description" content="Creating a fillable form using the Acrobat PDF format is a reliable, flexible and versatile way to have forms distributed and signed. We'll explore this functionality today." />
+
+<!-- for Twitter -->          
+<meta name="twitter:site" content="@alainparadis" />
+<meta name="twitter:title" content="Fillable Forms" />
+<meta name="twitter:description" content="Creating a fillable form using the Acrobat PDF format is a reliable, flexible and versatile way to have forms distributed and signed. We'll explore this functionality today." />
+<meta name="twitter:image" content="/images/general/algonquin-brand-panel.jpg" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End of Social Tags -->
+
+<!-- This is the Adobe Adobe Fonts script. -->
+
+<script src="https://use.typekit.net/lqr6ffc.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<!-- Start Google Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-87728502-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- End Google Analytics Tracking Code -->
+
+<!-- This are the Favicon links. -->
+	<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="/favicon/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/favicon/manifest.json">
+	<link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="theme-color" content="#ffffff">
+
+</head>
+<body>
+<header class="sans" role="banner">
+	<nav role="navigation">
+		<div class="left fw600">
+	<div class="item">
+		<a href="/" title="Home" class="">
+				Home 
+			</a>
+	</div>
+	<div class="item">
+		<a href="/cg1/index.html" title="Semester One" class="">
+			CG1 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg2/index.html" title="Semester Two" class="">
+			CG2 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg3/index.html" title="Semester Three" class="">
+			CG3 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg4/index.html" title="Semester Four" class="current">
+			CG4 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg5/index.html" title="Semester Five" class="">
+			CG5 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/cg6/index.html" title="Semester Six" class="">
+			CG6 
+		</a>
+	</div>
+	<div class="item">
+		<a href="/fpp/index.html" title="Fieldwork & Professional Practice" class="">
+			Fieldwork 
+		</a>
+	</div>
+</div>
+<div class="right fw300">
+	<div class="item">
+		<a href="/setup/index.html" title="Setup" class="">Set&nbsp;Up</a>
+	</div>
+	<div class="item">
+		<a href="/topics/stock.html" title="Stock Photography" class="">Stock</a>
+	</div>
+	<div class="item">
+		<a href="http://www.youtube.com/accomputergraphics" title="AC Computer Graphics Video Tutorials" target="_blank">YouTube</a>
+	</div>
+	<div class="item">
+		<a href="https://brightspace.algonquincollege.com/d2l/home" title="Brighspace, Your Learning Management System" target="_blank">Brightspace</a>
+	</div>
+</div>
+	</nav>
+	<div class="site-logo page-logo">
+			<a href="/" title="Home">
+		<img alt="Algonquin College Computer Graphics Logo" src="/images/svg/logo-ac-computer-graphics.svg">
+			</a>
+	</div>
+</header>
+<section class="page-title">
+	<div class="left"></div>
+	<div class="center">
+		<h1 class="fs20 fw300">Fillable Forms</h1>
+		<div class="description sans fs12 fw300">
+		Creating a fillable form using the Acrobat PDF format is a reliable, flexible and versatile way to have forms distributed and signed. We'll explore this functionality today.
+		</div>
+	</div>
+	<div class="right">
+		
+		<div>
+		<span class="appsused sans uc f500 fs70">Apps Used:</span>
+		
+		
+		<span class="app-icon"><img src="/images/svg/icon-indd.svg" alt="Adobe InDesign"></span>
+		
+		
+		<span class="app-icon"><img src="/images/svg/icon-pdf.svg" alt="Adobe Acrobat"></span>
+		
+		
+		
+		</div>
+		
+	</div>
+</section>
+<section>
+	<aside>
+			<h3 class="uc fs10">Topics</h3>
+
+<nav>
+<ul>
+	
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/setup-day1-cg4.html" title="0: As we start classes, it's important to get set up for the semester. Follow the instructions below." class="item sans  ">Semester Start</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/symbols.html" title="1.0: If you have a piece of artwork that repeats many times in your work, it's best to make a Symbol of it. The symbol can be edited, then all the instances you've used will update at once. You can even make colour variations with Dynamic Symbols." class="item sans  ">Symbols</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/gradient-mesh.html" title="2.0: Adobe -- A mesh object is a multi-coloured object on which colors can flow in different directions and transition smoothly from one point to another." class="item sans  ">Gradient Mesh</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/content-aware.html" title="3.0: Content-Aware tools intelligently fill areas of a photo with a seamlessly background. These tools appear throughout Photoshop. We'll discover the many ways it can be used." class="item sans  ">Content Aware</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/colour-correction.html" title="3.1: We'll explore techniques which take the guesswork out of making colour corrections in Photoshop." class="item sans  ">Colour Correction</a></li>
+	
+
+	
+		<li><a href="/topics/transforms.html" title="3.2: In this lesson, we'll explore the limitless transformation capabilities of Adobe Photoshop; all in a non-destructive workflow, of course." class="item sans  ">Transforms</a></li>
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/sharpen-and-blur.html" title="3.4: Photoshop doesn't really understand blurry or sharp. It just sees more or less contrast between pixels. It uses different algorithms in its blurring and sharpening tools to achieve its ends. Yeah. Algorithms." class="item sans  ">Sharpen & Blur</a></li>
+	
+
+	
+		<li><a href="/topics/vector-shapes.html" title="3.5: Vectors aren't only the domain of Illustrator. Photoshop is quite adept at creating beautiful resolution-independant scalable graphics." class="item sans  ">Vector Shapes</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/data-merge-liberals.html" title="4.2: We will produce business cards for a large number of individuals working for the same organization using data merge functionality in Adobe InDesign." class="item sans  ">Data Merge Liberals</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/data-merge-conservatives.html" title="4.9: The Conservative Party of Canada needs business cards for all of its members. Your job is to design a card, then output one card for each member, using InDesign's Data Merge functionality." class="item sans summative ">Data Merge Conservatives</a></li>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/actions.html" title="6.0: Performing repetitive tasks on your computer can cause errors and be really tedious. Automator is an often ignored app which can save you a ton of time." class="item sans  ">Actions</a></li>
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/conditional-actions.html" title="6.1: You're aware of Actions in Photoshop. Did you know you can create if/then statements which setup conditions before an action is run?" class="item sans  ">Conditional Actions</a></li>
+	
+
+	
+		<li><a href="/topics/data-driven-graphics.html" title="6.2: Garbage in, garbage out is a sound warning to heed when working with data. You'll need to take special care to format your spreadsheet with a column for each variable in your file." class="item sans  ">Data Driven Graphics</a></li>
+	
+
+	
+
+	
+
+	
+		<li><a href="/topics/fillable-forms.html" title="7.1: Creating a fillable form using the Acrobat PDF format is a reliable, flexible and versatile way to have forms distributed and signed. We'll explore this functionality today." class="item sans  limegreen">Fillable Forms</a></li>
+	
+
+	
+		<li><a href="/topics/acrobat-forms.html" title="7.9: Use the text and logo provided in today's downloads to design a form, then make it a fillable PDF file." class="item sans summative ">Acrobat Forms</a></li>
+	
+
+	
+
+</ul>
+</nav>
+		</aside>
+	<main role="main">
+			
+			<h3>Watch the Video Tutorial</h3>
+			<div id="embed-youtube-container">
+				<iframe src="https://www.youtube.com/embed/5SLD5Bv2rGg" frameborder="0" allowfullscreen></iframe>
+			</div>
+			
+		 <div>
+			<p>There are many great reasons for using Acrobat forms rather than paper forms. First of all, they’re more ecological. It’s a great idea to make Acorbat forms part of a paperless workflow. Respondents don’t need to copy or fax forms. The recipient of the response data gets information which is manipulated much more easily. These are all great benefits of working digitally rather than with paper.</p>
+
+<p>You can use Acrobat forms for such things as:</p>
+
+<ul>
+  <li>Identification</li>
+  <li>Permissions</li>
+  <li>Co-op applications</li>
+  <li>and much, much more…</li>
+</ul>
+
+		 </div>
+			
+			<div>
+			
+				<h2 class="fw300 fs16">Formative Activity</h2>
+			
+			<h2 id="the-acrobat-forms-workflow">The Acrobat Forms Workflow</h2>
+
+<p>We create forms from existing documents. Acrobat cannot create a form from scratch. You can use applications like Microsoft Word, Excel, or Adobe InDesign. These applications have functions to export a document as a PDF, which can then be converted to a fillable form. You’ll need to explore your application of choice to learn how to produce a PDF document from your native form document.</p>
+
+<p><img class="size50" alt="mac-os-PDF-print-dialogue" src="/images/acrobat-forms/mac-os-PDF-print-dialogue.jpg" /></p>
+
+<p>If you’re on a Mac, you can create a PDF document any application using the Print dialogue. There’s a menu at the bottom-right corner which includes a PDF creation option.</p>
+
+<p>You can even scan a paper form, then have Acrobat convert it to a PDF form quite efficiently. The key is to have a well designed form to start with.</p>
+
+<h2 id="form-content--design">Form Content &amp; Design</h2>
+
+<p>Acrobat can create your form automatically using the wizard. To ensure it guesses your intentions correctly, you’ll need to:</p>
+
+<ol>
+  <li>Design your form with clear, specific questions.</li>
+  <li>Draw clear field elements.</li>
+  <li>Draw circles where radio buttons go and squares where checkboxes go.</li>
+</ol>
+
+<p><img class="size75" alt="form-design-mine" src="/images/acrobat-forms/form-design-mine.jpg" /></p>
+
+<p>A well designed form consists of two major factors. The first is related to the text. It’s very important to ask specific questions. Be accurate with your words. As an example, don’t ask only for a person’s name. Ask for their first and their last names in separate fields.</p>
+
+<p>The second factor in good form design is the layout of the page. The visual relationship of the labels to the fields should be very clear. Here, alignment and proximity matter. White space is also important. Leave a lot of room between elements on the page.</p>
+
+<h2 id="acrobat-tools">Acrobat Tools</h2>
+
+<p>Before we create our PDF form in Acrobat, we’ll start by adding the Prepare Forms tool to our Tools panel. Click on the <span class="command">Tools</span> tab, then search for the Prepare Forms tool. Once you’ve found it, drag it to the panel on the right. Voilà! You’re done.</p>
+
+<p><img class="size100" alt="acrobat-tools-setup" src="/images/acrobat-forms/acrobat-tools-setup.jpg" /></p>
+
+<h2 id="the-wizard">The Wizard</h2>
+
+<p>Now we’re ready to convert our static form design to a fillable PDF form. If you’ve designed your form using clear, specific questions and form fields, it’s likely the wizard will do a large majority of the work for you. You need to have created visual clues for Acrobat to detect where you intend to have fields.</p>
+
+<p><img class="size25" alt="acrobat-forms-prepare-forms" src="/images/acrobat-forms/acrobat-forms-prepare-forms.jpg" /></p>
+
+<p>Click the <span class="command">Prepare Form</span> button in your tools panel. You’ll be given the choice of input. Do you want to prepare a form from:</p>
+
+<p><img class="size50" alt="acrobat-forms-wizard" src="/images/acrobat-forms/acrobat-forms-wizard.jpg" /></p>
+
+<ol>
+  <li>the document you have open?</li>
+  <li>choose another document?</li>
+  <li>scan a document to convert to a form?</li>
+</ol>
+
+<p>If you want Acrobat to create the form automatically, you’ll need to ensure <span class="command">Form field auto-detection</span> is set to <span class="command">ON</span>.</p>
+
+<p><img class="size75" alt="form-wizard-run" src="/images/acrobat-forms/form-wizard-run.jpg" /></p>
+
+<p>If you’ve designed your form well, it will even create the field labels for you. As you can see in the image above, we only have a bit of clean-up to do to complete our fillable form.</p>
+
+<h2 id="editing-acrobat-form-fields">Editing Acrobat Form Fields</h2>
+
+<p>You can draw new fields on a form manually using the field creation tools. These appear along the top edge of your document when you click on <em>Prepare Form</em> in your Tools panel.</p>
+
+<p><img class="size100" alt="acrobat-types-of-fields" src="/images/acrobat-forms/acrobat-types-of-input.svg" /></p>
+
+<p>Each field type comes with many options in the respective Properties dialogues. These are some important items to note:</p>
+
+<p>A series of check boxes allow for multiple selections, while radio buttons are meant for exclusive choices.</p>
+
+<p>A text field can be made to accept only one line of text or multiple lines of scrollable text.</p>
+
+<p>Avoid the <em>List of Choices</em> input. It’s a usability nighmare. Use a dropdown list instead.</p>
+
+<p>When you create radio buttons, you need to give them identical names. They get created as a <em>group</em>. In the button’s <span class="command">Properties &gt; Options</span> field, you can give an individual radio button its name.</p>
+
+<p>When there’s a finite list of options for a field, it’s best to use a dropdown list. They ensure the respondent is limited to the provided answers.</p>
+
+<p><img class="size75" alt="form-fields-list-pane" src="/images/acrobat-forms/form-fields-list-pane.jpg" /></p>
+
+<p>We need to make sure each form field is named and works the way we want. The Fields pane lists the fields in your form, with their types. In this case, most fields are text fields. The Food Preference item is a Radio button group. The <em>Walk on the beach</em> item is a checkbox.</p>
+
+<p><img class="size50" alt="form-field-properties-dialogue" src="/images/acrobat-forms/form-field-properties-dialogue.jpg" /></p>
+
+<p>You can edit each field by double-clicking on it to access its Properties dialogue. These are a few important options:</p>
+
+<ol>
+  <li>Name the field with a unique name without spaces nor special characters.</li>
+  <li>You can make the field a mandatory one, so the respondant has to fill it before the form can be sent.</li>
+  <li>Set the appearance of the responant’s text. You can optionally make the text scale to accomodate more text than the field can hold.</li>
+</ol>
+
+<p>It’s important to name fields with unique, meaningful names as you create them. Note that fields with the same name act together. This means that if you type in one field, the result will appear in all the fields with the same name.</p>
+
+<h3 id="text-field-restrictions">Text Field Restrictions</h3>
+
+<p>You can edit a form field to have it only accept a certain type of data. Double-click on a field, then go to the Format tab. It’s best to use minimal requirements here to not frustrate the responent.</p>
+
+<p><img class="size50" alt="field-formats" src="/images/acrobat-forms/field-formats.jpg" /></p>
+
+<p>Here, you could do something like ensure that respondents enter a date properly. In this case, a date needs to be typed in the dd-mmm-yy format.</p>
+
+<h4 id="creating-buttons">Creating Buttons</h4>
+
+<p>Buttons are used to perform an action like resetting the form or navigating to the next page.</p>
+
+<p><img class="size75" alt="forms-button" src="/images/acrobat-forms/forms-button.jpg" /></p>
+
+<p>You can set a button to show on screen but not print. It is, after all useless to have a button printed on a piece of paper.</p>
+
+<p>A form action is needed to make the button do something. Go to <span class="command">Properties &gt; Actions</span>. Make your button take action on <span class="command">Mouse up</span>. You can choose from the dropdown menu of actions, or you can choose <span class="command">Execute a Menu Item…</span>. This allows you to attribute any menu item to the button. Very powerful…</p>
+
+<h3 id="barcodes">Barcodes</h3>
+
+<p><img class="size33" alt="barcode-icon" src="/images/acrobat-forms/barcode-icon.jpg" /></p>
+
+<p>Barcodes are added to the form. Once the form is completed, the respondents’ data is stored in the barcode. The code can be scanned to collect all the data from a paper form. This requires specialized document scanners and software. This is of very limited use without a significant financial investment.</p>
+
+<h4 id="tab-order">Tab Order</h4>
+
+<p>You’ve probably already noticed that you can use the Tab key on your keyboard to move from one field to another in a form. As the author of the form, you can intentionally set the tab order.</p>
+
+<p><img class="size50" alt="forms-tab-order" src="/images/acrobat-forms/forms-tab-order.jpg" /></p>
+
+<p>To change the tab order, you can drag field names up and down the list in the tools panel on the right.</p>
+
+<h2 id="signing-acrobat-forms">Signing Acrobat Forms</h2>
+
+<p>Once the recipient has filled out the form, they can sign it digitally. They don’t even need paid software to do this. Signing functionality if free for all users.</p>
+
+<p>Signatures are useful to receive confirmations or approvals for the form. This really completed the paperless Acrobat workflow.</p>
+
+<h3 id="easily-sign-any-pdf-file">Easily Sign any PDF File</h3>
+
+<p>The first, most universal method of signing forms is to use the <em>Fill &amp; Sign</em> tool. This is available to any user who has Acrobat DC Pro or Acrobat DC Reader, so it’s a free solution. This option offers no tracking of documents.</p>
+
+<p>The workflow in this case is to e-mail the form to recipients. They’ll sign them, then send them back via e-mail. This is less convenient when you have large numbers of recipients.</p>
+
+<p><img class="size33" alt="acrobat-forms-fill-and-sign" src="/images/acrobat-forms/acrobat-forms-fill-and-sign.jpg" /></p>
+
+<p>This tool gives you the option to sign or initial the document. You have the choice of:</p>
+
+<ol>
+  <li>Typing your signature with one of the provided script fonts.</li>
+  <li>Drawing your signature with the mouse. Awkward!</li>
+  <li>Using an image. You’ll need to get an image of your signature.</li>
+</ol>
+
+<p><img class="size50" alt="signature-typed" src="/images/acrobat-forms/signature-typed.gif" /></p>
+
+<p>It’s a good idea to do a Save As… command to save a copy of your signed form. Once a form is signed, the responses can no longer be edited.</p>
+
+<p>You want to ensure that your PDFs are usable by all recipients. Some won’t have Adobe Acrobat software on their computers. As good practice, you can provide a link to <a href="https://get.adobe.com/reader" title="Get Adobe Acrobat Reader for free." target="_blank">https://get.adobe.com/reader</a> on your form or in an e-mail.</p>
+
+<p>If you’re not guaranteed that recipients will have the latest Adobe Acrobat software, you can enable this in most versions. Go File &gt; Save as Other &gt; Reader Extended PDF &gt; Enable More Tools … The resulting dialogue explains the details. Make sure you save a copy, because this new one is less editable.</p>
+
+<p><img class="size50" alt="enable-fill-and-save" src="/images/acrobat-forms/enable-fill-and-save.jpg" /></p>
+
+<h3 id="send-for-signature">Send for Signature</h3>
+
+<p>If you want to gather signatures in a more automated way, you can use <em>Send for Signature</em>. This allows you to send any PDF file, then even attach other documents along with it. The recipients don’t even need to have any Adobe software installed. They’ll receive an e-mail notification, then sign the form right from their browser.</p>
+
+<p><img class="size50" alt="send-for-signature" src="/images/acrobat-forms/send-for-signature.gif" /></p>
+
+<p>As the sender, you can track the form by clicking <em>Manage Form</em>. The rest of the work is done in a browser. All your managed PDF files stay at <a href="http://documents.adobe.com" title="Adobe PDF Forms Management" target="_blank">documents.adobe.com</a>.</p>
+
+<h4 id="digital-ids">Digital IDs</h4>
+
+<p>If you require more secure signatures, you can use a password protected one called a digital ID. To use this, you’ll create a field with the signature tool.</p>
+
+<p><img class="size50" alt="form-tools-panel-signature-tool" src="/images/acrobat-forms/form-tools-panel-signature-tool.gif" /></p>
+
+<p>When the field is clicked on by the user, a dialogue appears asking for a digital ID. The user will need to go through the process of creating an ID. Once this is done, they’ll be able to sign documents securely in the future.</p>
+
+<p><img class="size50" alt="signature-digital-id" src="/images/acrobat-forms/signature-digital-id.jpg" /></p>
+
+<p>Once this is done, you can create a signature image and sign forms in a very secure manner. As the signatory, make sure you create a strong password, then save it in a password manager application.</p>
+
+<h2 id="collecting-pdf-form-data">Collecting PDF Form Data</h2>
+
+<p>If you have a large group of recipients filling out forms, it’s possible to collect the data in a spreadsheet. Acrobat DC Pro and a spreadsheet application is all you need.</p>
+
+<p>The basic workflow for sending forms to be signed relies on the recipient to send it back to you via e-mail. This may not be completely reliable. There is a way to resolve this.</p>
+
+<p>You can add a Submit button to your form using the Button tool.</p>
+
+<p><img class="size75" alt="create-submit-button" src="/images/acrobat-forms/create-submit-button.jpg" /></p>
+
+<p>The form’s author will receive .fdf files which can be combined into a spreadsheet using Adobe Acrobat.</p>
+
+<p><img class="size50" alt="merge-data-files-into-spreadsheet" src="/images/acrobat-forms/merge-data-files-into-spreadsheet.jpg" /></p>
+
+<p>From here, it’s up to you, the author to use the received data as you see fit.</p>
+
+		 </div>
+			
+		</main>
+	<aside id="rightrail" class="sans">
+				
+					<div class="button download">
+							<a href="https://www.dropbox.com/s/skdz0piynua7131/acrobat-fillable-forms.zip?dl=1" title="Download practice & exercise files for this assignment." class="fw600 uc white" target="_blank">Download Files</a>
+					</div>
+				
+			
+			<div class="formsum">
+			<h3 class="fs90 uc">Assessment</h3>
+				<p>
+					This is a <span class="fw600">formative</span> assignment. That means that you'll be learning and practicing new software skills. This assignment contributes to your final grade in the course. This work will be graded as either:
+				</p>
+				<div class="completeincomplete">
+					<span class="complete fw600">Complete</span>
+					<span class="incomplete fw600">Incomplete</span>
+				</div>
+				<p>
+				If needed, I will provide written feedback on your performance.
+				</p>
+			</div>
+			
+				
+				
+				
+			 <div id="submission">
+				<h3 class="uc">Submission Instructions</h3>
+				<div class="submission">
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+					<p>
+	Once you've completed your work, make sure your PDF file is named Last name, First name, Group Nº, assignment name.pdf. So,
+</p>
+<div class="filename">
+		Appleseed-Johnny-#-Fillable Forms.pdf
+</div>
+<p>A PDF is supposed to be a compact file. Make sure yours isn't bigger than 5MB.</p>
+<p>
+	<span class="limegreen">Failure to submit your files as directed will incur a proportional loss of points. If your file/folder is not named with your name, you will earn a zero. <a href="assessment.html#filenames" title="Why is file naming important?">Why?</a></span>
+</p>
+				
+				
+				
+				
+				
+				
+				
+				</div>
+			 </div>
+				
+				
+							<div class="button">
+								<a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=123831&grpid=0&isprv=&bp=0&ou=145538" target="_blank" title="Submit your files here." class="submit">Submit Your Files</a>
+							</div>
+				
+		 </aside>
+</section>
+		<footer class="sans" role="contentinfo">
+<div class="site-logo">
+	<a href="/"><img src="/images/svg/logo-ac-computer-graphics.svg" alt="AC Computer Graphics Home"></a>
+</div>
+<nav>
+	<div class="items">
+			<div class="item">
+				<a href="/" title="Home" class="fw600 ">
+						Home 
+					</a>
+			</div>
+		<div class="item">
+			<a href="/cg1/index.html" title="Semester One" class="fw600 ">
+				CG1 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg2/index.html" title="Semester Two" class="fw600 ">
+				CG2 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg3/index.html" title="Semester Three" class="fw600 ">
+				CG3 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg4/index.html" title="Semester Four" class="fw600 current">
+				CG4 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg5/index.html" title="Semester Five" class="fw600 ">
+				CG5 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/cg6/index.html" title="Semester Six" class="fw600 ">
+				CG6 
+			</a>
+		</div>
+		<div class="item">
+			<a href="/fpp/index.html" title="Fieldwork & Professional Practice" class="fw600 ">
+				Fieldwork 
+			</a>
+		</div>
+	</div>
+	<div class="items fw300">
+		<div class="item">
+			<a href="/setup/index.html" title="Setup" class="">Set&nbsp;Up</a>
+		</div>
+		<div class="item">
+			<a href="/topics/stock.html" title="Stock Photography" class="">Stock</a>
+		</div>
+		<div class="item">
+			<a href="http://www.youtube.com/accomputergraphics" title="AC Computer Graphics Video Tutorials" target="_blank">YouTube</a>
+		</div>
+		<div class="item">
+			<a href="https://brightspace.algonquincollege.com/d2l/home" title="Brightspace, Your Learning Management System" target="_blank">Brightspace</a>
+		</div>
+	</div>
+</nav>
+<div class="block">
+	<div class="items">
+		<div class="item"><a href="https://www.algonquincollege.com/counselling/home/" alt:="Algonquin College Counselling Services" target="_blank">Counselling Services</a></div>
+		<div class="item"><a href="https://www.algonquincollege.com/cal" alt:="Centre for Accessible Learning" target="_blank">Centre for Accessible Learning</a></div>
+		<div class="item"><a href="https://www.algonquincollege.com/ccr/" alt:="Algonquin College Co-Curricular Activities" target="_blank">Co-Curriculars</a></div>
+	</div>	
+	<div class="items">
+		<div class="item"><a href="/topics/feedback.html" title="Anonymous Student Feedback.">Anonymous Course Feedback</a></div>
+		<div class="item"><a href="/topics/assessment.html" title="Assessment">Assessment</a></div>
+		<div class="item"><a href="/topics/hardware.html" title="These are the hardware requirements for the Graphic Design Program at Algonquin College.">Hardware Requirements</a></div>
+	</div>
+	<div class="items">
+		<div class="item"><a href="https://algonquindesign.ca" title="The Algonquin Design Program Page">AlgonquinDesign.ca</a></div>
+		<div class="item"><a href="https://www.behance.net/algonquindesign" title="The Algonquin Design Program Behance Page">Algonquin Design Behance</a></div>
+		<div class="item"><a href="/topics/pantone-books.html" title="Submitting assignments on Brightspace.">Purchase Pantone Books</a></div>
+	</div>
+	<div class="items">
+		<div class="item"><a href="/topics/rgd.html" title="DesignThinkers Conference">DesignThinkers</a></div>
+		<div class="item"><a href="https://algonquindesign.ca/fieldwork/" title="Info on Fieldwork">Fieldwork</a></div>
+		<div class="item"><a href="/topics/calendars.html" title="Course Calendars">Calendars</a></div>
+	</div>
+</div>
+<div class="block">
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+		<span itemprop="name" class="fw600 item">Alain Paradis</span>
+		<span itemprop="jobTitle" class="item">Coordinator & Professor</span>
+		<span class="item">Office: N200A</span>
+		<span itemprop="email" class="item"><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#97;&#114;&#97;&#100;&#105;&#97;&#64;&#97;&#108;&#103;&#111;&#110;&#113;&#117;&#105;&#110;&#99;&#111;&#108;&#108;&#101;&#103;&#101;&#46;&#99;&#111;&#109;">E-Mail</a></span>
+		<span class="item"><a href="https://twitter.com/alainparadis" title="Al's Twitter account">Twitter</a></span>
+		<span itemprop="telephone" class="item"><a href="tel:+16136182138">+1-613-618-2138</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+			<span itemprop="name" class="item fw600">Greg Treadwell</span>
+			<span itemprop="jobTitle">Instructor</span>
+			<span class="item"><a href="mailto:treadwg@algonquincollege.com" title="Contact Greg via e-mail.">E-Mail</a></span>
+			<span class="item"><a href="https://twitter.com/gregtreadwell" title="Follow Greg on Twitter">Twitter</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+			<span itemprop="name" class="item fw600">Anish Parmar</span>
+			<span itemprop="jobTitle" class="item">Instructor</span>
+			<span class="item"><a href="mailto:anish.s.parmar@gmail.com" title="Contact Anish via e-mail.">E-Mail</a></span>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="items">
+	</div>
+</div>
+<div class="block school-address">
+	<span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+	<span class="fw600">Algonquin College</span>
+	<span itemprop="streetAddress">N200-1385 Woodroffe Ave.</span>
+	<span itemprop="addressLocality">Ottawa,</span>
+	<span itemprop="addressRegion">ON,</span>
+	<span itemprop="addressCountry">Canada</span>
+	<span itemprop="postalCode">K2G 1V8</span>
+</div>
+</footer>
+</body>
+</html>
