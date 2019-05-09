@@ -2,10 +2,10 @@
 layout: default-nav
 type: card
 formsum: summative
-sortorder: 1.9
+sortorder: 5.9
 appsused: dn
 title: "Dimension Summative"
-level: cg6
+level: cg3
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=120803&grpid=0&isprv=0&bp=0&ou=145571"
 submission: "dimension-summative"
 links: |

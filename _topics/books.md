@@ -5,7 +5,7 @@ formsum: formative
 sortorder: 3.0
 appsused: indd
 title: "Books"
-level: cg6
+level: none
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=120807&grpid=0&isprv=0&bp=0&ou=145571"
 submission: "indd-book-package-plus-pdf"
 links: |
