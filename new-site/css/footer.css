@@ -1,0 +1,132 @@
+/*
+Dark Green: #00673E;
+Lime Green: #94C947;
+Orange: #D94F2C;
+*/
+
+footer {
+	display: flex;
+	flex-direction: column;
+	align-items: stretch;
+	justify-content: space-around;
+	margin-bottom: 1rem;
+}
+
+footer {
+	width: 100%;
+	padding: .5em;
+	background-color: #FAFAFA;
+	padding-bottom: 2em;
+}
+
+
+footer nav a {
+	padding-left: .25rem;
+	padding-right: .25rem;
+	font-size: 1rem;
+	text-decoration: none;
+}
+
+footer .block {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	margin-bottom: 0.5rem;
+}
+
+footer nav {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	margin-bottom: 1rem;
+}
+
+footer nav .items {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	margin-bottom: 0.25rem;
+}
+
+footer .block .items {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: flex-start;
+	align-self: flex-start;
+	margin-bottom: 1.0rem;
+}
+
+footer .school-address {
+	display: block;
+	width: 100%;
+}
+
+footer .school-address span {
+	display: inline;
+}
+
+
+/* 25rem = 400px */
+@media only screen and (min-width: 25rem) {
+
+	footer .block {
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: flex-between;
+		margin-bottom: 1.0rem;
+	}
+	
+	footer .block .items {
+		width: 48%;
+	}
+
+}
+
+/* 38rem = 608px */
+@media only screen and (min-width: 42rem) {
+
+		footer nav {
+			flex-direction: row;
+			justify-content: space-between;
+			flex-grow: 1;
+		}
+		
+		footer nav .items {
+			display: flex;
+			justify-content: space-between;
+			margin-bottom: 0;
+		}
+
+		footer nav .item {
+			margin-right: 1.0rem;
+		}
+
+		footer .block {
+			flex-direction: row;
+			flex-wrap: wrap;
+			justify-content: flex-between;
+		}
+	
+		footer .block .items {
+			width: 25%;
+		}
+
+		footer .site-logo {
+			width: 50%;
+		}
+}
+
+/* 60rem = 960px */
+@media only screen and (min-width: 60rem) {
+		footer .site-logo {
+			max-width: 33%;
+		}
+}
+/* 90rem = 1440px */
+@media only screen and (min-width: 90rem) {
+
+}

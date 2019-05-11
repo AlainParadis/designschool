@@ -1,0 +1,54 @@
+Dark Green: #00673E;
+Lime Green: #94C947;
+Orange: #D94F2C;
+*/
+@-moz-viewport
+{
+	width: device-width;
+	scale: 1;
+}
+
+@-ms-viewport { width:device-width; scale:1; }
+@-o-viewport { width:device-width; scale:1; }
+@-webkit-viewport { width:device-width; scale:1; }
+@viewport { width:device-width; scale:1; }
+
+html
+{
+	box-sizing: border-box;
+	font-size: 16px;
+	line-height: 1.4;
+	font-family: sans-serif;
+}
+
+*, *::before, *::after { box-sizing: inherit; }
+
+body
+{
+	font-family: sans-serif;
+	font-size: 16px;
+	margin: auto;
+}
+
+img
+{
+	max-width: 100%;
+	height: auto;
+	display: block;
+	border: 0;
+}
+
+.wrapper {
+	display: grid;
+	background-color: #ddd;
+	grid-template-columns: 10% auto 10% 10% 10%;
+	grid-template-rows: 300px auto;
+	grid-gap: 10px;
+}
+
+.item {
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	background-color: #ccc;
+	text-align: center;
+}

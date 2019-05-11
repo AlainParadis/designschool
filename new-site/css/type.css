@@ -1,0 +1,155 @@
+/*
+Dark Green: #00673E;
+Lime Green: #94c947;
+Orange #F26522;
+*/
+
+/*
+Font Weight, Regular: 400
+Font Weight, Medium: 500
+Font Weight, Bold: 700
+*/
+
+html
+{
+	font-size: 16px;
+	line-height: 1.5;
+	font-family: "proxima-nova", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	color: #000;
+}
+
+body a { color: #000; }
+h1, .exa, h2, .peta, h3, .peta, h4, .giga, h5, .mega, h6, .kilo,
+p, ul, ol, dl, dd, figure, blockquote, details, hr, fieldset, pre, table { margin: 0 0 1.25rem 0; }
+
+h1, h2, h3, h4, h5, h6
+{
+	font-weight: 700;
+	margin-bottom: 0.5rem;
+	color: #00673E;
+}
+
+.nano
+{
+	font-size: 0.7656rem;
+	line-height: 0.957rem;
+}
+
+.micro
+{
+	font-size: 0.875rem;
+	line-height: 1.0937rem;
+}
+
+.body, p
+{
+	font-size: 1rem;
+	line-height: 1.5rem;
+}
+
+.kilo, p, h6
+{
+	font-size: 1rem;
+	line-height: 1.25rem;
+}
+
+.mega, h5
+{
+	font-size: 1.125rem;
+	line-height: 1.4062rem;
+}
+
+.giga, h4
+{
+	font-size: 1.2656rem;
+	line-height: 1.582rem;
+}
+
+.tera, h3
+{
+	font-size: 1.4238rem;
+	line-height: 1.7797rem;
+}
+
+.peta, h2
+{
+	font-size: 1.6018rem;
+	line-height: 2.000rem;
+}
+
+.exa, h1
+{
+	font-size: 1.8020rem;
+	line-height: 2.2525rem;
+}
+
+a, a:link { color: darkgreen; }
+a:visited { color: limegreen; }
+a:hover { color: orange; }
+a:focus { color: blue; }
+a:active { color: red; }
+
+mark {
+  font-family: "proxima-nova", sans-serif;
+  color: #000;
+  background-color: rgba(208, 218, 192, 1);
+  opacity: 1;
+  border-radius: 4px;
+  padding-left: 0.20rem;
+  padding-right: 0.20rem;
+}
+
+blockquote
+{
+	quotes: "\201C""\201D""\2018""\2019";
+	margin: 2rem 0 2rem 0;
+	font-style: italic;
+	padding-left: 1rem;
+	border-left: 6px solid #ccc;
+}
+
+/* 25rem = 400px */
+
+@media only screen and (min-width: 25em)
+{
+	html
+	{
+		font-size: 110%;
+		line-height: 1.5125rem;
+	}
+}
+
+/* 38rem = 608px */
+
+@media only screen and (min-width: 38em)
+{
+	html
+	{
+		font-size: 120%;
+		line-height: 1.6375rem;
+	}
+}
+
+/* 60rem = 960px */
+
+@media only screen and (min-width: 60em)
+{
+	html
+	{
+		font-size: 130%;
+		line-height: 1.7625rem;
+	}
+}
+
+/* 90rem = 1440px */
+
+@media only screen and (min-width: 90em)
+{
+	html
+	{
+		font-size: 140%;
+		line-height: 1.8875rem;
+	}
+}
