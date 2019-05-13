@@ -2,7 +2,7 @@
 layout: default-nav
 type: card
 formsum: formative
-sortorder: 3.5
+sortorder: 3.4
 appsused: psd, ai, indd
 title: "Vector Shapes"
 level: cg4

@@ -2,7 +2,7 @@
 layout: default-nav
 type: card
 formsum: formative
-sortorder: 3.4
+sortorder: 3.3
 appsused: psd
 title: "Sharpen & Blur"
 level: cg4
