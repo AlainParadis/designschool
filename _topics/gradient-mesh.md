@@ -61,6 +61,7 @@ details: |
   </figure>
   Then your Gradient Mesh will better follow the profile of the shape.
 
+assignment: |
   ## Create Gradient Meshes
 
   We've practiced building basic shapes and applying Gradient Meshes to them. Now, let's create more photo-realistic artwork with meshes. We'll create meshes on the soccer ball to create detailed, realistic lighting effects.
@@ -70,24 +71,4 @@ details: |
   As you add gradient meshes on individual shapes, it will be useful to lock others, so you don't affect them. Use <span class="command">⌘-2</span> to lock a selected object. Use <span class="command">Option-⌘-2</span> to unlock everything.
 
   Once you're done, save and close the image. We'll move on to your assignment.
-
-assignment: |
-  There are three files which contain linked images in your downloaded folder. Choose one of them.  Either the:
- 
-  <figure>
-      <img class="size100" alt="gradient-mesh-formative" src="/images/illustrator-gradient-mesh/gradient-mesh-formative.jpg">
-  <figcaption>
-  <ol>
-    <li>Flower</li>
-    <li>Apple</li>
-    <li>Match stick</li>
-  </ol>
-  </figcaption>
-  </figure>
-
-  Start by tracing the object. Avoid making the mesh in one large shape. Trace the image strategically, so you can create the meshes on each object rather than the whole images. If you wish, you can copy the placed photo to the second artboard to trace on top of it.
-
-  <img class="size100" alt="gradient-mesh-examples" src="/images/illustrator-gradient-mesh/gradient-mesh-examples.jpg">
-
-  The goal with the gradient mesh is to be as photo-realistic as possible. You don’t need to replicate each detail of the photo's gradients. The point is to use the photo as inspiration to create a photo-realistic object.
 ---
