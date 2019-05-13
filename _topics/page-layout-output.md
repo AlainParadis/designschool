@@ -16,7 +16,7 @@ description:
 details: |
   ## Booklet
 
-  - Students will you the Create Booklet feature to impose the document pages
+  - Students will you the Create Booklet feature to impose the document pages.
   
   ## PDF
   
