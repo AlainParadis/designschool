@@ -14,14 +14,22 @@ video:
 downloads: 
 description: 
 details: |
+
+  - At this point, their publication will be complete.
+  - This assignment focuses on 3 output methods.
+  - This assignment would replace the one in CG5, which would go away.
+
   ## Booklet
 
-  - Students will you the Create Booklet feature to impose the document pages.
+  - Students will use the Create Booklet feature to impose the document pages.
+  - The result will be an imposed PDF file with all printer's marks.
   
   ## PDF
   
   - Output a PDF for the screen
   - Output a PDF for press, with bleeds & printers marks.
+  - Their table of contents will have hyperlinks to pages.
+  - Embedded video? Other interactive elements?
   
   ## e-PUB
 
