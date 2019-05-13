@@ -47,6 +47,12 @@ details: |
   - Placed as .psd files with one layer.
   - Frame-fitting options, including Content-Aware Fit
 
+  ## File Management & submission
+  
+  - File organization while working
+  - Versioning
+  - File naming
+  - 
 
 assignment: |
 
