@@ -14,6 +14,11 @@ video:
 downloads: 
 description: 
 details: |
+
+  - build a 12-page document with provided text & images.
+  - a printed design guide will be provided.
+    - focus on the software skills, not the design.
+
   ## Layout
 
   - 12 pages
