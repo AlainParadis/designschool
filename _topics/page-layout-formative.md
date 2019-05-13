@@ -16,7 +16,7 @@ description:
 details: |
   ## Layout
 
-  - 4 pages
+  - 12 pages
   - Master Pages
     - *Based on* Master Pages
   - Primary text frames
@@ -52,7 +52,6 @@ details: |
   - File organization while working
   - Versioning
   - File naming
-  - 
 
 assignment: |
 
