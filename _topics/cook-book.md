@@ -42,9 +42,18 @@ details: |
       - Type hierarchy
     - Paper mockup
   - There will be weekly milestones. You'll do as Dave Bromley does in his courses. See each student each week to check-off that they've done that week's work.
-  - You critique their design decistions -- guide them.
+  - You critique their design decisions -- guide them.
+  - This is a big project, but grading at the end of the semester should not be too bad, since you'll be checking in all semester.
     
   ## Software Skills
+
+  ### General
+
+  - Proper project file management
+    - File naming
+    - Versioning
+    - File organization
+  - 
 
   ### InDesign
 
@@ -61,15 +70,19 @@ details: |
     - Bullet lists
     - Number lists
   - InDesign table of contents
+  - More to come...
     
 
   ### Illustrator
 
   - Use basic drawing with shapes
   - Use the Pen Tool to draw paths
+  - Good layer management
   - Apply colour consistent with the project artwork
   - Work in a print-ready workflow
     - Save vector art for in CMYK
+  - Illustrations would be submitted as their own assignment
+  - More to come...
 
   ### Photoshop
 
@@ -80,7 +93,7 @@ details: |
     - Adjustment layers
     - etc...
   - Photos need to be placed in InDesign at 100%
-  - 
+  - Photo files would be submitted as a free-standing assignment
 
   ### Output
 
