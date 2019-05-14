@@ -22,11 +22,12 @@ details: |
 
   - Students will find their own content: recipes, <a href="https://cg.algonquindesign.ca/topics/stock.html" title="Stock Photography" target="_blank">stock photography</a>.
     - You will vet the content for quality.
-    - Text needs to make sense. There needs to be enough text.
+    - Text needs to make sense. There needs to be enough text. *"I really like tons of white space."* is not allowed.
   - They'll create all original illustrations -- no stock illustrations allowed.
   - Book must have a theme.
     - ie: fisherman's guide to cooking fish. Kosher break-making, etc... The more specific the theme, the better.
   - The aesthetics of the book need to be distinctive & consistent.
+  - The book can veer off the cook-book path. It can tell a story, while the recipes are complimentary to that story.
 
   ### Logistics
 
@@ -44,6 +45,10 @@ details: |
   - There will be weekly milestones. You'll do as Dave Bromley does in his courses. See each student each week to check-off that they've done that week's work.
   - You critique their design decisions -- guide them.
   - This is a big project, but grading at the end of the semester should not be too bad, since you'll be checking in all semester.
+  - Construction cannot go forward before all planning is complete
+    - Paper mockup
+    - Page grid design
+
     
   ## Software Skills
 
@@ -53,7 +58,18 @@ details: |
     - File naming
     - Versioning
     - File organization
-  - 
+  - Content strategy
+    - Gather text
+      - will include recipes and complimentary text
+      - must be on-topic for the cook-book theme
+      - remove all text formatting by saving each item in .txt formatting
+    - Photography
+      - Gather all needed photography from provided stock sites
+      - No Google images...
+      - Rename photo files contextually
+      - Organize all photos in Finder by purpose/intent
+    - Research & plan illustration style
+        
 
   ### InDesign
 
@@ -92,8 +108,13 @@ details: |
     - Use Smart Objects
     - Adjustment layers
     - etc...
-  - Photos need to be placed in InDesign at 100%
+  - Photos need to be placed in InDesign
+    - at 100%
+    - in .psd format
+    - with only one layer
+    - transparency allowed
   - Photo files would be submitted as a free-standing assignment
+  - More to come...
 
   ### Output
 
