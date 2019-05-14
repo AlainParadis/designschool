@@ -16,21 +16,6 @@ description: "You're done building your publication! Now, it's time to output th
 details: |
   ## Cook-book Output
 
-  ### Output
-
-  - Output files for different intents
-    - Package native files for commercial printing
-    - PDF for download
-      - Smallest file size
-      - Compressed images
-      - Page order: 
-      - Flat size trimmed to page dimensions
-    - ePub? We could include,
-      - an embedded movie file
-      - hyperlinks
-    - Printed output?
-      - Do we have them print it?
-
   ### File Prep
 
   - Make sure files are organized
@@ -72,11 +57,21 @@ details: |
 
   - Smallest file size
   - Subset all fonts
+  - Page order: reader's spreads
+  - Flat size trimmed to page dimensions
   - In Acrobat: File > Document Properties > Open Fit to Screen with Pages panel
 
   ### ePUB
 
   - Not sure about this
+  - We could include,
+    - an embedded movie file
+    - hyperlinks
+
+  ### Printed output?
+
+  - Do we have them print it?
+
 
 assignment: |
   
