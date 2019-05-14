@@ -3,7 +3,7 @@ layout: default-nav
 type: card
 formsum: formative
 sortorder: 1.0
-appsused: indd
+appsused: indd ai psd
 title: "Cook-book Planning"
 level: cg6
 brightspace: 
