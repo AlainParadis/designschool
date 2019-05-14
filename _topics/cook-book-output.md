@@ -2,7 +2,7 @@
 layout: default-nav
 type: card
 formsum: formative
-sortorder: 4.0
+sortorder: 3.0
 appsused: psd
 title: "Cook-book Output"
 level: cg6
@@ -12,9 +12,24 @@ links: |
   - 
 video: 
 downloads: 
-description: "This assignment will have students demonstrate their Photoshop skills to create photo compositions for their cook-book."
+description: "You're done building your publication! Now, it's time to output the document for the designated intents."
 details: |
   ## Cook-book Output
+
+  ### Output
+
+  - Output files for different intents
+    - Package native files for commercial printing
+    - PDF for download
+      - Smallest file size
+      - Compressed images
+      - Page order: 
+      - Flat size trimmed to page dimensions
+    - ePub? We could include,
+      - an embedded movie file
+      - hyperlinks
+    - Printed output?
+      - Do we have them print it?
 
   ### File Prep
 
@@ -47,6 +62,11 @@ details: |
   - Output to PDF using an appropriate PDF preset
   - Bleeds, crop marks & colour bars
   - In Acrobat: File > Document Properties > Open Fit to Screen with Pages panel
+  - Imposed booklet
+  - 1/8" bleeds - precisely.
+  - CMYK colour mode
+  - Crop marks
+
 
   ### PDF for Download/Screen
 
