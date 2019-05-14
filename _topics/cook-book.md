@@ -64,6 +64,12 @@ details: |
 
   ### Illustrator
 
+  - Use basic drawing with shapes
+  - Use the Pen Tool to draw paths
+  - Apply colour consistent with the project artwork
+  - Work in a print-ready workflow
+    - Save vector art for in CMYK
+
   ### Photoshop
 
   - Proper resolution for food photography
