@@ -4,7 +4,7 @@ type: card
 formsum: formative
 sortorder: 1.0
 appsused: indd
-title: "Cook-book"
+title: "Cook-book Project Brief"
 level: cg6
 brightspace: 
 submission: "generic-zip-folder"
@@ -25,7 +25,7 @@ details: |
     - Text needs to make sense. There needs to be enough text. *"I really like tons of white space."* is not allowed.
   - They'll create all original illustrations -- no stock illustrations allowed.
   - Book must have a theme.
-    - ie: fisherman's guide to cooking fish. Kosher break-making, etc... The more specific the theme, the better.
+    - ie: fisherman's guide to cooking fish. Kosher bread-making, etc... The more specific the theme, the better.
   - The aesthetics of the book need to be distinctive & consistent.
   - The book can veer off the cook-book path. It can tell a story, while the recipes are complimentary to that story.
 
@@ -42,6 +42,7 @@ details: |
       - Font selection
       - Type hierarchy
     - Paper mockup
+    - Binding - Wether they print it or not, they need to plan which type of binding it would use.
   - There will be weekly milestones. You'll do as Dave Bromley does in his courses. See each student each week to check-off that they've done that week's work.
   - You critique their design decisions -- guide them.
   - This is a big project, but grading at the end of the semester should not be too bad, since you'll be checking in all semester.
@@ -133,6 +134,8 @@ details: |
     - ePub? We could include,
       - an embedded movie file
       - hyperlinks
+    - Printed output?
+      - Do we have them print it?
 
 assignment: |
   

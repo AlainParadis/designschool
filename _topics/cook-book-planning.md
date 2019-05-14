@@ -4,7 +4,7 @@ type: card
 formsum: formative
 sortorder: 2.0
 appsused: ai
-title: "Cook-book Illustration"
+title: "Cook-book Planning"
 level: cg6
 brightspace: 
 submission: "generic-zip-folder"
