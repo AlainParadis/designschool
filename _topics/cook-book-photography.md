@@ -2,9 +2,9 @@
 layout: default-nav
 type: card
 formsum: formative
-sortorder: 1.0
+sortorder: 3.0
 appsused: psd
-title: "Photo Composition"
+title: "Cook Book Photography"
 level: cg6
 brightspace: 
 submission: "generic-zip-folder"
@@ -12,7 +12,7 @@ links: |
   - 
 video: 
 downloads: 
-description: 
+description: "This assignment will have students demonstrate their Photoshop skills to create photo compositions for their cook book."
 details: |
   
 assignment: |
