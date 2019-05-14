@@ -60,6 +60,7 @@ details: |
   - Lists
     - Bullet lists
     - Number lists
+  - InDesign table of contents
     
 
   ### Illustrator
@@ -80,7 +81,25 @@ details: |
     - etc...
   - Photos need to be placed in InDesign at 100%
   - 
-  
+
+  ### Output
+
+  - Output files for different intents
+    - Package native files for commercial printing
+    - PDF for print
+      - Imposed booklet
+      - Bleeds set up right
+      - CMYK colour mode
+      - Crop marks
+    - PDF for download
+      - Smallest file size
+      - Compressed images
+      - Page order: 
+      - Flat size trimmed to page dimensions
+    - ePub? We could include,
+      - an embedded movie file
+      - hyperlinks
+
 assignment: |
   
 ---
