@@ -2,7 +2,7 @@
 layout: default-nav
 type: card
 formsum: formative
-sortorder: 5.0
+sortorder: 3.2
 appsused: indd
 title: "Tabs & Indents"
 level: cg2

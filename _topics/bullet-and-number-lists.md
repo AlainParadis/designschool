@@ -2,7 +2,7 @@
 layout: default-nav
 type: card
 formsum: formative
-sortorder: 5.2
+sortorder: 3.1
 appsused: indd
 title: "Bullet & Number Lists"
 level: cg2
