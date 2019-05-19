@@ -1,64 +1,24 @@
-<footer class="sans" role="contentinfo">
+<footer role="contentinfo">
 <div class="site-logo">
 	<a href="{{ site.baseurl }}/"><img src="/images/svg/logo-ac-computer-graphics.svg" alt="AC Computer Graphics Home"></a>
 </div>
 <nav>
-	<div class="items">
-			<div class="item">
-				<a href="{{ site.baseurl }}/" title="Home" class="fw600 {% if page.layout == 'home' %}current{% endif %}">
-						Home 
-					</a>
-			</div>
-		<div class="item">
-			<a href="{{ site.baseurl }}/cg1/index.html" title="Semester One" class="fw600 {% if page.level contains 'cg1' %}current{% endif %}">
-				{{ site.data.stream[0].shortname }} 
-			</a>
-		</div>
-		<div class="item">
-			<a href="{{ site.baseurl }}/cg2/index.html" title="Semester Two" class="fw600 {% if page.level contains 'cg2' %}current{% endif %}">
-				{{ site.data.stream[1].shortname }} 
-			</a>
-		</div>
-		<div class="item">
-			<a href="{{ site.baseurl }}/cg3/index.html" title="Semester Three" class="fw600 {% if page.level contains 'cg3' %}current{% endif %}">
-				{{ site.data.stream[2].shortname }} 
-			</a>
-		</div>
-		<div class="item">
-			<a href="{{ site.baseurl }}/cg4/index.html" title="Semester Four" class="fw600 {% if page.level contains 'cg4' %}current{% endif %}">
-				{{ site.data.stream[3].shortname }} 
-			</a>
-		</div>
-		<div class="item">
-			<a href="{{ site.baseurl }}/cg5/index.html" title="Semester Five" class="fw600 {% if page.level contains 'cg5' %}current{% endif %}">
-				{{ site.data.stream[4].shortname }} 
-			</a>
-		</div>
-		<div class="item">
-			<a href="{{ site.baseurl }}/cg6/index.html" title="Semester Six" class="fw600 {% if page.level contains 'cg6' %}current{% endif %}">
-				{{ site.data.stream[5].shortname }} 
-			</a>
-		</div>
-		<div class="item">
-			<a href="{{ site.baseurl }}/fpp/index.html" title="Fieldwork & Professional Practice" class="fw600 {% if page.level contains 'fpp' %}current{% endif %}">
-				{{ site.data.stream[7].shortname }} 
-			</a>
-		</div>
-	</div>
-	<div class="items fw300">
-		<div class="item">
-			<a href="{{ site.baseurl }}/setup/index.html" title="Setup" class="{% if page.path contains 'setup' %}current{% endif %}">Set&nbsp;Up</a>
-		</div>
-		<div class="item">
-			<a href="{{ site.baseurl }}/topics/stock.html" title="Stock Photography" class="{% if page.path contains 'stock' %}current{% endif %}">Stock</a>
-		</div>
-		<div class="item">
-			<a href="http://www.youtube.com/accomputergraphics" title="AC Computer Graphics Video Tutorials" target="_blank">YouTube</a>
-		</div>
-		<div class="item">
-			<a href="https://brightspace.algonquincollege.com/d2l/home" title="Brightspace, Your Learning Management System" target="_blank">Brightspace</a>
-		</div>
-	</div>
+	<ul class="fw600">
+		<li><a href="{{ site.baseurl }}/" title="Home" class="{% if page.layout == 'home' %}current{% endif %}">Home</a></li>
+		<li><a href="{{ site.baseurl }}/cg1/index.html" title="Semester One" class="{% if page.level contains 'cg1' %}current{% endif %}">{{ site.data.stream[0].shortname }}</a></li>
+		<li><a href="{{ site.baseurl }}/cg2/index.html" title="Semester Two" class="{% if page.level contains 'cg2' %}current{% endif %}">{{ site.data.stream[1].shortname }}</a></li>
+		<li><a href="{{ site.baseurl }}/cg3/index.html" title="Semester Three" class="{% if page.level contains 'cg3' %}current{% endif %}">{{ site.data.stream[2].shortname }}</a></li>
+		<li><a href="{{ site.baseurl }}/cg4/index.html" title="Semester Four" class="{% if page.level contains 'cg4' %}current{% endif %}">{{ site.data.stream[3].shortname }}</a></li>
+		<li><a href="{{ site.baseurl }}/cg5/index.html" title="Semester Five" class="{% if page.level contains 'cg5' %}current{% endif %}">{{ site.data.stream[4].shortname }}</a></li>
+		<li><a href="{{ site.baseurl }}/cg6/index.html" title="Semester Six" class="{% if page.level contains 'cg6' %}current{% endif %}">{{ site.data.stream[5].shortname }}</a></li>
+		<li><a href="{{ site.baseurl }}/fpp/index.html" title="Fieldwork & Professional Practice" class="{% if page.level contains 'fpp' %}current{% endif %}">{{ site.data.stream[7].shortname }}</a></li>
+	</ul>
+	<ul>
+		<li><a href="{{ site.baseurl }}/setup/index.html" title="Setup" class="{% if page.level contains 'setup' %}current{% endif %}">Set&nbsp;Up</a></li>
+		<li><a href="{{ site.baseurl }}/topics/stock.html" title="Stock Photography" class="{% if page.path contains 'stock' %}current{% endif %}">Stock</a></li>
+		<li><a href="http://www.youtube.com/accomputergraphics" title="AC Computer Graphics Video Tutorials" target="_blank">YouTube</a></li>
+		<li><a href="https://brightspace.algonquincollege.com/d2l/home" title="Brighspace, Your Learning Management System" target="_blank">Brightspace</a></li>
+	</ul>
 </nav>
 <div class="block">
 	<div class="items">

@@ -42,17 +42,17 @@ footer {
 	padding-bottom: 2em;
 }
 
-header nav ul {
+nav ul {
 	list-style-type: none;
 	margin-top: 0.25rem;
 	margin-bottom: 1.0rem;
 }
 
-header nav ul li {
+nav ul li {
 	display: inline;
 }
 
-header nav a, footer nav a {
+nav a, nav a {
 	padding-left: .25rem;
 	padding-right: .25rem;
 	font-size: 1rem;
@@ -103,31 +103,6 @@ footer .block {
 	flex-wrap: nowrap;
 	justify-content: space-between;
 	margin-bottom: 0.5rem;
-}
-
-footer nav {
-	display: flex;
-	flex-direction: column;
-	justify-content: space-around;
-	margin-bottom: 1rem;
-}
-
-footer nav .items {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	justify-content: space-around;
-	margin-bottom: 0.25rem;
-}
-
-footer .block .items {
-	display: flex;
-	flex-direction: column;
-	flex-wrap: wrap;
-	justify-content: space-between;
-	align-items: flex-start;
-	align-self: flex-start;
-	margin-bottom: 1.0rem;
 }
 
 footer .school-address {
