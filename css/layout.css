@@ -32,7 +32,6 @@ header, footer {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
-	margin-bottom: 1rem;
 }
 
 footer {
@@ -41,7 +40,10 @@ footer {
 	background-color: #FAFAFA;
 	padding-bottom: 2em;
 }
-
+nav {
+	display: flex;
+	flex-direction: column;
+}
 nav ul {
 	list-style-type: none;
 	margin-top: 0.25rem;
@@ -49,10 +51,11 @@ nav ul {
 }
 
 nav ul li {
-	display: inline;
+	display: block;
+	text-align: center;
 }
 
-nav a, nav a {
+nav a {
 	padding-left: .25rem;
 	padding-right: .25rem;
 	font-size: 1rem;
@@ -342,6 +345,9 @@ figcaption > ol li:before
 	footer .block .items {
 		width: 48%;
 	}
+	nav ul li {
+		display: inline;
+	}
 
 }
 
@@ -355,25 +361,14 @@ figcaption > ol li:before
 		img.size15 { max-width: 15%; }
 		img.size10 { max-width: 10%; }
 
-		header nav {
+		nav {
 			display: flex;
 			flex-direction:row;
 			justify-content: space-between;
 		}
-
-		header nav .left, header nav .right {
-			flex-wrap: nowrap;
-			margin-bottom: 0;
-		}
-
-		header nav .item {
-			margin-right: 0.5rem;
-		}
-
 		header .site-id {
 			flex-direction: row;
 		}
-
 		header .page-logo {
 			margin-left: 0.5rem;
 			width: 50%;
@@ -398,22 +393,6 @@ figcaption > ol li:before
 		header .site-id .description {
 			flex:2;
 			padding-left: 1rem;
-		}
-
-		footer nav {
-			flex-direction: row;
-			justify-content: space-between;
-			flex-grow: 1;
-		}
-		
-		footer nav .items {
-			display: flex;
-			justify-content: space-between;
-			margin-bottom: 0;
-		}
-
-		footer nav .item {
-			margin-right: 1.0rem;
 		}
 
 		footer .block {
@@ -503,9 +482,6 @@ figcaption > ol li:before
 
 /* 60rem = 960px */
 @media only screen and (min-width: 60rem) {
-		header nav .item {
-			margin-right: 1.5rem;
-		}
 
 		header .site-id .site-logo {
 			flex: 1;
