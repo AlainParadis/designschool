@@ -31,8 +31,7 @@ p { margin: 0 0 1rem 0;}
 header, footer {
 	display: flex;
 	flex-direction: column;
-	align-items: stretch;
-	justify-content: space-around;
+	justify-content: space-between;
 	margin-bottom: 1rem;
 }
 
@@ -43,26 +42,14 @@ footer {
 	padding-bottom: 2em;
 }
 
-header nav {
-	display: flex;
-	flex-direction: column;
+header nav ul {
+	list-style-type: none;
 	margin-top: 0.25rem;
 	margin-bottom: 1.0rem;
 }
 
-header nav .left {
-	display: flex;
-	flex-direction: row;
-	justify-content: space-around;
-	flex-wrap: wrap;
-	margin-bottom: 0.5rem;
-}
-
-header nav .right {
-	display: flex;
-	flex-direction: row;
-	justify-content: space-around;
-	flex-wrap: wrap;
+header nav ul li {
+	display: inline;
 }
 
 header nav a, footer nav a {
