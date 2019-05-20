@@ -221,7 +221,6 @@ aside a:hover
 	color: #94C947;
 }
 
-footer a { font-weight: 400; }
 footer a:hover { text-decoration: underline; }
 footer .block a:hover { text-decoration: none; }
 
