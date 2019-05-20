@@ -62,6 +62,19 @@ nav a {
 	text-decoration: none;
 }
 
+aside nav ul li {
+	display: block;
+	text-align: left;
+}
+
+aside nav ul li a {
+	text-decoration: underline;
+}
+
+aside nav ul li a:hover {
+	text-decoration: none;
+}
+
 header .site-id {
 	display:flex;
 	flex-direction:column;
