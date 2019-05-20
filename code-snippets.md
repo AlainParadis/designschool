@@ -11,13 +11,12 @@ I think this loops through all the pages' front matter by level. This is how the
 YAML Front Matter
 
 ---
+### Liquid Loop
+
 deliverables:
   - first
   - second
   - third
----
-
-Code on the page
 
 <ul>
 	{% for deliverable in page.deliverables %}
@@ -25,30 +24,28 @@ Code on the page
 	{% endfor %}
 </ul>
 
----------
-
-## YAML Template
-
----
-layout: default-nav
-modulenumber: module1
-module: Mac Setup
-appsused: macos, indd, ai, psd, pdf, cc
-title: 
-level: cg1
-course: Computer Graphics One
-description: 
-details: | 
-
-img: 
-deliverables:
-  - 
-video:
-  - <a href="#" title="Video" target="_blank">Video</a>
 ---
 
 {% if page.something == sometag %}
-	<h4>Put some text here</h4>
+	<p>Put some text here</p>
 {% elsif page.something == someothertag %}
-	<h4>Put different text here.</h4>
+	<p>Put different text here.</p>
 {% endif %}
+
+### CSS
+
+- Select ALL direct Decendants
+  - .selector >* { attributes:something; }
+
+- Set a container to 100% height of the browser
+  - height:100vh;
+
+### Grid
+
+- To make columns responsive
+  - grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+
+### Emmet
+
+- To make repeating div contents
+  - div.item*30.item$*30{$}*30
