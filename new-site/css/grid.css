@@ -38,43 +38,25 @@ img
 	border: 0;
 }
 
-.wrapper
-{
-	display: grid;
-	background-color: #ddd;
-	padding: 8px;
-}
+.nav {
+    display: flex;
+    border: solid 1px limegreen;
+    justify-content: space-between;
+    }
 
-.item
-{
+.item {
 	background-color: #bbb;
-	text-align: center;
 }
 
-/* 25rem = 400px */
-@media only screen and (min-width:25rem)
-{
-	
+ul.coursenav, ul.links{
+  list-style: none;
+  border: solid 1px darkgrey;
+  padding: 0;
+  margin: 0;
+
 }
 
-/* 38rem = 608px */
-@media only screen and (min-width:38rem)
-{
-	.wrapper {
-		grid-template-columns: [first] 250px [second] 1fr;
-	}
-	.item:nth-child(2) {
-	}
-}
-
-/* 60rem = 960px */
-@media only screen and (min-width:60rem)
-{
-	
-}
-
-/* 90rem = 1440px */
-@media only screen and (min-width:90rem)
-{
-	
+ul.coursenav li, ul.links li {
+  display: inline-block;
+  padding: 0.2rem;
 }
