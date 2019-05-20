@@ -17,5 +17,5 @@ details: |
 
   ## Upload Your Submission
 
-  <a href="https://www.dropbox.com/sh/sy8gmh3f6n2jqj5/AAArZfKalwgGSyr_ufM346tna?dl=0" target="_blank" title="Applied Arts Student awards submission." class="sans">Click here to upload your submission.</a>
+  <a href="https://www.dropbox.com/sh/sy8gmh3f6n2jqj5/AAArZfKalwgGSyr_ufM346tna?dl=0" target="_blank" title="Applied Arts Student awards submission.">Click here to upload your submission.</a>
 ---

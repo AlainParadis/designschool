@@ -100,7 +100,7 @@ details: |
 
   It's only logical that the photo is in a field, right?
 
-  The blur effect is linear. <a href="https://helpx.adobe.com/photoshop/using/blur-gallery.html" target="_blank" title="Adobe's support page about Blur Gallery" class="sans">Adobe</a>: Use Field Blur to build a gradient of blurs, by defining multiple blur points with different amounts of blur. Add multiple pins to the image and specify a blur amount for each pin. The final result is combined effect of all blur pins on the image. You can even add a pin outside the image, to apply the blur at corners.
+  The blur effect is linear. <a href="https://helpx.adobe.com/photoshop/using/blur-gallery.html" target="_blank" title="Adobe's support page about Blur Gallery">Adobe</a>: Use Field Blur to build a gradient of blurs, by defining multiple blur points with different amounts of blur. Add multiple pins to the image and specify a blur amount for each pin. The final result is combined effect of all blur pins on the image. You can even add a pin outside the image, to apply the blur at corners.
 
   Go <span class="command">Filter > Blur Gallery > Field Blur</span>.
 
@@ -114,19 +114,19 @@ details: |
 
   <img class="size75" alt="blurs-iris-blur-example" src="/images/photoshop-sharpen-and-blur/blurs-iris-blur-example.jpg">
 
-  The blur effect is radial. <a href="https://helpx.adobe.com/photoshop/using/blur-gallery.html" target="_blank" title="Adobe's support page about Blur Gallery" class="sans">Adobe</a>: Use the Iris blur to simulate a shallow depth-of-field effect to your picture, irrespective of the camera or lens used. You can also define multiple focus points, an effect almost impossible to achieve using traditional camera techniques.
+  The blur effect is radial. <a href="https://helpx.adobe.com/photoshop/using/blur-gallery.html" target="_blank" title="Adobe's support page about Blur Gallery">Adobe</a>: Use the Iris blur to simulate a shallow depth-of-field effect to your picture, irrespective of the camera or lens used. You can also define multiple focus points, an effect almost impossible to achieve using traditional camera techniques.
 
   ### Spin Blur
 
   <img class="size75" alt="blurs-spin-blur-example" src="/images/photoshop-sharpen-and-blur/blurs-spin-blur-example.jpg">
 
-  The blur effect is radial. <a href="https://helpx.adobe.com/photoshop/using/blur-gallery.html" target="_blank" title="Adobe's support page about Blur Gallery" class="sans">Adobe</a>: Using the Spin Blur effect, you can rotate and blur the image around one or more points. The spin blur is a radial blur measured in degrees. Photoshop lets you work with center points, blur size and shape, and other settings, all while viewing a live preview of the changes.
+  The blur effect is radial. <a href="https://helpx.adobe.com/photoshop/using/blur-gallery.html" target="_blank" title="Adobe's support page about Blur Gallery">Adobe</a>: Using the Spin Blur effect, you can rotate and blur the image around one or more points. The spin blur is a radial blur measured in degrees. Photoshop lets you work with center points, blur size and shape, and other settings, all while viewing a live preview of the changes.
 
   ### Tilt Shift Blur
 
   <img class="size75" alt="blurs-tilt-shift-example" src="/images/photoshop-sharpen-and-blur/blurs-tilt-shift-example.jpg">
 
-  The blur effect is radial. <a href="https://helpx.adobe.com/photoshop/using/blur-gallery.html" target="_blank" title="Adobe's support page about Blur Gallery" class="sans">Adobe</a>: Use the <a href="https://en.wikipedia.org/wiki/Tilt&ndash;shift_photography" target="_blank" title="Wikipedia's page on Tilt-Shift photography.">Tilt-Shift effect</a> to simulate an image taken with a tilt-shift lens. This special effect blur defines area of sharpness, and then fades to a blur at the edges. The Tilt-Shift effect can be used to simulate photos of miniature objects.
+  The blur effect is radial. <a href="https://helpx.adobe.com/photoshop/using/blur-gallery.html" target="_blank" title="Adobe's support page about Blur Gallery">Adobe</a>: Use the <a href="https://en.wikipedia.org/wiki/Tilt&ndash;shift_photography" target="_blank" title="Wikipedia's page on Tilt-Shift photography.">Tilt-Shift effect</a> to simulate an image taken with a tilt-shift lens. This special effect blur defines area of sharpness, and then fades to a blur at the edges. The Tilt-Shift effect can be used to simulate photos of miniature objects.
 
 assignment: |
   Sharpen the provided images with the techniques listed below. Be sure you <span class="command">Convert for Smart Filters</span> at the outset.

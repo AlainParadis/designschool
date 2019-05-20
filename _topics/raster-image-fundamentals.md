@@ -69,7 +69,7 @@ details: |
   ## Resampling
 
   > Resampling is changing the amount of image data as you change either the pixel dimensions or the resolution of an image. When you downsample (decrease the number of pixels), information is deleted from the image. When you resample up (increase the number of pixels, or upsample), new pixels are added.
-  <cite><a href="https://helpx.adobe.com/photoshop/using/image-size-resolution.html" target="_blank" title="Adobe's page about resampling." class="sans">Adobe</a></cite>
+  <cite><a href="https://helpx.adobe.com/photoshop/using/image-size-resolution.html" target="_blank" title="Adobe's page about resampling.">Adobe</a></cite>
 
   Open this image. It's named 02-resample-9"x6".psd. Let's also launch InDesign to place the image on an 18" x 12" page. As you can see, the image takes up the hole page at first.
 

@@ -114,5 +114,5 @@ assignment: |
 
   You're free to use adjustment layers wherever necessary. One requirement is to use them to change the eyes and lips colours of the main model. Be subtle with your edits.
 
-  <span class="fs12 limegreen sans">Have fun and good luck!</span>
+  <span class="fs12 limegreen">Have fun and good luck!</span>
 ---

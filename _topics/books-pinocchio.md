@@ -49,7 +49,7 @@ assignment: |
 
   Define the base serif in the Basic Paragraph style. Create a new style for the Base-Sans paragraph style. Create styles as shown below. Changing their appearance isn't that important for now.
 
-  We're using <a href="https://fonts.adobe.com/fonts/adobe-caslon" title="Adobe Fonts: Adobe Caslon Pro" target="_blank" class="sans">Adobe Caslon Pro</a> for body copy and <a href="https://fonts.adobe.com/fonts/futura-pt" title="Adobe Fonts: Futura PT" target="_blank" class="sans">Futura PT</a> for titles. They're both on Adobe Fonts.
+  We're using <a href="https://fonts.adobe.com/fonts/adobe-caslon" title="Adobe Fonts: Adobe Caslon Pro" target="_blank">Adobe Caslon Pro</a> for body copy and <a href="https://fonts.adobe.com/fonts/futura-pt" title="Adobe Fonts: Futura PT" target="_blank">Futura PT</a> for titles. They're both on Adobe Fonts.
 
   <figure>
       <img class="size100" alt="styles-setup" src="/images/indesign-books-pinocchio/styles-setup.jpg">

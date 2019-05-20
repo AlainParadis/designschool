@@ -37,7 +37,7 @@ details: |
 
   Click on the second large button in the panel. Enter this IP address.
 
-  <span class="sans fs30 orange">10.35.248.192</span>
+  <span class="fs30 orange">10.35.248.192</span>
 
   The information will be populated in the fields below. Rename the printer, if you wish.
 

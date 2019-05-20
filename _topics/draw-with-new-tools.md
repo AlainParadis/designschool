@@ -22,7 +22,7 @@ details: |
 
   <img class="size15 left" alt="Illustrator Curvature Tool Icon" src="/images/illustrator-draw-new-tools/tool-icon-curvature-tool.svg">
 
-  <a href="https://helpx.adobe.com/illustrator/using/curvature-tool.html" target="_blank" title="Adobe's Curvature Tool Support Page" class="sans small">Adobe's Curvature Tool Support Page</a>
+  <a href="https://helpx.adobe.com/illustrator/using/curvature-tool.html" target="_blank" title="Adobe's Curvature Tool Support Page" class="small">Adobe's Curvature Tool Support Page</a>
 
   The keyboard shortcut for the Curvature tool is <span class="command">Shift-Tilde</span>.
 
@@ -36,7 +36,7 @@ details: |
 
   <img class="size15 left" alt="Illustrator Curvature Tool Icon" src="/images/illustrator-draw-new-tools/tool-icon-shape-builder-tool.svg">
 
-  <a href="https://helpx.adobe.com/illustrator/using/building-new-shapes-using-shape.html#remove" target="_blank" title="Adobe's Curvature Tool Support Page" class="sans small">Adobe's Shaper Tool Support Page</a>
+  <a href="https://helpx.adobe.com/illustrator/using/building-new-shapes-using-shape.html#remove" target="_blank" title="Adobe's Curvature Tool Support Page" class="small">Adobe's Shaper Tool Support Page</a>
 
   The keyboard shortcut for the Shape Builder tool is <span class="command">Shift-M</span>.
 
@@ -50,7 +50,7 @@ details: |
 
   <img class="size15 left" alt="Illustrator Shaper Tool Icon" src="/images/illustrator-draw-new-tools/tool-icon-shaper-tool.svg">
 
-  <a href="https://helpx.adobe.com/illustrator/using/building-new-shapes-using-shape.html" target="_blank" title="Adobe's Curvature Tool Support Page" class="sans small">Adobe's Shaper Tool Support Page</a>
+  <a href="https://helpx.adobe.com/illustrator/using/building-new-shapes-using-shape.html" target="_blank" title="Adobe's Curvature Tool Support Page" class="small">Adobe's Shaper Tool Support Page</a>
 
   The keyboard shortcut for the Shaper tool is <span class="command">Shift-N</span>.
 
@@ -76,7 +76,7 @@ details: |
 
   <img class="size15 left" alt="Illustrator Blob Brush Tool Icon" src="/images/illustrator-draw-new-tools/tool-icon-blob-brush.svg">
 
-  <a href="https://helpx.adobe.com/illustrator/atv/cs6-tutorials/using-the-blob-brush-and-eraser-tools.html" target="_blank" title="Adobe's Blob Brush Tool Support Page" class="sans small">Adobe's Blob Brush Tool Support Page</a>
+  <a href="https://helpx.adobe.com/illustrator/atv/cs6-tutorials/using-the-blob-brush-and-eraser-tools.html" target="_blank" title="Adobe's Blob Brush Tool Support Page" class="small">Adobe's Blob Brush Tool Support Page</a>
 
   The keyboard shortcut for the Blob Brush is <span class="command">Shift-B</span>.
 
@@ -96,7 +96,7 @@ details: |
 
   <img class="size15 left" alt="Illustrator Pencil Tool Icon" src="/images/illustrator-draw-new-tools/tool-icon-pencil-tool.svg">
 
-  <a href="https://helpx.adobe.com/illustrator/using/enhanced-pencil-tool.html" target="_blank" title="Adobe's Pencil Tool Support Page" class="sans small">Adobe's Pencil Tool Support Page</a>
+  <a href="https://helpx.adobe.com/illustrator/using/enhanced-pencil-tool.html" target="_blank" title="Adobe's Pencil Tool Support Page" class="small">Adobe's Pencil Tool Support Page</a>
 
   The keyboard shortcut for the Pencil tool is <span class="command">N</span>.
 

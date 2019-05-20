@@ -87,7 +87,7 @@ details: |
 
   ## Vector Shape Tools
 
-  <a href="https://helpx.adobe.com/photoshop/using/drawing-shapes.html" target="_blank" class="sans">Adobe Explainer</a>
+  <a href="https://helpx.adobe.com/photoshop/using/drawing-shapes.html" target="_blank">Adobe Explainer</a>
 
   We're going to focus on the five main vector shape tools, plus the Custom Shape Tool. The tools behave similarly to those in Illustrator. While drawing with them, you can Shift-drag, Option-drag and Option-Shift drag to constrain proportions and draw from the center.
 

@@ -2,7 +2,7 @@
 <html>
   {% include head.html %}
 <body>
-<header class="sans">
+<header>
 	<nav>
 		{% include top-nav.html %}
 	</nav>
@@ -13,12 +13,12 @@
 		<img class="site-logo horizontal" alt="Algonquin College Graphic Design Program Computer Graphics Course Curriculum" src="/images/svg/logo-ac-computer-graphics.svg">
 		</a>
 		</div>
-		<div class="description sans fw300">
+		<div class="description fw300">
 			{{page.description}}
 		</div>
 	</div>
 </header>
-<article class="card-wrapper sans">
+<article class="card-wrapper">
 {% assign all_topics = site.topics | sort: 'sortorder' %}
 	{% for cards in all_topics %}
 	{% if cards.level contains page.level %}

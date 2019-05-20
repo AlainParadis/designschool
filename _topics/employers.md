@@ -20,7 +20,7 @@ video:
 downloads: "https://www.dropbox.com/s/jp8m950e6g5k77i/fieldwork-gradshow-downloads.zip?dl=1"
 description: "Below is a list of potential employers you can contact to do fieldwork."
 details: |
-  <div class="sans fs80">
+  <div class="fs80">
   <hr />
   Organization: Health Standards Organization<br>
   Contact-Person: Sabrina Hubley<br>

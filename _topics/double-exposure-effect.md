@@ -19,9 +19,9 @@ assignment: |
 
   <img class="size75" alt="photoshop-double-exposure-three-examples" src="/images/photoshop-double-exposure/photoshop-double-exposure-three-examples.jpg">
 
-  * One composition will have colour. <span style="font-size: .75rem;" class="sans">[<a href="https://www.pinterest.com/pin/356206651748577960/" target="_blank" title="Examples of the double exposure effect.">source</a>]</span>
-  * One will crop the person. <span style="font-size: .75rem;" class="sans">[<a href="http://illusion.scene360.com/wp-content/uploads/2014/11/Erkin-Demir-03.jpg" target="_blank" title="Examples of the double exposure effect.">source</a>]</span>
-  * Another will feature architecture. <span style="font-size: .75rem;" class="sans">[<a href="http://cdn.designinstruct.com/wp-content/uploads/2014/12/image_01_paleari.jpg" target="_blank" title="Examples of the double exposure effect.">source</a>]</span>
+  * One composition will have colour. <span style="font-size: .75rem;">[<a href="https://www.pinterest.com/pin/356206651748577960/" target="_blank" title="Examples of the double exposure effect.">source</a>]</span>
+  * One will crop the person. <span style="font-size: .75rem;">[<a href="http://illusion.scene360.com/wp-content/uploads/2014/11/Erkin-Demir-03.jpg" target="_blank" title="Examples of the double exposure effect.">source</a>]</span>
+  * Another will feature architecture. <span style="font-size: .75rem;">[<a href="http://cdn.designinstruct.com/wp-content/uploads/2014/12/image_01_paleari.jpg" target="_blank" title="Examples of the double exposure effect.">source</a>]</span>
 
   You can use any and all of the techniques learned in class. Use what you need to get a pleasing result in a non-destructive manner.
 

@@ -48,7 +48,7 @@ details: |
 
   ## .csv File Setup
 
-  <div class="sans fw500 fs15 textcenter">
+  <div class="fw500 fs15 textcenter">
   <a href="https://docs.google.com/spreadsheets/d/11Cel5-wg6XQ92_LnR1VexeKpvoPsviuI1d72V64PR2A/edit?usp=sharing" title="Spreadsheet Data" target="_blank" class="limegreen">Spreadsheet Data</a>
   </div>
 

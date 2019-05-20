@@ -218,7 +218,7 @@ details: |
   You can create a new list from in the Paragraph Style. Set Mode to Continue from Previous.... This makes it that each caption to which you apply this style will take on the next number. The down side is that the numbers to not re-order themselves if you re-order the images.
 
 assignment: |
-  Start by renaming the *Appleseed* folder with your name and group number. Then, go to <a href="https://fonts.adobe.com/fonts/acumin" target="_blank" title="Activate Acumin Pro Regular and Bold." class="sans">Adobe Fonts</a> to activate Acumin Pro Regular and Acumin Pro Bold.
+  Start by renaming the *Appleseed* folder with your name and group number. Then, go to <a href="https://fonts.adobe.com/fonts/acumin" target="_blank" title="Activate Acumin Pro Regular and Bold.">Adobe Fonts</a> to activate Acumin Pro Regular and Acumin Pro Bold.
 
   ### Bullet List
 

@@ -27,7 +27,7 @@ details: |
   - Passing Grade: 50% (D-)
   - Grade Scheme:
 
-  <table class="sans fs70">
+  <table class="fs70">
   <thead>
     <tr class="fw700"><th>Percent Grade</th><th>Letter Grade</th><th>Numeric Grade</th></tr>
   </thead>

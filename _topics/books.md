@@ -458,5 +458,5 @@ assignment: |
 
   Go back to your Book panel's menu. Use <span class="command">Export book to PDF</span> to create a PDF file of your book. This will be your second submission on Brightspace.
 
-  <span class="sans fs15 fw400 right">InDesign books... <em>like a boss</em>.</span>
+  <span class="fs15 fw400 right">InDesign books... <em>like a boss</em>.</span>
 ---

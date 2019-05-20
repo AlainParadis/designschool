@@ -60,7 +60,7 @@ assignment: |
 
   <img class="size100" alt="live-paint-adobe-color-site" src="/images/illustrator-image-trace-live-paint/live-paint-adobe-color-site.jpg">
 
-  Use <a href="https://color.adobe.com" title="Visit colour.adobe.com" target="_blank" class="sans">color.adobe.com</a> to either create or simply find different colour themes for your sketch. Sync them to Illustrator, then apply them to multiple instances or your original sketch the same way you applied colour the first time around.
+  Use <a href="https://color.adobe.com" title="Visit colour.adobe.com" target="_blank">color.adobe.com</a> to either create or simply find different colour themes for your sketch. Sync them to Illustrator, then apply them to multiple instances or your original sketch the same way you applied colour the first time around.
 
   If you organize swatches in Colour Groups, they become accessible in the Edit Colours dialogue. We'll use this to create colour variations for our artwork.
 

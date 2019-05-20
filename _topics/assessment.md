@@ -34,7 +34,7 @@ details: |
 
   ## Numeric Values
 
-  <table class="sans">
+  <table>
   <thead>
     <tr class="fw700"><th>Percent Grade</th><th>Letter Grade</th><th>Numeric Grade</th></tr>
   </thead>
@@ -79,7 +79,7 @@ details: |
 
   Once you have submitted your zip file, you can delete it. Keep the original file *at least* as long as your time in the program.
 
-  <span class="sans orange fw600 fs90">The following is incorrect:</span>
+  <span class="orange fw600 fs90">The following is incorrect:</span>
 
   <figure>
       <img class="size75" alt="submission-file-incorrect" src="/images/grading-system/submission-file-incorrect.jpg">
@@ -98,7 +98,7 @@ details: |
 
   Once you have submitted your zip file, you can delete it. Keep the original folder *at least* as long as your time in the program.
 
-  <span class="sans orange fw600 fs90">The following is incorrect:</span>
+  <span class="orange fw600 fs90">The following is incorrect:</span>
 
   <figure>
       <img class="size75" alt="submission-folders-incorrect" src="/images/grading-system/submission-folders-incorrect.jpg">

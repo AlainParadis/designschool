@@ -16,14 +16,14 @@
 	<div class="left"></div>
 	<div class="center">
 		<h1 class="fs20 fw300">{{ page.title }}</h1>
-		<div class="description sans fs12 fw300">
+		<div class="description fs12 fw300">
 		{{ page.description }}
 		</div>
 	</div>
 	<div class="right">
 		{% if page.appsused %}
 		<div>
-		<span class="appsused sans uc f500 fs70">Apps Used:</span>
+		<span class="appsused uc f500 fs70">Apps Used:</span>
 		{% if page.appsused contains 'macos' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-macos.svg" alt="Mac OS"></span>{% endif %}
 		{% if page.appsused contains 'cc' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-cc.svg" alt="Adobe Creative Cloud"></span>{% endif %}
 		{% if page.appsused contains 'indd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-indd.svg" alt="Adobe InDesign"></span>{% endif %}
@@ -62,7 +62,7 @@
 		 </div>
 			{% endif %}
 		</main>
-	<aside id="rightrail" class="sans">
+	<aside id="rightrail">
 				{% if page.downloads %}
 					<div class="button download">
 							<a href="{{ page.downloads }}" title="Download practice & exercise files for this assignment." class="fw600 uc white" target="_blank">Download Files</a>

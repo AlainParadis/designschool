@@ -98,7 +98,7 @@ details: |
     Don't ungroup the artwork. Use Isolation Mode instead.
   </div>
 
-  When it comes to the RGB graphics, you need to create a new document that's in RGB colour mode. Paste the graphic into this new document and save it as <span class="sans fw600 darkgreen">rgb.ai</span> in our working folder.
+  When it comes to the RGB graphics, you need to create a new document that's in RGB colour mode. Paste the graphic into this new document and save it as <span class="fw600 darkgreen">rgb.ai</span> in our working folder.
 
 assignment: |
   Apply colours to the logo as directed in the provided Illustrator document. Make sure you check your work with the Separations Preview panel.
@@ -110,5 +110,5 @@ assignment: |
   </figcaption>
   </figure>
 
-  Remember to create a new Illustrator document in RGB mode to paste the graphic into. Save it into the exercise folder. Save it as <span class="sans fw600 darkgreen">rgb.ai</span>.
+  Remember to create a new Illustrator document in RGB mode to paste the graphic into. Save it into the exercise folder. Save it as <span class="fw600 darkgreen">rgb.ai</span>.
 ---

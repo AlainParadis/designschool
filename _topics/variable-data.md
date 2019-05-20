@@ -84,7 +84,7 @@ details: |
   * The # symbol before the column name represents a visibility variable.
   * A % sign before the column name represents a graph.
 
-  Go to the Google spreadsheet <a href="https://docs.google.com/spreadsheets/d/19S_r_LzZhPYa2Xv7GdzxFaW4qMRJ5APYc3mvnl8BMiU/edit?usp=sharing" title="Go to the Google Spreadsheet" target="_blank" class="sans">from this link</a>.
+  Go to the Google spreadsheet <a href="https://docs.google.com/spreadsheets/d/19S_r_LzZhPYa2Xv7GdzxFaW4qMRJ5APYc3mvnl8BMiU/edit?usp=sharing" title="Go to the Google Spreadsheet" target="_blank">from this link</a>.
 
   <div class="attentionbox achtung">
   <span class="limegreen fw600">Important Notes:</span>
