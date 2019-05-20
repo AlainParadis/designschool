@@ -107,7 +107,10 @@ footer .block {
 	justify-content: space-between;
 	margin-bottom: 0.5rem;
 }
-
+footer .block .items{
+	display: flex;
+	flex-direction: column;
+}
 footer .school-address {
 	display: block;
 	width: 100%;
