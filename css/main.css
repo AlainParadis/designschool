@@ -4,9 +4,7 @@ Lime Green: #94C947;
 Orange: #D94F2C;
 */
 
-html {
-  border-top: 4px solid #94C947;
-}
+html {}
 
 #embed-youtube-container {
 position: relative;
