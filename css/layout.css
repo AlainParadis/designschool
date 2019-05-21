@@ -540,8 +540,8 @@ figcaption > ol li:before
 
   header .site-id .site-logo img.stacked {
     display: block;
-    width: 65%;
-    height: 65%;
+    width: 95%;
+    height: 95%;
   }
 
   header .site-id .description {
@@ -575,5 +575,7 @@ figcaption > ol li:before
 
   header .site-id .site-logo img.stacked {
     display: block;
+    width: 65%;
+    height: 65%;
   }
 }
