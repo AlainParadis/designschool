@@ -48,6 +48,7 @@ header nav {
   display: flex;
   flex-direction: column;
   background-color: var(--dark-green);
+  margin-bottom: 0.5rem;
 }
 header nav ul {
   list-style-type: none;
