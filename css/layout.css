@@ -50,7 +50,7 @@ nav ul {
   padding-right: 0.5rem;
 }
 nav ul li {
-  display: block;
+  display: inline-block;
   text-align: center;
 }
 nav a {
