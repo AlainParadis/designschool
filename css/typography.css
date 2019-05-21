@@ -3,7 +3,12 @@ Dark Green: #00673E;
 Lime Green: #94C947;
 Orange: #D94F2C;
 */
-
+:root {
+  --dark-green: #00673E;
+  --lime-green: #94C947;
+  --orange: #D94F2C;
+  --white: #ffffff;
+}
 html
 {
 	font-size: 16px;
@@ -36,11 +41,6 @@ body a:hover
 	/* Gecko Browsers */
 	color: #00673E;
 }
-
-.darkgreen, a.darkgreen { #00673E: ; }
-.limegreen, a.limegreen { #94C947: ; }
-.red { color: #FB0207; }
-.nounderline { text-decoration: none; }
 
 /*Font Size*/
 .fs50 { font-size: 0.5rem; }
@@ -106,10 +106,11 @@ em { font-style: italic; }
 .textcenter, a.textcenter { text-align: center !important; }
 .sans { font-family: "proxima-nova", sans-serif; }
 .small { font-size: .8rem; }
-.limegreen { color: #94C947; }
-.darkgreen { color: #00673E; }
-.orange { color: #D94F2C; }
-.white { color: #ffffff; }
+.darkgreen, a.darkgreen { color: var(--dark-green); }
+.limegreen, a.limegreen { color: var(--lime-green); }
+.orange, a.orange { color: var(--orange); }
+.white { color: var(--white); }
+.nounderline { text-decoration: none; }
 a.decoration-none { text-decoration: none; }
 .uc { text-transform: uppercase; }
 ol, ul, dl { font-family: "proxima-nova", sans-serif; }

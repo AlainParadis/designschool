@@ -3,18 +3,24 @@
 	{% include head.html %}
 <body>
 <header role="banner">
-	<nav role="navigation" class="marginbottom05">
+	<nav role="navigation">
 		{% include top-nav.html %}
 	</nav>
-	<div class="site-logo page-logo">
-			<a href="{{ site.baseurl }}/" title="Home"><img alt="Algonquin College Computer Graphics Logo" src="/images/svg/logo-ac-computer-graphics.svg"></a>
+	<div class="site-id">
+		<div class="site-id-item pad05">
+		<a href="{{ site.baseurl }}/">
+		<img class="site-id-item stacked" alt="Algonquin College Graphic Design Program Computer Graphics Course Curriculum" src="/images/svg/logo-ac-computer-graphics-stacked.svg">
+		<img class="site-id-item horizontal" alt="Algonquin College Graphic Design Program Computer Graphics Course Curriculum" src="/images/svg/logo-ac-computer-graphics.svg">
+		</a>
+		</div>
+		<div class="site-id-item"></div>
 	</div>
 </header>
 <section class="page-title">
 	<div class="left"></div>
 	<div class="center">
 		<h1 class="fs20 fw300">{{ page.title }}</h1>
-		<div class="description fs12 fw300">
+		<div class="fs12 fw300">
 		{{ page.description }}
 		</div>
 	</div>
