@@ -20,10 +20,8 @@ body
 {
   max-width: 90em;
   margin-top: 0;
-  padding: 0;
+  padding: -0.1;
   margin: auto;
-  padding-left: 0.25rem;
-  padding-right: 0.25rem;
 }
 
 p { margin: 0 0 1rem 0;}
@@ -43,25 +41,25 @@ footer {
 nav {
   display: flex;
   flex-direction: column;
+  background-color: #00673E;
 }
 nav ul {
   list-style-type: none;
   margin-top: 0.25rem;
   margin-bottom: 1.0rem;
+  padding-right: 0.5rem;
 }
-
 nav ul li {
   display: block;
   text-align: center;
 }
-
 nav a {
   padding-left: .25rem;
   padding-right: .25rem;
   font-size: 1rem;
   text-decoration: none;
 }
-
+header nav a { color: white; }
 aside nav ul li {
   display: block;
   text-align: left;
@@ -79,6 +77,8 @@ header .site-id {
   display:flex;
   flex-direction:column;
   flex:1;
+  background-color: #94C947;
+  padding: 1rem;
 }
 
 header .site-id .site-logo {
@@ -102,11 +102,32 @@ header .site-id .site-logo img.stacked {
 
 header .site-id .description  {
   display: block;
+  color: white;
 }
 
 header .page-logo {
   margin: auto;
   width: 95%;
+}
+section.news {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  grid-gap: 1rem;
+  padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+  margin: 0 0 1rem 0;
+  background-color: rgb(148,201,71,0.3);
+}
+section .newsitem {
+  justify-self: stretch;
+  height: 100%;
+  border: solid 1px #94C947;
+  padding: 0rem;
+  background-color: white;
+}
+
+section .newsitem p {
+  padding: 0.25rem;
+  font-size: 0.8rem;
 }
 
 footer .site-logo {
@@ -431,7 +452,6 @@ figcaption > ol li:before
     display: flex;
     flex-wrap: wrap;
     width: 49%;
-    margin-right: 0.25rem;
   }
 
   aside {

@@ -18,6 +18,17 @@
 		</div>
 	</div>
 </header>
+<section class="news">
+	{% for newsitem in site.data.news %}
+	<a href="{{ newsitem.link }}" class="">
+		<div class="newsitem">
+		<h3 class="{% if newsitem.breaking == 'on' %}breaking
+		{% endif %}">{{ newsitem.headline }}</h3>
+		<p>{{ newsitem.text }}</p>
+		</div>
+	</a>
+	{% endfor %}
+</section>
 <section>
 	<div class="panel panel-cg1">
 		<h3><a href="{{ site.baseurl }}/cg1/index.html" title="Course Home" class="darkgreen font12">{{ site.data.stream[0].coursetitle }}</a></h3>

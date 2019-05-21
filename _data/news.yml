@@ -1,0 +1,25 @@
+- headline: CG1 This Week # News [0]
+  image: ../images/news/news0.jpg
+  link: http://www.apple.com
+  text: "This week, we'll be doing some software task in Computer Graphics 1. It's going to be really fun."
+  breaking:
+
+- headline: Adobe News # News [1]
+  image:
+  link: http://www.adobe.com
+  text: "Lorem ipsum dolor sit amet, mod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, sed do eiusmod."
+  breaking:
+
+- headline: Important! # News [2]
+  image: ../images/news/news2.jpg
+  link: http://www.vw.ca
+  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+  breaking: "on"
+
+- headline: Program News Item # News [3]
+  image:
+  link: http://www.apple.com
+  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua." 
+  breaking:

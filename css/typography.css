@@ -170,6 +170,16 @@ mark
 article h3 { text-transform: uppercase; }
 .panel h3 a { text-decoration: none; }
 
+.news h3 {
+	color: white;
+	background-color: #00673E;
+	padding: 0.2rem 0.2rem 0.2rem 0.4rem;
+}
+.newsitem h3.breaking {
+	background-color: #D94F2C;
+}
+.news a { text-decoration: none; }
+
 blockquote
 {
 	quotes: "\201C""\201D""\2018""\2019";
