@@ -77,11 +77,11 @@
 			{% endif %}
 	</div>
 </section>
-<section>
-	<aside>
+<section class="content">
+	<div class="item item1">
 		{{content}}
-	</aside>
-	<main role="main">
+	</div>
+	<div class="item item2">
 		 <div>
 			{{ page.details | markdownify }}
 		 </div>
@@ -95,7 +95,16 @@
 			{{ page.assignment | markdownify }}
 		 </div>
 			{% endif %}
-		</main>
+		</div>
+</section>
+<section class="submission">
+	<div class="item item1"><h2>Submission Instructions</h2></div>
+	<div class="item item3"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div>
 </section>
 		{% include footer.html %}
 </body>
