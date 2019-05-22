@@ -17,14 +17,9 @@
 	</div>
 </header>
 <section class="page-title">
-	<div class="left"></div>
-	<div class="center">
-		<h1 class="fs20 fw300">{{ page.title }}</h1>
-		<div class="fs12 fw300">
-		{{ page.description }}
-		</div>
-	</div>
-	<div class="right">
+	<div class="item"><h1 class="fw300">{{ page.title }}</h1></div>
+	<div class="item">{{ page.description }}</div>
+	<div class="item">
 		{% if page.appsused %}
 		<div>
 		<span class="appsused uc f500 fs70">Apps Used:</span>
@@ -41,38 +36,22 @@
 		{% endif %}
 	</div>
 </section>
-<section>
-	<aside>
-			{{content}}
-		</aside>
-	<main role="main">
+<section class="video-instructions">
+	<div class="item item1">
 			{% if page.video %}
 			<h3>Watch the Video Tutorial</h3>
 			<div id="embed-youtube-container">
 				<iframe src="{{ page.video }}" frameborder="0" allowfullscreen></iframe>
 			</div>
 			{% endif %}
-		 <div>
-			{{ page.details | markdownify }}
-		 </div>
-			{% if page.formsum == 'formative' or page.formsum == 'summative' %}
-			<div>
-			{% if page.formsum == 'formative' %}
-				<h2 class="fw300 fs16">Formative Activity</h2>
-			{% elsif page.formsum == 'summative' %}
-				<h2 class="fw300 fs16">Your Assignment</h2>
-			{% endif %}
-			{{ page.assignment | markdownify }}
-		 </div>
-			{% endif %}
-		</main>
-	<aside id="rightrail">
-				{% if page.downloads %}
-					<div class="button download">
-							<a href="{{ page.downloads }}" title="Download practice & exercise files for this assignment." class="fw600 uc white" target="_blank">Download Files</a>
-					</div>
-				{% endif %}
-			{% if page.formsum == 'formative' %}
+	</div>
+	<div class="item item2">
+		{% if page.downloads %}
+			<div class="button download">
+					<a href="{{ page.downloads }}" title="Download practice & exercise files for this assignment." class="fw600 uc" target="_blank">Download Files</a>
+			</div>
+		{% endif %}
+		{% if page.formsum == 'formative' %}
 			<div class="formsum">
 			<h3 class="fs90 uc">Assessment</h3>
 				<p>
@@ -96,6 +75,28 @@
 			</p>
 			</div>
 			{% endif %}
+	</div>
+</section>
+<section>
+	<aside>
+		{{content}}
+	</aside>
+	<main role="main">
+		 <div>
+			{{ page.details | markdownify }}
+		 </div>
+			{% if page.formsum == 'formative' or page.formsum == 'summative' %}
+			<div>
+			{% if page.formsum == 'formative' %}
+				<h2 class="fw300 fs16">Formative Activity</h2>
+			{% elsif page.formsum == 'summative' %}
+				<h2 class="fw300 fs16">Your Assignment</h2>
+			{% endif %}
+			{{ page.assignment | markdownify }}
+		 </div>
+			{% endif %}
+		</main>
+	<aside id="rightrail">
 				{% if page.duedates %}
 				<h3 class="uc orange">Due Dates</h3>
 					{% for date in page.duedates %}

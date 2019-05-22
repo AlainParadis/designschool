@@ -67,6 +67,43 @@ aside nav ul li {
   display: block;
   text-align: left;
 }
+.page-title {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 0.5rem;
+  grid-template-rows: 1fr;
+  background-color: rgb(148,201,71,0.4);
+  margin: 0 -9999px 0rem -9999px;
+  padding: 0.5rem 9999px 0.5rem 9999px;
+  border: solid 0px red;
+  align-items: center;
+}
+.page-title.item {
+  border: solid 0px darkcyan;
+  }
+section.video-instructions {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: 1fr;
+  grid-gap: 0.5rem;
+  align-items: stretch;
+  background-color: rgb(148,201,71,0.2);
+  margin: 0 -9999px 0.5rem -9999px;
+  padding: 0.5rem 9999px 0.5rem 9999px;
+}
+section.video-instructions .item {
+  
+}
+section.video-instructions .item1 {
+  grid-column-start: 1;
+  grid-column-end: 9;
+  border: solid 1px red;
+}
+section.video-instructions .item2 {
+  grid-column-start: 9;
+  grid-column-end: 13;
+  border: solid 1px green;
+}
 aside nav ul li a {
   text-decoration: underline;
 }
@@ -82,6 +119,7 @@ header .site-id {
   background-color: var(--lime-green);
   margin: 0 -9999px 0 -9999px;
   padding: 0.5rem 9999px 0.5rem 9999px;
+  align-items: center;
 }
 .site-id-item {}
 header .site-id .site-id-item img.horizontal {
@@ -391,25 +429,6 @@ figcaption > ol li:before
   }
   footer .site-id-logo {
     width: 50%;
-  }
-  .page-title {
-    display: flex;
-    flex-direction:row;
-    margin-bottom: 1rem;
-  }
-  .page-title .left {
-    flex:1;
-    order:1;
-  }
-  .page-title .center {
-    flex-direction: column;
-    flex:3;
-    order:2;
-  }
-  .page-title .right {
-    flex:1;
-    order:3;
-    align-self: flex-end;
   }
   completeincomplete {flex-direction:column;}
   .card-wrapper {
