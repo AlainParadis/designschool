@@ -160,7 +160,9 @@ mark
 .attentionbox { font-family: "proxima-nova", sans-serif; }
 .summative { font-weight: 600; }
 .summative a { padding-left: 0em; }
-header nav ul li a:hover {color:#94C947;}
+header nav ul li a:hover { color:#94C947; }
+aside nav ul li a { text-decoration: underline; }
+aside nav ul li a:hover { text-decoration: none; }
 .panel h3
 {
 	font-size: 1.5rem;
