@@ -97,11 +97,6 @@
 			{% endif %}
 		</main>
 	<aside id="rightrail">
-				{% if page.duedates %}
-				<h3 class="uc orange">Due Dates</h3>
-					{% for date in page.duedates %}
-							{{ date | markdownify }}
-					{% endfor %}
 				{% endif %}
 				{% if page.links %}
 				<h3 class="uc">Supplemental Links</h3>
