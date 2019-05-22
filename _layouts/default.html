@@ -97,12 +97,6 @@
 			{% endif %}
 		</main>
 	<aside id="rightrail">
-				{% if page.links %}
-				<h3 class="uc">Supplemental Links</h3>
-					{% for link in page.links %}
-							{{ link | markdownify }}
-					{% endfor %}
-				{% endif %}
 				{% if page.submission %}
 			 <div id="submission">
 				<h3 class="uc">Submission Instructions</h3>
