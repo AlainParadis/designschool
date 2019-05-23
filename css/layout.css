@@ -324,15 +324,6 @@ figcaption > ol li:before
   height: 1.5rem;
   width: 1.5rem;
 }
-.description {
-  display: flex;
-  flex-wrap: nowrap;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  align-content: flex-start;
-  align-items: stretch;
-  justify-content: flex-start;
-}
 .formsum {
   display: flex;
   flex-direction: column;
