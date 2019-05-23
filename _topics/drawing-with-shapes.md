@@ -133,4 +133,16 @@ assignment: |
   There's more than one way to draw some of these objects. As long as you use what we covered in class, you'll be fine.
 
   You'll be graded on your proficiency using the shape tools to draw the provided objects.
+submission: |
+  Once you've completed your work, save and close your documents. Rename the provided exercise folder as Last name, First name, Group Nº, {{ page.title }} so,
+
+  <img src="/images/svg/icon-submission-zip-folder.svg" class="size50 center">
+  
+  Appleseed-Johnny-#-{{ page.title }}
+  
+  Right-click, then choose <span class="command">Compress...</span> to create a zip file for submission.
+
+  <span class="orange">Failure to submit your files as directed will incur a proportional loss of points. If your file/folder is not named with your name, you will earn a zero. <a href="assessment.html#filenames" title="Why is file naming important?">Why?</a></span>
+  </p>
+
 ---

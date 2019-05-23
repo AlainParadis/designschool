@@ -477,6 +477,29 @@ footer {
   footer .item10 {
     grid-column: 1 /-1;
   }
+  section.submission {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: 1fr;
+  background-color: rgb(148,201,71,0.4);
+  margin: 0 -9999px 0 -9999px;
+  padding: 0.5rem 9999px 0.5rem 9999px;
+}
+section.submission .item {
+  
+}
+section.submission .item1 {
+  grid-column: 1 / 4;
+}
+section.submission .item2 {
+  grid-column: 4 / 10;
+}
+section.submission .item3 {
+  
+}
+section.submission .item4 {
+
+}
 }
 /*  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - */
 /*  - - - - - - - - - - - - - - - - - - - - - - - 60rem = 960px - - - - - - - - - - - - - - - - - - - - - - - */
