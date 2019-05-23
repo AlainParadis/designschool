@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-ca">
   {% include head.html %}
 <body>
-<header>
+<header role="banner">
 	<nav role="navigation">
 		{% include top-nav.html %}
 	</nav>
@@ -25,7 +25,7 @@
 	</a>
 	{% endfor %}
 </section>
-<section>
+<section class="home-panels">
 	<div class="panel panel-cg1">
 		<h3><a href="{{ site.baseurl }}/cg1/index.html" title="Course Home" class="darkgreen font12">{{ site.data.stream[0].coursetitle }}</a></h3>
 		{% include panel.html course=site.topics coursename='cg1' %}
