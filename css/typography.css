@@ -177,6 +177,7 @@ article h3 { text-transform: uppercase; }
 	color: white;
 	background-color: #00673E;
 	padding: 0.2rem 0.2rem 0.2rem 0.4rem;
+	border-radius:  0.25rem  0.25rem 0 0;
 }
 .newsitem h3.breaking {
 	background-color: #D94F2C;
