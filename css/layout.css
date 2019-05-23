@@ -396,15 +396,6 @@ section.home-panels .panel-cg6 { background-image: url('/images/svg/background-6
 /*  - - - - - - - - - - - - - - - - - - - - - - -  25rem = 400px - - - - - - - - - - - - - - - - - - - - - - - */
 /*  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - */
 @media only screen and (min-width: 25rem) {
-  footer .block {
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: flex-between;
-    margin-bottom: 1.0rem;
-  }
-  footer .block .items {
-    width: 48%;
-  }
   nav ul li {
     display: inline;
   }
@@ -439,18 +430,6 @@ section.home-panels .panel-cg6 { background-image: url('/images/svg/background-6
     grid-column: 8 /-1; 
     align-self: end;
   }
-  footer .block {
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: flex-between;
-  }
-  footer .block .items {
-    width: 25%;
-  }
-  main {
-    padding-right: 1rem;
-    width: 60%;
-  }
   completeincomplete { flex-direction:column; }
   section.home-panels {
     grid-template-columns: 1fr 1fr;
@@ -462,9 +441,6 @@ section.home-panels .panel-cg6 { background-image: url('/images/svg/background-6
 @media only screen and (min-width: 60rem) {
   header .site-id .item1 { grid-column: 1 / 6; }
   header .site-id .item2 { grid-column: 6 / -1; }
-  footer .site-id-logo {
-    max-width: 33%;
-  }
 }
 /*  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - */
 /*  - - - - - - - - - - - - - - - - - - - - - - - 90rem = 1440px - - - - - - - - - - - - - - - - - - - - - - - */
