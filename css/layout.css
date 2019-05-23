@@ -363,28 +363,6 @@ figcaption > ol li:before
   background-position: left bottom;
   color: var(--lime-green);
 }
-.panel {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  flex-basis: auto;
-  width: 100%;
-  padding-bottom: 0;
-  margin-bottom: 1em;
-  background-color: #FFF;
-  border: solid 1px #CCC;
-}
-.panel-cg1, .panel-cg2, .panel-cg3, .panel-cg4, .panel-cg5, .panel-cg6 {
-  background-size: 75%;
-  background-repeat: no-repeat;
-  background-position: -25px -25px;
-}
-.panel-cg1 { background-image: url('/images/svg/background-1.svg'); }
-.panel-cg2 { background-image: url('/images/svg/background-2.svg'); }
-.panel-cg3 { background-image: url('/images/svg/background-3.svg'); }
-.panel-cg4 { background-image: url('/images/svg/background-4.svg'); }
-.panel-cg5 { background-image: url('/images/svg/background-5.svg'); }
-.panel-cg6 { background-image: url('/images/svg/background-6.svg'); }
 .card-wrapper {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
@@ -392,6 +370,27 @@ figcaption > ol li:before
   grid-gap: 0.5rem;
 }
 .card { border-radius: 0.25rem; }
+section.home-panels {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-auto-rows: minmax(1rem, auto);
+  grid-gap: 0.5rem;
+}
+section.home-panels .panel {
+  border: solid 1px darkgray;
+  border-radius: 0.25rem;
+}
+section.home-panels .panel-cg1, .panel-cg2, .panel-cg3, .panel-cg4, .panel-cg5, .panel-cg6 {
+  background-size: 75%;
+  background-repeat: no-repeat;
+  background-position: -25px -25px;
+}
+section.home-panels .panel-cg1 { background-image: url('/images/svg/background-1.svg'); }
+section.home-panels .panel-cg2 { background-image: url('/images/svg/background-2.svg'); }
+section.home-panels .panel-cg3 { background-image: url('/images/svg/background-3.svg'); }
+section.home-panels .panel-cg4 { background-image: url('/images/svg/background-4.svg'); }
+section.home-panels .panel-cg5 { background-image: url('/images/svg/background-5.svg'); }
+section.home-panels .panel-cg6 { background-image: url('/images/svg/background-6.svg'); }
 
 /*  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - */
 /*  - - - - - - - - - - - - - - - - - - - - - - -  25rem = 400px - - - - - - - - - - - - - - - - - - - - - - - */
@@ -448,29 +447,14 @@ figcaption > ol li:before
   footer .block .items {
     width: 25%;
   }
-  section.home-panels {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-  section .panel {
-    display: flex;
-    flex-wrap: wrap;
-    width: 49%;
-    border-radius: 0.25rem;
-  }
-  aside {
-    padding-right: 0.5rem;
-    display: block;
-    width: 20%;
-  }
   main {
     padding-right: 1rem;
     width: 60%;
   }
   completeincomplete { flex-direction:column; }
-
+  section.home-panels {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 /*  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - */
 /*  - - - - - - - - - - - - - - - - - - - - - - - 60rem = 960px - - - - - - - - - - - - - - - - - - - - - - - */
