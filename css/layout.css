@@ -126,12 +126,12 @@ section.video-instructions .item {
 }
 section.video-instructions .item1 {
 /* Contains YouTube Video */
-  grid-column: 1 / 9;
-  grid-row: 1 / 3;
+  grid-column: 1 / -1;
+  grid-row: 1 / 2;
 }
 section.video-instructions .item2 {
-  grid-column: 9 / -1;
-  grid-row: 1 / 3;
+  grid-column: 1 / -1;
+  grid-row: 2 / 3;
 }
 section.content {
   display: grid;
@@ -424,6 +424,15 @@ section.home-panels .panel-cg6 { background-image: url('/images/svg/background-6
     grid-column: 8 /-1; 
     align-self: end;
   }
+  section.video-instructions .item1 {
+/* Contains YouTube Video */
+  grid-column: 1 / 9;
+  grid-row: 1 / 3;
+}
+section.video-instructions .item2 {
+  grid-column: 9 / -1;
+  grid-row: 1 / 3;
+}
   completeincomplete { flex-direction:column; }
   section.home-panels {
     grid-template-columns: 1fr 1fr;
