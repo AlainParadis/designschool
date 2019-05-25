@@ -63,16 +63,11 @@ header nav {
     padding: 0 9999px;
 }
 
-header nav a {
-    color: white;
-}
-
 header nav ul,
 footer nav ul {
     list-style-type: none;
-    margin-top: 0.25rem;
-    margin-bottom: 0.5rem;
-    padding-right: 0.5rem;
+    margin: .25rem 0 0.5rem 0;
+    padding: 0 0.5rem 0 0;
 }
 
 header nav ul li,
@@ -83,9 +78,12 @@ footer nav ul li {
 
 header nav a,
 footer nav a {
-    padding-left: .25rem;
-    padding-right: .25rem;
+    padding: 0 .25rem;
     text-decoration: none;
+}
+
+header nav a {
+    color: white;
 }
 
 header .site-id {
