@@ -462,24 +462,6 @@ figcaption>ol li:before {
     justify-content: space-around;
 }
 
-.completeincomplete>.complete::before {
-    content: "\2611";
-    display: inline-block;
-    font-size: 1.5rem;
-    margin-right: .25rem;
-    background-position: left bottom;
-    color: var(--lime-green);
-}
-
-.completeincomplete>.incomplete::before {
-    content: "\2610";
-    display: inline-block;
-    font-size: 1.5rem;
-    margin-right: .25rem;
-    background-position: left bottom;
-    color: var(--lime-green);
-}
-
 .card-wrapper {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));

@@ -45,7 +45,8 @@
     <div class="item item2">
         <p>{{ page.description }}</p>
         {% if page.downloads %}
-        <div class="button download">
+        <img src="/images/svg/icon-download.svg" class="size10 center">
+        <div class="textcenter">
             <a href="{{ page.downloads }}" title="Download practice & exercise files for this assignment." class="fw600 uc" target="_blank">Download Files</a>
         </div>
         {% endif %}
@@ -56,8 +57,8 @@
                 This is a <span class="fw600">{{ page.formsum }}</span> assignment. That means that you'll be learning and practicing new software skills. This assignment contributes to your final grade in the course. This work will be graded as either:
             </p>
             <div class="completeincomplete">
-                <span class="complete fw600">Complete</span>
-                <span class="incomplete fw600">Incomplete</span>
+                <span class="complete">Complete</span>
+                <span class="incomplete">Incomplete</span>
             </div>
             <p>
                 If needed, I will provide written feedback on your performance.

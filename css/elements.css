@@ -4,6 +4,13 @@ Lime Green: #94C947;
 Orange: #D94F2C;
 */
 
+:root {
+    --dark-green: #00673E;
+    --lime-green: #94C947;
+    --orange: #D94F2C;
+    --white: #ffffff;
+}
+
 #embed-youtube-container {
     position: relative;
     padding-top: 56.25%;
@@ -27,8 +34,8 @@ input {
 }
 
 .button {
-    width: 100%;
-    border: 1px solid #94C947;
+    display: block;
+    border: 1px solid var(--darkgreen);
 }
 
 .borderlimegreen1 {
@@ -57,15 +64,6 @@ input {
 
 .borderdarkgrey1 {
     border: 1px solid darkgray;
-}
-
-.download::before {
-    content: " ";
-    display: inline-block;
-    width: 1.2rem;
-    height: 1.0rem;
-    margin-right: 0.5rem;
-    background: url("/images/svg/icon-download.svg") no-repeat left bottom;
 }
 
 .submit::before {
@@ -152,16 +150,6 @@ td {
     background-size: 1.5rem;
     background-position: 0.5rem 0.5rem;
     padding: .5rem .5rem .5rem 2.5rem;
-}
-
-a.download {
-    background-repeat: no-repeat;
-    background-size: 3rem;
-    background-position: 1rem;
-}
-
-.download a {
-    margin-left: 0.25rem;
 }
 
 hr {

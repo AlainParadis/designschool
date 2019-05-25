@@ -227,14 +227,24 @@ select
 }
 
 blockquote p { display: inline; }
-aside a { color: #00673E; }
-
-aside a:hover
-{
-	text-decoration: none;
-	color: #94C947;
+.complete, .incomplete {font-weight:600;}
+.completeincomplete>.complete::before {
+    content: "\2611";
+    display: inline-block;
+    font-size: 1.5rem;
+    margin-right: .25rem;
+    background-position: left bottom;
+    color: var(--lime-green);
 }
 
+.completeincomplete>.incomplete::before {
+    content: "\2610";
+    display: inline-block;
+    font-size: 1.5rem;
+    margin-right: .25rem;
+    background-position: left bottom;
+    color: var(--lime-green);
+}
 footer a:hover { text-decoration: underline; }
 footer .block a:hover { text-decoration: none; }
 
