@@ -1,5 +1,5 @@
 ---
-layout: default-nav
+layout: submissions
 type: card
 formsum: formative
 sortorder: 6.0

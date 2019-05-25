@@ -1,5 +1,5 @@
 ---
-layout: default-nav
+layout: submissions
 type: card
 formsum: summative
 sortorder: 7.9
