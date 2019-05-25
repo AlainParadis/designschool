@@ -1,5 +1,5 @@
 ---
-layout: submissions
+layout: submission
 type: card
 formsum: formative
 sortorder: 4.1

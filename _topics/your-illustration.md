@@ -1,5 +1,5 @@
 ---
-layout: submissions
+layout: submission
 type: card
 formsum: summative
 sortorder: 2.9
@@ -30,4 +30,6 @@ assignment: |
   To be super clear about this, you're giving me a folder with your Illustrator file in it and your scanned image of the drawing. It doesn't matter what format the scanned image is (.jpeg or .psd).
 
   Name your folder properly, *then* zip-compress it. That's what you're going to submit.
+submissions: |
+
 ---

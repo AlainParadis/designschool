@@ -1,5 +1,5 @@
 ---
-layout: submissions
+layout: submission
 type: card
 formsum: 
 sortorder: 4
