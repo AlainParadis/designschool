@@ -1,5 +1,9 @@
 https://www.shopify.ca/partners/shopify-cheat-sheet
 
+YAML tutorial in the context of Jekyll
+
+  https://deepnn.github.io/mydoc_yaml_tutorial.html
+
 # Code Snippets
 
 I think this loops through all the pages' front matter by level. This is how the cards show on the course home pages by semester.
