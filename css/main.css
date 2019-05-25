@@ -39,7 +39,6 @@ input {
 .borderlightgrey1 { border: 1px solid #E6E6E6; }
 .borderlightgrey2 { border: 2px solid #E6E6E6; }
 .borderlightgrey3 { border: 3px solid #E6E6E6; }
-.borderdarkgrey1 { border: 1px solid darkgray; }
 
 aside#rightrail .download::before {
   content: " ";
