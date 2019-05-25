@@ -1,5 +1,5 @@
 ---
-layout: default-nav
+layout: submissions
 type: card
 formsum: formative
 sortorder: 2.0
@@ -12,7 +12,6 @@ duedates: |
   - Group 2: 11am, Wed, Sept 19
   - Group 3: 11am, Mon, Sept 24
   - Group 4: 8am, Tue, Sept 25
-submission: "ai-folder"
 links: |
   - <a href="https://helpx.adobe.com/illustrator/using/tools.html" target="_blank" title="Working with Tools">Working with Tools</a>
   - <a href="https://helpx.adobe.com/illustrator/how-to/design-draw-shapes.html" target="_blank" title="Drawing with Shapes">Drawing with Shapes</a>
