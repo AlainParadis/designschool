@@ -4,6 +4,7 @@ type: card
 formsum: formative
 sortorder: 2.0
 appsused: ai
+submission: illustrator-package
 title: "Drawing with Shapes"
 level: cg1
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=66853&grpid=0&isprv=0&bp=0&ou=92671"

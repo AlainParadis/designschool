@@ -4,6 +4,7 @@ type: card
 formsum: formative
 sortorder: 3.3
 appsused: indd
+submission: "indesign-package"
 title: "Our First Layout"
 level: cg1
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=84505&grpid=0&isprv=0&bp=0&ou=92671"
