@@ -214,6 +214,7 @@ section.submission {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     grid-template-rows: 1fr;
+    grid-gap: 0.5rem;
     background-color: rgb(148, 201, 71, 0.4);
     margin: 0 -9999px 0 -9999px;
     padding: 0.5rem 9999px 0.5rem 9999px;
