@@ -7,7 +7,7 @@ appsused: indd
 title: "Data Merge Liberals"
 level: cg4
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=123825&grpid=0&isprv=&bp=0&ou=145538"
-submission: "indd-package"
+submission: "indesign-package"
 links: |
   - <a href="https://helpx.adobe.com/indesign/using/data-merge.html" title="x">InDesign Data Merge</a>
 video: "https://www.youtube.com/embed/627FyJcQomo"

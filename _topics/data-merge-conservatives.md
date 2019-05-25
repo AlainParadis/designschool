@@ -7,7 +7,7 @@ appsused: indd
 title: "Data Merge Conservatives"
 level: cg4
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=123826&grpid=0&isprv=&bp=0&ou=145538"
-submission: "indd-package"
+submission: "indesign-package"
 links:
 video:
 downloads: "https://www.dropbox.com/s/x6p6ro63xgt6yhs/indesign-data-merge-summative.zip?dl=1"

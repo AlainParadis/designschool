@@ -7,7 +7,7 @@ appsused: indd
 title: "Next & Nested Styles"
 level: CG2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86413&grpid=0&isprv=0&bp=0&ou=92653"
-submission: "indd-package"
+submission: "indesign-package"
 links: |
   - <a href="https://helpx.adobe.com/indesign/using/paragraph-character-styles.html#apply_styles" target="_blank" title="Apply Sequential Styles">Apply Sequential Styles</a>
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/paragraph-character-styles.html#apply_styles" alt:="Adobe: Next Styles" target="_blank">Next Styles</a>

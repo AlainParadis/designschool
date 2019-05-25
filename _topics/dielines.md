@@ -7,7 +7,7 @@ appsused: ai, indd
 title: "Die Lines"
 level: cg3
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86416&grpid=0&isprv=0&bp=0&ou=92653"
-submission: "indd-package"
+submission: "indesign-package"
 links: |
   - <a href="http://media2.fwpublications.com/DESIGN/Digital-Downloads/handmade-packaging-creating-a-dieline.pdf" target="_blank" title="How to make a die line">Make a die line</a>
   - <a href="http://www.claytowne.com/beats-digging-ditches/dieline-tutorial-how-to-create-a-dieline-for-your-product-package-design/" target="_blank" title="How to make a die line">How to make a die line</a>

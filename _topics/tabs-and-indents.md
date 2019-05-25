@@ -7,7 +7,7 @@ appsused: indd
 title: "Tabs & Indents"
 level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=135869&grpid=0&isprv=0&bp=0&ou=145550"
-submission: "indd-package"
+submission: "indesign-package"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/tabs-indents.html" target="_blank" title="Tabs & Indents">Tabs & Indents</a>
   - TutsPlus: <a href="https://design.tutsplus.com/tutorials/quick-tip-indesign-working-with-tabs--vector-4612" target="_blank" title="Working with Tabs">Working with Tabs</a>
