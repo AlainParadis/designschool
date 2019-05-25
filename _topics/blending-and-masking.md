@@ -7,6 +7,7 @@ appsused: psd
 title: "Blending & Masking"
 level: none
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=120805&grpid=0&isprv=0&bp=0&ou=145571"
+submission: "generic-zip-folder"
 links: 
 video: 
 downloads: "https://www.dropbox.com/s/kni4vuo621s5fcz/photoshop-double-exposure-effect.zip?dl=1"

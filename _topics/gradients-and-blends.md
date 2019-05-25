@@ -7,6 +7,7 @@ appsused: ai
 title: "Gradients & Blends"
 level: cg1
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+submission: "generic-zip-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/gradients.html" target="_blank" title="Apply & Edit Gradients">Apply & Edit Gradients</a>
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/blending-objects.html" target="_blank" title="Blend Objects">Blend Objects</a>

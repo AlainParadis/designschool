@@ -7,6 +7,7 @@ appsused: indd, pdf, ai
 title: "Trapping"
 level: info
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86419&grpid=0&isprv=0&bp=0&ou=92653"
+submission: 
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/trapping.html" target="_blank">Trapping</a>
 video: "https://www.youtube.com/embed/q3ReWstCi0Y"

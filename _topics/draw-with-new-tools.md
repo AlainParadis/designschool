@@ -7,6 +7,7 @@ appsused: ai
 title: "Draw with New Tools"
 level: CG2
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+submission: "generic-zip-folder"
 links: |
   - <a href="https://helpx.adobe.com/illustrator/using/drawing-pen-curvature-or-pencil.html" target="_blank" title="Pen, Curvature & Pen Tools">Pen, Curvature & Pen Tools</a>
   - <a href="https://helpx.adobe.com/illustrator/using/building-new-shapes-using-shape.html" target="_blank" title="Shaper & Shape Builder Tools">Shaper & Shape Builder Tools</a>

@@ -7,6 +7,7 @@ appsused: psd
 title: "Conditional Actions"
 level: cg4
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=123828&grpid=0&isprv=&bp=0&ou=145538"
+submission: "generic-zip-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/conditional-actions-creative-cloud.html" target="_blank" title="x">Conditional Actions</a>
 video: "https://www.youtube.com/embed/aCfGzKmuJ50?rel=0"

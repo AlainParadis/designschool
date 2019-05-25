@@ -7,6 +7,7 @@ appsused: indd
 title: "Books Pinocchio"
 level: none
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=120808&grpid=0&isprv=0&bp=0&ou=145571"
+submission: "indd-book-package-plus-pdf"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/creating-book-files.html" title="Adobe: Help, Creating Books in InDesign" target="_blank">Creating Books</a>
   - <a href="bullet-and-number-lists.html" title="InDesign Bullet & Number Lists">About defined lists</a>

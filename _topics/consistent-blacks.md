@@ -7,6 +7,7 @@ appsused: psd, indd, ai
 title: "Consistent Blacks"
 level: info
 brightspace: 
+submission: 
 links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/how-to/print-black.html" alt:="Adobe: How to print blacks." target="_blank">Printing Blacks</a>
 video: 

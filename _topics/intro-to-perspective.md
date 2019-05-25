@@ -7,6 +7,7 @@ appsused: ai
 title: "Intro to Perspective"
 level: CG4
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+submission: "generic-zip-folder"
 links:  |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/perspective-drawing.html" target="_blank" title="Perspective Drawing">Perspective Drawing</a>
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/perspective-grid.html" target="_blank" title="Define Perspective Grids">Define Perspective Grids</a>

@@ -7,6 +7,7 @@ appsused: indd
 title: "Build a Document"
 level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=128477&grpid=0&isprv=0&bp=0&ou=145550"
+submission: "indd-package"
 links: |
   - <a href="#assignment" title="Go to the assignment">The assignment</a>
   - Adobe: <a href="https://helpx.adobe.com/indesign/user-guide.html?topic=/indesign/morehelp/layout_and_design.ug.js" title="InDesign Layout & Design" target="_blank">InDesign Layout & Design</a>

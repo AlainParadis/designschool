@@ -7,6 +7,7 @@ appsused: psd
 title: "Selecting"
 level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=131919&grpid=0&isprv=0&bp=0&ou=145550"
+submission: "generic-zip-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/selecting-marquee-tools.html" target="_blank" title="Marquee Tools">Select with Marquee Tools</a>
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/selecting-lasso-tools.html" target="_blank" title="Lasso Tools">Lasso Tools</a>

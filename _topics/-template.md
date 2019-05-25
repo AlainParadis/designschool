@@ -7,6 +7,7 @@ appsused: ai
 title: ""
 level: 
 brightspace: 
+submission: "generic-zip-folder"
 links: |
   - 
 video: 

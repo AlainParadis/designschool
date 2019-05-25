@@ -7,6 +7,7 @@ appsused: ai
 title: "Your Illustration"
 level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=126516&grpid=0&isprv=&bp=0&ou=145550"
+submission: "ai-file-no-fonts-with-scan"
 links:
 video: 
 downloads: 

@@ -7,6 +7,7 @@ appsused: psd
 title: "Double Exposure Effect"
 level: none
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=120806&grpid=0&isprv=0&bp=0&ou=145571"
+submission: "generic-zip-folder"
 links: 
 video: 
 downloads: 

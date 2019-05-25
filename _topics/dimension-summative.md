@@ -7,6 +7,7 @@ appsused: dn
 title: "Dimension Summative"
 level: cg3
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=120803&grpid=0&isprv=0&bp=0&ou=145571"
+submission: "dimension-summative"
 links: |
   - <a href="http://www.brandsoftheworld.com" title="Source for vector logos." target="_blank">Brands of the World</a>
   - <a href="https://www.turbosquid.com/Search/Index.cfm?keyword=&amp;media_typeid=2&amp;file_type=119&amp;=true&amp;max_price=0&amp;min_price=0" title="TurboSquid" target="_blank">TurboSquid</a>

@@ -7,6 +7,7 @@ appsused: psd
 title: "Compositing"
 level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=131920&grpid=0&isprv=0&bp=0&ou=145550"
+submission: "psd-folder-with-photos"
 links:
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDYEZv4e0l-keh7KdmzkjcN"
 downloads:

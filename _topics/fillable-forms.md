@@ -7,6 +7,7 @@ appsused: pdf, indd
 title: "Fillable Forms"
 level: cg4
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=123831&grpid=0&isprv=&bp=0&ou=145538"
+submission: pdf-file
 links:
 video: "https://www.youtube.com/embed/5SLD5Bv2rGg"
 downloads: "https://www.dropbox.com/s/skdz0piynua7131/acrobat-fillable-forms.zip?dl=1"

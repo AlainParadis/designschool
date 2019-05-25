@@ -7,6 +7,7 @@ appsused: psd
 title: "Intro to Layer Masks"
 level: cg1
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=84512&grpid=0&isprv=0&bp=0&ou=92671"
+submission: "generic-zip-folder"
 links: |
   - <a href="https://helpx.adobe.com/photoshop/using/masking-layers.html" target="_blank" title="Adobe: Mask Layers">Adobe: Mask Layers</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDXxSkeR7f0X8DmBp0hlEaj"

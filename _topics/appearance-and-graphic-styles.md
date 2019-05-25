@@ -7,6 +7,7 @@ appsused: ai
 title: "Appearance & Graphic Styles"
 level: CG2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=132037&grpid=0&isprv=0&bp=0&ou=145550"
+submission: "generic-zip-folder"
 links: |
   - <a href="https://helpx.adobe.com/illustrator/how-to/illustrator-mastering-appearance-panel.html" target="_blank" title="Using the Appearance Panel">Using the Appearance Panel</a>
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/graphic-styles.html" target="_blank" title="Graphic Styles">Graphic Styles</a>

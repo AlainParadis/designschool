@@ -7,6 +7,7 @@ appsused: psd, indd
 title: "Spot Colour Channels"
 level: cg3
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86418&grpid=0&isprv=0&bp=0&ou=92653"
+submission: "indd-package"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/printing-spot-colors.html" target="_blank" title="Spot Colour Channels">Spot Colour Channels</a>
 video: "https://www.youtube.com/embed/sddPWRJa5WI"

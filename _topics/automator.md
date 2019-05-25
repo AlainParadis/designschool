@@ -7,6 +7,7 @@ appsused: macos
 title: "Automator"
 level: CG2
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+submission: "generic-zip-folder"
 links:
 video: "https://www.youtube.com/embed/g7OAyK9FjQo?list=PL4qBMvigUSLBQ81-YCSdw7GqKhk4sEZxv"
 downloads:

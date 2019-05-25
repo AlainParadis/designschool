@@ -7,6 +7,7 @@ appsused: psd
 title: "Smart Objects"
 level: cg5
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86521&grpid=0&isprv=0&bp=0&ou=92682"
+submission: "generic-zip-folder"
 links: 
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLCHHO2khLLnHHSvukoas8Y6"
 downloads: "https://www.dropbox.com/s/q3e7tjzzpc92122/photoshop-mockups.zip?dl=1"

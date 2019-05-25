@@ -7,6 +7,7 @@ appsused: indd, psd
 title: "Text Variables"
 level: CG2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86414&grpid=0&isprv=0&bp=0&ou=92653"
+submission: "indd-package"
 links: |
   - <a href="https://helpx.adobe.com/indesign/using/captions.html" target="_blank" title="Adobe: Using Captions">Adobe: Using Captions</a>
   - <a href="https://helpx.adobe.com/indesign/using/creating-table-contents.html" target="_blank" title="Adobe: Tables of Contents">Adobe: Tables of Contents</a>
