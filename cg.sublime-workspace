@@ -1,0 +1,489 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"flex-s",
+				"flex-start"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"lime",
+				"limegreen"
+			],
+			[
+				"dar",
+				"darkmagenta"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"green",
+				"limegreen"
+			],
+			[
+				"brode",
+				"border"
+			],
+			[
+				"justi",
+				"justify-content"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"str",
+				"stretch"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"vertic",
+				"vertical-align"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"just",
+				"justify-content"
+			],
+			[
+				"ind",
+				"indesign-publication/"
+			],
+			[
+				"Doc",
+				"Document"
+			],
+			[
+				"s",
+				"src=〔attribute〕"
+			],
+			[
+				"img",
+				"img\tInsert an image."
+			],
+			[
+				"c",
+				"cg4"
+			],
+			[
+				"draw",
+				"drawing-in-3D"
+			],
+			[
+				"dra",
+				"drawing-in-3D"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"colu",
+				"column"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"spac",
+				"space-around"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"max-",
+				"max-width"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 69.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html5"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"autoprefix",
+				"Autoprefix CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"img",
+				"BracketHighlighter: Select Tag Name (closing and opening)"
+			],
+			[
+				"image",
+				"Snippet: Insert an image."
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/paradis/Sites/designschool/new-site/css/grid.css",
+		"/Users/paradis/Sites/designschool/new-site/grid.html",
+		"/Users/paradis/Sites/designschool/404.md",
+		"/Users/paradis/Sites/designschool/about.md",
+		"/Users/paradis/Sites/designschool/index.md",
+		"/Users/paradis/Sites/designschool/_config.yml",
+		"/Users/paradis/Sites/designschool/cg",
+		"/Users/paradis/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/paradis/Sites/designschool/package.json",
+		"/Users/paradis/Sites/designschool/css/typography.css",
+		"/Users/paradis/Sites/designschool/css/layout.css",
+		"/Users/paradis/Sites/designschool/css/layout.min.css",
+		"/Users/paradis/Sites/designschool/_topics/cg5/intro-to-isometrics.md",
+		"/Users/paradis/Sites/designschool/_topics/cg5/isometric-illustration.md",
+		"/Users/paradis/Sites/designschool/_topics/cg5/interactive-portfolio.md",
+		"/Users/paradis/Sites/designschool/css/main.css",
+		"/Users/paradis/Sites/designschool/images/logo-rgd.svg",
+		"/Users/paradis/Sites/designschool/_cg4/module1/index.yml",
+		"/Users/paradis/Sites/designschool/_cg1/module5/04.md",
+		"/Users/paradis/Sites/designschool/_layouts/home.html",
+		"/Users/paradis/Sites/designschool/_cg1/module1/01.md",
+		"/Users/paradis/Sites/designschool/_cg1/index.md",
+		"/Users/paradis/Sites/designschool/_cg4/index.md",
+		"/Users/paradis/Sites/designschool/_layouts/default.html",
+		"/Users/paradis/Sites/designschool/_cg1/module2/03.md",
+		"/Users/paradis/Sites/designschool/_cg1/module5/02.md",
+		"/Users/paradis/Sites/designschool/_cg1/module5/01.md",
+		"/Users/paradis/Sites/designschool/_cg1/module3/03.md",
+		"/Users/paradis/Sites/designschool/_cg2/module9/1.md",
+		"/Users/paradis/Sites/designschool/_cg2/module9/2.md",
+		"/Users/paradis/Sites/designschool/_cg2/module9/3.md",
+		"/Users/paradis/Sites/designschool/_cg2/module9/index.md",
+		"/Users/paradis/Sites/designschool/_cg1/module1/03.md",
+		"/Users/paradis/Sites/designschool/_includes/header.html",
+		"/Users/paradis/Sites/designschool/_includes/footer.html",
+		"/Users/paradis/Sites/designschool/_includes/panel.html",
+		"/Users/paradis/Sites/designschool/_layouts/course-home.html",
+		"/Users/paradis/Sites/designschool/_cg1/all-course-panels.md",
+		"/Users/paradis/Sites/designschool/_layouts/all-course-panels.html",
+		"/Users/paradis/Sites/designschool/_layouts/default-nav.html",
+		"/Users/paradis/Sites/designschool/_cg1/all-panels.md",
+		"/Users/paradis/Sites/designschool/css/cards.css",
+		"/Users/paradis/Sites/designschool/_layouts/module-home.html",
+		"/Users/paradis/Sites/designschool/_cg2/module1/index.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/21.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/03.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/01.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/02.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/17.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/15.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/14.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/12.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/10.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/11.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/05.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/04.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/13.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/09.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/08.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/07.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/06.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/16.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/18.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/19.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/20.md",
+		"/Users/paradis/Desktop/sublime-snippets-master/viewport.sublime-snippet",
+		"/Users/paradis/Desktop/sublime-snippets-master/borderbox.sublime-snippet",
+		"/Users/paradis/Sites/designschool/_cg2/module1/7.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/9.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/2.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/1.md",
+		"/Users/paradis/Library/Application Support/Sublime Text 3/Packages/User/YAML.sublime-settings",
+		"/Users/paradis/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/paradis/Library/Application Support/Sublime Text 3/Cache/YAML/YAML.sublime-syntax.cache",
+		"/Users/paradis/Sites/designschool/_cg2/module1/8.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/6.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/3.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/4.md",
+		"/Users/paradis/Sites/designschool/_cg2/module1/5.md",
+		"/Users/paradis/Sites/designschool/_cg4/module3/05.md",
+		"/Users/paradis/Library/Application Support/Sublime Text 3/Packages/AutoFileName-master/autofilename.sublime-settings",
+		"/Users/paradis/Library/Application Support/Sublime Text 3/Packages/User/img-src.sublime-snippet",
+		"/Users/paradis/Sites/designschool/_cg4/module3/03.md",
+		"/Users/paradis/Sites/designschool/_cg4/module3/01.md",
+		"/Users/paradis/Sites/designschool/_cg4/module4/01.md",
+		"/Users/paradis/Sites/designschool/_cg4/module4/02.md",
+		"/Users/paradis/Sites/designschool/_cg4/module4/03.md",
+		"/Users/paradis/Sites/designschool/_cg4/module4/04.md",
+		"/Users/paradis/Sites/designschool/_cg4/module4/05.md",
+		"/Users/paradis/Sites/designschool/_cg4/module4/index.md",
+		"/Users/paradis/Sites/designschool/_cg4/module3/04.md",
+		"/Users/paradis/Sites/designschool/_cg4/module3/index.md",
+		"/Users/paradis/Sites/designschool/_cg4/module3/02.md",
+		"/Users/paradis/Sites/designschool/_cg4/module2/4.md",
+		"/Users/paradis/Sites/designschool/_layouts/apps-home.html",
+		"/Users/paradis/Sites/designschool/_includes/top-nav.html",
+		"/Users/paradis/Sites/designschool/_cg4/module2/index.md",
+		"/Users/paradis/Sites/designschool/_cg4/module2/3.md",
+		"/Users/paradis/Sites/designschool/_cg4/module2/1.md",
+		"/Users/paradis/Sites/designschool/_cg4/module2/2.md",
+		"/Users/paradis/Sites/designschool/_cg1/module5/06.md",
+		"/Users/paradis/Library/Application Support/Sublime Text 3/Packages/User/img-src",
+		"/Users/paradis/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/paradis/Sites/designschool/_data/stream.yml",
+		"/Users/paradis/Sites/designschool/_data/outcomes.yml",
+		"/Users/paradis/Sites/designschool/_cg1/module1/04.md",
+		"/Users/paradis/Sites/designschool/_cg2/module7/index.md",
+		"/Users/paradis/Sites/designschool/_cg2/module7/04.md",
+		"/Users/paradis/Sites/designschool/_cg2/module7/03.md",
+		"/Users/paradis/Sites/designschool/_cg2/module7/02.md",
+		"/Users/paradis/Sites/designschool/_cg2/module7/01.md",
+		"/Users/paradis/Sites/designschool/_cg2/module7/1.md",
+		"/Users/paradis/Sites/designschool/_cg4/module3/1.md",
+		"/Users/paradis/Sites/designschool/Notes-From-NewPrint.md",
+		"/Users/paradis/Sites/designschool/_cg4/module6/index.md",
+		"/Users/paradis/Sites/designschool/_cg4/module6/01.md",
+		"/Users/paradis/Sites/designschool/_cg4/module5/index.md",
+		"/Users/paradis/Sites/designschool/_cg4/module7/index.md",
+		"/Users/paradis/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/paradis/Sites/designschool/_cg1/module4/05.md",
+		"/Users/paradis/Sites/designschool/_cg6/module2/index.md",
+		"/Users/paradis/Sites/designschool/_cg4/module3/2.md",
+		"/Users/paradis/Sites/designschool/_cg4/module3/3.md",
+		"/Users/paradis/Sites/designschool/_cg4/module3/4.md",
+		"/Users/paradis/Sites/designschool/_cg4/module3/5.md",
+		"/Users/paradis/Sites/designschool/_cg2/module6/18.md",
+		"/Users/paradis/Sites/designschool/_cg4/module7/01.md",
+		"/Users/paradis/Sites/designschool/_cg4/module5/01.md"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<!"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"grid.css",
+				"new-site/css/grid.css"
+			],
+			[
+				"",
+				"~/Sites/designschool/_includes/header.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 333.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
