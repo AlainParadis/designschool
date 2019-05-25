@@ -7,7 +7,7 @@ appsused: ai
 title: "Skateboard Parks Cards"
 level: cg5
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86524&grpid=0&isprv=0&bp=0&ou=92682"
-submission: "generic-zip-folder"
+submission: "my-assignment-folder"
 links: 
 video: 
 downloads:

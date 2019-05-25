@@ -7,7 +7,7 @@ appsused: psd
 title: "Cropping"
 level: CG1
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=84509&grpid=0&isprv=0&bp=0&ou=92671"
-submission: "generic-zip-folder"
+submission: "my-assignment-folder"
 links: |
   - <a href="https://helpx.adobe.com/photoshop/using/crop-straighten-photos.html" target="_blank" title="Adobe: Crop & Straighten Photos">Adobe: Crop & Straighten Photos</a>
   - <a href="https://helpx.adobe.com/photoshop/using/adjusting-crop-rotation-canvas.html" target="_blank" title="Adobe: Adjust Crop, Rotation and Canvas Size">Adobe: Adjust Crop, Rotation and Canvas Size</a>

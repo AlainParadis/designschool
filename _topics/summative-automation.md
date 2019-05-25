@@ -7,7 +7,7 @@ appsused: psd
 title: "Automation"
 level: CG4
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-submission: 
+submission: "my-assignment-folder"
 links:
 video: 
 downloads: 

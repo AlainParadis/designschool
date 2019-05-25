@@ -7,7 +7,7 @@ appsused: psd
 title: "Transforms"
 level: cg4
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=123821&grpid=0&isprv=&bp=0&ou=145538"
-submission: "psd-files-in-folder"
+submission: "my-assignment-folder"
 links: |
   - <a href="https://helpx.adobe.com/photoshop/using/transforming-objects.html" target="_blank" title="Transform Objects">Transform Objects</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLCPV88lerrXcuLpXw0bX4q-"

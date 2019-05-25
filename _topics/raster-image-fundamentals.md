@@ -7,7 +7,7 @@ appsused: indd, psd
 title: "Raster Image Fundamentals"
 level: cg1
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=84508&grpid=0&isprv=0&bp=0&ou=92671"
-submission: "generic-zip-folder"
+submission: "my-assignment-folder"
 links: |
   - <a href="https://helpx.adobe.com/photoshop/how-to/image-resizing-basics.html" title="Change the image size" target="_blank">Adobe: Change the image size</a>
   - <a href="https://helpx.adobe.com/indesign/using/placing-graphics.html" target="_blank" title="Adobe: Placing Graphics">Adobe: Placing Graphics</a>

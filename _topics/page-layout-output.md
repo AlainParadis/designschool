@@ -7,7 +7,7 @@ appsused: indd psd
 title: "Page Layout Output"
 level: cg3
 brightspace: 
-submission: "generic-zip-folder"
+submission: "indesign-package"
 links: |
   - 
 video: 

@@ -7,7 +7,7 @@ appsused: psd
 title: "Actions"
 level: cg4
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=123827&grpid=0&isprv=&bp=0&ou=145538"
-submission: "generic-zip-folder"
+submission: "my-assignment-folder"
 links:
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLBLWRrHy7k9Kc17Bpt0BnZi"
 downloads: "https://www.dropbox.com/s/gigiehzqkjch9vr/photoshop-actions.zip?dl=1"

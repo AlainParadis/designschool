@@ -7,7 +7,7 @@ appsused: ai
 title: "Puppet Warp"
 level: CG6
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-submission:
+submission: "my-assignment-folder"
 links: |
   - 
 video: 

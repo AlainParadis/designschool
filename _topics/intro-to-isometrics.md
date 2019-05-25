@@ -7,7 +7,7 @@ appsused: ai
 title: "Intro to Isometrics"
 level: cg5
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86505&grpid=0&isprv=0&bp=0&ou=92682"
-submission: "generic-zip-folder"
+submission: "my-assignment-folder"
 links: |
   - Download the <a href="http://astutegraphics.com/software/subscribe/" title="Get the Astute Graphics Subscribe Plugin" target="_blank">Astute Graphics Subscribe Plugin</a>
   - <a href="http://www.glitschkastudios.com" title="Von Glitschka" target="_blank">Von Glitschka's site</a>

@@ -7,7 +7,7 @@ appsused: psd, ai, indd
 title: "Vector Shapes"
 level: cg4
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=123823&grpid=0&isprv=&bp=0&ou=145538"
-submission: "psd-file-no-dependancies"
+submission: "photoshop-document"
 links:
 video: "https://www.youtube.com/embed/Rou1YNOMsMQ"
 downloads: "https://www.dropbox.com/s/p93mavgdl9gcty8/photoshop-vector-shapes.zip?dl=1"

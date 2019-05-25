@@ -7,7 +7,7 @@ appsused: psd
 title: "Layers"
 level: cg1
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=84511&grpid=0&isprv=0&bp=0&ou=92671"
-submission: "psd-file-no-dependancies"
+submission: "photoshop-document"
 links: |
   - <a href="https://helpx.adobe.com/photoshop/using/layer-basics.html" target="_blank" title="Layer Basics">Layer Basics</a>
   - <a href="https://helpx.adobe.com/photoshop/using/selecting-grouping-linking-layers.html" target="_blank" title="Select, Group & Link Layers">Select, Group & Link Layers</a>

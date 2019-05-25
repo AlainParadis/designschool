@@ -7,7 +7,7 @@ appsused: psd
 title: "Retouching Fundamentals"
 level: cg1
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=84514&grpid=0&isprv=0&bp=0&ou=92671"
-submission: "generic-zip-folder"
+submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html" target="_blank" title="Adobe: Retouch & Repair Photos">Retouch & Repair Photos</a>
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/content-aware-patch-move.html" title="Adobe: Content-Aware Patch and Move" target="_blank">Content-Aware Patch and Move</a>

@@ -7,7 +7,7 @@ appsused: ai, indd
 title: "Graph Design"
 level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=121203&grpid=0&isprv=0&bp=0&ou=145550"
-submission: "generic-zip-folder"
+submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/graphs.html" title="Adobe: Graphs" target="_blank">Graphs</a>
 video: "https://www.youtube.com/embed/K_vENVmUluM"

@@ -7,7 +7,7 @@ appsused: psd
 title: "Data Driven Graphics"
 level: cg4
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=123829&grpid=0&isprv=&bp=0&ou=145538"
-submission: "generic-zip-folder"
+submission: "my-assignment-folder"
 links: |
   - <a href="http://goo.gl/vwbbmH" target="_blank">Photoshop: Data Driven Graphics</a>
   - <a href="http://www.liberal.ca" target="_blank">Liberal Party of Canada Web site</a>

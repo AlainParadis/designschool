@@ -7,7 +7,7 @@ appsused: indd ai psd
 title: "Cook-book Planning"
 level: cg6
 brightspace: 
-submission: "generic-zip-folder"
+submission: "my-assignment-folder"
 links: |
   - 
 video: 

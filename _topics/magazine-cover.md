@@ -7,7 +7,7 @@ appsused: psd
 title: "Magazine Cover"
 level: cg1
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=84515&grpid=0&isprv=0&bp=0&ou=92671"
-submission: "psd-file-no-dependancies"
+submission: "photoshop-document"
 links: |
   - <a href="https://www.brandsoftheworld.com" title="Brands of the World Vector Logos" target="_blank">Brands of the World</a>
   - <a href="https://duckduckgo.com/?q=women%27s+magazine+covers+headshot&amp;t=osx&amp;iax=images&amp;ia=images" title="Magazine Cover images" target="_blank">Magazine Cover images</a>

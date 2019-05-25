@@ -7,7 +7,7 @@ appsused: ai
 title: "Sugar Skull"
 level: CG2
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-submission: "generic-zip-folder"
+submission: "illustrator-package"
 links:
 video:
 downloads: 

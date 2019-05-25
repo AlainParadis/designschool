@@ -46,21 +46,4 @@ assignment: |
   </figcaption>
   </figure>
 
-  ## Your Submission
-
-  The goal here is to keep one Illustrator file with a all your graph work in it. It will have more than one version of the graph in it. It's like leaving breadcrumbs as you work. Keep copies (versions) of your graph as you edit it. Keep your graph live as long as you can. Finally, if it's necessary to ungroup your graph, you'll have a live graph to go back to if something goes wrong.
-
-  The graph-outlined.ai file has only your final graph in it. Select your whole graph with the Select Tool and ungroup it. Select all of your type and use <span class="command">Type > Create Outlines</span>. Your graph isn't an Illustrator graph anymore. It's completely outlined. Now you can place (import) it to InDesign.
-
-  <div class="attentionbox achtung">
-    No raster images (photos) are allowed in this assignment. Use only Adobe Fonts.
-  </div>
-
-  ### Folder structure:
-
-  Make a folder as shown below. Add the InDesign package to it, plus the Illustrator file with your live graph design.
-
-  <img class="size100" alt="graph-submission" src="/images/illustrator-graphs/graph-submission.jpg">
-
-  Make sure all your layers are unlocked in all your files. Check your Illustrator Links panel to make sure there are no placed images in your document. If there are, delete them.
 ---

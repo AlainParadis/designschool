@@ -8,11 +8,6 @@ submission: "my-assignment-folder"
 title: "Drawing with Shapes"
 level: cg1
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=66853&grpid=0&isprv=0&bp=0&ou=92671"
-duedates: |
-  - Group 1: Noon, Tue, Sept 25
-  - Group 2: 11am, Wed, Sept 19
-  - Group 3: 11am, Mon, Sept 24
-  - Group 4: 8am, Tue, Sept 25
 links: |
   - <a href="https://helpx.adobe.com/illustrator/using/tools.html" target="_blank" title="Working with Tools">Working with Tools</a>
   - <a href="https://helpx.adobe.com/illustrator/how-to/design-draw-shapes.html" target="_blank" title="Drawing with Shapes">Drawing with Shapes</a>

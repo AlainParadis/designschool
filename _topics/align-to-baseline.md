@@ -7,7 +7,7 @@ appsused: indd
 title: "Align To Baseline"
 level:
 brightspace: 
-submission:
+submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/aligning-text.html" title="xx" target="_blank">Aligning Text</a>
 video: "https://www.youtube.com/embed/U_U3-RYLYlg"

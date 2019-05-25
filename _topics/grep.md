@@ -7,7 +7,7 @@ appsused: ai
 title: "GREP in InDesign"
 level: info
 brightspace: 
-submission: "generic-zip-folder"
+submission: "my-assignment-folder"
 links: |
   - 
 video: 

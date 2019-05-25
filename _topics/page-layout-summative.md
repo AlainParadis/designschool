@@ -7,7 +7,7 @@ appsused: indd psd
 title: "Page Layout Summative"
 level: cg3
 brightspace: 
-submission: "generic-zip-folder"
+submission: "my-assignment-folder"
 links: |
   - 
 video: 

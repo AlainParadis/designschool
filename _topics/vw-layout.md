@@ -7,7 +7,7 @@ appsused: indd, psd, pdf
 title: "VW Layout"
 level: cg1
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=84507&grpid=0&isprv=0&bp=0&ou=92671"
-submission: "indesign-package-local-fonts"
+submission: "indesign-package"
 links:
 downloads: "https://www.dropbox.com/s/h8vupzuloc7jysr/indesign-vw-layout.zip?dl=1"
 video:
