@@ -810,6 +810,7 @@ section.home-panels .panel-cg6 {
     header .site-id .item2 {
         grid-column: 4 / -1;
     }
+    section.submission .item2 img { width: 75% }
     section.submission .item3 {
         grid-column: 6 / 10
     }
