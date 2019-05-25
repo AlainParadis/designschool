@@ -7,7 +7,6 @@ appsused: ai
 title: "Artboards"
 level: CG1
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=84506&grpid=0&isprv=0&bp=0&ou=92671"
-submission: "ai-file"
 links: |
   - <a href="https://helpx.adobe.com/illustrator/using/using-multiple-artboards.html" target="_blank" title="Adobe: Set Up Artboards">Adobe: Set Up Artboards</a>
   - <a href="https://helpx.adobe.com/illustrator/using/artboard-overview.html" target="_blank" title="Lynda: Artboard Overview">Lynda: Artboard Overview</a>

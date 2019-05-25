@@ -8,7 +8,6 @@ level:
 brightspace: 
 video: 
 downloads: 
-submission: 
 description: ""
 details: |
   <img class="size25" alt="Applied Arts Student Awards" src="/images/general/applied-arts-student-awards-2017.svg">

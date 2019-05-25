@@ -7,7 +7,6 @@ appsused: indd
 title: "Tables"
 level: CG2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86411&grpid=0&isprv=0&bp=0&ou=92653"
-submission: "generic-zip-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/creating-tables.html" target="_blank" title="Adobe: Tables">Tables</a>
   - Lynda: <a href="https://www.lynda.com/InDesign-tutorials/InDesign-Tables-Depth/178945-2.html" target="_blank" title="Lynda.com: Tables">Tables</a>

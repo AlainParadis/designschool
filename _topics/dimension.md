@@ -7,7 +7,6 @@ appsused: dn
 title: "Dimension"
 level: cg3
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=120801&grpid=0&isprv=0&bp=0&ou=145571"
-submission: "dimension-formative"
 links: |
   - <a href="https://helpx.adobe.com/dimension/using/whats-new.html" title="Adobe Dimension What's New" target="_blank">What's New</a>
   - <a href="https://helpx.adobe.com/dimension/using/keyboard-shortcuts.html" title="Adobe Dimension Keyboard Shortcuts" target="_blank">Keyboard Shortcuts</a>

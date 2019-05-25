@@ -7,7 +7,6 @@ appsused: psd
 title: "Colour Correction"
 level: cg4
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=123820&grpid=0&isprv=&bp=0&ou=145538"
-submission: "psd-files-in-folder"
 links: 
 video: "https://www.youtube.com/embed/whPTSAlEdQk"
 downloads: "https://www.dropbox.com/s/mhf0ay8it0kwvnx/photoshop-colour-correction.zip?dl=1"

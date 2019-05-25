@@ -7,7 +7,6 @@ appsused: psd, indd
 title: "Beautiful Line Art"
 level: cg3
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86420&grpid=0&isprv=0&bp=0&ou=92653"
-submission: "indd-package"
 links:
 video: "https://www.youtube.com/embed/h4d4jKXsMLk"
 downloads: "https://www.dropbox.com/s/2m2u5f2lsb0go85/photoshop-beautiful-line-art.zip?dl=1"

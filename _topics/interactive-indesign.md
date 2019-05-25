@@ -7,7 +7,6 @@ appsused: indd, pdf, cc
 title: "Interactive InDesign"
 level: cg5
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86525&grpid=0&isprv=0&bp=0&ou=92682"
-submission: "indd-interactive-pdf"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/hyperlinks.html" target="_blank" title="Hyperlinks">Hyperlinks</a>
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/bookmarks.html" target="_blank" title="Bookmarks">Bookmarks</a>

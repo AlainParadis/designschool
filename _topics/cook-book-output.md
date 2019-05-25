@@ -7,7 +7,6 @@ appsused: indd ai psd pdf
 title: "Cook-book Output"
 level: cg6
 brightspace: 
-submission: "generic-zip-folder"
 links: |
   - 
 video: 

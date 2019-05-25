@@ -7,7 +7,6 @@ appsused: ai
 title: "Drawing in Perspective"
 level: CG4
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-submission: "ai-file-no-fonts"
 links:
 video: 
 downloads:

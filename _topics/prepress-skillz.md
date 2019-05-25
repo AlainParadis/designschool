@@ -7,7 +7,6 @@ appsused: psd, ai, indd
 title: "Prepress Skillz"
 level: cg3
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86421&grpid=0&isprv=0&bp=0&ou=92653"
-submission: "generic-zip-folder"
 links: |
   - <a href="dielines.html" target="_blank" title="x">Die Lines</a>
   - <a href="duotones.html" target="_blank" title="x">Duotones</a>

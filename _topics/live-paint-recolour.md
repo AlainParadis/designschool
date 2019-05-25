@@ -7,7 +7,6 @@ appsused: ai
 title: "Live Paint & Recolour"
 level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=126515&grpid=0&isprv=&bp=0&ou=145550"
-submission: "ai-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/live-paint-groups.html" title="Live Paint" target="_blank">Live Paint</a>
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/color-groups-harmonies.html" title="Colour Harmonies" target="_blank">Colour Harmonies</a>

@@ -7,7 +7,6 @@ appsused: psd
 title: "Brushes"
 level: cg3
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86422&grpid=0&isprv=0&bp=0&ou=92653"
-submission: "psd-file"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/how-to/photoshop-brushes-intro.html" alt:="Adobe: How to use Photoshop Brushes video tutorial" target="_blank">Brushes</a>
 video: 

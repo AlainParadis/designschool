@@ -7,7 +7,6 @@ appsused: psd
 title: "Blend Modes"
 level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=132034&grpid=0&isprv=0&bp=0&ou=145550"
-submission: "generic-zip-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/blending-modes.html" target="_blank" title="Blending Modes">Blending Modes</a>
 video:

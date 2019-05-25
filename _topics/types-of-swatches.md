@@ -7,7 +7,6 @@ appsused: ai
 title: "Types of Swatches"
 level: cg1
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=66862&grpid=0&isprv=0&bp=0&ou=92671"
-submission: "ai-folder"
 links: |
   - <a href="https://helpx.adobe.com/illustrator/using/using-creating-swatches.html" target="_blank" title="Adobe: Use & Create Swatches">Adobe: Use & Create Swatches</a>
   - <a href="https://www.youtube.com/watch?v=RW1HJdW5XLs" target="_blank" title="YouTube: The Printing Process">YouTube: The Printing Process</a>

@@ -7,7 +7,6 @@ appsused: ai
 title: "Symbols Summative"
 level: cg4
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=123817&grpid=0&isprv=0&bp=0&ou=145538"
-submission: ai-package
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/symbols.html#use_9_slice_scaling" title="Symbols" target="_blank">Symbols</a>
 video: "https://www.youtube.com/embed/8BfO3RTKamA"
