@@ -66,5 +66,9 @@ layout: default
     <span class="orange">Failure to submit your files as directed will incur a proportional loss of points. If your file/folder is not named with your name, you will earn a zero. <a href="assessment.html#filenames" title="Why is file naming important?">Why?</a></span>
   </p>
 
-{% endif %}
+{% elsif page.submission == 'pdf-file' %}
+<p>Before submitting your PDF, open it in Adobe Acrobat. Go File > Document Properties... Click on Initial View</p>, then:
+<img src="/images/submissions/submission-PDF-properties.gif" class="size75 borderdarkgrey1">
+<p>Submit your PDF file. Do not compress it.</p>
 
+{% endif %}
