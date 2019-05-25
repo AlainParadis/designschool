@@ -788,10 +788,10 @@ section.home-panels .panel-cg6 {
     header .site-id .item1 {
         grid-column: 1 / 4;
     }
-
     header .site-id .item2 {
         grid-column: 4 / -1;
     }
+    section.video-instructions .item2 { padding: 0 2rem 0 1rem; }
     section.submission .item2 img { width: 75% }
     section.submission .item3 {
         grid-column: 6 / 10
