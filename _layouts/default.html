@@ -34,18 +34,18 @@
         {% endif %}
     </div>
 </section>
-<section class="video-instructions">
-    <div class="item item1">
+    <section class="video-instructions">
+    <div class="item1">
         {% if page.video %}
         <div id="embed-youtube-container">
             <iframe src="{{ page.video }}" frameborder="0" allowfullscreen></iframe>
         </div>
         {% endif %}
         {% if page.featureimage %}
-            <img src="/images/featureimage/{{page.featureimage}}">
+        <img src="/images/featureimage/{{page.featureimage}}">
         {% endif %}
     </div>
-    <div class="item item2">
+    <div class="item2">
         <p>{{ page.description }}</p>
         {% if page.downloads %}
         <img src="/images/svg/icon-download.svg" class="size10 center">
@@ -110,7 +110,7 @@
         <h2 class="fs20 fw100">How to submit</h2>
     </div>
     <div class="item item2">
-    	<img src="/images/svg/{{page.submission}}.svg">
+        <img src="/images/svg/{{page.submission}}.svg">
     </div>
     <div class="item item3">
         <h2>Instructions</h2>
