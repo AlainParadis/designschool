@@ -161,8 +161,6 @@ mark
 .summative { font-weight: 600; }
 .summative a { padding-left: 0em; }
 header nav ul li a:hover { color:#94C947; }
-aside nav ul li a { text-decoration: underline; }
-aside nav ul li a:hover { text-decoration: none; }
 .panel h3
 {
 	font-size: 1.5rem;
@@ -261,7 +259,6 @@ footer .block a:hover { text-decoration: none; }
 {
 	html { font-size: 110%; }
 	header .item { font-size: 0.8rem; }
-	aside#rightrail { font-size: 0.8rem; }
 }
 
 /* 60rem = 960px */

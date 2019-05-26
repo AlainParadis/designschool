@@ -184,10 +184,13 @@ section.content {
     grid-gap: 0.5rem;
 }
 
-section.content .item {}
-
 section.content .item1 {
     grid-column: 1 / -1;
+}
+
+section.content .item1 ul {
+    margin: 0 0 0 .5rem;
+    padding: 0;
 }
 
 section.content .item1 ul li {
