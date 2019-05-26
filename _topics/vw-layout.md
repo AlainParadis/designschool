@@ -11,11 +11,10 @@ submission: "indesign-package"
 links:
 downloads: "https://www.dropbox.com/s/h8vupzuloc7jysr/indesign-vw-layout.zip?dl=1"
 video:
+featureimage: vw-layout.jpg
 description: "Use the provided files to build the Volkswagen advertisement according to the included PDF design guide."
 details: |
 assignment: |
-  <img class="size100" alt="Volkswagen banner image" src="/images/indesign-vw-layout/banner-image.jpg">
-
   Using all the skills we've practiced to date, you will build the layout shown in the provided design guide. You'll be replicating the design in the guide. There may be very small differences, like different line endings. That's ok.
 
   #### Document Creation
