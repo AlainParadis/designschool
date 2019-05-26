@@ -11,7 +11,6 @@ submission: "indesign-package"
 links:
 downloads: "https://www.dropbox.com/s/h8vupzuloc7jysr/indesign-vw-layout.zip?dl=1"
 video:
-featureimage: vw-layout.jpg
 description: "Use the provided files to build the Volkswagen advertisement according to the included PDF design guide."
 details: |
 assignment: |
