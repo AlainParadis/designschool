@@ -477,8 +477,9 @@ td {
 .formsum {
     display: flex;
     flex-direction: column;
-    border: 1px solid var(--lime-green);
-    border-top: 6px solid var(--lime-green);
+    background-color: white;
+    border: 3px solid var(--lime-green);
+    border-radius: .5rem;
     padding: 0.5em 0.5em 0em 0.5em;
     margin: 1rem 0;
 }

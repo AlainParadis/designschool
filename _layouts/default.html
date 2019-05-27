@@ -51,13 +51,13 @@
         {% endif %}
         {% if page.formsum == 'formative' %}
         <div class="formsum">
-            <h3 class="uc textcenter">This is a <span class="fw700">{{ page.formsum }}</span> assignment</h3>
+            <h3 class="fw400 fs15 textcenter">This is a <span class="fw700">{{ page.formsum }}</span> assignment</h3>
             <p>
                 That means that you'll be learning and practicing new software skills. This assignment contributes to your final grade in the course. This work will be graded as either:
             </p>
             <div class="completeincomplete">
-                <span class="complete">Complete</span>
-                <span class="incomplete">Incomplete</span>
+                <span class="complete fs12">Complete</span>
+                <span class="incomplete fs12">Incomplete</span>
             </div>
             <p>
                 If needed, I will provide written feedback on your performance.
@@ -65,11 +65,12 @@
         </div>
         {% elsif page.formsum == 'summative' %}
         <div class="formsum sum">
+            <h3 class="fw400 fs15 textcenter">This is a <span class="fw700">{{ page.formsum }}</span> assignment</h3>
             <p>
-                This is a <span class="fw700">{{ page.formsum }}</span> assignment. It evaluates your mastery of the skills in this instructional unit. This assignment contributes to your final grade in the course. You will earn a letter grade.
+                It evaluates your mastery of the skills in this instructional unit. This assignment contributes to your final grade in the course. You will earn a letter grade.
             </p>
             <p class="textcenter">
-                <a href="{{ site.baseurl }}/topics/assessment.html" title="Algonquin College Grading System" class="fw700 font10">Your Grading System</a>
+                <a href="{{ site.baseurl }}/topics/assessment.html" title="Algonquin College Grading System" class="fw500 fs15">Your Grading System</a>
             </p>
         </div>
         {% endif %}
