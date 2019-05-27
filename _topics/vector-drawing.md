@@ -5,7 +5,7 @@ formsum:
 sortorder: 3.3
 appsused: indd
 title: "Vector Drawing"
-level: CG2
+level: undetermined
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission:
 links: |
