@@ -1,11 +1,11 @@
 ---
 layout: submission
-type: card
+type: assignment
 formsum: formative
 sortorder: 2.4
 appsused: ai
 title: "Artboards"
-level: CG1
+level: undetermined
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=84506&grpid=0&isprv=0&bp=0&ou=92671"
 submission: "illustrator-package"
 links: |

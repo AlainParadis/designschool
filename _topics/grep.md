@@ -1,11 +1,11 @@
 ---
 layout: submission
-type: card
+type: assignment
 formsum: formative
 sortorder: 5.0
 appsused: ai
 title: "GREP in InDesign"
-level: info
+level: undetermined
 brightspace: 
 submission: "my-assignment-folder"
 links: |

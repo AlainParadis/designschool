@@ -1,11 +1,11 @@
 ---
 layout: submission
-type: card
+type: assignment
 formsum: summative
 sortorder: 3.9
 appsused: indd
 title: "Books Pinocchio"
-level: none
+level: undetermined
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=120808&grpid=0&isprv=0&bp=0&ou=145571"
 submission: "indd-book-package-plus-pdf"
 links: |

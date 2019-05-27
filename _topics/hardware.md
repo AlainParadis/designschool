@@ -1,6 +1,6 @@
 ---
 layout: default
-type: card
+type: informational
 sortorder: 
 appsused:
 title: "Hardware Requirements"

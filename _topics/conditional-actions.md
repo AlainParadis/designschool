@@ -1,6 +1,6 @@
 ---
 layout: submission
-type: card
+type: assignment
 formsum: formative
 sortorder: 6.1
 appsused: psd

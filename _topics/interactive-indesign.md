@@ -1,6 +1,6 @@
 ---
 layout: submission
-type: card
+type: assignment
 formsum: formative
 sortorder: 5.0
 appsused: indd, pdf, cc

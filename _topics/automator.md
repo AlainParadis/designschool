@@ -1,11 +1,11 @@
 ---
 layout: submission
-type: card
+type: assignment
 formsum: formative
 sortorder: 9.0
 appsused: macos
 title: "Automator"
-level: CG2
+level: undetermined
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission: "my-assignment-folder"
 links:

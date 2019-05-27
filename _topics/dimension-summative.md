@@ -1,6 +1,6 @@
 ---
 layout: submission
-type: card
+type: assignment
 formsum: summative
 sortorder: 5.9
 appsused: dn

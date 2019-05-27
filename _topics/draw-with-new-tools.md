@@ -1,11 +1,11 @@
 ---
 layout: submission
-type: card
+type: assignment
 formsum: formative
 sortorder: 5.2
 appsused: ai
 title: "Draw with New Tools"
-level: CG2
+level: undetermined
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission: "my-assignment-folder"
 links: |

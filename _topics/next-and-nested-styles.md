@@ -1,11 +1,11 @@
 ---
 layout: submission
-type: card
+type: assignment
 formsum: formative
 sortorder: 5.4
 appsused: indd
 title: "Next & Nested Styles"
-level: CG2
+level: undetermined
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86413&grpid=0&isprv=0&bp=0&ou=92653"
 submission: "indesign-package"
 links: |

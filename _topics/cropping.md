@@ -1,11 +1,11 @@
 ---
 layout: submission
-type: card
+type: assignment
 formsum: formative
 sortorder: 4.2
 appsused: psd
 title: "Cropping"
-level: CG1
+level: undetermined
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=84509&grpid=0&isprv=0&bp=0&ou=92671"
 submission: "my-assignment-folder"
 links: |

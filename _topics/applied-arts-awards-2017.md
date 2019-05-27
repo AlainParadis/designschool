@@ -1,6 +1,6 @@
 ---
-layout: default
-type: card
+layout: submission
+type: informational
 sortorder: 
 appsused: 
 title: "Applied Arts Student Awards Submission"

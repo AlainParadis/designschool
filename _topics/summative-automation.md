@@ -1,11 +1,11 @@
 ---
 layout: submission
-type: card
+type: assignment
 formsum: summative
 sortorder: 6.9
 appsused: psd
 title: "Automation"
-level: CG4
+level: cg4
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission: "my-assignment-folder"
 links:

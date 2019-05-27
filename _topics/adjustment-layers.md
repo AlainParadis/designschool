@@ -1,11 +1,11 @@
 ---
 layout: submission
-type: card
+type: informational
 formsum: formative
 sortorder: 4.5
 appsused: psd
 title: "Adjustment Layers"
-level: CG1
+level: undetermined
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=84513&grpid=0&isprv=0&bp=0&ou=92671"
 submission: "my-assignment-folder"
 links: |

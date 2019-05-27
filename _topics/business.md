@@ -1,6 +1,6 @@
 ---
 layout: submission
-type: card
+type: informational
 formsum:
 sortorder: 1.0
 appsused:

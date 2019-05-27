@@ -1,11 +1,11 @@
 ---
 layout: submission
-type: card
+type: informational
 formsum: 
 sortorder: 1.3
 appsused: indd
 title: "Story Editor"
-level: info
+level: none
 brightspace: 
 submission: 
 links: |

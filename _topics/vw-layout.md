@@ -1,6 +1,6 @@
 ---
 layout: submission
-type: card
+type: assignment
 formsum: summative
 sortorder: 3.9
 appsused: indd, psd, pdf

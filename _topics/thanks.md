@@ -1,6 +1,6 @@
 ---
 layout: default
-type: card
+type: assignment
 formsum:
 sortorder: 1.0
 appsused:

@@ -1,11 +1,11 @@
 ---
 layout: submission
-type: card
+type: assignment
 formsum: summative
 sortorder: 6.9
 appsused: ai
 title: "Sugar Skull"
-level: CG2
+level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission: "illustrator-package"
 links:

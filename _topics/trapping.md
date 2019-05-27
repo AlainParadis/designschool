@@ -1,11 +1,11 @@
 ---
 layout: submission
-type: card
-formsum: formative
+type: informational
+formsum:
 sortorder: 2.4
 appsused: indd, pdf, ai
 title: "Trapping"
-level: info
+level: none
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86419&grpid=0&isprv=0&bp=0&ou=92653"
 submission: "indesign-package"
 links: |

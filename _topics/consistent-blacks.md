@@ -1,11 +1,11 @@
 ---
 layout: submission
-type: card
+type: informational
 formsum: 
 sortorder: 2.1
 appsused: psd, indd, ai
 title: "Consistent Blacks"
-level: info
+level: undetermined
 brightspace: 
 submission: 
 links: |

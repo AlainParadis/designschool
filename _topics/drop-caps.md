@@ -1,11 +1,11 @@
 ---
 layout: default
-type: card
+type: informational
 formsum:
 sortorder:
 appsused: indd, ai
 title: "Drop Caps"
-level:
+level: undetermined
 brightspace: 
 submission:
 links: |

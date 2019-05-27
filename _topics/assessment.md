@@ -1,10 +1,10 @@
 ---
 layout: default
-type: card
+type: informational
 sortorder: 
 appsused:
 title: "Assessment"
-level: 
+level:
 brightspace: 
 video: 
 downloads:

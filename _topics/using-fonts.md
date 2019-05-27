@@ -1,11 +1,11 @@
 ---
 layout: submission
-type: card
+type: informational
 formsum: 
 sortorder: 3.0
 appsused: indd, macos, cc, ai, psd
 title: "Using Fonts"
-level: CG1
+level: none
 brightspace: 
 submission:
 links: |
