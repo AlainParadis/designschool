@@ -13,7 +13,7 @@ links: |
   - <a href="duotones.html" target="_blank" title="x">Duotones</a>
   - <a href="spot-colour-channels.html" target="_blank" title="x">Spot Colour Channels</a>
   - <a href="beautiful-line-art.html" target="_blank" title="x">Beautiful Line Art</a>
-video: 
+video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLBd_egQk6ip1znumZgdkCmH"
 downloads: "https://www.dropbox.com/s/t8z181fk0z26s2z/prepress-skillz.zip?dl=1"
 description: "Designers need to get a solid handle on file prep for the press. The skillz below are some essential skillz you need to master."
 details: |
