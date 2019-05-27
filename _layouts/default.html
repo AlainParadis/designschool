@@ -102,6 +102,7 @@
         {% endif %}
     </div>
 </section>
+{% if page.type == 'assignment' %}
 <section class="submission">
     <div class="item item1">
         <h2 class="fs20 fw100">How to submit</h2>
@@ -114,6 +115,7 @@
         <div class="fw500">{{ content }}</div>
     </div>
 </section>
+{% endif %}
 {% include footer.html %}
 </body>
 </html>
