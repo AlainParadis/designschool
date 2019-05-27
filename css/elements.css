@@ -75,20 +75,6 @@ input {
     background: url("/images/svg/icon-submit.svg") no-repeat left bottom;
 }
 
-table {
-    width: 100%;
-    margin-bottom: 1rem;
-}
-
-th {
-    background-color: #94C947;
-}
-
-td {
-    text-align: center;
-    border-bottom: 1px solid #94C947;
-}
-
 .attentionbox {
     display: block;
     border: solid 1px #94C947;
