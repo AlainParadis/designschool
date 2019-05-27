@@ -66,6 +66,9 @@ layout: default
     <span class="orange">Failure to submit your files as directed will incur a proportional loss of points. If your file/folder is not named with your name, you will earn a zero. <a href="assessment.html#filenames" title="Why is file naming important?">Why?</a></span>
   </p>
 
+{% elsif page.submission == 'photoshop-document' %}
+<p>Save your Photoshop file as <span class="fw600">Lastname-Firstname-#-{{ page.title }}.psd</span>. Zip-compress the Photoshop file, then submit it on BrightSpace.</p>
+
 {% elsif page.submission == 'pdf-file' %}
 <p>Before submitting your PDF, open it in Adobe Acrobat. Go File > Document Properties... Click on Initial View, then:</p>
 <img src="/images/submissions/pdf-file-properties.gif" class="size75 borderdarkgrey1">
