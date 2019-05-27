@@ -1,20 +1,27 @@
-<div class="table">
-	<div class="table-row">
-		<div class="table-header fw700">
+<div class="table borderdarkgrey1">
+	<div class="table-row borderdarkgrey1">
+		<div class="table-header fw700 borderdarkgrey1">
 			Title
 		</div>
-		<div class="table-header fw700">
-			Apps
+		<div class="table-header fw700 borderdarkgrey1">
+			Assessment Type
+		</div>
+		<div class="table-header fw700 borderdarkgrey1">
+			Apps Used
 		</div>
   	</div> 
 {% assign all_topics = include.course | sort: 'sortorder' %}
 	{% for topic in all_topics %}
 	{% if topic.level contains include.coursename %}
-	<div class="table-row {% if topic.formsum == 'summative' %}summative{% endif %}">
-		<div class="table-cell title {% if topic.formsum == 'summative' %}summative{% endif %}">
+	<div class="table-row borderdarkgrey1 {% if topic.formsum == 'summative' %}summative{% endif %}">
+		<div class="table-cell borderdarkgrey1 title {% if topic.formsum == 'summative' %}summative{% endif %}">
 			<a href="{{ site.baseurl }}{{topic.url}}" title="{{ topic.sortorder }}: {{ topic.description }}">{{ topic.title }}</a>
 		</div>
-		<div class="table-cell {% if topic.formsum == 'summative' %}summative{% endif %}">
+		<div class="table-cell borderdarkgrey1">
+			{% if topic.formsum == 'formative' %}Formative{% endif %}
+			{% if topic.formsum == 'summative' %}Summative{% endif %}
+		</div>
+		<div class="table-cell borderdarkgrey1 {% if topic.formsum == 'summative' %}summative{% endif %}">
 			{% if topic.appsused contains 'macos' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-macos.svg" alt="Mac OS icon"></span>{% endif %}
 			{% if topic.appsused contains 'cc' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-cc.svg" alt="Creative Cloud icon"></span>{% endif %}
 			{% if topic.appsused contains 'indd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-indd.svg" alt="InDesign icon"></span>{% endif %}
