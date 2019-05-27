@@ -1,8 +1,8 @@
-https://www.shopify.ca/partners/shopify-cheat-sheet
+## Links
 
-YAML tutorial in the context of Jekyll
+- [Shopify Liquid Cheat Sheet](https://www.shopify.ca/partners/shopify-cheat-sheet)
+- [YAML tutorial in the context of Jekyll](https://deepnn.github.io/mydoc_yaml_tutorial.html)
 
-  https://deepnn.github.io/mydoc_yaml_tutorial.html
 
 # Code Snippets
 
@@ -15,7 +15,7 @@ I think this loops through all the pages' front matter by level. This is how the
 YAML Front Matter
 
 ---
-### Liquid Loop
+## Liquid Loop
 
 deliverables:
   - first
@@ -36,7 +36,14 @@ deliverables:
 	<p>Put different text here.</p>
 {% endif %}
 
-### CSS
+## CSS
+
+### To center a div
+
+Option 1 You could make that thing `inline-block` and use `text-align: center` on the parent element.
+
+Option 2 Make the parent element: `display: flex` and & also `justify-content: center`.
+
 
 - Select ALL direct Decendants
   - .selector >* { attributes:something; }
