@@ -1,11 +1,11 @@
 ---
 layout: default
-type: assignment
+type: informational
 formsum: formative
 sortorder:
 appsused: indd
 title: "Align To Baseline"
-level: undetermined
+level:
 brightspace: 
 submission: "my-assignment-folder"
 links: |

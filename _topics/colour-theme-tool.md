@@ -1,11 +1,11 @@
 ---
 layout: submission
-type: assignment
+type: informational
 formsum: formative
 sortorder: 1.0
 appsused: indd
 title: "Colour Theme Tool"
-level: undetermined
+level:
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission:
 links: |

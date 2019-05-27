@@ -5,7 +5,7 @@ formsum: formative
 sortorder: 1.0
 appsused: indd
 title: "Content Conveyor"
-level: undetermined
+level:
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission: "my-assignment-folder"
 links: |

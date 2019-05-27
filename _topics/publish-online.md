@@ -1,11 +1,11 @@
 ---
 layout: submission
-type: assignment
+type: informational
 formsum: formative
 sortorder: 1.0
 appsused: indd
 title: "Publish Online"
-level: undetermined
+level:
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission:
 links: |

@@ -5,7 +5,7 @@ formsum:
 sortorder:
 appsused: indd, ai
 title: "Drop Caps"
-level: undetermined
+level:
 brightspace: 
 submission:
 links: |

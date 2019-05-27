@@ -5,7 +5,7 @@ formsum:
 sortorder: 2.1
 appsused: psd, indd, ai
 title: "Consistent Blacks"
-level: undetermined
+level:
 brightspace: 
 submission: 
 links: |
@@ -13,7 +13,7 @@ links: |
 video: 
 downloads: 
 description: "The black you get by default in Photoshop is different than the one in Illustrator and in InDesign. We'll take control of this unruly colour for once and for all."
-details: | 
+details: |
   You've most certainly encountered a problem with inconistent blacks when having your homework printed at a service bureau, like the College's Print Shop or a UPS outlet. You get a really dark black in places, then a greyish black in other regions.
 
   <img class="size50" alt="blacks-difference-examples" src="/images/blacks/blacks-difference-examples.jpg">
