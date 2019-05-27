@@ -140,6 +140,7 @@ section.news {
     display: -ms-grid;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+    -ms-grid-rows: 1fr;
     grid-template-rows: 1fr;
     grid-gap: 1rem;
     background-color: rgb(148, 201, 71, 0.3);
@@ -148,15 +149,17 @@ section.news {
 }
 
 section .newsitem {
-    
     border: solid 1px var(--lime-green);
     padding: 0;
     background-color: white;
     border-radius: 0.25rem;
 }
 
-section .newsitem .image {
-    
+section .newsitem img {
+    max-height: 275px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    border: solid 1px var(--lime-green);
 }
 
 section .newsitem p {

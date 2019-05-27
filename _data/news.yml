@@ -5,21 +5,21 @@
   breaking:
 
 - headline: Adobe News # News [1]
-  image: news2.jpg
+  image: 1000x1000.jpg
   link: http://www.adobe.com
   text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua."
   breaking:
 
 - headline: Important! # News [2]
-  image: news2.jpg
+  image: news0.jpg
   link: http://www.vw.ca
   text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua."
   breaking: "on"
 
 - headline: Program News Item # News [3]
-  image: news2.jpg
+  image: news1.jpg
   link: http://www.apple.com
   text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua." 
