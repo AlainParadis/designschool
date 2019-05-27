@@ -547,9 +547,7 @@ section.home-panels .panel-cg6 {
 }
 
 /*  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - */
-
 /*  - - - - - - - - - - - - - - - - - - - - - - -  25rem = 400px - - - - - - - - - - - - - - - - - - - - - - - */
-
 /*  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - */
 @media only screen and (min-width:25rem) {
     nav ul li {
@@ -683,6 +681,11 @@ section.home-panels .panel-cg6 {
         grid-column: 8 /-1;
         -ms-grid-row-align: end;
         align-self: end;
+    }
+
+    section.page-title .app-icon {
+    height: 5rem;
+    width: 5rem;
     }
 
     section.video-instructions .item1 {
