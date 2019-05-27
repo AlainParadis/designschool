@@ -32,7 +32,7 @@
 <ul>
   {% for informationalpages in site.topics %}
     {% if informationalpages.type == 'informational' %}
-      <li>{{ informationalpages.title }}</li>
+      <li><a href="{{ site.baseurl }}{{informationalpages.url}}" class="" title="{{ informationalpages.description }}">{{ informationalpages.title }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
