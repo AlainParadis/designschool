@@ -32,11 +32,28 @@ input {
     width: 90%;
     border: 1px solid #94C947;
 }
-
-.button {
-    display: block;
-    border: 1px solid var(--darkgreen);
+section.submission .button-wrapper {
+    text-align: center;
+    margin: 1rem 0;
 }
+section.submission .button {
+  background-color: var(--white);
+  border: solid 3px var(--lime-green);
+  color: var(--lime-green);
+  padding: .5rem 5rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  margin-left: auto;
+  margin-right: auto;
+}
+section.submission .button a {
+    color: var(--lime-green);
+    text-decoration: none;
+}
+section.submission .button a::hover { text-decoration: underline; }
 
 .borderlimegreen1 {
     border: 1px solid #94C947;
