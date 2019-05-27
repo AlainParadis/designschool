@@ -470,8 +470,8 @@ td {
 .app-icon {
     display: inline-block;
     vertical-align: middle;
-    height: 2rem;
-    width: 2rem;
+    height: 1.5rem;
+    width: 1.5rem;
 }
 
 .formsum {
