@@ -16,12 +16,12 @@
 </header>
 <section class="news">
 	{% for newsitem in site.data.news %}
-	<a href="{{ newsitem.link }}" class="">
-		<div class="newsitem">
-		<h3 class="{% if newsitem.breaking == 'on' %}breaking
-		{% endif %}">{{ newsitem.headline }}</h3>
+	<a href="{{ newsitem.link }}" title="This is a news item." class="newsitem">
+		<h3 class="{% if newsitem.breaking == 'on' %}breaking{% endif %}">{{ newsitem.headline }}</h3>
+		{% if newsitem.image %}
+			<div style="display: block; background-image: url('images/news/{{ newsitem.image }}'); background-repeat: no-repeat; width: 100%;"></div>
+		{% endif %}
 		<p>{{ newsitem.text }}</p>
-		</div>
 	</a>
 	{% endfor %}
 </section>
