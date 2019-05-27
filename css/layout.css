@@ -92,7 +92,7 @@ header .site-id {
     grid-gap: 1rem;
     background-color: var(--lime-green);
     margin: 0 -9999px 0 -9999px;
-    padding: 0.5rem 9999px 0 9999px;
+    padding: 0.5rem 9999px 0.5rem 9999px;
 }
 
 header .site-id .item1 {
