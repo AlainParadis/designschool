@@ -395,7 +395,19 @@ figcaption>ol li:before {
     padding-right: 0.25em;
     color: #94C947;
 }
+/* This table is on the Assessment page. */
+table {
+    width: 100%;
+    margin-bottom: 1rem;
+}
 
+th {}
+
+td {
+    text-align: center;
+    border-bottom: 1px solid #94C947;
+}
+/* This is the table on the home page */
 .table {
     display: table;
     /* <table>     */
