@@ -13,7 +13,7 @@ links: |
   - <a href="http://www.claytowne.com/beats-digging-ditches/dieline-tutorial-how-to-create-a-dieline-for-your-product-package-design/" target="_blank" title="How to make a die line">How to make a die line</a>
 video: "https://www.youtube.com/embed/Ga2Xi2ngo20?rel=0"
 downloads:
-description: "A die is used to cut paper stock for kit folders, packaging and more. To create a physical die, you need to design its outline first."
+description: "A die is used to cut paper stock for kit folders, packaging and more. To create a physical die, you need to design its outline first. The commercial printer will use your outline to create your piece. This is why all of your measurements needs to be very precise."
 details: |
   <!--- Find a youtube video of a die cutter in use. --->
 
