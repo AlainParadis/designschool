@@ -44,14 +44,14 @@
     <div class="item2">
         <p class="fs12 fw300 darkgreen">{{ page.description }}</p>
         {% if page.downloads %}
-        <img src="/images/svg/icon-download.svg" class="size10 center">
+        <a href="{{ page.downloads }}" title="Download practice & exercise files for this assignment." class="fw900 uc" target="_blank"><img src="/images/svg/icon-download.svg" class="size10 center"></a>
         <div class="textcenter">
-            <a href="{{ page.downloads }}" title="Download practice & exercise files for this assignment." class="fw600 uc" target="_blank">Download Files</a>
+            <a href="{{ page.downloads }}" title="Download practice & exercise files for this assignment." class="fw700 uc" target="_blank">Download Files</a>
         </div>
         {% endif %}
         {% if page.formsum == 'formative' %}
         <div class="formsum">
-            <h3 class="uc textcenter">This is a <span class="fw600">{{ page.formsum }}</span> assignment</h3>
+            <h3 class="uc textcenter">This is a <span class="fw700">{{ page.formsum }}</span> assignment</h3>
             <p>
                 That means that you'll be learning and practicing new software skills. This assignment contributes to your final grade in the course. This work will be graded as either:
             </p>
@@ -66,10 +66,10 @@
         {% elsif page.formsum == 'summative' %}
         <div class="formsum sum">
             <p>
-                This is a <span class="fw600">{{ page.formsum }}</span> assignment. It evaluates your mastery of the skills in this instructional unit. This assignment contributes to your final grade in the course. You will earn a letter grade.
+                This is a <span class="fw700">{{ page.formsum }}</span> assignment. It evaluates your mastery of the skills in this instructional unit. This assignment contributes to your final grade in the course. You will earn a letter grade.
             </p>
             <p class="textcenter">
-                <a href="{{ site.baseurl }}/topics/assessment.html" title="Algonquin College Grading System" class="fw600 font10">Your Grading System</a>
+                <a href="{{ site.baseurl }}/topics/assessment.html" title="Algonquin College Grading System" class="fw700 font10">Your Grading System</a>
             </p>
         </div>
         {% endif %}
