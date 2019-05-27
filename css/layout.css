@@ -51,8 +51,7 @@ p {
     margin: 0 0 1rem 0;
 }
 
-header nav,
-footer nav {
+header nav, footer nav {
     display: flex;
     flex-direction: column;
 }
@@ -63,21 +62,18 @@ header nav {
     padding: 0 9999px;
 }
 
-header nav ul,
-footer nav ul {
+header nav ul, footer nav ul {
     list-style-type: none;
     margin: .25rem 0 0.5rem 0;
     padding: 0 0.5rem 0 0;
 }
 
-header nav ul li,
-footer nav ul li {
+header nav ul li, footer nav ul li {
     display: inline-block;
     text-align: center;
 }
 
-header nav a,
-footer nav a {
+header nav a, footer nav a {
     padding: 0 .25rem;
     text-decoration: none;
 }
@@ -137,7 +133,7 @@ section.page-title .item1 {
 section.page-title .item2 {
     grid-column: 1 / -1;
     -ms-grid-column-align: right;
-        justify-self: right;
+    justify-self: right;
 }
 
 section.news {
@@ -152,7 +148,7 @@ section.news {
 
 section .newsitem {
     -ms-grid-column-align: stretch;
-        justify-self: stretch;
+    justify-self: stretch;
     height: 100%;
     border: solid 1px var(--lime-green);
     padding: 0rem;
@@ -180,6 +176,7 @@ section.video-instructions {
 }
 
 section.video-instructions .item1 {
+
     /* Contains YouTube Video */
     grid-column: 1 / -1;
 }
@@ -232,7 +229,8 @@ section.submission {
     padding: 0.5rem 9999px 0.5rem 9999px;
 }
 
-section.submission .item {}
+section.submission .item {
+}
 
 section.submission .item1 {
     grid-column: 1 / -1;
@@ -241,10 +239,12 @@ section.submission .item1 {
 section.submission .item2 {
     grid-column: 1 / -1;
 }
+
 section.submission .item2 img {
     width: 50%;
     margin: auto;
 }
+
 section.submission .item3 {
     grid-column: 1 / -1;
 }
@@ -266,16 +266,7 @@ footer.item {
     margin-bottom: 1rem;
 }
 
-footer .item1,
-nav,
-.item3,
-.item4,
-.item5,
-.item6,
-.item7,
-.item8,
-.item9,
-.item10 {
+footer .item1, nav, .item3, .item4, .item5, .item6, .item7, .item8, .item9, .item10 {
     grid-column: 1 / -1;
 }
 
@@ -416,22 +407,24 @@ figcaption>ol li:before {
     padding-right: 0.25em;
     color: #94C947;
 }
+
 /* This table is on the Assessment page. */
 table {
     width: 100%;
     margin-bottom: 1rem;
 }
 
-th {}
+th {
+}
 
 td {
     text-align: center;
     border-bottom: 1px solid #94C947;
 }
+
 /* This is the table on the home page */
 .table {
-    display: table;
-    /* <table>     */
+    display: table;    /* <table>     */
     width: 95%;
     margin-bottom: 1em;
     margin-left: 1em;
@@ -439,6 +432,7 @@ td {
 }
 
 .table-header {
+
     /* <thead>     */
     display: table-cell;
     padding: 0em;
@@ -447,13 +441,11 @@ td {
 }
 
 .table-row {
-    display: table-row;
-    /* <tr>        */
+    display: table-row;    /* <tr>        */
 }
 
 .table-cell {
-    display: table-cell;
-    /* <td>        */
+    display: table-cell;    /* <td>        */
     padding: 0.2em;
     border-bottom: 1px solid #ccc;
 }
@@ -518,12 +510,7 @@ section.home-panels .panel {
     border-radius: 0.25rem;
 }
 
-section.home-panels .panel-cg1,
-.panel-cg2,
-.panel-cg3,
-.panel-cg4,
-.panel-cg5,
-.panel-cg6 {
+section.home-panels .panel-cg1, .panel-cg2, .panel-cg3, .panel-cg4, .panel-cg5, .panel-cg6 {
     background-size: 75%;
     background-repeat: no-repeat;
     background-position: -25px -25px;
@@ -554,14 +541,16 @@ section.home-panels .panel-cg6 {
 }
 
 /*  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - */
+
 /*  - - - - - - - - - - - - - - - - - - - - - - -  25rem = 400px - - - - - - - - - - - - - - - - - - - - - - - */
+
 /*  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - */
-@media only screen and (min-width: 25rem) {
+@media only screen and (min-width:25rem) {
     nav ul li {
         display: inline;
     }
-    header nav,
-    footer nav {
+
+    header nav, footer nav {
         flex-direction: row;
     }
 
@@ -614,12 +603,15 @@ section.home-panels .panel-cg6 {
     footer .item10 {
         grid-column: 1 /-1;
     }
+
 }
 
 /*  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - */
+
 /*  - - - - - - - - - - - - - - - - - - - - - - - 38rem = 608px - - - - - - - - - - - - - - - - - - - - - - - */
+
 /*  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - */
-@media only screen and (min-width: 42rem) {
+@media only screen and (min-width:42rem) {
     img.size75 {
         max-width: 75%;
     }
@@ -678,13 +670,13 @@ section.home-panels .panel-cg6 {
         -ms-grid-column-span: 7;
         grid-column: 1 / 8;
         -ms-grid-column-align: start;
-            justify-self: start;
+        justify-self: start;
     }
 
     section.page-title .item2 {
         grid-column: 8 /-1;
         -ms-grid-row-align: end;
-            align-self: end;
+        align-self: end;
     }
 
     section.video-instructions .item1 {
@@ -742,8 +734,8 @@ section.home-panels .panel-cg6 {
         -ms-grid-rows: 1fr;
         grid-template-rows: 1fr;
         -webkit-column-gap: 0.5rem;
-           -moz-column-gap: 0.5rem;
-                column-gap: 0.5rem;
+        -moz-column-gap: 0.5rem;
+        column-gap: 0.5rem;
         row-gap: 1rem;
         background-color: rgb(148, 201, 71, 0.2);
         margin: 0.5rem -9999px 0.5rem -9999px;
@@ -803,12 +795,15 @@ section.home-panels .panel-cg6 {
     footer .item10 {
         grid-column: 1 /-1;
     }
+
 }
 
 /*  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - */
+
 /*  - - - - - - - - - - - - - - - - - - - - - - - 60rem = 960px - - - - - - - - - - - - - - - - - - - - - - - */
+
 /*  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - */
-@media only screen and (min-width: 60rem) {
+@media only screen and (min-width:60rem) {
     header .site-id .item1 {
         -ms-grid-column: 1;
         -ms-grid-column-span: 5;
@@ -850,7 +845,7 @@ section.home-panels .panel-cg6 {
         -ms-grid-column-span: 3;
         grid-column: 1 / 4;
         -ms-grid-column-align: end;
-            justify-self: end;
+        justify-self: end;
     }
 
     section.submission .item2 {
@@ -862,12 +857,15 @@ section.home-panels .panel-cg6 {
     section.submission .item3 {
         grid-column: 6 / -1
     }
+
 }
 
 /*  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - */
+
 /*  - - - - - - - - - - - - - - - - - - - - - - - 90rem = 1440px - - - - - - - - - - - - - - - - - - - - - - - */
+
 /*  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - */
-@media only screen and (min-width: 90rem) {
+@media only screen and (min-width:90rem) {
     header .site-id .item1 {
         -ms-grid-column: 1;
         -ms-grid-column-span: 4;
@@ -887,4 +885,5 @@ section.home-panels .panel-cg6 {
         -ms-grid-column-span: 4;
         grid-column: 6 / 10
     }
+
 }
