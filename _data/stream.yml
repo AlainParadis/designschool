@@ -11,7 +11,7 @@
   logistic: |
     This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
 
-      Attending each class is imperative. See the attendance policy.
+      Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
 
 - coursetitle: Computer Graphics Two # Stream [1]
   nickname: CG Two
@@ -24,6 +24,10 @@
     - prerequisite: DSN1561 Graphic Design One
     - prerequisite: DSN1560 Typography One
     - prerequisite: DSN1562 Computer Graphics One
+  logistic: |
+    This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
+
+      Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
 
 - coursetitle: Computer Graphics Three # Stream [2]
   nickname: CG Three
@@ -36,6 +40,10 @@
     - prerequisite: DSN1565 Graphic Design Two
     - prerequisite: DSN1566 Typography Two
     - prerequisite: DSN1567 Computer Graphics Two
+  logistic: |
+    This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
+
+      Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
 
 - coursetitle: Computer Graphics Four # Stream [3]
   nickname: CG Four
@@ -48,6 +56,10 @@
     - prerequisite: DSN1533 Typography Three
     - prerequisite: DSN1534 Graphic Design Three
     - prerequisite: DSN1535 Computer Graphics Three
+  logistic: |
+    This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
+
+      Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
 
 - coursetitle: Computer Graphics Five # Stream [4]
   nickname: CG Five
@@ -60,6 +72,10 @@
     - prerequisite: DSN1539 Graphic Design Four
     - prerequisite: DSN1540 Typography Four
     - prerequisite: DSN1541 Computer Graphics Four
+  logistic: |
+    This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
+
+      Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
 
 - coursetitle: Computer Graphics Six # Stream [5]
   nickname: CG Six
@@ -71,6 +87,10 @@
   prerequisites:
     - prerequisite: DSN1545 Graphic Design Five
     - prerequisite: DSN1677 Computer Graphics Five
+  logistic: |
+    This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
+
+      Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
 
 - coursetitle: Setup # Stream [6]
   nickname: Setup
@@ -84,3 +104,7 @@
   coursecode: 
   instructor: Alain Paradis
   description:
+  logistic: |
+    This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
+
+      Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).

@@ -181,7 +181,16 @@ article h3 { text-transform: uppercase; }
 	background-color: var(--orange);
 }
 .news a { text-decoration: none; }
-
+section.courseinfo h3 {
+	font-weight: 700; 
+	color: var(--lime-green);
+	font-size: .7rem;
+	text-transform: uppercase;
+}
+section.courseinfo p {
+	margin: 0 0 .5rem 0;
+	padding: 0;
+}
 blockquote
 {
 	quotes: "\201C""\201D""\2018""\2019";

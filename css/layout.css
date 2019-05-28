@@ -177,13 +177,13 @@ section.courseinfo {
     padding: 0.5rem 9999px 0.5rem 9999px;
 }
 section.courseinfo .item1 {
-    grid-column: 1 / 2;
+    grid-column: 1 / -1;
 }
 section.courseinfo .item2 {
-    grid-column: 2 / 3;
+    grid-column: 1 / -1;
 }
 section.courseinfo .item3 {
-    grid-column: 3 / -1;
+    grid-column: 1 / -1;
 }
 section.courseinfo ul {
     list-style-type: none;
@@ -724,7 +724,15 @@ section.home-panels .panel-cg6 {
     section.video-instructions .item2 {
         grid-column: 7 / -1;
     }
-
+    section.courseinfo .item1 {
+        grid-column: 1 / 2;
+    }
+    section.courseinfo .item2 {
+        grid-column: 2 / 3;
+    }
+    section.courseinfo .item3 {
+        grid-column: 3 / -1;
+    }
     section.content .item1 {
         -ms-grid-column: 1;
         -ms-grid-column-span: 5;
