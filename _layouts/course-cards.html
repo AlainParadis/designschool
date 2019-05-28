@@ -14,6 +14,19 @@
 		<div class="item2">{{page.description}}</div>
 	</div>
 </header>
+<section class="news">
+	{% for newsitem in site.data.news %}
+	<a href="{{ newsitem.link }}" title="This is a news item." class="newsitem">
+		<h3 class="{% if newsitem.breaking == 'on' %}breaking{% endif %}">{{ newsitem.headline }}</h3>
+		{% if newsitem.image %}
+			<div style="image">
+				<img src="{{ site.baseurl }}/images/news/{{ newsitem.image }}">
+			</div>
+		{% endif %}
+		<p>{{ newsitem.text }}</p>
+	</a>
+	{% endfor %}
+</section>
 <article class="card-wrapper">
 {% assign all_topics = site.topics | sort: 'sortorder' %}
 	{% for cards in all_topics %}
