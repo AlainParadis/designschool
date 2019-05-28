@@ -198,7 +198,7 @@ header nav ul li a:visited { color: white; }
 .panel h3 {
 	font-size: 1.5rem;
 	font-weight: 700;
-	margin: .25em 0em .25em .75em;
+	margin: .25rem 0 0 0rem;
 }
 
 article h3 {
@@ -239,7 +239,6 @@ section.courseinfo p {
 blockquote {
 	quotes: "\201C""\201D""\2018""\2019";
 	margin: 2rem 0 2rem 0;
-	font-style: italic;
 	font-size: 1.5rem;
 	font-weight: 100;
 }
