@@ -15,19 +15,27 @@
 	</div>
 </header>
 <section class="courseinfo">
+	<div class="item1">
 	{% for courseinfo in site.data.stream %}
 		{% if courseinfo.level == page.level %}
-			<p>{{ courseinfo.coursecode }} -- {{ courseinfo.description }}</p>
+		 {{ courseinfo.coursecode }} -- {{ courseinfo.description }}
 		{% endif %}
 	{% endfor %}
-	Prerequisites: 
-	<ul>
-		{% for prereqs in site.data.stream %}
-			{% if prereqs.level == page.level %}
-				<li class="prerequisite">{{ prereqs.prerequisites }}</li>
-			{% endif %}
-		{% endfor %}
-	</ul>
+	</div>
+	<div class="item2">
+		<ul class="prerequisite">
+			{% for item in site.data.stream %}
+				{% for entry in item.prerequisites %}
+					{% if item.level == page.level %}
+						<li class="prerequisite">{{ entry.prerequisite }}</li>
+					{% endif %}
+				{% endfor %}
+			{% endfor %}
+		</ul>
+	</div>
+	<div class="item3">
+		<p>Some other content can go here.</p>
+	</div>
 </section>
 <article class="card-wrapper">
 {% assign all_topics = site.topics | sort: 'sortorder' %}

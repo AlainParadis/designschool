@@ -166,6 +166,22 @@ section .newsitem p {
     padding: 0.25rem;
     font-size: 0.8rem;
 }
+section.courseinfo {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    grid-gap: 0.5rem;
+    border: solid 1px orange;
+}
+section.courseinfo .item1 {
+    grid-column: 1 / 2
+}
+section.courseinfo .item2 {
+    grid-column: 2 / 3
+}
+section.courseinfo .item3 {
+    grid-column: 3 / 4
+}
 
 section.video-instructions {
     display: -ms-grid;
