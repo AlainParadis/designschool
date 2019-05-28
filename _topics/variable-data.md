@@ -87,7 +87,7 @@ details: |
   Go to the Google spreadsheet <a href="https://docs.google.com/spreadsheets/d/19S_r_LzZhPYa2Xv7GdzxFaW4qMRJ5APYc3mvnl8BMiU/edit?usp=sharing" title="Go to the Google Spreadsheet" target="_blank">from this link</a>.
 
   <div class="attentionbox achtung">
-  <span class="limegreen fw600">Important Notes:</span>
+  <span class="limegreen">Important Notes:</span>
     <ul class="fs80">
       <li>The data field names in your spreadsheet should not contain blank spaces. For example, you can specify the data field as Company_Name instead of Company Name.</li>
       <li>Similarly, the paths referring to image and graph files should not contain any blank spaces. For example, the path of an image file should be <span class="command">/Users/Appleseed/Photos/BillTucker</span> instead of <span class="command">/Users/Appleseed/Photos/Bill Tucker</span>.</li>

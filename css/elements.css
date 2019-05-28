@@ -1,14 +1,21 @@
-/*
-Dark Green: #00673E;
-Lime Green: #94C947;
-Orange: #D94F2C;
-*/
-
 :root {
-    --dark-green: #00673E;
-    --lime-green: #94C947;
-    --orange: #D94F2C;
-    --white: #ffffff;
+    /* Colours */
+    --limegreen100: rgb(160, 200, 90);
+    --limegreen75: rgb(160, 200, 90, .75);
+    --limegreen50: rgb(160, 200, 90, .50);
+    --limegreen33: rgb(160, 200, 90, .33);
+    --darkgreen100: rgb(0, 103, 62);
+    --darkgreen75:rgb(0, 103, 62, .75);
+    --darkgreen50:rgb(0, 103, 62, .50);
+    --darkgreen33:rgb(0, 103, 62, .33);
+    --orange100: rgb(242, 101, 34);
+    --orange75: rgb(242, 101, 34, .75);
+    --orange50: rgb(242, 101, 34, .50);
+    --orange33: rgb(242, 101, 34, .33);
+    --darkgray: rgb(76, 76, 76);
+    --mediumgray: rgb(153, 153, 153);
+    --lightgray: rgb(212, 212, 212);
+    --white: rgb(255, 255, 255);
 }
 
 #embed-youtube-container {
@@ -30,7 +37,7 @@ Orange: #D94F2C;
 input {
     display: block;
     width: 90%;
-    border: 1px solid #94C947;
+    border: 1px solid var(--limegreen100);
 }
 section.submission .button-wrapper {
     text-align: center;
@@ -38,49 +45,43 @@ section.submission .button-wrapper {
 }
 section.submission .button {
   background-color: var(--white);
-  border: solid 3px var(--lime-green);
-  color: var(--lime-green);
+  border: solid 4px var(--limegreen100);
+  color: var(--limegreen100);
   padding: .5rem 5rem;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   border-radius: 0.5rem;
-  font-weight: 600;
   margin-left: auto;
   margin-right: auto;
 }
-section.submission .button a {
-    color: var(--lime-green);
-    text-decoration: none;
-}
-section.submission .button a::hover { text-decoration: underline; }
 
 .borderlimegreen1 {
-    border: 1px solid #94C947;
+    border: 1px solid var(--limegreen100);
 }
 
 .borderlimegreen2 {
-    border: 2px solid #94C947;
+    border: 2px solid var(--limegreen100);
 }
 
 .borderlimegreen3 {
-    border: 3px solid #94C947;
+    border: 3px solid var(--limegreen100);
 }
 
 .borderlightgrey1 {
-    border: 1px solid #E6E6E6;
+    border: 1px solid var(--lightgray);
 }
 
 .borderlightgrey2 {
-    border: 2px solid #E6E6E6;
+    border: 2px solid var(--lightgray);
 }
 
 .borderlightgrey3 {
-    border: 3px solid #E6E6E6;
+    border: 3px solid var(--lightgray);
 }
 
 .borderdarkgrey1 {
-    border: 1px solid darkgray;
+    border: 1px solid var(--darkgray);
 }
 
 .submit::before {
@@ -94,7 +95,7 @@ section.submission .button a::hover { text-decoration: underline; }
 
 .attentionbox {
     display: block;
-    border: solid 1px #94C947;
+    border: solid 1px var(--limegreen100);
     margin-bottom: 1rem;
 }
 
@@ -110,7 +111,7 @@ section.submission .button a::hover { text-decoration: underline; }
     display: inline-block;
     margin-right: .5em;
     margin-left: -1em;
-    color: #94C947;
+    color: var(--limegreen100);
 }
 
 .tip {
@@ -127,7 +128,7 @@ section.submission .button a::hover { text-decoration: underline; }
     background-size: 2.0rem;
     background-position: 10px center;
     padding: .5rem .5rem .5rem 3rem;
-    border: solid 1px #D94F2C;
+    border: solid 1px var(--orange100);
 }
 
 .reminder {
@@ -136,7 +137,7 @@ section.submission .button a::hover { text-decoration: underline; }
     background-size: 2.0rem;
     background-position: 10px center;
     padding: .5rem .5rem .5rem 3rem;
-    border: solid 1px #94C947;
+    border: solid 1px var(--limegreen100);
 }
 
 .shortcut {
@@ -160,21 +161,4 @@ hr {
     height: 0;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid rgba(0, 103, 62, 0.3);
-}
-
-.card {
-    margin: 1em 0 .5em 0;
-    width: 100%;
-    padding: .5em .5em 1em 1em;
-    border: 1px solid #CCC;
-    border-top: 8px solid #94C947;
-    background-color: #fff;
-}
-
-.card .appsused {
-    margin: .5em 0 .5em 0;
-}
-
-.card:hover {
-    border-top: 8px solid #00673E;
 }

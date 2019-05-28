@@ -1,16 +1,23 @@
-/*
-Dark Green: #00673E;
-Lime Green: #94C947;
-Orange: #D94F2C;
-*/
 :root {
-  --dark-green: #00673E;
-  --lime-green: #94C947;
-  --orange: #D94F2C;
-  --white: #ffffff;
+    --limegreen100: rgb(160, 200, 90);
+    --limegreen75: rgb(160, 200, 90, .75);
+    --limegreen50: rgb(160, 200, 90, .50);
+    --limegreen33: rgb(236, 244, 222);
+    --darkgreen100: rgb(0, 103, 62);
+    --darkgreen75: rgb(0, 103, 62, .75);
+    --darkgreen50: rgb(0, 103, 62, .50);
+    --darkgreen33: rgb(0, 103, 62, .33);
+    --orange100: rgb(242, 101, 34);
+    --orange75: rgb(242, 101, 34, .75);
+    --orange50: rgb(242, 101, 34, .50);
+    --orange33: rgb(242, 101, 34, .33);
+    --darkgray: rgb(76, 76, 76);
+    --mediumgray: rgb(153, 153, 153);
+    --lightgray: rgb(212, 212, 212);
+    --white: rgb(255, 255, 255);
 }
-html
-{
+
+html {
 	font-size: 16px;
 	line-height: 1.4;
 	font-family: "proxima-nova", sans-serif;
@@ -19,27 +26,27 @@ html
 	color: #4C4C4C;
 }
 
-body a { color: #4C4C4C; }
-a:focus { outline: 2px solid #000; }
+body a {
+	color: var(--darkgray);
+}
 
-body a:hover
-{
-	color: #666;
+a:focus {
+	outline: 2px solid black;
+}
+
+body a:hover {
+	color: var(--mediumgray);
 	text-decoration: none;
 }
 
-::selection
-{
-	background: #FFE200;
-	/* WebKit/Blink Browsers */
-	color: #00673E;
+::selection {
+	background: yellow;	/* WebKit/Blink Browsers */
+	color: var(--darkgreen100);
 }
 
-::-moz-selection
-{
-	background: #FFE200;
-	/* Gecko Browsers */
-	color: #00673E;
+::-moz-selection {
+	background: yellow;	/* Gecko Browsers */
+	color: var(--darkgreen100);
 }
 
 /*Font Size*/
@@ -65,112 +72,148 @@ body a:hover
 .fw700 { font-weight: 700; }
 .fw800 { font-weight: 800; }
 
-h1, h2, h3, h4, h5, h6
-{
-	font-family: "proxima-nova",sans-serif;
-	font-weight: 600;
-	color: #00673E;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "proxima-nova", sans-serif;
+	font-weight: 700;
+	color: var(--darkgreen100);
 	margin-top: 0;
 	margin-bottom: 0rem;
 }
 
-h1
-{
+h1 {
 	font-size: 1.625rem;
+}
+
+h2 {
+	font-size: 1.250rem;
+}
+
+h3 {
+	font-size: 1.000rem;
+}
+
+h4 {
+	font-size: 0.900rem;
+}
+
+h5 {
+	font-size: 0.900rem;
+}
+
+h6 {
+	font-size: 0.900rem;
+}
+
+b, bold {
 	font-weight: 700;
 }
 
-h2
-{
-	font-size: 1.250rem;
-	font-weight: 600;
+em {
+	font-style: italic;
 }
 
-h3
-{
-	font-size: 1.000rem;
-	font-weight: 600;
-	color: #94C947;
+.textcenter,
+a.textcenter {
+	text-align: center !important;
 }
 
-h4
-{
-	font-size: 0.900rem;
-	font-weight: 500;
-	color: #94C947;
+.small {
+	font-size: .8rem;
 }
 
-h5 { font-size: 0.900rem; }
-h6 { font-size: 0.900rem; }
-b, bold { font-weight: 700; }
-em { font-style: italic; }
-.textcenter, a.textcenter { text-align: center !important; }
-.sans { font-family: "proxima-nova", sans-serif; }
-.small { font-size: .8rem; }
-.darkgreen, a.darkgreen { color: var(--dark-green); }
-.limegreen, a.limegreen { color: var(--lime-green); }
-.orange, a.orange { color: var(--orange); }
-.white { color: var(--white); }
-.nounderline { text-decoration: none; }
-a.decoration-none { text-decoration: none; }
-.uc { text-transform: uppercase; }
-ol, ul, dl { font-family: "proxima-nova", sans-serif; }
-
-dt
-{
-	font-weight: 600;
-	font-size: .9rem;
+.darkgreen,
+a.darkgreen {
+	color: var(--dark-green);
 }
 
-cite
-{
-	font-style: normal;
-	font-size: 0.80rem;
-	font-family: "proxima-nova",sans-serif;
-	font-weight: 400;
+.limegreen,
+a.limegreen {
+	color: var(--lime-green);
 }
 
-.current
-{
-	border: solid 1px #94C947;
+.orange,
+a.orange {
+	color: var(--orange);
+}
+
+.white {
+	color: var(--white);
+}
+
+.nounderline {
 	text-decoration: none;
 }
 
-.command
-{
+a.decoration-none {
+	text-decoration: none;
+}
+
+.uc {
+	text-transform: uppercase;
+}
+
+dt {
+	font-weight: 700;
+	font-size: .9rem;
+}
+
+cite {
+	font-size: 0.80rem;
+}
+
+.current {
+	border: solid 1px var(--limegreen100);
+	text-decoration: none;
+}
+
+.command {
 	background: #ededed;
-	font-family: "proxima-nova", sans-serif;
 	font-size: .80rem;
 	font-weight: 400;
 	padding: .2em;
 	border-radius: 4px;
-	border: 1px solid #dfdfdf;
+	border: 1px solid var(--darkgray);
 }
 
-mark
-{
-	font-family: "proxima-nova", sans-serif;
+mark {
 	color: #000;
 	background-color: rgba(208, 218, 192, 1);
 	opacity: 1;
 	border-radius: 4px;
-	padding-left: 0.20rem;
-	padding-right: 0.20rem;
+	padding-left: .20rem;
+	padding-right: .20rem;
 }
 
-.attentionbox { font-family: "proxima-nova", sans-serif; }
-.summative { font-weight: 600; }
-.summative a { padding-left: 0em; }
-header nav ul li a:hover { color:#94C947; }
-.panel h3
-{
+.summative {
+	font-weight: 700;
+}
+
+.summative a {
+	padding-left: 0em;
+}
+
+header nav ul li a:hover {
+	color: var(--limegreen100);
+}
+
+.panel h3 {
 	font-size: 1.5rem;
 	font-weight: 700;
 	margin: .25em 0em .25em .75em;
 }
 
-article h3 { text-transform: uppercase; }
-.panel h3 a { text-decoration: none; }
+article h3 {
+	text-transform: uppercase;
+}
+
+.panel h3 a {
+	text-decoration: none;
+}
 
 .news h3 {
 	color: white;
@@ -178,22 +221,28 @@ article h3 { text-transform: uppercase; }
 	padding: 0.2rem 0.2rem 0.2rem 0.4rem;
 	border-radius: .25rem .25rem 0 0;
 }
+
 .newsitem h3.breaking {
 	background-color: var(--orange);
 }
-.news a { text-decoration: none; }
+
+.news a {
+	text-decoration: none;
+}
+
 section.courseinfo h3 {
-	font-weight: 700; 
+	font-weight: 700;
 	color: var(--lime-green);
 	font-size: .7rem;
 	text-transform: uppercase;
 }
+
 section.courseinfo p {
 	margin: 0 0 .5rem 0;
 	padding: 0;
 }
-blockquote
-{
+
+blockquote {
 	quotes: "\201C""\201D""\2018""\2019";
 	margin: 2rem 0 2rem 0;
 	font-style: italic;
@@ -201,12 +250,9 @@ blockquote
 	font-weight: 100;
 }
 
-blockquote::before
-{
-	font-family: "proxima-nova", sans-serif;
-	font-style: normal;
+blockquote::before {
 	font-weight: 500;
-	color: #ccc;
+	color: var(--lightgray);
 	content: "“";
 	font-size: 6rem;
 	line-height: 0em;
@@ -215,17 +261,18 @@ blockquote::before
 	vertical-align: -0.4em;
 }
 
-.form { font-family: "proxima-nova", sans-serif; }
-.form .item { margin-bottom: 3rem; }
-label { margin-right: 1rem; }
+.form .item {
+	margin-bottom: 3rem;
+}
 
-select
-{
+label {
+	margin-right: 1rem;
+}
+
+select {
 	padding: 5px;
-	font-size: 16px;
-	font-family: "proxima-nova", sans-serif;
 	line-height: 1;
-	border: solid 1px #94C947;
+	border: solid 1px var(--limegreen100);
 	border-radius: 0;
 	-webkit-appearance: none;
 	width: 240px;
@@ -234,57 +281,73 @@ select
 	background: url(/images/general/select-arrow.png) no-repeat right #fff;
 }
 
-blockquote p { display: inline; }
-.complete, .incomplete {font-weight:600;}
+blockquote p {
+	display: inline;
+}
+
+.complete,
+.incomplete {
+	font-weight: 700;
+}
+
 .completeincomplete>.complete::before {
-    content: "\2611";
-    display: inline-block;
-    font-size: 1.5rem;
-    margin-right: .25rem;
-    background-position: left bottom;
-    color: var(--lime-green);
+	content: "\2611";
+	display: inline-block;
+	font-size: 1.5rem;
+	margin-right: .25rem;
+	background-position: left bottom;
+	color: var(--lime-green);
 }
 
 .completeincomplete>.incomplete::before {
-    content: "\2610";
-    display: inline-block;
-    font-size: 1.5rem;
-    margin-right: .25rem;
-    background-position: left bottom;
-    color: var(--lime-green);
+	content: "\2610";
+	display: inline-block;
+	font-size: 1.5rem;
+	margin-right: .25rem;
+	background-position: left bottom;
+	color: var(--lime-green);
 }
-footer a:hover { text-decoration: underline; }
-footer .block a:hover { text-decoration: none; }
+
+footer a:hover {
+	text-decoration: underline;
+}
+
+footer .block a:hover {
+	text-decoration: none;
+}
 
 /* 25rem = 400px */
+@media only screen and (min-width:25em) {
+	html {
+		font-size: 100%;
+	}
 
-@media only screen and (min-width: 25em)
-{
-	html { font-size: 100%; }
 }
 
 /* 38rem = 608px */
+@media only screen and (min-width:38em) {
+	html {
+		font-size: 110%;
+	}
 
-@media only screen and (min-width: 38em)
-{
-	html { font-size: 110%; }
-	header .item { font-size: 0.8rem; }
+	header .item {
+		font-size: 0.8rem;
+	}
+
 }
 
 /* 60rem = 960px */
-
-@media only screen and (min-width: 60em)
-{
-	html
-	{
+@media only screen and (min-width:60em) {
+	html {
 		font-size: 120%;
 		line-height: 1.5;
 	}
+
 }
 
 /* 90rem = 1440px */
-
-@media only screen and (min-width: 90em)
-{
-	html { font-size: 130%; }
+@media only screen and (min-width:90em) {
+	html {
+		font-size: 130%;
+	}
 }

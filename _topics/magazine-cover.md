@@ -69,7 +69,7 @@ assignment: |
   Feel free to choose your own. You may want to pass your choice by me before you go too far.
 
   <div class="attentionbox achtung">
-    <span class="fw600 orange">Make sure your text is error-free.</span> I suggest you go to a similar magazine's web site to copy/paste text. Paste it into a text file. Save that with your project as you work.
+    <span class="orange">Make sure your text is error-free.</span> I suggest you go to a similar magazine's web site to copy/paste text. Paste it into a text file. Save that with your project as you work.
   </div>
 
   ### Point Type

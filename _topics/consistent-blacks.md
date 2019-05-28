@@ -22,7 +22,7 @@ details: |
 
   <span style="color: #00aeef; font-weight: 700;">C</span>: 75%<br>
   <span style="color: #ec008c; font-weight: 700;">M</span>: 67%<br>
-  <span style="color: #fff200; font-weight: 700;">Y</span>: 67%<br>
+  <span style="color: #ff0; font-weight: 700;">Y</span>: 67%<br>
   <span style=" font-weight: 700;">K</span>: 100%
 
   <img class="size75" alt="blacks-photoshop-rich-black" src="/images/blacks/blacks-photoshop-rich-black.jpg">
@@ -37,7 +37,7 @@ details: |
 
   <span style="color: #00aeef; font-weight: 700;">C</span>: 0%<br>
   <span style="color: #ec008c; font-weight: 700;">M</span>: 0%<br> 
-  <span style="color: #fff200; font-weight: 700;">Y</span>: 0%<br>
+  <span style="color: #ff0; font-weight: 700;">Y</span>: 0%<br>
   <span style=" font-weight: 700;">K</span>: 100%
 
   Herein lies the problem. If you apply Photoshop's default black, then place that image in InDesign or Illustrator next to its default black, they won't match.

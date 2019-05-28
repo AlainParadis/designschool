@@ -48,13 +48,13 @@ details: |
     <li>Click on the second big button.</li>
     <li>Enter the IP address.</li>
     <li>Rename the printer.</li>
-    <li><span class="orange fw600">Change the Default Queue to "hold"</span>.</li>
+    <li><span class="orange">Change the Default Queue to "hold"</span>.</li>
   </ol>
   </figcaption>
   </figure>
 
   <div class="attentionbox achtung">
-    <span class="fs12 fw700 orange">Change the Default Queue to “hold”.</span>
+    <span class="fs12orange">Change the Default Queue to “hold”.</span>
   </div>
 
   <figure>
@@ -83,10 +83,10 @@ details: |
 
   <ol>
     <li> Create a PDF from your original file.</li>
-    <li> <span class="fw600 orange">Rename your PDF document to your last name and first name</span> or else they won't know which is yours.</li>
+    <li> <span class="orange">Rename your PDF document to your last name and first name</span> or else they won't know which is yours.</li>
     <li> Open your PDF file with the Preview app on your Mac.</li>
     <li>Choose the Algonquin Print Shop from the printer list.</li>
-    <li>Configure the rest of the setup to suit your document. Pay special attention to the Scale setting. <span class="fw600 orange">Set it to 100% if you dont want the size to change.</span></li>
+    <li>Configure the rest of the setup to suit your document. Pay special attention to the Scale setting. <span class="orange">Set it to 100% if you dont want the size to change.</span></li>
     <li> Click Print.</li>
   </ol>
 

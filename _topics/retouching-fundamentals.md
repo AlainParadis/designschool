@@ -11,7 +11,7 @@ submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html" target="_blank" title="Adobe: Retouch & Repair Photos">Retouch & Repair Photos</a>
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/content-aware-patch-move.html" title="Adobe: Content-Aware Patch and Move" target="_blank">Content-Aware Patch and Move</a>
-video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDkwOG1w_wxTWQLU3tf88Bi"
+video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDkwOG1w_wxTWQLU3tBi"
 downloads: "https://www.dropbox.com/s/asfayz12esp7mu8/photoshop-retouching-fundamentals.zip?dl=1"
 description: "We'll use the Clone Stamp Tool, the Healing Brush and Content Aware tools to remove blemishes from a photograph."
 details: |

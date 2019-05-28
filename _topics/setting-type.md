@@ -23,7 +23,7 @@ details: |
   We'll need to activate the Myriad Pro Condensed font family on the Adobe Fonts web site.
 
   <div class="textcenter">
-    <a href="https://fonts.adobe.com/fonts/myriad" title="Activate fonts on Adobe Fonts" target="_blank" class="fs16 fw600 limegreen borderlimegreen1 pad05 nounderline">Go to Adobe Fonts</a>
+    <a href="https://fonts.adobe.com/fonts/myriad" title="Activate fonts on Adobe Fonts" target="_blank" class="fs16limegreen borderlimegreen1 pad05 nounderline">Go to Adobe Fonts</a>
   </div>
 
   ## Paragraph Styles

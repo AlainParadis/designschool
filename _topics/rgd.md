@@ -18,12 +18,12 @@ details: |
   ### Toronto, October 23-25, 2018
 
   <div class="textcenter">
-    <a href="http://www.designthinkers.com/Toronto/Schedule.aspx" title="DesignThinkers Conference Schedule" target="_blank" class="fs15 fw600">Complete conference schedule</a>
+    <a href="http://www.designthinkers.com/Toronto/Schedule.aspx" title="DesignThinkers Conference Schedule" target="_blank" class="fs15">Complete conference schedule</a>
   </div>
 
   This trip is open second & third year Graphic Design students on a voluntary basis. No partners or friends are allowed from outside the program. If you choose to attend, you may miss some classes. It will be up to you to ensure that you don't fall behind.
 
-  <span class="fw600">The trip will cost approximately $365.</span> Here's the breakdown:
+  <span class="">The trip will cost approximately $365.</span> Here's the breakdown:
 
   * $85 for the bus there and back.
     * <span class="limegreen">The cost of the bus could be less, if someone volunteers to go to the Student Association to get a subsidy.</span>
@@ -57,7 +57,7 @@ details: |
   The main part of the conference is Wednesday and Thursday. We'll walk from the hotel to the conference centre.
 
   <div class="textcenter">
-    <a href="https://events.eply.com/DesignThinkersTO2018" title="Register for DesignThinkers here." target="_blank" class="fs15 fw600 textcenter">Register for the conference here</a>
+    <a href="https://events.eply.com/DesignThinkersTO2018" title="Register for DesignThinkers here." target="_blank" class="fs15textcenter">Register for the conference here</a>
   </div> 
 
   * Register with your Algonquin e-mail address as *Student RGD - 2 Days $195 (after Sept 28 $225)*.

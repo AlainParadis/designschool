@@ -15,12 +15,12 @@
 </header>
 <section class="page-title">
     <div class="item1">
-        <h1 class="fs30 fw100">{{ page.title }}</h1>
+        <h1 class="fw300 fs30">{{ page.title }}</h1>
     </div>
     <div class="item2">
         {% if page.appsused %}
         <div class="appsused">
-            <span class="uc f500 fs70">Apps Used:</span>
+            <span class="uc">Apps Used:</span>
             {% if page.appsused contains 'macos' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-macos-white.svg" alt="Mac OS"></span>{% endif %}
             {% if page.appsused contains 'cc' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-cc-white.svg" alt="Adobe Creative Cloud"></span>{% endif %}
             {% if page.appsused contains 'indd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-indd-white.svg" alt="Adobe InDesign"></span>{% endif %}
@@ -42,22 +42,22 @@
         {% endif %}
     </div>
     <div class="item2">
-        <p class="fs12 fw300 darkgreen">{{ page.description }}</p>
+        <p class="darkgreen">{{ page.description }}</p>
         {% if page.downloads %}
-        <a href="{{ page.downloads }}" title="Download practice & exercise files for this assignment." class="fw900 uc" target="_blank"><img src="/images/svg/icon-download.svg" class="size10 center"></a>
+        <a href="{{ page.downloads }}" title="Download practice & exercise files for this assignment." class="" target="_blank"><img src="/images/svg/icon-download.svg" class="size10 center"></a>
         <div class="textcenter">
-            <a href="{{ page.downloads }}" title="Download practice & exercise files for this assignment." class="fw700 uc" target="_blank">Download Files</a>
+            <a href="{{ page.downloads }}" title="Download practice & exercise files for this assignment." class="fw700 decoration-none" target="_blank">Download Files</a>
         </div>
         {% endif %}
         {% if page.formsum == 'formative' %}
         <div class="formsum">
-            <h3 class="fw400 fs15 textcenter">This is a <span class="fw700">{{ page.formsum }}</span> assignment</h3>
+            <h3 class="textcenter">This is a <span class="">{{ page.formsum }}</span> assignment</h3>
             <p>
                 That means that you'll be learning and practicing new software skills. This assignment contributes to your final grade in the course. This work will be graded as either:
             </p>
             <div class="completeincomplete">
-                <span class="complete fs12">Complete</span>
-                <span class="incomplete fs12">Incomplete</span>
+                <span class="complete">Complete</span>
+                <span class="incomplete">Incomplete</span>
             </div>
             <p>
                 If needed, I will provide written feedback on your performance.
@@ -65,12 +65,12 @@
         </div>
         {% elsif page.formsum == 'summative' %}
         <div class="formsum sum">
-            <h3 class="fw400 fs15 textcenter">This is a <span class="fw700">{{ page.formsum }}</span> assignment</h3>
+            <h3 class="textcenter">This is a <span class="">{{ page.formsum }}</span> assignment</h3>
             <p>
                 It evaluates your mastery of the skills in this instructional unit. This assignment contributes to your final grade in the course. You will earn a letter grade.
             </p>
             <p class="textcenter">
-                <a href="{{ site.baseurl }}/topics/assessment.html" title="Algonquin College Grading System" class="fw500 fs15">Your Grading System</a>
+                <a href="{{ site.baseurl }}/topics/assessment.html" title="Algonquin College Grading System" class="">Your Grading System</a>
             </p>
         </div>
         {% endif %}
@@ -85,9 +85,9 @@
         {% if page.formsum == 'formative' or page.formsum == 'summative' %}
         <div>
             {% if page.formsum == 'formative' %}
-            <h2 class="fw300 fs16">Formative Activity</h2>
+            <h2 class="">Formative Activity</h2>
             {% elsif page.formsum == 'summative' %}
-            <h2 class="fw300 fs16">Your Assignment</h2>
+            <h2 class="">Your Assignment</h2>
             {% endif %}
             {{ page.assignment | markdownify }}
         </div>
@@ -105,14 +105,14 @@
 {% if page.type == 'assignment' %}
 <section class="submission">
     <div class="item item1">
-        <h2 class="fs20 fw100">How to submit</h2>
+        <h2 class="">How to submit</h2>
     </div>
     <div class="item item2">
         <img src="/images/svg/{{page.submission}}.svg">
     </div>
     <div class="item item3">
         <h2>Instructions</h2>
-        <div class="fw500">{{ content }}</div>
+        <div class="">{{ content }}</div>
         <div class="button-wrapper">
             <a href="{{ page.brightspace }}" class="button">Submit</a>
         </div>

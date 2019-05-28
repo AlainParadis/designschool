@@ -79,7 +79,7 @@ details: |
   RGB Colours
   : RGB colours are used for displaying on-screen. Any screen. In fact, any colour that's produced with light.
 
-  There are more colours in the RGB colour space than in CMYK. Almost all CMYK colours convert precisely to RGB; not so the other way around. The fact that the CMYK space is so much smaller than the RGB space is the reason why colours change when you switch from RGB to CMYK. <a href="https://duckduckgo.com/?q=rgb+vs+CMYK+spectrum&t=osx&iax=images&ia=images&iai=https%3A%2F%2Fartofmeganlorraine.files.wordpress.com%2F2013%2F06%2Fgamut-rgb-cmyk.jpg" title="CMYK vs RGB compared." target="_blank">See here...</a>
+  There are more colours in the RGB colour space than in CMYK. Almost all CMYK colours convert precisely to RGB; not so the other way around. The fact that the CMYK space is so much smaller than the RGB space is the reason why colours change when you switch from RGB to CMYK. <a href="https://duckduckgo.com/?q=rgb+vs+CMYK+spectrum&t=osx&iax=images&ia=images&iai=https%3A%2F%2Fartofmeganlorraine.files.wordpress.com%213%2%2Fgamut-rgb-cmyk.jpg" title="CMYK vs RGB compared." target="_blank">See here...</a>
 
   ## Applying Swatches
 
@@ -98,7 +98,7 @@ details: |
     Don't ungroup the artwork. Use Isolation Mode instead.
   </div>
 
-  When it comes to the RGB graphics, you need to create a new document that's in RGB colour mode. Paste the graphic into this new document and save it as <span class="fw600 darkgreen">rgb.ai</span> in our working folder.
+  When it comes to the RGB graphics, you need to create a new document that's in RGB colour mode. Paste the graphic into this new document and save it as <span class="darkgreen">rgb.ai</span> in our working folder.
 
 assignment: |
   Apply colours to the logo as directed in the provided Illustrator document. Make sure you check your work with the Separations Preview panel.
@@ -110,5 +110,5 @@ assignment: |
   </figcaption>
   </figure>
 
-  Remember to create a new Illustrator document in RGB mode to paste the graphic into. Save it into the exercise folder. Save it as <span class="fw600 darkgreen">rgb.ai</span>.
+  Remember to create a new Illustrator document in RGB mode to paste the graphic into. Save it into the exercise folder. Save it as <span class="darkgreen">rgb.ai</span>.
 ---

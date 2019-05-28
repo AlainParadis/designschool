@@ -62,7 +62,7 @@
         {% for cards in all_topics %}
         {% if cards.level contains page.level %}
         <a href="{{ site.baseurl }}{{cards.url}}" class="decoration-none card">
-            <h1 class="fs12 fw700">{{cards.title}}</h1>
+            <h5>{{cards.title}}</h5>
             <div class="appsused">
                 {% if cards.appsused contains 'macos' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-macos.svg" alt="Mac OS"></span>{% endif %}
                 {% if cards.appsused contains 'cc' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-cc.svg" alt="Creative Cloud"></span>{% endif %}

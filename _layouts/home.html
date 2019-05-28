@@ -16,7 +16,7 @@
 </header>
 <section class="news">
 	{% for newsitem in site.data.news %}
-	<a href="{{ newsitem.link }}" title="This is a news item." class="newsitem">
+	<a href="{{ newsitem.link }}" title="This is a news item." class="newsitem decoration-none">
 		<h3 class="{% if newsitem.breaking == 'on' %}breaking{% endif %}">{{ newsitem.headline }}</h3>
 		{% if newsitem.image %}
 			<div style="image">
@@ -29,27 +29,27 @@
 </section>
 <section class="home-panels">
 	<div class="panel panel-cg1">
-		<h3><a href="{{ site.baseurl }}/cg1/index.html" title="Course Home" class="darkgreen font12">{{ site.data.stream[0].coursetitle }}</a></h3>
+		<h3><a href="{{ site.baseurl }}/cg1/index.html" title="Course Home" class="decoration-none">{{ site.data.stream[0].coursetitle }}</a></h3>
 		{% include panel.html course=site.topics coursename='cg1' %}
 	</div>
 	<div class="panel panel-cg2">
-		<h3><a href="{{ site.baseurl }}/cg2/index.html" title="Course Home" class="darkgreen font12">{{ site.data.stream[1].coursetitle }}</a></h3>
+		<h3><a href="{{ site.baseurl }}/cg2/index.html" title="Course Home" class="decoration-none">{{ site.data.stream[1].coursetitle }}</a></h3>
 		{% include panel.html course=site.topics coursename='cg2' %}
 	</div>
 	<div class="panel panel-cg3">
-		<h3><a href="{{ site.baseurl }}/cg3/index.html" title="Course Home" class="darkgreen font12">{{ site.data.stream[2].coursetitle }}</a></h3>
+		<h3><a href="{{ site.baseurl }}/cg3/index.html" title="Course Home" class="decoration-none">{{ site.data.stream[2].coursetitle }}</a></h3>
 		{% include panel.html course=site.topics coursename='cg3' %}
 	</div>
 	<div class="panel panel-cg4">
-		<h3><a href="{{ site.baseurl }}/cg4/index.html" title="Course Home" class="darkgreen font12">{{ site.data.stream[3].coursetitle }}</a></h3>
+		<h3><a href="{{ site.baseurl }}/cg4/index.html" title="Course Home" class="decoration-none">{{ site.data.stream[3].coursetitle }}</a></h3>
 		{% include panel.html course=site.topics coursename='cg4' %}
 	</div>
 	<div class="panel panel-cg5">
-		<h3><a href="{{ site.baseurl }}/cg5/index.html" title="Course Home" class="darkgreen font12">{{ site.data.stream[4].coursetitle }}</a></h3>
+		<h3><a href="{{ site.baseurl }}/cg5/index.html" title="Course Home" class="decoration-none">{{ site.data.stream[4].coursetitle }}</a></h3>
 		{% include panel.html course=site.topics coursename='cg5' %}
 	</div>
 	<div class="panel panel-cg6">
-		<h3><a href="{{ site.baseurl }}/cg6/index.html" title="Course Home" class="darkgreen font12">{{ site.data.stream[5].coursetitle }}</a></h3>
+		<h3><a href="{{ site.baseurl }}/cg6/index.html" title="Course Home" class="decoration-none">{{ site.data.stream[5].coursetitle }}</a></h3>
 		{% include panel.html course=site.topics coursename='cg6' %}
 	</div>
 </section>

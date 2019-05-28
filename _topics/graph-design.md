@@ -44,7 +44,7 @@ details: |
 
   <img class="size100" alt="graph-spreadsheet" src="/images/illustrator-graphs/graph-spreadsheet.jpg">
 
-  <div class="fw500 fs15 textcenter">
+  <div class="fs15 textcenter">
   <a href="https://docs.google.com/spreadsheets/d/1-1PeqKm-lULLPUhLXgd6nXEKY42k2C9M1-ls_r2NGcY/edit?usp=sharing" title="Copy the spreadsheet data" target="_blank" class="limegreen">Spreadsheet Data</a>
   </div>
 
@@ -60,7 +60,7 @@ details: |
 
   Let's start by building our graph before we enhance it with graph designs
 
-  <div class="fw500 fs15 textcenter">
+  <div class="fs15 textcenter">
   <a href="https://docs.google.com/spreadsheets/d/1kUVlCK-73c1cJrA8ePV7U9lv7LVmmiVujJG_4-A8krs/edit?usp=sharing" title="Copy the spreadsheet data" target="_blank" class="limegreen">Spreadsheet Data</a>
   </div>
 

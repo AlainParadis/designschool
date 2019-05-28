@@ -2,7 +2,7 @@
     --limegreen100: rgb(160, 200, 90);
     --limegreen75: rgb(160, 200, 90, .75);
     --limegreen50: rgb(160, 200, 90, .50);
-    --limegreen33: rgb(236, 244, 222);
+    --limegreen33: rgb(160, 200, 90, .33);
     --darkgreen100: rgb(0, 103, 62);
     --darkgreen75: rgb(0, 103, 62, .75);
     --darkgreen50: rgb(0, 103, 62, .50);
@@ -484,27 +484,30 @@ td {
     display: table;
     /* <table>     */
     width: 95%;
-    padding: 0 0 0 .5rem;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    padding-right: .5em;
 }
 
 .table-header {
+
     /* <thead>     */
     display: table-cell;
+    padding: 0em;
     max-width: 65%;
-    border-bottom: 1px solid var(--darkgray);
+    border-bottom: 1px solid black;
 }
 
 .table-row {
     display: table-row;
-    margin-bottom: 1rem;
     /* <tr>        */
 }
 
 .table-cell {
     display: table-cell;
     /* <td>        */
-    padding: 0 0 .5rem 0;
-    border-bottom: 1px solid var(--lightgray);
+    padding: 0.2em;
+    border-bottom: 1px solid var(--mediumgray);
 }
 
 .appsused {
@@ -529,7 +532,7 @@ td {
     display: flex;
     flex-direction: column;
     background-color: white;
-    border: 6px solid var(--limegreen100);
+    border: 3px solid var(--limegreen);
     border-radius: .5rem;
     padding: 0.5em 0.5em 0em 0.5em;
     margin: 1rem 0;
@@ -551,21 +554,7 @@ td {
 }
 
 .card {
-    margin: 1em 0 .5em 0;
-    width: 100%;
-    padding: .5em .5em 1em 1em;
-    border: 1px solid var(--mediumgray);
     border-radius: 0.25rem;
-    border-top: 8px solid var(--limegreen100);
-    background-color: var(--white);
-}
-
-.card .appsused {
-    margin: .5em 0 .5em 0;
-}
-
-.card:hover {
-    border-top: 8px solid var(--darkgreen100);
 }
 
 section.home-panels {
@@ -747,13 +736,17 @@ section.home-panels .panel-cg6 {
         grid-column: 1 / 8;
         -ms-grid-column-align: start;
         justify-self: start;
-        align-self: end;
     }
 
     section.page-title .item2 {
         grid-column: 8 /-1;
         -ms-grid-row-align: end;
         align-self: end;
+    }
+
+    section.page-title .app-icon {
+        height: 5rem;
+        width: 5rem;
     }
 
     section.video-instructions .item1 {
@@ -902,10 +895,7 @@ section.home-panels .panel-cg6 {
     header .site-id .item2 {
         grid-column: 6 / -1;
     }
-    section.page-title .app-icon {
-        height: 5rem;
-        width: 5rem;
-    }
+
     section.content .item1 {
         -ms-grid-column: 1;
         -ms-grid-column-span: 3;

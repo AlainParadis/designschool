@@ -29,7 +29,7 @@ details: |
 
   <table class="fs70">
   <thead>
-    <tr class="fw700"><th>Percent Grade</th><th>Letter Grade</th><th>Numeric Grade</th></tr>
+    <tr class=""><th>Percent Grade</th><th>Letter Grade</th><th>Numeric Grade</th></tr>
   </thead>
     <tbody>
       <tr><td>90-100</td><td>A+</td><td>4.0</td></tr>

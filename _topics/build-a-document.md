@@ -22,7 +22,7 @@ details: |
   Let's change a few settings in InDesign before we start building our document. You need to do this with <em>no</em> document open.
 
   <div class="attentionbox borderlimegreen1 center pad05 width50 textcenter marginbottom10">
-    <a href="setup-indesign.html" title="InDesign Setup" class="fw600 fs12 limegreen width50">InDesign Setup</a>
+    <a href="setup-indesign.html" title="InDesign Setup" class="fs12 limegreen width50">InDesign Setup</a>
   </div>
 
   Once you're done these changes, quit and re-launch InDesign.

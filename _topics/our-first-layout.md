@@ -70,11 +70,11 @@ details: |
 
   <img class="size75" alt="what-is-a-paragraph-to-indesign" src="/images/indesign-our-first-layout/indesign-what-is-a-paragraph.jpg">
 
-  Paragraph styles can only style whatever is between to Pilcrow <span class="fw600">&#182;</span> characters.
+  Paragraph styles can only style whatever is between to Pilcrow <span class="">&#182;</span> characters.
 
-  To InDesign, what follows is a paragraph.<span class="fw600">&#182;</span>
+  To InDesign, what follows is a paragraph.<span class="">&#182;</span>
 
-  <span class="fw600">Z&#182;</span>
+  <span class="">Z&#182;</span>
 
   The letter Z above is a paragraph, according to InDesign, because there's a Pilcrow before and after it.
 
