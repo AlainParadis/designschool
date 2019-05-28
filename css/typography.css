@@ -17,33 +17,25 @@
     --white: rgb(255, 255, 255);
 }
 
-html {
+html
+{
 	font-size: 16px;
-	line-height: 1.4;
+	line-height: 1.5;
 	font-family: "proxima-nova", sans-serif;
 	font-weight: 400;
 	font-style: normal;
-	color: #4C4C4C;
+	color: #000000;
 }
 
-body a {
-	color: var(--darkgray);
-}
-
-a:focus {
-	outline: 2px solid black;
-}
-
-body a:hover {
-	color: var(--mediumgray);
-	text-decoration: none;
-}
-
+a, a:link { color: black; }
+a:visited { color: var(--darkgray); }
+a:hover { color: var(--mediumgray); }
+a:active { color: var(--orange100); }
+a:focus {	outline: 2px solid black; }
 ::selection {
 	background: yellow;	/* WebKit/Blink Browsers */
 	color: var(--darkgreen100);
 }
-
 ::-moz-selection {
 	background: yellow;	/* Gecko Browsers */
 	color: var(--darkgreen100);
