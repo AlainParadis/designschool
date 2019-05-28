@@ -17,10 +17,17 @@
 <section class="courseinfo">
 	{% for courseinfo in site.data.stream %}
 		{% if courseinfo.level == page.level %}
-			<p>{{ courseinfo.coursecode }}</p>
-			<p>{{ courseinfo.description }}</p>
+			<p>{{ courseinfo.coursecode }} -- {{ courseinfo.description }}</p>
 		{% endif %}
 	{% endfor %}
+	Prerequisites: 
+	<ul>
+		{% for prereqs in site.data.stream %}
+			{% if prereqs.level == page.level %}
+				<li class="prerequisite">{{ prereqs.prerequisites }}</li>
+			{% endif %}
+		{% endfor %}
+	</ul>
 </section>
 <article class="card-wrapper">
 {% assign all_topics = site.topics | sort: 'sortorder' %}
