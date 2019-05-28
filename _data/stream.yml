@@ -1,35 +1,41 @@
 - coursetitle: Computer Graphics One # Stream [0]
   nickname: CG One
+  level: cg1
   shortname: CG1
   coursecode: DSN1562
   description: "The field of computer graphics consists of page layout, illustration and photo manipulation. Page layout is the hub for illustrations and photographs. Purpose-built instructional web pages, in-class and video tutorials guide students through the process of building electronic documents in Adobe InDesign, containing images edited in Photoshop and custom digital illustrations created in Adobe Illustrator. Activities include learning common technology-related terminology, organizing graphics files and fonts, illustrating digitally and editing photographs which they integrate into page designs."
 
 - coursetitle: Computer Graphics Two # Stream [1]
   nickname: CG Two
+  level: cg2
   shortname: CG2
   coursecode: DSN1567
   description: "Students focus on creating documents which comply with industry standards for print production. Emphasis is placed on the importance of file management and job planning. With the support of detailed online lessons and video tutorials, students learn increasingly intricate software techniques for building electronic documents using Adobe InDesign, Photoshop, Illustrator and Acrobat. These documents will pass preflight at a commercial printer."
 
 - coursetitle: Computer Graphics Three # Stream [2]
   nickname: CG Three
+  level: cg3
   shortname: CG3
   coursecode: DSN1535
   description: "Automating processes in the design studio teaches students how they can save time and avoid costly errors. Adobe Photoshop is used to create artistic paintings. Adobe Illustrator is our go-to application for drawing photo-realistic and perspective illustrations. Students build a multi-part document destined for book design and production."
 
 - coursetitle: Computer Graphics Four # Stream [3]
   nickname: CG Four
+  level: cg4
   shortname: CG4
   coursecode: DSN1541
   description: "Armed with a solid foundation using Adobe software, we explore a broad and varied selection of new technical skills: painting original art in Adobe Illustrator; manipulating large amounts of data in InDesign, drawing three-dimensional vector graphics."
 
 - coursetitle: Computer Graphics Five # Stream [4]
   nickname: CG Five
+  level: cg5
   shortname: CG5
   coursecode: DSN1677
   description: "In an effort to further broaden our software tool set, we delve into such advanced features as variable data in Illustrator and Photoshop; drawing isometric vector illustrations and building three dimensional objects in Adobe Photoshop."
 
 - coursetitle: Computer Graphics Six # Stream [5]
   nickname: CG Six
+  level: cg6
   shortname: CG6
   coursecode: DSN1685
   description: "When students present their work at portfolio reviews, it needs to be impeccable. Students build digital files designed to impress even the most seasoned designer in order to demonstrate technical software mastery. By applying finishing touches to existing pieces, students ensure that they are exemplary exhibitions of Adobe Illustrator, Photoshop and InDesign proficiency."
