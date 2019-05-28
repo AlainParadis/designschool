@@ -1,64 +1,85 @@
 <!DOCTYPE html>
 <html lang="en-ca">
-	{% include head.html %}
+{% include head.html %}
+
 <body>
-<header role="banner">
-	<nav role="navigation">
-		{% include top-nav.html %}
-	</nav>
-	<div class="site-id">
-		<div class="item1">
-			<a href="{{ site.baseurl }}/"><img class="stacked" alt="Algonquin College Graphic Design Program Computer Graphics Course Curriculum" src="/images/svg/logo-ac-computer-graphics-stacked.svg"></a>
-			<a href="{{ site.baseurl }}/"><img class="horizontal" alt="Algonquin College Graphic Design Program Computer Graphics Course Curriculum" src="/images/svg/logo-ac-computer-graphics.svg"></a>
-		</div>
-		<div class="item2">{{page.description}}</div>
-	</div>
-</header>
-<section class="courseinfo">
-	<div class="item1">
-	{% for courseinfo in site.data.stream %}
-		{% if courseinfo.level == page.level %}
-		 {{ courseinfo.coursecode }} -- {{ courseinfo.description }}
-		{% endif %}
-	{% endfor %}
-	</div>
-	<div class="item2">
-		<ul class="prerequisite">
-			{% for item in site.data.stream %}
-				{% for entry in item.prerequisites %}
-					{% if item.level == page.level %}
-						<li class="prerequisite">{{ entry.prerequisite }}</li>
-					{% endif %}
-				{% endfor %}
-			{% endfor %}
-		</ul>
-	</div>
-	<div class="item3">
-		<p>Some other content can go here.</p>
-	</div>
-</section>
-<article class="card-wrapper">
-{% assign all_topics = site.topics | sort: 'sortorder' %}
-	{% for cards in all_topics %}
-	{% if cards.level contains page.level %}
-	<a href="{{ site.baseurl }}{{cards.url}}" class="decoration-none card">
-		<h1 class="fs12 fw700">{{cards.title}}</h1>
-		<div class="appsused">
-				{% if cards.appsused contains 'macos' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-macos.svg" alt="Mac OS"></span>{% endif %}
-				{% if cards.appsused contains 'cc' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-cc.svg" alt="Creative Cloud"></span>{% endif %}
-				{% if cards.appsused contains 'indd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-indd.svg" alt="InDesign"></span>{% endif %}
-				{% if cards.appsused contains 'ai' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-ai.svg" alt="Illustrator"></span>{% endif %}
-				{% if cards.appsused contains 'psd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-psd.svg" alt="Photoshop"></span>{% endif %}
-				{% if cards.appsused contains 'lr' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-lr.svg" alt="Lightroom icon"></span>{% endif %}
-				{% if cards.appsused contains 'pdf' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-pdf.svg" alt="Acrobat"></span>{% endif %}
-				{% if cards.appsused contains 'xd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-xd.svg" alt="Xd icon"></span>{% endif %}
-				{% if cards.appsused contains 'fe' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-felix-beta.svg" alt="Project Felix Beta"></span>{% endif %}
-			</div>
-				<div>{{cards.description}}</div>
-		</a>
-		{% endif %}	
-		{% endfor %}
-</article>
+    <header role="banner">
+        <nav role="navigation">
+            {% include top-nav.html %}
+        </nav>
+        <div class="site-id">
+            <div class="item1">
+                <a href="{{ site.baseurl }}/"><img class="stacked" alt="Algonquin College Graphic Design Program Computer Graphics Course Curriculum" src="/images/svg/logo-ac-computer-graphics-stacked.svg"></a>
+                <a href="{{ site.baseurl }}/"><img class="horizontal" alt="Algonquin College Graphic Design Program Computer Graphics Course Curriculum" src="/images/svg/logo-ac-computer-graphics.svg"></a>
+            </div>
+            <div class="item2"></div>
+        </div>
+    </header>
+    <section class="courseinfo">
+        <div class="item1">
+            <h3>Course</h3>
+            {% for courseinfo in site.data.stream %}
+            {% if courseinfo.level == page.level %}
+            <p>{{ courseinfo.coursecode }} {{ courseinfo.coursetitle }}</p>
+            {% endif %}
+            {% endfor %}
+            <h3>Prerequisites</h3>
+            <ul class="prerequisite">
+                {% for item in site.data.stream %}
+                {% for entry in item.prerequisites %}
+                {% if item.level == page.level %}
+                <li class="prerequisite">{{ entry.prerequisite }}</li>
+                {% endif %}
+                {% endfor %}
+                {% endfor %}
+            </ul>
+            <h3>Instructor</h3>
+            {% for courseinfo in site.data.stream %}
+            {% if courseinfo.level == page.level %}
+            <p>{{ courseinfo.instructor }}</p>
+            {% endif %}
+            {% endfor %}
+        </div>
+        <div class="item2">
+            <h3>Course Description</h3>
+            {% for courseinfo in site.data.stream %}
+            {% if courseinfo.level == page.level %}
+            <p>{{ courseinfo.description | markdownify }}</p>
+            {% endif %}
+            {% endfor %}
+        </div>
+        <div class="item3">
+            <h3>Logistics</h3>
+            {% for courselogistics in site.data.stream %}
+            {% if courselogistics.level == page.level %}
+            <p>{{ courselogistics.logistic | markdownify }}</p>
+            {% endif %}
+            {% endfor %}
+        </div>
+    </section>
+    <article class="card-wrapper">
+        {% assign all_topics = site.topics | sort: 'sortorder' %}
+        {% for cards in all_topics %}
+        {% if cards.level contains page.level %}
+        <a href="{{ site.baseurl }}{{cards.url}}" class="decoration-none card">
+            <h1 class="fs12 fw700">{{cards.title}}</h1>
+            <div class="appsused">
+                {% if cards.appsused contains 'macos' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-macos.svg" alt="Mac OS"></span>{% endif %}
+                {% if cards.appsused contains 'cc' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-cc.svg" alt="Creative Cloud"></span>{% endif %}
+                {% if cards.appsused contains 'indd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-indd.svg" alt="InDesign"></span>{% endif %}
+                {% if cards.appsused contains 'ai' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-ai.svg" alt="Illustrator"></span>{% endif %}
+                {% if cards.appsused contains 'psd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-psd.svg" alt="Photoshop"></span>{% endif %}
+                {% if cards.appsused contains 'lr' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-lr.svg" alt="Lightroom icon"></span>{% endif %}
+                {% if cards.appsused contains 'pdf' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-pdf.svg" alt="Acrobat"></span>{% endif %}
+                {% if cards.appsused contains 'xd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-xd.svg" alt="Xd icon"></span>{% endif %}
+                {% if cards.appsused contains 'fe' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-felix-beta.svg" alt="Project Felix Beta"></span>{% endif %}
+            </div>
+            <div>{{cards.description}}</div>
+        </a>
+        {% endif %}
+        {% endfor %}
+    </article>
     {% include footer.html %}
-  </body>
+</body>
+
 </html>
