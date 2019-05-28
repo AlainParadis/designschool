@@ -198,7 +198,7 @@ header nav ul li a:visited { color: white; }
 .panel h3 {
 	font-size: 1.5rem;
 	font-weight: 700;
-	margin: .25rem 0 0 0rem;
+	margin: .25rem 0 0 .25rem;
 }
 
 article h3 {
