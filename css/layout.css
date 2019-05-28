@@ -170,7 +170,6 @@ section .newsitem img {
     max-height: 275px;
     overflow-y: hidden;
     overflow-x: hidden;
-    border: solid 1px var(--limegreen100);
 }
 
 section .newsitem p {

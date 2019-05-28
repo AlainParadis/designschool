@@ -120,17 +120,17 @@ a.textcenter {
 
 .darkgreen,
 a.darkgreen {
-	color: var(--dark-green);
+	color: var(--darkgreen100);
 }
 
 .limegreen,
 a.limegreen {
-	color: var(--lime-green);
+	color: var(--limegreen100);
 }
 
 .orange,
 a.orange {
-	color: var(--orange);
+	color: var(--orange100);
 }
 
 .white {
@@ -211,13 +211,13 @@ article h3 {
 
 .news h3 {
 	color: white;
-	background-color: var(--dark-green);
+	background-color: var(--darkgreen100);
 	padding: 0.2rem 0.2rem 0.2rem 0.4rem;
 	border-radius: .25rem .25rem 0 0;
 }
 
 .newsitem h3.breaking {
-	background-color: var(--orange);
+	background-color: var(--orange100);
 }
 
 .news a {
@@ -226,7 +226,7 @@ article h3 {
 
 section.courseinfo h3 {
 	font-weight: 700;
-	color: var(--lime-green);
+	color: var(--limegreen100);
 	font-size: .7rem;
 	text-transform: uppercase;
 }
@@ -290,7 +290,7 @@ blockquote p {
 	font-size: 1.5rem;
 	margin-right: .25rem;
 	background-position: left bottom;
-	color: var(--lime-green);
+	color: var(--limegreen100);
 }
 
 .completeincomplete>.incomplete::before {
@@ -299,7 +299,7 @@ blockquote p {
 	font-size: 1.5rem;
 	margin-right: .25rem;
 	background-position: left bottom;
-	color: var(--lime-green);
+	color: var(--limegreen100);
 }
 
 footer a:hover {
