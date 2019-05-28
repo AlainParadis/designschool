@@ -190,10 +190,9 @@ mark {
 .summative a {
 	padding-left: 0em;
 }
-
-header nav ul li a:hover {
-	color: var(--limegreen100);
-}
+header nav ul li a:link { color: white; }
+header nav ul li a:hover { color: var(--limegreen100); }
+header nav ul li a:visited { color: white; }
 
 .panel h3 {
 	font-size: 1.5rem;
