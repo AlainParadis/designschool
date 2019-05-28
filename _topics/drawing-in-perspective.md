@@ -5,7 +5,7 @@ formsum: summative
 sortorder: 3.9
 appsused: ai
 title: "Drawing in Perspective"
-level: cg4
+level: undetermined
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission: "illustrator-document"
 links:
