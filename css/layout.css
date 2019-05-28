@@ -482,13 +482,11 @@ td {
 /* This is the table on the home page */
 .table {
     display: table;
-    /* <table>     */
     width: 95%;
     padding: 0 0 0 .5rem;
 }
 
 .table-header {
-    /* <thead>     */
     display: table-cell;
     max-width: 65%;
     border-bottom: 1px solid var(--darkgray);
@@ -497,13 +495,12 @@ td {
 .table-row {
     display: table-row;
     margin-bottom: 1rem;
-    /* <tr>        */
 }
+.table-row:nth-child(1) { border: solid 1px orange; }
 
 .table-cell {
     display: table-cell;
-    /* <td>        */
-    padding: 0 0 .5rem 0;
+    padding: .25rem 0;
     border-bottom: 1px solid var(--lightgray);
 }
 

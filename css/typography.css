@@ -194,6 +194,7 @@ header nav ul li a:link { color: white; }
 header nav ul li a:hover { color: var(--limegreen100); }
 header nav ul li a:visited { color: white; }
 
+.table-header { font-weight: 700; }
 .panel h3 {
 	font-size: 1.5rem;
 	font-weight: 700;
