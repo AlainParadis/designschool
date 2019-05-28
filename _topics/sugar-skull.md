@@ -5,7 +5,7 @@ formsum: summative
 sortorder: 6.9
 appsused: ai
 title: "Sugar Skull"
-level: cg2
+level: undetermined
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission: "illustrator-package"
 links:

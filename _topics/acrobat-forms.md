@@ -2,10 +2,10 @@
 layout: submission
 type: assignment
 formsum: summative
-sortorder: 7.9
+sortorder: 6.9
 appsused: indd, pdf, cc
 title: "Acrobat Forms"
-level: cg4
+level: cg5
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=123832&grpid=0&isprv=&bp=0&ou=145538"
 submission: "indesign-package"
 links:
