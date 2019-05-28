@@ -55,7 +55,11 @@ section.submission .button {
   margin-left: auto;
   margin-right: auto;
 }
-
+section.submission a.button:hover {
+    background-color: var(--limegreen100);
+    color: white;
+    border: solid 4px var(--darkgreen100)
+}
 .borderlimegreen1 {
     border: 1px solid var(--limegreen100);
 }

@@ -157,7 +157,9 @@ dt {
 cite {
 	font-size: 0.80rem;
 }
-
+section.submission a.button {
+	font-weight: 700;
+}
 .current {
 	border: solid 1px var(--limegreen100);
 	text-decoration: none;
