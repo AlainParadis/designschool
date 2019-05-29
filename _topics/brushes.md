@@ -14,7 +14,7 @@ video:
 downloads: "https://www.dropbox.com/s/t54bhbfoasjhrav/photoshop-brushes.zip?dl=1"
 description: "You don't need to be a fine artist to create beautiful artwork with brushes in Photoshop. As a matter of fact, Photoshop brushes can help the novice painter create stunning artwork. It also opens new possibilities for the more experienced."
 details: |
-  ## Drawing Tablet
+  ### Drawing Tablet
 
   <a href="http://www.wacom.com" title="Buy a Wacom tablet." target="_blank"><img alt="pastel-wacom-tablet" src="/images/photoshop-brushes/pastel-wacom-tablet.jpg"></a>
 
@@ -22,7 +22,7 @@ details: |
 
   Avoid purchasing one of the many knockoff products of another brand name. This seems to be a business that Wacom owns all to themselves.
 
-  ## Installing Custom Content
+  ### Installing Custom Content
 
   Before getting started, we need to install a custom workspace for paintint in Photoshop. We'll install three files:
 
@@ -37,7 +37,7 @@ details: |
 
   <span class="command">Macintosh HD/Applications/Adobe Photoshop CC 2018/Presets/Brushes/</span>
 
-  ## Finding Stuff in Photoshop
+  ### Finding Stuff in Photoshop
 
   <img alt="pastel-brushes-panels" src="/images/photoshop-brushes/pastel-brushes-panels.gif">
 
@@ -49,7 +49,7 @@ details: |
 
   Switch to the Pastels workspace in the Workspaces menu at the top-right of the Options Bar. This will open your Swatches Panel with the new colour swatches.
 
-  ## Photoshop Settings
+  ### Photoshop Settings
 
   <img alt="brush-spacing" src="/images/photoshop-brushes/pastel-brush-spacing.gif">
 
@@ -71,7 +71,7 @@ details: |
 
   Experiment with different textures. The Depth slider controls how far down in the paper grain your drawing will go. If the value is low, you can press hard with your pen and it will never clog the grain of the paper.
 
-  ## Brushes for Pastel Drawing
+  ### Brushes for Pastel Drawing
 
   Photoshop ships with lots of great brushes, but it's way more fun and interesting to create and customize your own. We'll investigate custom brushes, brush presets and tool presets.
 
@@ -121,7 +121,7 @@ details: |
 
   A mask is an essential tool when airbrushing in the real world. You can use the lasso tool in Photoshop to define the edges of your airbrushed shapes.
 
-  ## The Mixer Brush
+  ### The Mixer Brush
 
   The Smudge Tool was always a poor excuse for a blending implement. But ever since the Mixer Brush was added to Photoshop, it's become a real contender as a painting platform.
 
@@ -161,7 +161,7 @@ details: |
   If you option-click on a photo while using the Mixer Brush, it will sample a variety of colours you can then paint with.
   </div>
 assignment: |
-  ## Roughing In Our Pastel Sketch
+  ### Roughing In Our Pastel Sketch
 
   Before we can start actually drawing with pastel bushes, we need to rough out the outlines of our drawing on its own layer. This will create the skeleton on which we'll build colour.
 
@@ -169,11 +169,11 @@ assignment: |
   To resize a cursor, hold Control+Option, and drag left or right. To change hardness, drag up or down.
   </div>
 
-  ### Roughing In Our Sketch
+  #### Roughing In Our Sketch
 
   The rough-in should be on its own layer. You may or may not keep this sketch once you're done. This is a good stage to experiment.
 
-  ### Tracing On or Next To...
+  #### Tracing On or Next To...
 
   You have the choice of drawing on a layer on top of the photo or simply drawing in a separate file.
 
@@ -185,7 +185,7 @@ assignment: |
 
   Use the Pastel Pencil brush to rough in the general shapes. This is a 'skeleton' of the artwork. It's going to be your guide to fill in with colour.
 
-  ## Blocking in Pastel Colours
+  ### Blocking in Pastel Colours
 
   This is the guts of this assignment. We'll use brushes to draw our image. It will look astonishingly natural. It's as if you actually drew it with pastels; textures and all. But your fingers will remain clean.
 
@@ -197,17 +197,17 @@ assignment: |
 
   To start applying colour, use your Brush tool, choose a colour from the Swatches panel. Adjust the Texture in the Brush panel. Block in the colours without blending. Get the key colours in place. This is the bottom most application of colour on the page.
 
-  ## Blending Our Pastel Drawing
+  ### Blending Our Pastel Drawing
 
   Once we've laid down colour, we can use the Mixer Brush we've previously learned about. This is where you can really make things look natural.
 
-  ### Blending Colours
+  #### Blending Colours
 
   The next stage is to blend our colours. We need to smooth things out. Create a new layer called 'Blending'. Lock all other layers to avoid drawing on them. Use the brush called 'Cotton Blender'. Brush over your drawing to smooth things out. Sample All Layers is turned on in your Control bar, so it will smudge all the content below and above.
 
   <a href="http://www.photoshop.com/spotlights/john-derry" title="John Derry's Web Site" target="_blank"><img alt="pastel-fruit-blending" src="/images/photoshop-brushes/pastel-fruit-blending.jpg"></a>
 
-  ## Adding Detail to a Pastel Drawing
+  ### Adding Detail to a Pastel Drawing
 
   We could stop at this point and our drawing would look okay. But we want it to look better than okay. We'll add detail which will give it the touch of excellence.
 
