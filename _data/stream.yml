@@ -92,19 +92,17 @@
 
       Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
 
-- coursetitle: Setup # Stream [6]
+- coursetitle: Fieldwork # Stream [6]
+  nickname: Fieldwork
+  level: fpp
+  shortname: Fieldwork
+  coursecode: DSN1690
+  instructor: Alain Paradis
+  description: "Students work as junior designers in industry studios. Students practise the skills and techniques acquired throughout their studies and gain valuable experience in a variety of areas by working on projects for their chosen employer. Students are introduced to making contact with potential employers, presenting their work professionally, ensuring their personal brand reflects their strength as a designer, interviewing and ensuring they are ready for the job market. The course culminates in the preparation of the year-end grad show where industry representatives are invited to view student work, build relationships and provide valuable feedback."
+  logistic: |
+
+- coursetitle: Setup # Stream [7]
   nickname: Setup
   shortname: setup
   coursecode: 
   description:
-
-- coursetitle: Fieldwork # Stream [7]
-  nickname: Fieldwork
-  shortname: Fieldwork
-  coursecode: 
-  instructor: Alain Paradis
-  description:
-  logistic: |
-    This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
-
-      Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
