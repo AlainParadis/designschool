@@ -99,7 +99,14 @@
   coursecode: DSN1690
   instructor: Alain Paradis
   description: "Students work as junior designers in industry studios. Students practise the skills and techniques acquired throughout their studies and gain valuable experience in a variety of areas by working on projects for their chosen employer. Students are introduced to making contact with potential employers, presenting their work professionally, ensuring their personal brand reflects their strength as a designer, interviewing and ensuring they are ready for the job market. The course culminates in the preparation of the year-end grad show where industry representatives are invited to view student work, build relationships and provide valuable feedback."
+  prerequisites:
+    - prerequisite: DSN1545 Graphic Design 5
+    - prerequisite: DSN1668 Design Research 2
+    - prerequisite: DSN1677 Computer Graphics 5
+    - prerequisite: DSN1686 Web Development 5
+    - prerequisite: DSN1688 Motion Graphics 3
   logistic: |
+      This is a multi-faceted course where students take the lead in raising funds, preparing for fieldwork and organizing their grad show. You will be organized in teams, each with a task [described here](../topics/gradshow.html). Each week, teams meet to move their responsibilites forward. Attendance & participation by each student is a requirement for passing the course.
 
 - coursetitle: Setup # Stream [7]
   nickname: Setup
