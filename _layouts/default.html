@@ -85,9 +85,9 @@
         {% if page.formsum == 'formative' or page.formsum == 'summative' %}
         <div>
             {% if page.formsum == 'formative' %}
-            <h2 class="">Formative Activity</h2>
+            <h2>Formative Activity</h2>
             {% elsif page.formsum == 'summative' %}
-            <h2 class="">Your Assignment</h2>
+            <h2>Your Assignment</h2>
             {% endif %}
             {{ page.assignment | markdownify }}
         </div>
