@@ -45,13 +45,12 @@
 * {
     box-sizing: border-box;
 }
-
+html { overflow-x: hidden; }
 body {
     max-width: 90rem;
     margin-top: 0;
-    padding: 0 0.2rem;
+    padding: 0 .2rem;
     margin: auto;
-    overflow-x: hidden;
 }
 
 p {
