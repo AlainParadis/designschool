@@ -160,6 +160,14 @@ section.submission a.button:hover {
     padding: .5rem .5rem .5rem 2.5rem;
 }
 
+.foldername {
+    background: url('/images/svg/icon-foldername.svg');
+    background-repeat: no-repeat;
+    background-size: 1.5rem;
+    background-position: 0.5rem 0.5rem;
+    padding: .5rem .5rem .5rem 2.5rem;
+}
+
 hr {
     border: 0;
     height: 0;
