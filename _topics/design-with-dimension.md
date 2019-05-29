@@ -4,7 +4,7 @@ type: assignment
 formsum: summative
 sortorder: 5.9
 appsused: dn
-title: "Dimension Summative"
+title: "Design with Dimension"
 level: cg3
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=120803&grpid=0&isprv=0&bp=0&ou=145571"
 submission: "dimension-summative"
@@ -22,7 +22,7 @@ assignment: |
   <ol>
     <li>a background photo that contains a flat surface</li>
       <ul>
-        <li>You're encouraged to take your own photo to use in your scene.</li>
+        <li>You're encouraged to take your own photo to use in your scene, or</li>
         <li>See <a href="stock.html" target="_blank">the stock photo library</a> for source photos.</li>
       </ul>
     <li>add at least one object from the Adobe Dimension asset library</li>

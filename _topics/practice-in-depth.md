@@ -4,7 +4,7 @@ type: assignment
 formsum: formative
 sortorder: 5.0
 appsused: dn
-title: "Dimension"
+title: "Practice In Depth"
 level: cg3
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=120801&grpid=0&isprv=0&bp=0&ou=145571"
 submission: "my-assignment-folder"
