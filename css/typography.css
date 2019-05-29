@@ -78,38 +78,42 @@ h6 {
 
 h6
 {
-	font-size: 1rem;
+	font-size: .8rem;
 	line-height: 1.25rem;
 }
 
 h5
 {
-	font-size: 1.125rem;
+	font-size: 1rem;
 	line-height: 1.4062rem;
 }
 
 h4
 {
-	font-size: 1.2656rem;
+	font-size: 1.1rem;
 	line-height: 1.582rem;
+	color: var(--limegreen100);
+	text-transform: uppercase;
 }
 
 h3
 {
-	font-size: 1.4238rem;
+	font-size: 1.33rem;
 	line-height: 1.7797rem;
 }
 
 h2
 {
-	font-size: 1.6018rem;
+	font-size: 1.8rem;
 	line-height: 2.000rem;
+	color: var(--limegreen100);
 }
 
 h1
 {
-	font-size: 1.8020rem;
+	font-size: 2.4rem;
 	line-height: 2.2525rem;
+	font-weight: 300;
 }
 
 b, bold {
@@ -210,10 +214,6 @@ header nav ul li a:visited { color: white; }
 	font-size: 1.5rem;
 	font-weight: 700;
 	margin: .25rem 0 0 .25rem;
-}
-
-article h3 {
-	text-transform: uppercase;
 }
 
 .panel h3 a {
