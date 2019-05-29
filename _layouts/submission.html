@@ -2,47 +2,71 @@
 layout: default
 ---
 {% if page.submission == 'indesign-package' %}
+      <p>
+      Make sure your InDesign document is named Last name, First name, Group Nº, assignment name. So,
+    </p>
+    <div class="filename">
+      Appleseed-Johnny-#-{{ page. title }}.indd
+    </div>
     <p>
-    Make sure your InDesign document is named Last name, First name, Group Nº, assignment name. So,
-  </p>
-  <div class="filename">
-    Appleseed-Johnny-#-{{ page. title }}.indd
-  </div>
-  <p>
-    Check your font usage to only include Adobe Fonts. To do so, go <span class="command">Type > Find Fonts</span>. There should only be Adobe Fonts in the list.
-  </p>
-  <p>
-    Check your image usage in the Links panel. Make sure there are no warning icons in the panel.
-  </p>
-  <p>
-    Once this is done, save your document, then package it using <span class="command">File > Package</span>. The resulting folder will already be named properly. Zip-compress the folder by right-clicking on it, then choosing <span class="command">Compress...</span>.
-  </p>
-  <p>
-    <span class="orange">Failure to submit your files as directed will incur a proportional loss of points. If your file/folder is not named with your name, you will earn a zero. <a href="assessment.html#filenames" title="Why is file naming important?">Why?</a></span>
-  </p>
+      Check your font usage to only include Adobe Fonts. To do so, go <span class="command">Type > Find Fonts</span>. There should only be Adobe Fonts in the list.
+    </p>
+    <p>
+      Check your image usage in the Links panel. Make sure there are no warning icons in the panel.
+    </p>
+    <p>
+      Once this is done, save your document, then package it using <span class="command">File > Package</span>. The resulting folder will already be named properly. Zip-compress the folder by right-clicking on it, then choosing <span class="command">Compress...</span>.
+    </p>
+    <p>
+      <span class="orange">Failure to submit your files as directed will incur a proportional loss of points. If your file/folder is not named with your name, you will earn a zero. <a href="assessment.html#filenames" title="Why is file naming important?">Why?</a></span>
+    </p>
 
 {% elsif page.submission == 'my-assignment-folder' %}
-  <p>
-  Once you've completed your work, save and close each document. Rename the provided assignment folder as Last name, First name, Group Nº {{ page.title }} so,
-  </p>
-  <div class="filename">
-      Appleseed-Johnny-#-{{ page.title }}
-  </div>
-  <p>
-  Right-click, then choose <span class="command">Compress...</span> to create a zip file for submission.
-  </p>
-  <p>
-    <span class="orange">Failure to submit your files as directed will incur a proportional loss of points. If your file/folder is not named with your name, you will earn a zero. <a href="assessment.html#filenames" title="Why is file naming important?">Why?</a></span>
-  </p>
+    <p>
+    Once you've completed your work, save and close each document. Rename the provided assignment folder as Last name, First name, Group Nº {{ page.title }} so,
+    </p>
+    <div class="filename">
+        Appleseed-Johnny-#-{{ page.title }}
+    </div>
+    <p>
+    Right-click, then choose <span class="command">Compress...</span> to create a zip file for submission.
+    </p>
+    <p>
+      <span class="orange">Failure to submit your files as directed will incur a proportional loss of points. If your file/folder is not named with your name, you will earn a zero. <a href="assessment.html#filenames" title="Why is file naming important?">Why?</a></span>
+    </p>
 
 {% elsif page.submission == 'photoshop-document' %}
-<p>Save your Photoshop file as <span class="">Lastname-Firstname-#-{{ page.title }}.psd</span>. Zip-compress the Photoshop file, then submit it on BrightSpace.</p>
+    <p>Save your Photoshop file as <span class="">Lastname-Firstname-#-{{ page.title }}.psd</span>. Zip-compress the Photoshop file, then submit it on BrightSpace.</p>
 
 {% elsif page.submission == 'pdf-file' %}
-<p>Before submitting your PDF, open it in Adobe Acrobat. Go File > Document Properties... Click on Initial View, then:</p>
-<img src="/images/submissions/pdf-file-properties.gif" class="size75 borderdarkgrey1">
-<p>Save and close your file.</p>
-<p>Make sure it's named <em>Appleseed, Johnny, #, {{ page.title }}.pdf</em></p>
-<p>Submit your PDF file. Do not compress it.</p>
+    <p>Before submitting your PDF, open it in Adobe Acrobat. Go File > Document Properties... Click on Initial View, then:</p>
+    <img src="/images/submissions/pdf-file-properties.gif" class="size75 borderdarkgrey1">
+    <p>Save and close your file.</p>
+    <p>Make sure it's named <em>Appleseed, Johnny, #, {{ page.title }}.pdf</em></p>
+    <p>Submit your PDF file. Do not compress it.</p>
 
+{% elsif page.submission == 'dimension-summative' %}
+    <p>You're going to upload to BrightSpace twice for this assignment.</p>
+    <h3>First Brightspace Upload</h3>
+    <p>
+      Create a PDF of your final ad named
+    <div class="filename">
+      Appleseed-Johnny-#-{{ page. title }}.pdf
+    </div>
+    <p>
+      Don't compress the PDF. Submit it as a PDF.
+    </p>
+    <h3>Second Brightspace Upload</h3>
+    <p>
+      Create a folder containing all your working files for all the programs used to create your PDF (Dimensions, Photoshop, InDesign, Illustrator, etc). Name the folder:
+    </p>
+    <div class="foldername">
+      Appleseed-Johnny-#-{{ page. title }}
+    </div>
+    <p>
+    Make a second submission with the resulting zip file.
+    </p>
+    <p>
+      <span class="orange">Failure to submit your files as directed will incur a proportional loss of points. If your file/folder is not named with your name, you will earn a zero. <a href="assessment.html#filenames" title="Why is file naming important?">Why?</a></span>
+    </p>
 {% endif %}
