@@ -70,35 +70,46 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: "proxima-nova", sans-serif;
 	font-weight: 700;
 	color: var(--darkgreen100);
 	margin-top: 0;
 	margin-bottom: 0rem;
 }
 
-h1 {
-	font-size: 1.625rem;
+h6
+{
+	font-size: 1rem;
+	line-height: 1.25rem;
 }
 
-h2 {
-	font-size: 1.250rem;
+h5
+{
+	font-size: 1.125rem;
+	line-height: 1.4062rem;
 }
 
-h3 {
-	font-size: 1.000rem;
+h4
+{
+	font-size: 1.2656rem;
+	line-height: 1.582rem;
 }
 
-h4 {
-	font-size: 0.900rem;
+h3
+{
+	font-size: 1.4238rem;
+	line-height: 1.7797rem;
 }
 
-h5 {
-	font-size: 0.900rem;
+h2
+{
+	font-size: 1.6018rem;
+	line-height: 2.000rem;
 }
 
-h6 {
-	font-size: 0.900rem;
+h1
+{
+	font-size: 1.8020rem;
+	line-height: 2.2525rem;
 }
 
 b, bold {
