@@ -7,7 +7,7 @@ appsused: ai
 title: "Setting Type"
 level: cg1
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=66861&grpid=0&isprv=0&bp=0&ou=92671"
-submission: "illustrator-package"
+submission: "my-assignment-folder"
 links: |
   - <a href="https://helpx.adobe.com/illustrator/using/creating-text.html" target="_blank" title="Create Type in Illustrator">Adobe: Create Type</a>
   - <a href="https://design.tutsplus.com/tutorials/illustrators-type-tool-a-comprehensive-introduction--vector-521" target="_blank" title="Tutsplus: Intro to Type">Tutsplus: Intro to Type</a>
