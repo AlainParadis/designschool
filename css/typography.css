@@ -231,7 +231,7 @@ header nav ul li a:visited { color: white; }
 .newsitem h3.breaking {
 	background-color: var(--orange100);
 }
-
+.newsitem p { font-weight: 500; }
 .news a {
 	text-decoration: none;
 }
