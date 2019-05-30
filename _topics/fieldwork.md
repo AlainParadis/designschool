@@ -21,7 +21,7 @@ downloads: "https://www.dropbox.com/s/jp8m950e6g5k77i/fieldwork-gradshow-downloa
 description: "The fieldwork program is proud to partner with creative agencies in Canada's National Capital Region and around the world. The goal of our fieldwork program is to initiate our students to the professional practice of graphic design in a safe, stimulating and productive workplace."
 details: |
 
-  <div class="fs15borderlimegreen1 pad05 center textcenter"><a href="https://goo.gl/forms/JFRiwf5aa3MkHAb13" title="I Got My Fieldwork" target="_blank" class="orange">I Got My Fieldwork!</a></div>
+  <div class="button-wrapper"><a href="https://goo.gl/forms/JFRiwf5aa3MkHAb13" title="I Got My Fieldwork" target="_blank" class="button">I Got My Fieldwork</a></div>
 
   ## Assessment
 

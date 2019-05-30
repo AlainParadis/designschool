@@ -172,7 +172,8 @@ dt {
 cite {
 	font-size: 0.80rem;
 }
-section.submission a.button {
+a.button {
+	font-size: 1.4rem;
 	font-weight: 700;
 }
 .current {

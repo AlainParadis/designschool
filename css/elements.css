@@ -39,6 +39,27 @@ input {
     width: 90%;
     border: 1px solid var(--limegreen100);
 }
+section.content .button-wrapper {
+    text-align: center;
+    margin: 1rem 0;
+}
+section.content .button {
+  background-color: var(--white);
+  border: solid 4px var(--limegreen100);
+  color: var(--limegreen100);
+  padding: .5rem 5rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+section.content a.button:hover {
+    background-color: var(--limegreen33);
+    color: var(--limegreen100);
+    border: solid 4px var(--darkgreen100)
+}
 section.submission .button-wrapper {
     text-align: center;
     margin: 1rem 0;
