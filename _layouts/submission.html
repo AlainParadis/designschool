@@ -5,7 +5,7 @@ layout: default
       <p>
       Make sure your InDesign document is named LastName-FirstName-Group-Nº-Assignment-Name. So,
     </p>
-    <div class="foldername">
+    <div class="filename">
       Appleseed-Johnny-#-{{ page. title }}.indd
     </div>
     <p>
@@ -36,7 +36,13 @@ layout: default
     </p>
 
 {% elsif page.submission == 'photoshop-document' %}
-    <p>Save your Photoshop file as LastName-FirstName-Group-Nº-Assignment-Name. Zip-compress the Photoshop file, then submit it on BrightSpace.</p>
+    <p>Save your Photoshop file as LastName-FirstName-Group-Nº-Assignment-Name.</p>
+
+    <div class="filename">Appleseed-Johnny-1-{{ page.title }}.psd</div>
+
+    <p>Zip-compress the Photoshop file, then submit it on BrightSpace.</p>
+
+    <div class="filename">Appleseed-Johnny-1-{{ page.title }}.psd.zip</div>
 
 {% elsif page.submission == 'pdf-file' %}
     <p>Before submitting your PDF, open it in Adobe Acrobat. Go File > Document Properties... Click on Initial View, then:</p>
