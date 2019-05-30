@@ -3,9 +3,9 @@ layout: default
 ---
 {% if page.submission == 'indesign-package' %}
       <p>
-      Make sure your InDesign document is named Last name, First name, Group Nº, assignment name. So,
+      Make sure your InDesign document is named LastName-FirstName-Group-Nº-Assignment-Name. So,
     </p>
-    <div class="filename">
+    <div class="foldername">
       Appleseed-Johnny-#-{{ page. title }}.indd
     </div>
     <p>
@@ -23,9 +23,9 @@ layout: default
 
 {% elsif page.submission == 'my-assignment-folder' %}
     <p>
-    Once you've completed your work, save and close each document. Rename the provided assignment folder as Last name, First name, Group Nº {{ page.title }} so,
+    Once you've completed your work, save and close each document. Rename the provided assignment folder as LastName-FirstName-Group-Nº-Assignment-Name so,
     </p>
-    <div class="filename">
+    <div class="foldername">
         Appleseed-Johnny-#-{{ page.title }}
     </div>
     <p>
@@ -36,7 +36,7 @@ layout: default
     </p>
 
 {% elsif page.submission == 'photoshop-document' %}
-    <p>Save your Photoshop file as <span class="">Lastname-Firstname-#-{{ page.title }}.psd</span>. Zip-compress the Photoshop file, then submit it on BrightSpace.</p>
+    <p>Save your Photoshop file as LastName-FirstName-Group-Nº-Assignment-Name. Zip-compress the Photoshop file, then submit it on BrightSpace.</p>
 
 {% elsif page.submission == 'pdf-file' %}
     <p>Before submitting your PDF, open it in Adobe Acrobat. Go File > Document Properties... Click on Initial View, then:</p>
