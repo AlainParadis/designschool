@@ -480,6 +480,7 @@ td {
 /* This is the table on the home page */
 .table {
     display: table;
+    width: 95%;
     padding: 0 0 0 .5rem;
 }
 
