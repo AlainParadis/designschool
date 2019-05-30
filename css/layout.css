@@ -174,7 +174,6 @@ section .newsitem img {
 
 section .newsitem p {
     padding: 0.25rem;
-    font-size: 0.8rem;
 }
 
 section.courseinfo {
@@ -481,7 +480,6 @@ td {
 /* This is the table on the home page */
 .table {
     display: table;
-    width: 95%;
     padding: 0 0 0 .5rem;
 }
 
@@ -495,7 +493,6 @@ td {
     display: table-row;
     margin-bottom: 1rem;
 }
-.table-row:nth-child(1) { border: solid 1px orange; }
 
 .table-cell {
     display: table-cell;
