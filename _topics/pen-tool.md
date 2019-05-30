@@ -7,7 +7,7 @@ appsused: ai
 title: "Pen Tool"
 level: cg1
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=66860&grpid=0&isprv=0&bp=0&ou=92671"
-submission: "illustrator-package"
+submission: "my-assignment-folder"
 links: |
   - <a href="https://helpx.adobe.com/illustrator/using/drawing-pen-curvature-or-pencil.html" target="_blank" title="Draw with the Pen Tool">Draw with the Pen Tool</a>
   - <a href="https://design.tutsplus.com/tutorials/illustrators-pen-tool-the-comprehensive-guide--vector-141" target="_blank" title="Tutsplus: Pen Tool Guide">Tutsplus: Pen Tool Guide</a>
