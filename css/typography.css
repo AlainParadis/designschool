@@ -42,10 +42,10 @@ a:focus {	outline: 2px solid black; }
 }
 
 /*Font Size*/
-.fs50 { font-size: 0.5rem; }
-.fs70 { font-size: 0.7rem; }
-.fs80 { font-size: 0.8rem; }
-.fs90 { font-size: 0.9rem; }
+.fs05 { font-size: 0.5rem; }
+.fs07 { font-size: 0.7rem; }
+.fs08 { font-size: 0.8rem; }
+.fs09 { font-size: 0.9rem; }
 .fs10 { font-size: 1.0rem; }
 .fs11 { font-size: 1.1rem; }
 .fs12 { font-size: 1.2rem; }
