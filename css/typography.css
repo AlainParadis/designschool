@@ -71,7 +71,6 @@ h4,
 h5,
 h6 {
 	font-weight: 700;
-	color: var(--darkgreen100);
 	margin-top: 0;
 	margin-bottom: 0rem;
 }
@@ -84,7 +83,7 @@ h6
 
 h5
 {
-	font-size: 1rem;
+	font-size: .8rem;
 	line-height: 1.4062rem;
 }
 
@@ -92,21 +91,21 @@ h4
 {
 	font-size: 1.1rem;
 	line-height: 1.582rem;
-	color: var(--limegreen100);
-	text-transform: uppercase;
+	font-weight: 600;
 }
 
 h3
 {
-	font-size: 1.33rem;
+	font-size: 1.25rem;
 	line-height: 1.7797rem;
+	font-weight: 700;
 }
 
 h2
 {
-	font-size: 1.8rem;
+	font-size: 1.5rem;
 	line-height: 2.000rem;
-	color: var(--limegreen100);
+	font-weight: 600;
 }
 
 h1

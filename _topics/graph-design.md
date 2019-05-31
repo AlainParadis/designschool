@@ -16,16 +16,16 @@ description: "Boring graphs can really put the kibosh on a great design. As a de
 details: |
   Mark Twain said "There are lies, damned lies, and statistics." That may be true. Well, consider yourself an interpreter of those lies. Columns representing numbers are pretty lame. As designers, it is our job to represent information in an interesting and informative manner. Luckily, Adobe has provided some really great graphing tools in Illustrator. This is what we are going to explore this week.
 
-  ## About Illustrator Graphs
+  ### About Illustrator Graphs
 
   An Illustrator graph is special type of live, grouped object. When you select a graph, Illustrator's Object Type Indicator tells us it's a live graph object.
-
+  
   <img class="size50" alt="graph-object-type" src="/images/illustrator-graphs/graph-object-type.jpg">
 
   If you ungroup a graph, Illustrator will put up a warning that it won't be live anymore. This means the data won't be editable. If you absolutely must ungroup a graph, make a copy of it first, so you can go back to the live graph if necessary.
 
-  ## How to Draw a Graph
-
+  ### How to Draw a Graph
+ 
   To draw a graph, it's important to have data well formatted ahead of time. Simply take one of the graph tools and draw a rectangle where you want the graph. The data window will open automatically. Type in your data. Once you're done, hit the check mark button or hit Enter (not Return)
 
   <img class="size100" alt="graph-example" src="/images/illustrator-graphs/graph-example.jpg">
@@ -36,7 +36,7 @@ details: |
 
   If you want to use numbers as a label in the graph, you need to wrap the text in quote marks.
 
-  ### Working with a Spreadsheet
+  #### Working with a Spreadsheet
 
   Typing your data manually is fine if it's a small graph as shown above. If you have something more intricate, it's better to have your data in a spreadsheet.
 
@@ -56,7 +56,7 @@ details: |
 
   You can make two types of graphs in one. To do so, select on of the data sets with the Group Selection tool. Double-click on the graph tool and select the desired type of graph from the icons from the dialogue.
 
-  ## Graph Designs
+  #### Graph Designs
 
   Let's start by building our graph before we enhance it with graph designs
 
@@ -78,7 +78,7 @@ details: |
 
   Draw lines where you want the graph to stretch. Convert them to guides using <span class="command">⌘-5</span>. Make sure the guides are unlocked by hitting <span class="command">Option-⌘-;</span>. Create a new graph design with it set to Sliding, as shown.
 
-  ## Outlining Your Graph
+  #### Outlining Your Graph
 
   When you place an Illustrator graph in an InDesign document, you need to ensure it no longer has depencies on fonts or images.
 
@@ -89,5 +89,13 @@ details: |
   You can also check the Find Font dialogue to ensure there's no live type in your Illustrator document. If so, outline it using <span class="command">Type > Create Outlines</span>.
 
 assignment: |
-  Save today's graph files in their original folder. That's what you'll submit for today.
+  Create graphs with the provided data about smokers in Canada.
+
+  #### Graph 1
+
+  Create a bar chart depicting the number of smokers in Canada. Your chart must be a sliding bar chart. It can be horizontal or vertical.
+
+  #### Graph 2
+
+  Create a pie chart with the provided data.
 ---
