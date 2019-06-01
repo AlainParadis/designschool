@@ -78,41 +78,42 @@ h6 {
 h6
 {
 	font-size: .8rem;
-	line-height: 1.25rem;
+	line-height: .96rem;
 }
 
 h5
 {
 	font-size: .8rem;
-	line-height: 1.4062rem;
+	line-height: .96rem;
 }
 
 h4
 {
 	font-size: 1.1rem;
-	line-height: 1.582rem;
+	line-height: 1.32rem;
 	font-weight: 600;
 }
 
 h3
 {
 	font-size: 1.25rem;
-	line-height: 1.7797rem;
+	line-height: 1.5rem;
 	font-weight: 700;
 }
 
 h2
 {
 	font-size: 1.5rem;
-	line-height: 2.000rem;
+	line-height: 1.8rem;
 	font-weight: 600;
 }
 
 h1
 {
-	font-size: 2.4rem;
-	line-height: 2.2525rem;
+	font-size: 3.5rem;
+	line-height: 4.2rem;
 	font-weight: 300;
+	color: var(--darkgreen100)
 }
 
 b, bold {
