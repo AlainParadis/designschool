@@ -98,4 +98,8 @@ assignment: |
   #### Graph 2
 
   Create a pie chart with the provided data.
+
+  #### My Design
+
+  This is what I did for this exercise. Feel free to mimic my design or create your own. The important thing  
 ---
