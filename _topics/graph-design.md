@@ -79,7 +79,7 @@ details: |
   Draw lines where you want the graph to stretch. Convert them to guides using <span class="command">⌘-5</span>. Make sure the guides are unlocked by hitting <span class="command">Option-⌘-;</span>. Create a new graph design with it set to Sliding, as shown.
 
   #### Outlining Your Graph
-
+  
   When you place an Illustrator graph in an InDesign document, you need to ensure it no longer has depencies on fonts or images.
 
   In a duplicate of your graph file, select your graph and ungroup it with Shift-⌘-G. Illustrator will put up a warning. Click <span class="command">OK</span>. Outline all type by using Shift-⌘-o or <span class="command">Type > Create Outlines</span>.
@@ -101,5 +101,12 @@ assignment: |
 
   #### My Design
 
-  This is what I did for this exercise. Feel free to mimic my design or create your own. The important thing  
+  This is what I did for this exercise. Feel free to mimic my design or create your own. The important thing is to use Illustrator's graph tools properly.
+
+    <figure>
+      <img src="/images/illustrator-graphs/graphs-formative-mine.jpg" alt="graphs formative mine" class="size100">
+    <figcaption>
+      This is my design. Note the art on the paste-board. Keep live art there in case you need to go back to it.
+    </figcaption>
+    </figure>
 ---
