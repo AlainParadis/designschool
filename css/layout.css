@@ -241,6 +241,7 @@ section.content {
     -ms-grid-rows: 1fr;
     grid-template-rows: 1fr;
     grid-gap: 0.5rem;
+    margin-bottom: .5rem;
 }
 
 section.content .item1 {
