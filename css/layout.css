@@ -297,7 +297,7 @@ section.submission .item3 {
     grid-column: 1 / -1;
 }
 
-section.submission .item3 img { margin-bottom:1rem; }
+section.submission .item3 img { margin-bottom: .5rem; }
 
 footer {
     display: -ms-grid;
@@ -439,32 +439,6 @@ figure {
     max-width: 100%;
     margin-left: 0;
     margin-right: 0;
-}
-
-figcaption {
-    font-family: "proxima-nova", sans-serif;
-    font-size: 0.8rem;
-    color: var(--mediumgray);
-}
-
-figcaption>ol {
-    list-style-type: decimal;
-    counter-reset: LIST-ITEMS;
-    padding-left: 0;
-    margin-top: 0;
-}
-
-figcaption>ol li {
-    display: inline;
-    margin-right: 0.5rem;
-    padding-left: 0;
-}
-
-figcaption>ol li:before {
-    content: counter(LIST-ITEMS) ".";
-    counter-increment: LIST-ITEMS;
-    padding-right: 0.25em;
-    color: var(--orange100);
 }
 
 /* This table is on the Assessment page. */

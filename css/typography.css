@@ -164,6 +164,33 @@ a.decoration-none {
 	text-transform: uppercase;
 }
 
+figcaption {
+    font-size: 0.8rem;
+    color: var(--mediumgray);
+}
+
+figcaption>ol {
+    list-style-type: decimal;
+    counter-reset: LIST-ITEMS;
+    padding-left: 0;
+    margin-top: 0;
+}
+
+figcaption>ol li {
+    display: inline;
+    margin-right: 0.5rem;
+    padding-left: 0;
+}
+
+figcaption>ol li:before {
+    content: counter(LIST-ITEMS) ".";
+    counter-increment: LIST-ITEMS;
+    padding-right: 0.25em;
+    color: var(--orange100);
+}
+
+section.submission figcaption { color: var(--darkgray); }
+
 dt {
 	font-weight: 700;
 	font-size: .9rem;
