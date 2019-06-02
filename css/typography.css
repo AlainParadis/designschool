@@ -181,6 +181,12 @@ a.button {
 	text-decoration: none;
 }
 
+section.content .item1 a.current {
+	font-weight: 500;
+	color: var(--limegreen100);
+	border: 0;
+}
+
 .command {
 	background: #ededed;
 	font-size: .80rem;
