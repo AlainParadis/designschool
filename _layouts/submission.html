@@ -54,26 +54,14 @@ layout: default
 {% elsif page.submission == 'dimension-summative' %}
     <p>You're going to upload to BrightSpace twice for this assignment.</p>
     <h3>First Brightspace Upload</h3>
-    <p>
-      Create a PDF of your final ad named
-    <div class="filename">
-      Appleseed-Johnny-#-{{ page. title }}.pdf
-    </div>
-    <p>
-      Don't compress the PDF. Submit it as a PDF.
-    </p>
+    <p>Create a PDF of your final ad named
+      <div class="filename">Appleseed-Johnny-#-{{ page. title }}.pdf</div>
+    <p>Don't compress the PDF. Submit it as a PDF.</p>
     <h3>Second Brightspace Upload</h3>
-    <p>
-      Create a folder containing all your working files for all the programs used to create your PDF (Dimensions, Photoshop, InDesign, Illustrator, etc). Name the folder:
-    </p>
-    <div class="foldername">
-      Appleseed-Johnny-#-{{ page. title }}
-    </div>
-    <p>
-    Make a second submission with the resulting zip file.
-    </p>
-    <p>
-      <span class="orange">Failure to submit your files as directed will incur a proportional loss of points. If your file/folder is not named with your name, you will earn a zero. <a href="assessment.html#filenames" title="Why is file naming important?">Why?</a></span>
+    <p>Create a folder containing all your working files for all the programs used to create your PDF (Dimensions, Photoshop, InDesign, Illustrator, etc). Name the folder:</p>
+    <div class="foldername">Appleseed-Johnny-#-{{ page. title }}</div>
+    <p>Make a second submission with the resulting zip file.</p>
+    <p><span class="orange">Failure to submit your files as directed will incur a proportional loss of points. If your file/folder is not named with your name, you will earn a zero. <a href="assessment.html#filenames" title="Why is file naming important?">Why?</a></span>
     </p>
 
 {% elsif page.submission == 'graph-layout' %}
@@ -86,6 +74,19 @@ layout: default
   <div class="foldername">Appleseed-Johnny-#-graph-layout</div>
   <p>Package your InDesign document into this folder. Add the Illustrator file with the live graph to the folder also. Double-check that your folder looks like the one above.</p>
   
+{% elsif page.submission == 'unleash-your-inner-vectors' %}
+  <p>You need to provide all your work in an organized fashion.</p>
+  <p>Name your main Illustrator file:</p>
+  <div class="filename">Appleseed-Johnny-#-vectors.ai</div>
+  <p>Include the scan/photo of the original hand-rendered drawing + the cleaned up Photohsop image file.</p>
+  <figure>
+    <img src="/images/illustrator-unleash-your-vectors/vectors-submission.jpg" class="size100 borderdarkgrey1">
+  <figcaption>
+    Double-check that your submission looks like this.
+  </figcaption>
+  </figure>
   
+  <p>Name the submission folder:</p>
+  <div class="foldername">Appleseed-Johnny-#-vectors</div>
 
 {% endif %}
