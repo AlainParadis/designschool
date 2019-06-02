@@ -297,6 +297,8 @@ section.submission .item3 {
     grid-column: 1 / -1;
 }
 
+section.submission .item3 img { margin-bottom:1rem; }
+
 footer {
     display: -ms-grid;
     display: grid;
