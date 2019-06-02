@@ -165,6 +165,7 @@ section.submission a.button:hover {
     border: solid 1px var(--limegreen100);
 }
 
+section.submission .reminder { border: solid 1px var(--darkgreen100) }
 .shortcut {
     background: url('/images/svg/icon-shortcut.svg');
     background-repeat: no-repeat;
