@@ -24,7 +24,7 @@ assignment: |
   * Create three colour themes at <a href="https://color.adobe.com" target="_blank" title="Create colour themes...">color.adobe.com</a>. Apply them to one of your sketches.
   * You'll finish with one un-coloured and three coloured instances of your sketch.
 
-   <img src="/images/illustrator-image-trace-live-paint/image-trace-live-paint-mine.svg" alt="My Image Trace">
+   <img src="/images/illustrator-your-illustration/image-trace-live-paint-mine.svg" alt="My Image Trace">
 
   ## Submission Files
 
