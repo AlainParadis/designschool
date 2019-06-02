@@ -126,5 +126,7 @@ details: |
 
 assignment: |
 
-  Your assignment is to use the provided image
+  Your assignment is to use <a href="https://www.dropbox.com/s/yue33lrum3xeyj6/illustrator-pixels-to-vectors-formative.zip?dl=1" title="Download assignment file.">the provided image</a> to image-trace and live-paint. Once you've completed that, produce three different colour themes.
+
+  You'll end up with the first image-traced graphic. Aside from that, you'll create three other versions, each with their own colour schemes.
 ---
