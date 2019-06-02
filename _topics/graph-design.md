@@ -89,19 +89,19 @@ details: |
   You can also check the Find Font dialogue to ensure there's no live type in your Illustrator document. If so, outline it using <span class="command">Type > Create Outlines</span>.
 
 assignment: |
-  Create graphs with the provided data about smokers in Canada.
+  Create graphs with the provided data about smokers in Canada. Your layout can be on a letter or a tabloid page, in either landscape or portrait orientation.
 
-  #### Graph 1
+  #### Graph #1
 
   Create a bar chart depicting the number of smokers in Canada. Your chart must be a sliding bar chart. It can be horizontal or vertical.
 
-  #### Graph 2
+  #### Graph #2
 
   Create a pie chart with the provided data.
 
   #### My Design
 
-  This is what I did for this exercise. Feel free to mimic my design or create your own. The important thing is to use Illustrator's graph tools properly.
+  This is what *I did* for this exercise. Feel free to mimic my design or create your own. The important thing is to use Illustrator's graph tools properly.
 
     <figure>
       <img src="/images/illustrator-graphs/graphs-formative-mine.jpg" alt="graphs formative mine" class="size100">
@@ -109,4 +109,10 @@ assignment: |
       This is my design. Note the art on the paste-board. Keep live art there in case you need to go back to it.
     </figcaption>
     </figure>
+
+    Be sure to keep live graphs and other live artwork on the paste-board. Also, limit yourself only to Adobe Fonts.
+
+    <div class="reminder">Remember: <span class="command">Go Type > Find Font</span> to see which fonts are in use in your document. Use the Change function to switch them all to Adobe Fonts.</div>
+
+
 ---
