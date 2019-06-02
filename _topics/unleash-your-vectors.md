@@ -4,7 +4,7 @@ type: assignment
 formsum: summative
 sortorder: 2.9
 appsused: ai
-title: "Your Illustration"
+title: "Unleash Your Vectors"
 level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=126516&grpid=0&isprv=&bp=0&ou=145550"
 submission: "illustrator-package"
