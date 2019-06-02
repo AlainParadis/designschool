@@ -182,9 +182,13 @@ a.button {
 }
 
 section.content .item1 a.current {
-	font-weight: 500;
-	color: var(--limegreen100);
+	font-weight: 600;
+	color: var(--darkgreen100);
 	border: 0;
+}
+
+section.content .item1 a.current:hover {
+	color: var(--darkgray);
 }
 
 .command {
