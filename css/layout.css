@@ -177,8 +177,11 @@ section .newsitem p {
 }
 
 section.courseinfo {
+    display: -ms-grid;
     display: grid;
+    -ms-grid-columns: 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr 1fr;
+    -ms-grid-rows: 1fr;
     grid-template-rows: 1fr;
     grid-gap: 0.5rem;
     padding: 0.5rem;
@@ -223,9 +226,7 @@ section.video-instructions {
     padding: 0.5rem 9999px 0.5rem 9999px;
 }
 
-section.video-instructions .item1 {
-
-    /* Contains YouTube Video */
+section.video-instructions .item1-youtube, section.video-instructions .item1-lynda {
     grid-column: 1 / -1;
 }
 
@@ -718,7 +719,8 @@ section.home-panels .panel-cg6 {
         grid-column: 1 / 8;
         -ms-grid-column-align: start;
         justify-self: start;
-        align-self: end;
+        -ms-grid-row-align: end;
+            align-self: end;
     }
 
     section.page-title .item2 {
@@ -738,10 +740,14 @@ section.home-panels .panel-cg6 {
     }
 
     section.courseinfo .item1 {
+        -ms-grid-column: 1;
+        -ms-grid-column-span: 1;
         grid-column: 1 / 2;
     }
 
     section.courseinfo .item2 {
+        -ms-grid-column: 2;
+        -ms-grid-column-span: 1;
         grid-column: 2 / 3;
     }
 
@@ -883,10 +889,16 @@ section.home-panels .panel-cg6 {
         grid-column: 1 / 4;
     }
 
-    section.video-instructions .item1 {
+    section.video-instructions .item1-youtube {
         -ms-grid-column: 1;
         -ms-grid-column-span: 7;
         grid-column: 1 / 8;
+    }
+
+    section.video-instructions .item1-lynda {
+        -ms-grid-column: 4;
+        -ms-grid-column-span: 4;
+        grid-column: 4 / 8;
     }
 
     section.video-instructions .item2 {

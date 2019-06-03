@@ -34,11 +34,18 @@
     </div>
 </section>
     <section class="video-instructions">
-    <div class="item1">
+    <div class="{% if page.video contains 'youtube' %}item1-youtube{% elsif page.lyndalinks contains 'lynda.com' %}item1-lynda{% endif %}">
         {% if page.video %}
         <div id="embed-youtube-container">
             <iframe src="{{ page.video }}" frameborder="0" allowfullscreen></iframe>
         </div>
+        {% endif %}
+        {% if page.lyndalinks %}
+        <h3>Lynda.com Video Tutorials</h3>
+        <p>You need to be logged in to Lynda.com with your Algonquin College account. For instructions, please see this page.</p>
+        {% for lyndalink in page.lyndalinks %}
+            {{ lyndalink | markdownify }}
+            {% endfor %}
         {% endif %}
     </div>
     <div class="item2">
@@ -53,7 +60,7 @@
         <div class="formsum">
             <h3 class="textcenter">This is a <span class="">{{ page.formsum }}</span> assignment</h3>
             <p>
-                That means that you'll be learning and practicing new software skills. This assignment contributes to your final grade in the course. This work will be graded as either:
+                That means that you'll be learning and practising new software skills. This assignment contributes to your final grade in the course. This work will be graded as either:
             </p>
             <div class="completeincomplete">
                 <span class="complete">Complete</span>
@@ -70,7 +77,7 @@
                 It evaluates your mastery of the skills in this instructional unit. This assignment contributes to your final grade in the course. You will earn a letter grade.
             </p>
             <h5 class="padbottom10 textcenter">
-                <a href="{{ site.baseurl }}/topics/assessment.html" title="Algonquin College Grading System" class="">Your Grading System</a>
+                <a href="{{ site.baseurl }}/topics/assessment.html" title="Algonquin College Grading System">Your Grading System</a>
             </h5>
         </div>
         {% endif %}
