@@ -20,7 +20,7 @@
             <h3>Course</h3>
             {% for courseinfo in site.data.stream %}
             {% if courseinfo.level == page.level %}
-            <p>{{ courseinfo.coursecode }} {{ courseinfo.coursetitle }}</p>
+            <p><strong>{{ courseinfo.coursecode }} {{ courseinfo.coursetitle }}</strong></p>
             {% endif %}
             {% endfor %}
             <h3>Prerequisites</h3>
@@ -62,7 +62,7 @@
         {% for cards in all_topics %}
         {% if cards.level contains page.level %}
         <a href="{{ site.baseurl }}{{cards.url}}" class="decoration-none card">
-            <h5>{{cards.title}}</h5>
+            <h4>{{cards.title}}</h4>
             <div class="appsused">
                 {% if cards.appsused contains 'macos' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-macos.svg" alt="Mac OS"></span>{% endif %}
                 {% if cards.appsused contains 'cc' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-cc.svg" alt="Creative Cloud"></span>{% endif %}
