@@ -13,7 +13,7 @@ video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLCHHO2khLLnHHS
 downloads: "https://www.dropbox.com/s/q3e7tjzzpc92122/photoshop-mockups.zip?dl=1"
 description: "Photoshop mockups are layered files in which you can insert an image of a portfolio piece to show it in its natural environment."
 details: | 
-  ## Why Mockups?
+  ### Why Mockups?
 
   The mockups we are referring to here are Photoshop files in which a designer can place their portfolio pieces so they become part of a photograph. They feature your portfolio piece in its natural environment as if it were in daily use.
 
@@ -21,7 +21,7 @@ details: |
 
   <img class="size75" alt="photoshop-mockup-example" src="/images/photoshop-mockups/photoshop-mockup-example.jpg">
 
-  ## Why Smart Objects?
+  ### Why Smart Objects?
 
   A Photoshop Smart Object is the tool used to create the mockup. It allows for the seamless swapping of artwork, while all the transformations, masks and effects are maintained.
 
@@ -35,7 +35,7 @@ details: |
 
   One thing you cannot do to a Smart Object is affect its pixel data by painting in any way.
 
-  ## Some Settings...
+  ### Some Settings...
 
   There are a few settings related to Smart Objects you should know about. Go <span class="command">Photoshop > Preferences > General</span> to find these settings.
 
@@ -47,9 +47,9 @@ details: |
 
   Skip Transform when Placing eliminates the transform box alltogether. You can always envoke the Tranform box with <span class="command">⌘-T</span> if you want to scale your placed Smart Object.
 
-  ## Creating Smart Objects
+  ### Creating Smart Objects
 
-  ### From Menus
+  #### From Menus
 
   There are many ways to create a Smart Object. You can right-click on any layer's name and choose <span class="command">Convert to Smart Object</span>. You can also go <span class="command">Layers > Smart Objects > Convert to Smart Object</span>. These commands are both the same. You can also get to the command from the Layers panel menu.
 
@@ -62,11 +62,11 @@ details: |
 
   The <span class="command">Filters > Convert for Smart Filters</span> command makes a Smart Object too. So really, they're not Smart Filters. They're normal filters being applied to the Smart Object. Either way, this makes it that any filters you apply to a Smart Object are non-distructive. They are applied to an image of the photo; not the original photo.
 
-  ### Placing an Image
+  #### Placing an Image
 
   When you use the <span class="command">File > Place</span> command, the placed image is a Smart Object. It's usually best to place .PSD files beccause they have layers. If you place a JPEG, then you do edits that have layers, you need to flatten them every time.
     
-  ## Replacing Their Contents
+  ### Replacing Their Contents
 
   As stated above, a Smart Object is a container for a photo or vector art. Well, if it's a container, it stands to reason that we can replace the contents of that container.
 
@@ -76,7 +76,7 @@ details: |
 
   When you replace the contents of a Smart Object, it inherits all the transformations and effects you had previously applied. This is really one of the big benefits of Smart Objects.
 
-  ## Duplicating a Smart Object
+  ### Duplicating a Smart Object
 
   There are two ways to duplicate a Smart Object. One method makes it that all instances of the Smart Object have one source image. The second method creates a whole new Smart Object, with no relationship to the first.
 
@@ -84,7 +84,7 @@ details: |
 
   By default, all duplicates of a Smart Object have the same source image inside them. When you edit one, all copies reflect the edit. In the image above, I added a mask to one of the layers. The other layer got the mask automatically.
 
-  ### New Smart Object via Copy
+  #### New Smart Object via Copy
 
   <img class="size50" alt="photoshop-smart-objects-new-via-copy" src="/images/photoshop-smart-objects/photoshop-smart-objects-new-via-copy.jpg">
 
@@ -94,7 +94,7 @@ details: |
   You can nest Smart Objects! Target multiple smart objects in the layers panel. Right-click on them, then choose Convert to Smart Object. Now you have multiple smart objects inside a single smart object.
   </div>
 
-  ## Linked vs. Embedded Smart Objects
+  ### Linked vs. Embedded Smart Objects
 
   When you use the <span class="command">File > Place</span> command, you have two choices. You can choose <span class="command">Linked</span> or <span class="command">Embedded</span>. When you choose to embed, the image becomes part of your Photoshop file.
 
@@ -112,12 +112,12 @@ details: |
 
   You may have noticed that there's a <span class="command">File > Package</span> command in Photoshop. The function is used to package linked Smart Objects, just like the Package function works in InDesign. And that's all it's good for. It doesn't package fonts or anything else.
 
-  ## Rasterize a Smart Object
+  ### Rasterize a Smart Object
 
   You can convert a Smart Object to a regular layer by simply right-clicking on it in the layers panel, then choosing <span class="command">Rasterize Layer</span>. As usual, this command is also available from the Layer menu, or with a right-click while using the Marquee tool. Once you've done so, the layer's tranformations become destructive.
 
 assignment: |
-  ## Our First Device Mockup
+  ### Our First Device Mockup
 
   In our first mockup, we want to place artwork on the screen of an iPad. We have the photo of the iPad, then we have a separate .psd of a poster we've designed. To place artwork on a device screen, follow the steps below.
 
@@ -125,7 +125,7 @@ assignment: |
 
   You can use any of the transform types shown in step 3. Whatever works for your circumstances. In step #5, you should detach the mask from the image by deactivating the chain-link icon in the Layers panel. This allows us to move the artwork separately inside the mask for proper positioning.
 
-  ## Our First Fabric Mockup
+  ### Our First Fabric Mockup
 
   In order to make artwork conform to the wavy shape and texture of of a fabric, we need to use Photoshop's Displace filter.
 

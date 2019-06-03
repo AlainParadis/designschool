@@ -23,7 +23,7 @@ details: |
   * and much, much more...
 
 assignment: |
-  ## The Acrobat Forms Workflow
+  ### The Acrobat Forms Workflow
 
   We create forms from existing documents. Acrobat cannot create a form from scratch. You can use applications like Microsoft Word, Excel, or Adobe InDesign. These applications have functions to export a document as a PDF, which can then be converted to a fillable form. You'll need to explore your application of choice to learn how to produce a PDF document from your native form document.
 
@@ -33,7 +33,7 @@ assignment: |
 
   You can even scan a paper form, then have Acrobat convert it to a PDF form quite efficiently. The key is to have a well designed form to start with.
 
-  ## Form Content & Design
+  ### Form Content & Design
 
   Acrobat can create your form automatically using the wizard. To ensure it guesses your intentions correctly, you'll need to:
 
@@ -47,13 +47,13 @@ assignment: |
 
   The second factor in good form design is the layout of the page. The visual relationship of the labels to the fields should be very clear. Here, alignment and proximity matter. White space is also important. Leave a lot of room between elements on the page.
 
-  ## Acrobat Tools
+  ### Acrobat Tools
 
   Before we create our PDF form in Acrobat, we'll start by adding the Prepare Forms tool to our Tools panel. Click on the <span class="command">Tools</span> tab, then search for the Prepare Forms tool. Once you've found it, drag it to the panel on the right. Voilà! You're done.
 
   <img class="size100" alt="acrobat-tools-setup" src="/images/acrobat-forms/acrobat-tools-setup.jpg">
 
-  ## The Wizard
+  ### The Wizard
 
   Now we're ready to convert our static form design to a fillable PDF form. If you've designed your form using clear, specific questions and form fields, it's likely the wizard will do a large majority of the work for you. You need to have created visual clues for Acrobat to detect where you intend to have fields.
 
@@ -73,7 +73,7 @@ assignment: |
 
   If you've designed your form well, it will even create the field labels for you. As you can see in the image above, we only have a bit of clean-up to do to complete our fillable form.
 
-  ## Editing Acrobat Form Fields
+  ### Editing Acrobat Form Fields
 
   You can draw new fields on a form manually using the field creation tools. These appear along the top edge of your document when you click on *Prepare Form* in your Tools panel.
 
@@ -105,7 +105,7 @@ assignment: |
 
   It's important to name fields with unique, meaningful names as you create them. Note that fields with the same name act together. This means that if you type in one field, the result will appear in all the fields with the same name.
 
-  ### Text Field Restrictions
+  #### Text Field Restrictions
 
   You can edit a form field to have it only accept a certain type of data. Double-click on a field, then go to the Format tab. It's best to use minimal requirements here to not frustrate the responent.
 
@@ -123,7 +123,7 @@ assignment: |
 
   A form action is needed to make the button do something. Go to <span class="command">Properties > Actions</span>. Make your button take action on <span class="command">Mouse up</span>. You can choose from the dropdown menu of actions, or you can choose <span class="command">Execute a Menu Item...</span>. This allows you to attribute any menu item to the button. Very powerful...
 
-  ### Barcodes
+  #### Barcodes
 
   <img class="size33" alt="barcode-icon" src="/images/acrobat-forms/barcode-icon.jpg">
 
@@ -137,13 +137,13 @@ assignment: |
 
   To change the tab order, you can drag field names up and down the list in the tools panel on the right.
 
-  ## Signing Acrobat Forms
+  ### Signing Acrobat Forms
 
   Once the recipient has filled out the form, they can sign it digitally. They don't even need paid software to do this. Signing functionality if free for all users.
 
   Signatures are useful to receive confirmations or approvals for the form. This really completed the paperless Acrobat workflow.
 
-  ### Easily Sign any PDF File
+  #### Easily Sign any PDF File
 
   The first, most universal method of signing forms is to use the *Fill & Sign* tool. This is available to any user who has Acrobat DC Pro or Acrobat DC Reader, so it's a free solution. This option offers no tracking of documents.
 
@@ -187,7 +187,7 @@ assignment: |
 
   Once this is done, you can create a signature image and sign forms in a very secure manner. As the signatory, make sure you create a strong password, then save it in a password manager application.
 
-  ## Collecting PDF Form Data
+  ### Collecting PDF Form Data
 
   If you have a large group of recipients filling out forms, it's possible to collect the data in a spreadsheet. Acrobat DC Pro and a spreadsheet application is all you need.
 

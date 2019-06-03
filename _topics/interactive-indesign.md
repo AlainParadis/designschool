@@ -17,21 +17,21 @@ video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLApCkZmFu02T_f
 downloads: "https://www.dropbox.com/s/90mrd4pg8qftpx0/indesign-interactive-indesign.zip?dl=1"
 description: "In this lesson, we'll explore interactivity in InDesign with the eventual goal of an output to PDF, ePub and Adobe's Publish Online service."
 details: |
-  ## Why Interactivity in InDesign?
+  ### Why Interactivity in InDesign?
 
   InDesign is the leader in page layout for print. Why would it have so many tools to author interactivity? The answer includes at least two file formats, ePUB and PDF. These two formats can contain hyperlinks, interactive tables of contents, audio, video and more. When we combine InDesign's awesome powers for page layout with its interactive capabilites, you get a PDF & ePUB producing powerhouse.
 
-  ## Hyperlinks
+  ### Hyperlinks
 
   Hyperlinks in InDesign serve the same purpose as one on the web. You have a source and a destination. In your PDF file, you can click on text or an object, then it will take you somewhere else in your document. Hyperlinks can even take you to a separate file on your computer. Imagine a link in a PDF that opens another PDF. Convenient.
 
-  ### Hyperlink to a URL
+  #### Hyperlink to a URL
 
   <img class="size100" alt="indesign-create-hyperlinks" src="/images/indesign-interactive-indesign/indesign-create-hyperlinks.jpg">
 
   It's quite straighforward to create a link to a web page. You can link text or an object. Make a selection in InDesign. Create a new link in the Hyperlinks panel. Add a destination URL. InDesign will automatically create a character style named Hyperlink. You're free to edit its appearance.
 
-  ### Hyperlink to a File
+  #### Hyperlink to a File
 
   Hyperlinks can open files on your computer. This could be convenient if you have a large catalogue of InDesign files. One can link to another.
 
@@ -39,7 +39,7 @@ details: |
 
   It's important to organize all related files ahead of time. If you link to a file, then you move it to another location, the link will break.
 
-  ### ...to a text anchor
+  #### ...to a text anchor
 
   Links to a an anchor allow you to target specific text or an object.
 
@@ -47,7 +47,7 @@ details: |
 
   Establish the destination anchor first. Once that's done, create a Text Anchor link to the destination.
 
-  ## Bookmarks
+  ### Bookmarks
 
   > A bookmark is a type of link with representative text that makes it easier to navigate documents exported as Adobe PDF. Bookmarks you create in the InDesign document appear in the Bookmarks tab on the left side of the Acrobat or Adobe Reader window. Each bookmark jumps to a text anchor or a page. <cite><a href="https://helpx.adobe.com/indesign/using/bookmarks.html" target="_blank" title="Citations">Adobe</a></cite>
 
@@ -55,7 +55,7 @@ details: |
 
   All you need to do is to highlight some text, them create a new bookmark in the Bookmarks panel. Nothing acutally appears in InDesign. It's when you export to PDF that the bookmarks appear in Acrobat's Bookmarks panel.
 
-  ## Buttons
+  ### Buttons
 
   Create a button in InDesign to perform an action such as printing, jump to a page, opening a web site or even changing the zoom factor. Buttons can act like a hyperlink, but they can do much more.
 
@@ -63,7 +63,7 @@ details: |
 
   You can see all the actions a button can perform. You can also determine the button's appearance for a hover state and a click state. Explore the options in the Buttons panel.
 
-  ## Movies & Sounds
+  ### Movies & Sounds
 
   InDesign has the ability to import audio and video files with the <span class="command">File > Place...</span> command. The best format for video is h.264 encoded MP4. You can also import MP3 files.
 
@@ -82,7 +82,7 @@ details: |
 
   > Keep track of the media files you add to an InDesign document during the production cycle. If you move a linked media clip after adding it to the document, use the Links panel to relink it. If you send the InDesign document to another person, include any media files you add. <cite><a href="https://helpx.adobe.com/indesign/using/bookmarks.html" target="_blank" title="Citations">Adobe</a></cite>
 
-  ## Export to PDF
+  ### Export to PDF
 
   To produce a PDF that will diplay all of these wonderful interactive elements, you need to choose the Interactive PDF format.
 

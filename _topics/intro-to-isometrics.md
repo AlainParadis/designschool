@@ -15,7 +15,7 @@ video: "https://www.youtube.com/embed/TQJF1-QqT9k?list=PL4qBMvigUSLCF_-Av9YPxwF2
 downloads: "https://www.dropbox.com/s/jbluzdsenp36jo0/illustrator-intro-to-isometrics.ai.zip?dl=1"
 description: "We'll learn what isometric illustration is. How does it differ from drawing in a two-point perspective? We'll look at some examples and applications for isometrics."
 details: | 
-  ## What is Isometric Illustration?
+  ### What is Isometric Illustration?
 
     <figure>
     <img class="size100" alt="iso-example-shannon-shaw-2016" src="/images/illustrator-isometric-illustration/iso-example-shannon-shaw-2016.jpg">
@@ -32,7 +32,7 @@ details: |
 
   One benefit which makes working in an isometric projection is that you can move objects anywhere in the scene. The objects fit to the isometric grid no matter where they are on the page. You can scale them at will. Because there are no vanishing points, everything just fits. You can give the illusion of perspective simply by positioning objects and scaling them.
 
-  ## Impressive Isometrics Portfolios
+  ### Impressive Isometrics Portfolios
 
   These are are a few portfolios of artists who excess at drawing in the isometric form. The first and most important one to look at is <a href="http://www.glitschkastudios.com" title="Von Glitschka" target="_blank">Von Glitschka's web site</a>. He was the inspiration for this assignment. 
 
@@ -42,13 +42,13 @@ details: |
   * <a href="https://www.behance.net/gallery/23869083/City-Life-Isometric-Cityscape" title="The work of Coen Pohl" target="_blank">Coen Pohl</a>
   * <a href="https://www.gregmaxson.com/portfolio/" title="The work of Greg Maxon" target="_blank">Greg Maxon</a>
 
-  ## Isometrics: Illustrator Setup
+  ### Isometrics: Illustrator Setup
 
   Before we can draw isometric shapes, we need to change a number of settings in Illustrator. We also need to install a plugin which will help us with precision drawing.
 
-  ## Setup Illustrator
+  ### Setup Illustrator
 
-  ### Edit default .ai document
+  #### Edit default .ai document
 
   We'll take a moment to edit our default Illustrator document. This task isn't specific to this project. It's just a useful thing to do.
 
@@ -60,7 +60,7 @@ details: |
   * Delete all content from the Graphic Styles panel.
   * Delete all Symbols from their panel.
 
-  ### Create an Isometric Workspace
+  #### Create an Isometric Workspace
 
   We'll create a new custom workspace with these panels. Open only these panels.
     
@@ -75,7 +75,7 @@ details: |
 
   Once you have them all placed where you want them, go <span class="command">Window > Workspace > New Workspace...</span>. Give it a name, like Isometrics.
 
-  ### Smart Guides Setup
+  #### Smart Guides Setup
 
   We'll go to the Illustrator menu, then <span class="command">Preferences > Smart Guides...</span>
 
@@ -92,7 +92,7 @@ details: |
     Toggle Smart Guides on and off with ⌘-U.
   </div>
 
-  ### Install Astute SubScribe
+  #### Install Astute SubScribe
 
   We need to install a free Illustrator plugin in order to be able to draw certain shapes in an isometric projection. You'll need to go through the purchase process at no cost.
 
@@ -129,7 +129,7 @@ details: |
 
   Once you've run the installer, you'll have new tools in your Tools Panel in Illustrator. If you wish, at this point, you can go <span class="command">Window > Tools > New Tools Panel...</span> to create a new set of tools with only the ones you want for isometric illustration. <a href="https://helpx.adobe.com/illustrator/using/custom-tools-panels.html" title="Adobe's instructions on editing your tool panel in Illustrator." target="_blank">Here are some instructions</a>.
 
-  ## Important Keyboard Shortcuts
+  ### Important Keyboard Shortcuts
 
   * Selection tool: v
   * Direct Selection tool: a
@@ -141,11 +141,11 @@ details: |
   * View as outlines on/off: ⌘-Y
   * Paste in front: ⌘-F
 
-  ## Isometrics: Start with a Grid
+  ### Isometrics: Start with a Grid
 
   We'll need a grid to guide us in sketching our isometric illustration. In this unit, we'll draw that grid on our page which we can also use to draw our final work.
 
-  ### Draw an Isometric Grid
+  #### Draw an Isometric Grid
 
   We'll draw a grid which we'll be able to print to sketch with. We'll also be able to use it to draw our work with.
 
@@ -159,7 +159,7 @@ details: |
 
   <img class="size100" alt="create-an-isometric-grid" src="/images/illustrator-isometric-illustration/create-an-isometric-grid.jpg">
 
-  ## Create Illustrator Guides
+  ### Create Illustrator Guides
 
   You can use the grid you've drawn to create guides on your page in Illustrator. Duplicated the whole grid.
 
@@ -167,11 +167,11 @@ details: |
   2. Type ⌘-5 to convert paths to guides. You'll want to make sure they're locked.
   3. Type Option-⌘-; to lock/unlock guides.
 
-  ## Isometrics: Tonal Values
+  ### Isometrics: Tonal Values
 
   Lighting is a crucial ingredient in an isometric illustration. It's really going to drive home the three dimensional appearance of your artwork. We'll set up swatches with tonal values to help you get there.
 
-  ### Create Tonal Value Swatches
+  #### Create Tonal Value Swatches
 
   Lighting is really what brings life to isometric illustrations. To create lighting effects, we'll choose a key colour. We will then derive a range of tonal values from that colour using the Colour Guide panel. The colours will be saved in our Swatches panel for easy access.
 
@@ -184,11 +184,11 @@ details: |
 assignment: |
   Let's draw our first isometric objects. We'll start with a simple cube. We'll explore how lighting can affect objects in surprising ways.
 
-  ## Isometric Transformations
+  ### Isometric Transformations
 
   Open the provided practice file. There are practice steps on each layer in the file. We'll do these together.
 
-  ### Our First Cube
+  #### Our First Cube
 
   We'll use three identical squares and the angles indicated above to draw our first cube.
 
@@ -196,7 +196,7 @@ assignment: |
 
   You can set an intial colour to the squares, then use the Colour Themes to create the lighting effects.
 
-  ### A Box
+  #### A Box
 
   Let's test out some lighting effects. Draw a cube, then we'll make it look like it's hollow with the help of a light source.
 
@@ -204,11 +204,11 @@ assignment: |
 
   It's useful to place an orange circle off the page somewhere to remind me of my light source location. Once you've done so, select colours which will create the lighting on the box.
 
-  ## Isometrics: Actions
+  ### Isometrics: Actions
 
   Rather than drawing each facet of each object manually, we'll automate the process. Let's create actions to move facets the an isometric projection. We'll also create actions to make them flat again. An *undo* of sorts.
 
-  ### Actions Setup for Isometrics
+  #### Actions Setup for Isometrics
 
   There are three facets on an isometric object. If we were to position each facet manually, we'd never finish a project. It would be much too tedious. Actions are the perfect solution to speed things up.
 
@@ -236,11 +236,11 @@ assignment: |
   </figure>
   This is my Actions panel in Button Mode and normal mode. Access Button Mode from the panel's menu once you're done recording all the actions.
 
-  ## Isometrics: Drawing Cylinders
+  ### Isometrics: Drawing Cylinders
 
   Drawing an isometric cube fits right into the grid. A cube is a natural. But what about a cylinder? We'll explore how to draw cylindrical shapes in an isometric view.
 
-  ### Drawing Isometric Cylinders
+  #### Drawing Isometric Cylinders
 
   We'll practice drawing a cylindrical shape.
 
@@ -253,17 +253,17 @@ assignment: |
 
   There are quite a few steps to draw a cylinder. It'll be best if you repeat them often...
 
-  ## Geometric Shapes
+  ### Geometric Shapes
 
   There are more shapes than simple cubes. We'll elaborate various different geometric shapes in isometric projection.
 
-  ### Other Geometric Shapes
+  #### Other Geometric Shapes
 
   We'll create other geographic shapes with an isometric projection. We'll create a pyramid, a cylinder, a cone, a pyramid and a hexagon and sphere. Child's play.
 
   <img class="size100" alt="iso-other-geometric-shapes" src="/images/illustrator-isometric-illustration/iso-other-geometric-shapes.svg">
 
-  ## Wrap-up
+  ### Wrap-up
 
   Once we've completed the task on each layer of the provided Illustrator document, you'll save it to submit on Brightspace.
 ---

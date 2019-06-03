@@ -8,7 +8,8 @@ title: "Skateboard Parks Cards"
 level: cg5
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86524&grpid=0&isprv=0&bp=0&ou=92682"
 submission: "my-assignment-folder"
-links: 
+links: |
+  -   Lynda: [Variable Data course](https://www.lynda.com/Illustrator-tutorials/Adobe-Illustrator-Variable-Data/450909-2.html)
 video: 
 downloads:
 description: "Use the provided data to design and build a series of post cards for each of Ottawa's skateboard parks."
@@ -45,7 +46,7 @@ assignment: |
 
   Use the Batch command to export the data sets as Press-Ready PDF files into the provided 'PDFs' folder. Save your Illustrator file in place in the 'Your Exercise' folder. The .csv file should be in that folder too.
 
-  ## Deliverables
+  ### Deliverables
 
   Organize your submission files like this.
 
@@ -60,6 +61,4 @@ assignment: |
   * The PDFs folder full of PDFs.
   * Your Practice folder with all its files.
 ---
-  * [Lynda Variable Data course](https://www.lynda.com/Illustrator-tutorials/Adobe-Illustrator-Variable-Data/450909-2.html)
-
 https://docs.google.com/a/algonquindesign.ca/spreadsheets/d/19S_r_LzZhPYa2Xv7GdzxFaW4qMRJ5APYc3mvnl8BMiU/edit?usp=sharing

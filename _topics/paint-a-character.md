@@ -8,7 +8,8 @@ title: "Paint a Character"
 level: cg5
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86520&grpid=0&isprv=0&bp=0&ou=92682"
 submission: "my-assignment-folder"
-links: 
+links: |
+  - Lynda: [Using a Tablet](https://www.lynda.com/Illustrator-tutorials/Using-Wacom-Tablets-Illustrator/374180-2.html)
 video: 
 downloads:
 description: "We're going emulate the real-world process of painting by creating natural-looking brushes."
@@ -36,11 +37,11 @@ assignment: |
   </figcaption>
   </figure>
 
-  ## Scope of Work
+  ### Scope of Work
 
   These files are quite demanding in Illustrator. You'll want to create a beautiful, polished piece. On the flip-side, you don't want it to be too detailed. You'll need to create a simple, basic sketch, then go to town on the layering of the strokes. The stokes alone will make your file complex enough.
 
-  ## Protect Your Files
+  ### Protect Your Files
 
   Painting with such complex brushes is very demanding on Illustrator. These are some tips to make sure you don't lose any work.
 
@@ -66,4 +67,4 @@ deliverables: |
   Zip-compress the folder, <a href="https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86520&grpid=0&isprv=0&bp=0&ou=92682" title="Submit a zip-compressed file to this page.">then submit to this Brightspace page</a>.
 
 ---
-* Tutorial: [Lynda: Using a Tablet](https://www.lynda.com/Illustrator-tutorials/Using-Wacom-Tablets-Illustrator/374180-2.html)
+

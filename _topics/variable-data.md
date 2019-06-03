@@ -10,13 +10,14 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="http://helpx.adobe.com/illustrator/using/data-driven-graphics-templates-variables.html" alt:="Adobe: Illustrator Variable Data" target="_blank">Variable Data</a>
+  - Lynda.com: [Variable Data course](https://www.lynda.com/Illustrator-tutorials/Adobe-Illustrator-Variable-Data/450909-2.html)
 video: "https://www.youtube.com/embed/KHqyC_3iep4"
 downloads: "https://www.dropbox.com/s/wb89tvla7ox6t5u/illustrator-variable-data.zip?dl=1"
 description: "Variable Data in Illustrator is a little-know feature that can save you hours of tedious, error-prone work."
 details: | 
   Using Variable Data in Illustrator will save you a lot of time and avoid entry errors. It allows you to re-use the same artwork with different data in it. A good example would be to output business cards for a company for hundreds of different individuals.
 
-  ## Create a Workspace
+  ### Create a Workspace
 
   Before we get started, we'll create a Variable Data workspace in Illustrator.
 
@@ -24,7 +25,7 @@ details: |
   2. Open your Layers and your Variables panels.
   3. Save the workspace as *Variable Data*.
 
-  ## Types of Variables
+  #### Types of Variables
 
   <img class="size100" alt="illustrator-variable-types" src="/images/illustrator-variable-data/illustrator-variable-types.jpg">
 
@@ -32,15 +33,15 @@ details: |
 
   <img class="size100" alt="illustrator-variable-data" src="/images/illustrator-variable-data/illustrator-variable-data.jpg">
 
-  ## Kinds of Variable Data
+  ### Kinds of Variable Data
 
-  ### Text Variables
+  #### Text Variables
 
   This type of variable looks to the spreadsheet's rows for text. As it progresses through the rows, it swaps out the text in the Illustrator document for each entry in the data. This is the most common type of variable. It can be point text or area text.
 
   The name of the Illustrator sub-layer for text needs to be named the same as the column in the .csv file.
 
-  ### @ Linked Image Variables
+  #### @ Linked Image Variables
 
   You can swap out placed/linked images based on the data in a spreadsheet. Illustrator will look at the path to an image in the .csv file, then cycle through all your images. The path to the image needs to look like this in your spreadsheet.
 
@@ -55,7 +56,7 @@ details: |
   </figcaption>
   </figure>
 
-  ### # Visibility Variables
+  #### # Visibility Variables
 
   This is artwork we wish to reaveal or hide. Visibility is only On or Off. In your spreadsheet, that's expressed as TRUE or FALSE. Again, the header for a visibility variable is prefixed with a # symbol. This is how you show or hide objects on the artboard.
 
@@ -68,13 +69,13 @@ details: |
 
   The name of the Illustrator sub-layer for this content needs to be named the same as the column in the .csv file.
 
-  ### % Graph Variables
+  #### % Graph Variables
 
   You need to create an Illustrator Graph to start. The graph data for each record must be saved in a text file. Each file contains the data from the Illustrator Graph Data panel. So you need to copy the data from that Illustrator panel into a spreadsheet. The data needs to be separated by tabs and not commas.
 
   We won't be dealing with graphs today for a lack of time. You can read more about adding graph variables at the provided Adobe support link.
 
-  ## Editing Your Data
+  ### Editing Your Data
 
   We'll need a properly formatted spreadsheet in order to create the multiple files from our data. We'll set this up here.
 
@@ -97,7 +98,7 @@ details: |
     </ul>
   </div>
 
-  ## Layers → Columns
+  ### Layers → Columns
 
   We need to make sure that the Illustrator art is named the same as the column names in the data file.
 
@@ -108,7 +109,7 @@ details: |
   </figcaption>
   </figure>
 
-  ## Hooking Up Your Data
+  ### Hooking Up Your Data
 
   Now that we have a properly formatted data file in .csv format, we can connect it to our Illustrator document. Open the Illustrator file, then go <span class="command">Window > Variables</span> to get your Variables panel.
 
@@ -126,11 +127,11 @@ details: |
 
   Click the <span class="command">Import</span> button in the panel. Choose your .csv file. The variables will appear in the panel. Now, we select objects on the artboard and click the appropriate buttons in the Variables panel to connect them.
 
-  ## Preview Documents
+  ### Preview Documents
 
   Now that the data is connected to artwork in Illustrator, we can preview the documents. In the Variables panel, choose a data set from the dropdown menu. You can now click the left and right arrows to cycle through all the entries in the csv file. The content should change with each entry and some artwork should show/hide, too.
 
-  ## Exporting Data Sets
+  ### Exporting Data Sets
 
   We'll use an Illustrator action in a batch to export each record.
 
@@ -161,6 +162,5 @@ assignment: |
 
   We'll output the final cards as separate PDF files.
 ---
-  * [Lynda Variable Data course](https://www.lynda.com/Illustrator-tutorials/Adobe-Illustrator-Variable-Data/450909-2.html)
 
 https://docs.google.com/a/algonquindesign.ca/spreadsheets/d/19S_r_LzZhPYa2Xv7GdzxFaW4qMRJ5APYc3mvnl8BMiU/edit?usp=sharing

@@ -30,7 +30,7 @@ assignment: |
 
   You'll take time to develop your concept. Don't accept your first idea. Save it and come up with more of them. Once you have a good list, then you can choose from those to have something which will really produce winning final artwork.
 
-  ### Sketching
+  #### Sketching
 
   <a href="http://www.glitschkastudios.com" title="Sketches by Von Glitschka" target="_blank"><img alt="iso-sketches" src="/images/illustrator-isometric-illustration/iso-sketches.jpg"></a>
 
@@ -40,17 +40,17 @@ assignment: |
 
   <img class="size100" alt="isometric grid" src="/images/illustrator-isometric-illustration/iso-grid.svg">
 
-  ### Colour
+  #### Colour
 
   <img class="size50" alt="iso-colour-values" src="/images/illustrator-isometric-illustration/iso-colour-values.jpg">
 
   Once we've developed our concept, we'll need to create tonal families for objects in our scene.
 
-  ### Format
+  #### Format
 
   Let's start by working on a tabloid (11' x17") horizontal or vertical artboard.
 
-  ## Notes On Deliverables
+  ### Notes On Deliverables
 
   These are some tips and advice before you submit.
 

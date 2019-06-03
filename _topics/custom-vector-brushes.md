@@ -14,7 +14,7 @@ video:
 downloads: 
 description: "We're going emulate the real-world process of painting by creating natural-looking brushes."
 details: | 
-  ## Why Create Brushes?
+  ### Why Create Brushes?
 
   In this project, our goal is a very natural media aesthetic. The strokes we'll apply in Illustrator will be our own creations. This makes our artwork all the more unique.
 
@@ -22,14 +22,14 @@ details: |
 
   If you want to see some fine examples of this type of artwork, saunter over to <a href="http://www.glitschkastudios.com/#/vector-painting/" title="Examples of painting in Illustrator." target="_blank">Glitschka Studios</a>. He's a talented artist who really makes the most of Illustrator's paint capabilites.
  
-  ## Brush Strokes on Paper
+  ### Brush Strokes on Paper
 
   We'll start by painting strokes on paper. We'll need to paint a variety of types of strokes. Make variations on three different types. Create strokes of varying darkness, length and width. These will made into Art Brushes. Make narrower strokes for line work, which will be made into Pattern Brushes. Lastly, use a old toothbrush to spatter paint on the page. These will be made into Scatter Brushes.
 
   <img class="size50" alt="art-pattern-and-scatter-brush-examples" src="/images/illustrator-custom-vector-brushes/art-pattern-and-scatter-brush-examples.jpg">
 
 assignment: |
-  ## Scanning Strokes
+  ### Scanning Strokes
 
   Use the Image Capture app to do your scans. It's your best bet for all your scanning needs and it's right in your Applications folder. 
 
@@ -49,7 +49,7 @@ assignment: |
 
   Once the brush stroke is completely black, we'll save it as a PSD file. Save the native file into your project folder as a .psd with all its layers, so you can come back to it to make changes if needed.
 
-  ## Let's Make Vectors
+  ### Let's Make Vectors
 
   Create a new Illustrator document. The default letter size will do. Save it into your project folder.
 
@@ -75,7 +75,7 @@ assignment: |
   2. Pattern Brushes
   3. Scatter Brushes
     
-  ## Create an Art Brush
+  ### Create an Art Brush
 
   Drag our vector artwork into the Brushes Panel. Illustrator will ask which type of brush we want to make. In this case, it's an Art Brush.
 
@@ -114,7 +114,7 @@ assignment: |
   </figcaption>
   </figure>
 
-  ## Create a Scatter Brush
+  ### Create a Scatter Brush
 
   A scatter brush is really fantastic for adding texture and shading to your painting in Illustrator.
 
@@ -140,7 +140,7 @@ assignment: |
 
   Always make sure you change the Colourization Method to Tint to ensure you can change the stroke colour.
 
-  ## Save Brush Libraries
+  ### Save Brush Libraries
 
   Once you've created brushes, they'll only be in the one Illustrator document. It's best to export the brush library so you can load it into a new document.
 
@@ -150,4 +150,4 @@ assignment: |
 
   When you save the brushes file, it's actually just an empty native .ai file. To load it into another document, simply go to the Brushes Panel menu, then choose <span class="command">Open Brush Library > Other...</span>
 ---
-* Tutorial: [Lynda: Using a Tablet](https://www.lynda.com/Illustrator-tutorials/Using-Wacom-Tablets-Illustrator/374180-2.html)
+

@@ -32,7 +32,7 @@ assignment: |
 
   Make sure the folder is named properly before you zip-compress it. Submit it on <a href="https://brightspace.algonquincollege.com/d2l/home" title="Submit on Brightspace" target="_blank">Brightspace</a>.
 
-  ## Send for Signature
+  ### Send for Signature
 
   In addition to submitting your assignment on Brightspace, you'll send it to me filled in and signed.
 
