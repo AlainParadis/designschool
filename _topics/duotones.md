@@ -15,9 +15,9 @@ video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDfiqtRsavncYq
 downloads: "https://www.dropbox.com/s/9zbqkz0k6s437kx/photoshop-duotones.zip?dl=1"
 description: "A duotone Photoshop image is a greyscale image printed with a coloured ink rather than with black ink. You can obtain striking results with a well thought-out production strategy."
 details: |
-  ## About Channels
+  ### About Channels
 
-  ### Channels in RGB
+  #### Channels in RGB
 
   Despite Photoshop's awesome colour manipulation capabilities, it's actually colour blind. It really only understands greyscale images. An image is composed of three stacked greyscale images called channels. The lighter the grey on the Red channel, the more intense the red will be in your photo.
 
@@ -28,7 +28,7 @@ details: |
   </figcaption>
   </figure>
 
-  ### Channels in CMYK
+  #### Channels in CMYK
 
   The very definition of a CMYK image is that it has four channels. One for each of Cyan, Magenta, Yellow and Black. Everything else being equal, CMYK files are larger than RGB files for that reason.
 
@@ -39,7 +39,7 @@ details: |
   </figcaption>
   </figure>
 
-  ## Why a Duotone?
+  ### Why a Duotone?
 
   A duotone is a Photoshop greyscale image printed with a spot colour ink. There are a few reasons to use a duotone.
     <figure>
@@ -51,7 +51,7 @@ details: |
 
   You may be printing a two spot-colour job. In this case you can apply both of your inks to a photograph rather than just printing it in greyscale. Be aware that this may not always yield great results, depending on the ink combination you're using.
 
-  ## Creating a Duotone
+  ### Creating a Duotone
 
   The first step in creating a duotone image is to convert it to greyscale mode. You can simple use Image > Mode > Greyscale. This won't give you any control of the conversion process.
 
@@ -82,7 +82,7 @@ details: |
   </figcaption>
   </figure>
 
-  ### Editing Duotones
+  #### Editing Duotones
 
   After you've created a duotone image, it is possible to edit how the inks are mapped across the photo.
 
@@ -95,7 +95,7 @@ details: |
 
   In this photo, the press will print this photo with black ink, then it will print Pantone 349 CVC on top of the black. The distribution of inks is based on each colour's curves.
 
-  ## Using Duotones
+  ### Using Duotones
 
   If you place your duotone mode file in InDesign, you can see the colour break with the Colour Separations panel.
 
@@ -106,7 +106,7 @@ details: |
   </figcaption>
   </figure>
 
-  ## Faux Duotones
+  ### Faux Duotones
 
   These images have he appearance of a duotone, but are really in full colour. All you need to do is open your RGB image in Photoshop, then add Black & White adjustment layer to it.
 

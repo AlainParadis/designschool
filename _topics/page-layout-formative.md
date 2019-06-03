@@ -19,7 +19,7 @@ details: |
   - a printed design guide will be provided.
     - focus on the software skills, not the design.
 
-  ## Layout
+  ### Layout
 
   - 12 pages
   - Master Pages
@@ -32,7 +32,7 @@ details: |
   - Multi-column text frames
   - Table of contents
 
-  ## Typography
+  ### Typography
   
   - Hierarchy
     - size, weight, colour, case & reversed
@@ -45,14 +45,14 @@ details: |
   - <a href="https://helpx.adobe.com/ca/indesign/using/whats-new.html" title="Space between paragraph styles" target="_blank">Space between paragraph styles</a>
   - <a href="https://helpx.adobe.com/ca/indesign/using/footnotes.html" title="xx" target="_blank">Footnotes</a>
 
-  ## Images
+  ### Images
   
   - Images places @ 100%
   - Convert to CMYK
   - Placed as .psd files with one layer.
   - Frame-fitting options, including Content-Aware Fit
 
-  ## File Management & submission
+  ### File Management & submission
   
   - File organization while working
   - Versioning

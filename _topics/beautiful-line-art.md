@@ -13,7 +13,7 @@ video: "https://www.youtube.com/embed/h4d4jKXsMLk"
 downloads: "https://www.dropbox.com/s/2m2u5f2lsb0go85/photoshop-beautiful-line-art.zip?dl=1"
 description: "Line art is artwork which only contains black and white pixels. Line art images always contain sharp edges with no greys or colours. You would think that it would be the easiest to scan. The problem is that bitmap images often end up either lacking detail or clogged in darker areas. The Bitmap or Black & White settings in your scanning software will rarely yield favourable results. I'll show you how to create beautiful line art."
 details: |
-  ## About Bitmap Mode
+  ### About Bitmap Mode
 
   The term bitmap has multiple definitions. Sometimes, it refers to a raster image. Sometimes it refers to a black & white image. The phrase *black & white* is also often misused, interchangeably with *greyscale*. This all just causes confusion.
 
@@ -21,7 +21,7 @@ details: |
 
   It's best to use *raster* when refering to a pixel-based image. Use *greyscale* for grey images. Use *Bitmap* or *Bitmap mode* for pure black and white images.
 
-  ### Bit Depth
+  #### Bit Depth
 
   A raster image can go from a single bit image, in bitmap mode to an 8 bit image, in colour. Bit depth can go way higher, but such images are rarely used in graphic design.
 
@@ -45,7 +45,7 @@ details: |
 
   As you can see from the image above, we started with a scan in greyscale mode. From there, we can obtain a variety of looks. The second and third images are actually in Bitmap mode. The third image is placed on a coloured background in InDesign. Where there are no black pixels, the image is transparent. The last image is not in bitmap mode. It's our layered Photoshop file that's been colourised.
 
-  ## Getting Clean Pixels
+  ### Getting Clean Pixels
 
   Today, we'll practice the skills needed to properly capture a line art image. You will use the technique to make them high-quality bitmap images. We want to avoid too many broken lines, clogged dark areas and excessively white light areas.
 
@@ -59,17 +59,17 @@ details: |
 
   Now we have our image looking like a bitmap image. What we need to do is adjust any areas which either look clogged, have broken lines or have paper texture.
 
-  ## Local Fixes
+  ### Local Fixes
 
   The adjustment layers caused some areas of the image to have lost details or to have become to clogged with black. These details still exist on our bottom-most layer, on our original image. We'll rescue them from that layer
 
   <img class="size100" alt="bitmap-history-brush" src="/images/photoshop-line-art/bitmap-history-brush.jpg">
 
-  ### Fix Broken Lines
+  #### Fix Broken Lines
 
   Use the History Brush with the mode option set to Multiply or Darken to make the lines thicker. Lower the Opacity settings of the brush (not the layer) if the changes are too extreme. A really soft-edged brush is suggested.
 
-  ### Reduce line Thickness
+  #### Reduce line Thickness
 
   Use the History Brush with the mode set to Screen or Lighten to make the lines thinner. Lower the Opacity settings if the changes are too extreme.
 
@@ -79,7 +79,7 @@ details: |
 
   Save the resulting image as a ".PSD" file to preserve all its layers.
 
-  ## Output a Bitmap Image
+  ### Output a Bitmap Image
 
   At this point we have an image which looks like a good bitmap image, but it is still in grayscale mode. Simply go <span class="command">Image > Mode > Bitmap</span> to convert it to bitmap mode.
 
@@ -93,13 +93,13 @@ details: |
 
   Place the resulting EPS file in the provided InDesign document. Feel free to reduce the size of it. Hold Command + Option to scale the image and its box.
 
-  ## Resolution & Printing Line Art
+  ### Resolution & Printing Line Art
 
   If you are sending an image in bitmap mode to press as part of a layout, you would need to set the resolution of the image to the same resolution of the printer's raster image processor (RIP). Current RIPs use a 2400dpi line-screen or higher. This would make quite a large file. 1000dpi is sufficient to capture the finest line.
 
   Here's the low-down on printing line-art to various devices. Since line art contains only black and white pixels, we want to match up one image pixel to one device pixel to get the best clarity. Most of today's monochrome laser printers print at 600 dpi. So if you're printing to one, set the resolution of your image to 600 dpi at 100%.
 
-  ## Faux Bitmap Effect
+  ### Faux Bitmap Effect
 
   You can work on the layered Photoshop file to colourize it. Since it was scanned in greyscale, you'll need to convert it to RGB with <span class="command">Image > Mode > RGB Colour</span>. This will not be a bitmap image, but it will look like one. Feel free to add adjustment layers or fill layers to colourize your artwork. Once you're done, save the artwork as a native .psd file with the -colour added to the file name.
 
@@ -112,7 +112,7 @@ assignment: |
 
   Choose one of the Photoshop files to colourize. Add fill layers and/or adjustment layers to achieve your look. Be subtle with the application of colour. Colours should be light and desaturated. Add -COLOUR to the name, so we can tell which it is.
 
-  ## How to Get an "A"
+  ### How to Get an "A"
 
   Place all your images in the InDesign document. To earn top grades, you will need to do the following.
 

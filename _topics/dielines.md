@@ -23,7 +23,7 @@ details: |
 
   <!--- IMAGE: Image of items that require a die, like a package, a kit folder and something else. --->
 
-  ## Anatomy of a Package
+  ### Anatomy of a Package
 
   A die cut can cut a shape out of a sheet. But it can also score and create slits.
 
@@ -31,7 +31,7 @@ details: |
 
   As you can see in the image, the shape of the box has been cut out of some card stock. More than that, the scoring was also done. There's a slit cut in the top flap so the user can close the box after the initial seal has been broken.
 
-  ## Planning
+  ### Planning
 
   It's really important to plan before drawing out your die line. The best way to plan is to take out some scrap paper and your Xacto to build a mockup of your design. Eventually, your design will be physically cut out of card stock, so you can imagine that accuracy is of the utmost importance.
 
@@ -41,9 +41,9 @@ details: |
 
   If you're basing your design on an existing piece, it's worth scanning, then tracing the original in Illustrator.
 
-  ## Draw Your Die Line
+  ### Draw Your Die Line
 
-  ### Delete Unused...
+  #### Delete Unused...
 
   Before we start drawing, let's delete all the swatches from all panels. These are the affected panels:
 
@@ -54,7 +54,7 @@ details: |
 
   Go to the respective panel menues. Select Delete unusued... ⌥-click on the panel's trash icon to delete them without a confirmation dialogue.
 
-  ### Spot Colour
+  #### Spot Colour
 
   Before you get drawing, you need to create a spot colour in Illustrator with which you will draw your die line. It can be any colour. Name the swatch Die Line.
 
@@ -62,7 +62,7 @@ details: |
 
   Make sure you die line colour is actually a spot colour. You can tell it is by the dot in the corner of the swatch's icon.
 
-  ### Set up Graphic Styles
+  #### Set up Graphic Styles
 
   On a die line, a solid stroke represents a cut. A dashed stroke represents a fold. We really want things to be consistent.
 
@@ -70,7 +70,7 @@ details: |
 
   Let's create a graphic style for the dashed line.
 
-  ### Drawing
+  #### Drawing
 
   The Pen Tool is the only way to go when drawing a dieline. You can't easily use the shape tools. You can build your package from almost only one line. Draw a line, then use the move/copy dialogue and the Transform panel or the Move dialogue to create your design.
 
@@ -86,11 +86,11 @@ details: |
 
   As you draw with the Pen Tool, the Scissor Tool may come in handy too. It's useful for snipping paths. If you have overlapping paths, it snips the one you have selected.
 
-  ### Slits
+  #### Slits
 
   Slits are a cut made on the inside of the piece that don't reach the edges. You've fought with them on the flaps of a cereal box to re-close it. They're simply a regular line drawn in Illustrator. They're not dashed.
 
-  ## To InDesign!
+  ### To InDesign!
 
   We want to place our completed die line on a page in InDesign in order to place our artwork on it. InDesign is most flexible for doing the layout of your content. If your design allows, you could always complete the whole design in Illustrator. Avoid doing this if your design involves placed images and a lot of text. InDesign is really your best solution for this.
 
@@ -108,12 +108,12 @@ details: |
     Once you're done, empty out your panels in InDesign, too.
   </div>
 
-  ## To Production!
+  ### To Production!
 
   Using InDesign's Package function is the best way to collect assets to send to production. The native Illustrator document will be in the Links folder. It may be worth creating another copy of the file at the root of your project folder. It's also a good idea to print and assemble your die line to make everything absolutely obvious to the printer. You can write instructions on it, if needed.
 
 assignment: |
-  ## Software Skills
+  ### Software Skills
 
   * Transform panel.
   * Spot colours (for strokes on the die-line.)

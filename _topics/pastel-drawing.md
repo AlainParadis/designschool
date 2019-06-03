@@ -29,7 +29,7 @@ assignment: |
 
   Your Photoshop canvas needs to measure: 8" x 10" at 300dpi in RGB. It can be horizontal or vertical. Choose the orientation based on the orientation of your subject.
 
-  ## Grading
+  ### Grading
 
   You'll be graded on:
 
@@ -42,7 +42,7 @@ assignment: |
   * Save progressive version in Layer Groups.
   * Show progress in <a href="https://helpx.adobe.com/photoshop/how-to/layer-comp-updates.html" title="Adobe's tutorial on Layer Comps in Photohsop." target="_blank">Layer Comps</a>.
 
-  ## Deliverables
+  ### Deliverables
 
   * Save your file as Last Name, First Name, Group #, Pastel Drawing.psd
   * **Do not** flatten layers.
