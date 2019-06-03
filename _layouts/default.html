@@ -43,9 +43,10 @@
         {% if page.lyndalinks %}
         <h3>Lynda.com Video Tutorials</h3>
         <p>You need to be logged in to Lynda.com with your Algonquin College account. For instructions, <a href="http://www7.algonquincollege.com/byod/lynda.htm" target="_blank">please see this page</a>.</p>
-        {% for lyndalink in page.lyndalinks %}
-            {{ lyndalink | markdownify }}
+            {% for lyndalink in page.lyndalinks %}
+                {{ lyndalink | markdownify }}
             {% endfor %}
+            <p>Odds are that most of the other videos in the above-linked courses will be of use to you. Feel free to watch them all!</p>
         {% endif %}
     </div>
     <div class="item2">
