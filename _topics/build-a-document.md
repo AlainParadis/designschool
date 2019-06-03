@@ -17,7 +17,7 @@ video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLAM7iNFT5e-fXb
 downloads: "https://www.dropbox.com/s/3d0h80uw6hrrhb1/indesign-build-a-document.zip?dl=1"
 description: "In this assignment, we'll look at the foundations of building an InDesign document from scratch. We'll set up the document to for maximum flexibility when doing revisions. This is really how every InDesign document you make should be built."
 details: |
-  ## Before We Start...
+  ### Before We Start...
 
   Let's change a few settings in InDesign before we start building our document. You need to do this with <em>no</em> document open.
 
@@ -27,7 +27,7 @@ details: |
 
   Once you're done these changes, quit and re-launch InDesign.
 
-  ## Planning Your Layout
+  ### Planning Your Layout
 
   Before starting to build the file for your publication, you need to plan the layout. I create my layout sketches on thumbnails printed from InDesign. Use tabloid-sized pages to sketch them out.
 
@@ -44,11 +44,11 @@ details: |
     Build your Master Pages based on these thumbnails. Remember! Design on paper, then build on the computer.
   </div>
 
-  ## New Document Settings
+  ### New Document Settings
 
   We want to pay attention when setting up our document in the New Document dialogue. But don't be too nervous about it. If you need to, you can change settings after the fact.
 
-  ### Anatomy Of The Page Grid
+  #### Anatomy Of The Page Grid
 
   The page grid is the framework that holds your layout together. It's unseen when printed, but essential to consistent pages.
 
@@ -70,7 +70,7 @@ details: |
 
   For most part, you can ignore the eights. Use this as a four-column grid. The same goes for a six-column grid. Use it as a three-column page.
 
-  ### Facing pages?
+  #### Facing pages?
 
   Use facing pages if your document is a saddle-stitched publication. If it's going to be printed as loose sheets, then you don't need to use Facing Pages.
 
@@ -81,7 +81,7 @@ details: |
   </figcaption>
   </figure>
 
-  ### Primary Text Frame
+  #### Primary Text Frame
 
   When you're reading a mainstream magazine, there's usually a lot going on in the pages. There are ads, side bars, titles, photos and more. There's also the guts of the main story you're reading. Well, those text frames are the Primary Text Frames. They make up the flow of the main story. They're like a stream going through your document.
 
@@ -96,7 +96,7 @@ details: |
 
   If you didn't check the Primary Text Frame checkbox when you created the document, you can always go to your Master Pages to activate them there. All you need to do is click on the icon shown above to make the little arrow appear.
 
-  ### Bleeds
+  #### Bleeds
 
   The page bleed is the excess space you set to allow for inaccuracy when your commercial printer trims your pages. It's usually &#8539;&Prime;. In InDesign, it appears as a red line around the perimeter of your pages.
 
@@ -116,9 +116,9 @@ details: |
   </figcaption>
   </figure>
 
-  ## Master Pages
+  ### Master Pages
 
-  ### Set Up a Horizontal Grid
+  #### Set Up a Horizontal Grid
 
   Go to your A-Master, then use <span class="command">Layout > Create Guides...</span> To create horizontal guides on your pages.
 
@@ -131,7 +131,7 @@ details: |
 
   These guides will give you a structure for aligning objects.
 
-  ### Master Text Frames
+  #### Master Text Frames
 
   Text frames which are on Master Pages appear on all pages that have that Master applied to them. Master pages act like templates for your pages. If you modify a Master Page's layout, all the pages with that Master applied will change.
 
@@ -139,7 +139,7 @@ details: |
 
   Master Page items are locked on document pages. That means that you cannot select them on the document page without unlocking them. You can <span class="command">Shift-⌘-click</span> on a locked frame on a document page to unlock it. Alternatively, you can type <span class="command">Shift-⌘-⌥-L</span> to unlock all Master Page elements on a document page.
 
-  ### Automatic Page Numbering
+  #### Automatic Page Numbering
 
   InDesign can assign page numbers automatically. All you need to do is type <span class="command">Shift-⌥-⌘-N</span> in a text frame on a Master Page.
 
@@ -156,7 +156,7 @@ details: |
     You can drag a master's icon in the Pages Panel onto another to base it on that master. For example, Drag B-Master onto A-Master to base B on A.
   </div>
 
-  ## Managing Text Frames
+  ### Managing Text Frames
 
   Your document can have a series of threaded frames. That means that the text from one story will flow from one frame to the next across pages. You can also have a single text frame that doesn't connect to another.
 
@@ -173,7 +173,7 @@ details: |
 
   To resolve this, you can either make your frame larger, or make the text flow to another frame by threading it.
 
-  ### Text Threads
+  #### Text Threads
 
   Go <span class="command">View > Extras > Show Text Threads</span>. We want to turn on text threads. Do this with no document open so that the setting sticks for all future documents. That's what we call an InDesign <i>default</i>.
 
@@ -216,9 +216,9 @@ details: |
     If we add story jumps to our Libraries panel as text, it doesn't retain our box formatting. If we add it as a graphic, it will.
   </div>
 
-  ## Styling Text
+  ### Styling Text
 
-  ### Base Styles
+  #### Base Styles
 
   We create <i>base styles</i> with the goal of easing revisions. We want to set a base serif and a base sans-serif paragraph style. If we need to change the underlying fonts in our document, all we'll need to do is change one style and all the inheriting styles will change.
 
@@ -246,7 +246,7 @@ details: |
 
   We should be aiming for line lengths of 35 to 45 characters per line. You can check the number of characters per line using the Info panel. Highlight a line of text and refer to the panel for the character count.
 
-  ### Styling Headlines
+  #### Styling Headlines
 
   <figure>
       <img class="size75 borderlimegreen1" alt="indesign-balance-ragged-lines" src="/images/indesign-build-a-document/indesign-balance-ragged-lines.jpg">
@@ -257,7 +257,7 @@ details: |
 
   When styling a large title, a deck or another short paragraph with large text, we want to turn on <span class="command">Balance Ragged Lines</span> in the paragraph style. Never turn on this feature for long lengths of text like body copy. The line length will become uneven.
 
-  ### Spacing Paragraphs
+  #### Spacing Paragraphs
 
   We need a subtle but clear indication when one paragraph ends and another begins. The choices are a first line indent at the start of the paragraph, or a space after the paragraph.
 
@@ -271,7 +271,7 @@ details: |
 
   When you use a space after the paragraph, these spaces cumulatively burn up a lot of room in your doucument. If space is precious, it may be better to use a first line indent. Size your first line indent at 1em. That means make it the same size as your type size. 9pt type, 9pt first line indent.
 
-  ### Character Styles
+  #### Character Styles
 
   Use Character Styles sparingly and only where necessary. They're used for styling at a character level and not at a paragraph level. They're good for italicising words and the like.
 
@@ -295,11 +295,11 @@ details: |
 
   All you need to do is tell it which Character Style to apply to the text. You also need to tell it which text to apply it to. InDesign will dynamically apply the style as it encounters the criteria. GREP Styles can do much more. We haven't even touched on the actual GREP patterns here. We'll come back to them in the future.
 
-  ## Drop Caps
+  ### Drop Caps
 
   We'll style a drop cap with the help of <a href="drop-caps.html" title="Learn how to create a drop cap character in InDesign.">this information</a>.
 
-  ## Paragraph Rules
+  ### Paragraph Rules
 
   Paragraph Rules are horizontal lines which can be activated in a Paragraph Style. They appear either above or below a paragraph. Remember, in InDesign, a paragraph can be as short as one glyph!
 
@@ -310,7 +310,7 @@ details: |
   </figcaption>
   </figure>
 
-  ## Styling Pull Quotes
+  ### Styling Pull Quotes
 
   Second to a headline, a pull-quote can really be an attention-getter. Pulling a quote from the text with provocative text will draw the reader to your story.
 
@@ -329,7 +329,7 @@ details: |
 
   Let's add the pull quote to the CC Libraries panel so we can insert one at any time.
 
-  ## Styling Sidebar Stories
+  ### Styling Sidebar Stories
 
   Sidebar stories are separate but related stories. They'll be of interest to the reader of the main story. A separate text frame is created and styled to stand out, sometimes with a background colour.
 
@@ -363,10 +363,6 @@ assignment: |
     Carefully set up your document with these settings. This is what your pages panel should look like.
   </figcaption>
   </figure>
-
-  ### CC Library
-
-  Create a Library called CG2 Build a Document. We'll store assets for this project here for re-use.
 
   ### Layers
 
@@ -482,7 +478,7 @@ assignment: |
   </figcaption>
   </figure>
 
-  ## More Pages...
+  ### More Pages...
 
   Now that we have all our design elements set up, it's simple to add pages to our InDesign document. Let's increase it to 12 pages.
 
