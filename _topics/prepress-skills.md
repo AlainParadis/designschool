@@ -18,7 +18,7 @@ downloads: "https://www.dropbox.com/s/t8z181fk0z26s2z/prepress-skillz.zip?dl=1"
 description: "Designers need to get a solid handle on file building and preparation for commercial printing. These are only some of the skills you'll need to become a well-rounded designer for print."
 details: |
 assignment: |
-  ## Die Lines
+  ### Die Lines
 
   Create a die line based on the provided package. Create a new Illustrator document. Save it back into the die lines assignment folder.
 
@@ -26,7 +26,7 @@ assignment: |
 
   Once you're done, leave the image placed in Illustrator. Just turn off the visibility of its layer. Save and close your file.
 
-  ## Duotones
+  ### Duotones
 
   Convert the provided images to duotone mode with the provided colours.
 
@@ -34,7 +34,7 @@ assignment: |
 
   Set the bike photo to a monotone with Pantone 286C. The mountain range photo needs to be a duotone with black and Pantone 348C. Save your images as native Photoshop (.psd)files.
 
-  ## Spot Colour Channels
+  ### Spot Colour Channels
 
   Convert the provided image for spot colour printing. You can see that I created selections for you in the Channels panel. All you need to do to load them is ⌘-click
 
@@ -48,7 +48,7 @@ assignment: |
 
   Save the file as a native (.psd) Photoshop file. Place the ad in the provided InDesign document. Check your Separations Preview panel to make sure you got the colour break right. Save and close.
 
-  ## Beautiful Line Art
+  ### Beautiful Line Art
 
   Convert the provided images to bitmap mode using <a href="beautiful-line-art.html" target="_blank" title="the technique taught in class">the technique taught in class</a>.
 
