@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 1.0
+sortorder: 2.0
 appsused: ai, indd
 title: "Graph Design"
 level: cg2

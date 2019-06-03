@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: summative
-sortorder: 1.9
+sortorder: 2.9
 appsused: ai, indd
 title: "Graph Layout"
 level: cg2
