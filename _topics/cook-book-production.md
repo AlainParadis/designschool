@@ -14,9 +14,9 @@ video:
 downloads: 
 description: "These are the main software instructions, which are really the bulk of the assessed skills."
 details: |
-  ## Software Skills
+  ### Software Skills
 
-  ### General
+  #### General
 
   - Proper project file management
     - File naming
@@ -35,7 +35,7 @@ details: |
     - Research & plan illustration style
         
 
-  ### InDesign
+  #### InDesign
 
   - Master pages
     - *Based-on* master pages
@@ -53,7 +53,7 @@ details: |
   - More to come...
     
 
-  ### Illustrator
+  #### Illustrator
 
   - Use basic drawing with shapes
   - Use the Pen Tool to draw paths
@@ -64,7 +64,7 @@ details: |
   - Illustrations would be submitted as their own assignment
   - More to come...
 
-  ### Photoshop
+  #### Photoshop
 
   - Proper resolution for food photography
   - At least 1 photo composition comprised of 5 photos

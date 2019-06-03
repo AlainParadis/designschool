@@ -14,9 +14,9 @@ video:
 downloads: 
 description: "You're done building your publication! Now, it's time to output the document for the designated intents."
 details: |
-  ## Cook-book Output
+  ### Cook-book Output
 
-  ### File Prep
+  #### File Prep
 
   - Make sure files are organized
     - InDesign file
@@ -38,11 +38,11 @@ details: |
   - No spot colours throughout the project
   - Bleeds are exactly 1/8", no bigger, no smaller
 
-  ### Packaging
+  #### Packaging
 
   - File > Package for submission of native files
 
-  ### PDF for Print
+  #### PDF for Print
 
   - Output to PDF using an appropriate PDF preset
   - Bleeds, crop marks & colour bars
@@ -53,7 +53,7 @@ details: |
   - Crop marks
 
 
-  ### PDF for Download/Screen
+  #### PDF for Download/Screen
 
   - Smallest file size
   - Subset all fonts
@@ -61,14 +61,14 @@ details: |
   - Flat size trimmed to page dimensions
   - In Acrobat: File > Document Properties > Open Fit to Screen with Pages panel
 
-  ### ePUB
+  #### ePUB
 
   - Not sure about this
   - We could include,
     - an embedded movie file
     - hyperlinks
 
-  ### Printed output?
+  #### Printed output?
 
   - Do we have them print it?
 

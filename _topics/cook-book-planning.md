@@ -14,11 +14,11 @@ video:
 downloads: 
 description: "This is a semester-long, self-directed project with milestones. It will include publication design, photo manipulation and illustration. It is a software skills culminating performance for the Computer Graphics courses."
 details: |
-  ## Thoughts on a Cook-book Project
+  ### Thoughts on a Cook-book Project
 
   This assignment will include all the software skills students have learned to date. It should be self-directed.
 
-  ### General Notes
+  #### General Notes
 
   - Students will find their own content: recipes, <a href="https://cg.algonquindesign.ca/topics/stock.html" title="Stock Photography" target="_blank">stock photography</a>.
     - You will vet the content for quality.
@@ -29,7 +29,7 @@ details: |
   - The aesthetics of the book need to be distinctive & consistent.
   - The book can veer off the cook-book path. It can tell a story, while the recipes are complimentary to that story.
 
-  ### Logistics
+  #### Logistics
 
   - You will be project lead and art director.
   - Students will devise a plan at the outset.
