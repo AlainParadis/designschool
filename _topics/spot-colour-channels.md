@@ -14,7 +14,7 @@ video: "https://www.youtube.com/embed/sddPWRJa5WI"
 downloads: "https://www.dropbox.com/s/ytj4i1yf2m9ydux/photoshop-spot-colour-channels.zip?dl=1"
 description: "At times, four colour process printing can be quite bland. There are times when you want a more crafted printed piece with more accurate colours and more punch. This is where spot colour printing can come to the rescue."
 details: |
-  ## The Context
+  ### The Context
   This is an ad for a home renovation company, using our two spot colours. Every element in this ad is either black or in Pantone 165. The first frame shows the black content of the ad in InDesign. The second is all the orange 165 content. The third plate shows the colour composite.
 
   <img class="size100" alt="spot-colour-reno-ad" src="/images/photoshop-spot-colour-channels/spot-colour-reno-ad.jpg">
@@ -37,7 +37,7 @@ details: |
 
   While you're at it, delete all the other swatches in the panel.
 
-  ### Spots in Photoshop
+  #### Spots in Photoshop
 
   Every Photoshop image has one or more channels, each storing information about colour elements in the image. The number of default colour channels in an image depends on its colour mode. For example, a CMYK image has four channels, one each for cyan, magenta, yellow, and black information. Think of a channel as analogous to a plate in the printing process, with a separate plate applying each layer of colour. Spot colour channels are used to add spot colour plates for printing.
 
@@ -49,7 +49,7 @@ details: |
 
   Use Cut and Paste to transfer pixels from the greyscale channel to the orange channel. Turn off all but the background layer's visibility. Hit the D key to set your swatches to the default black and white. Select, then cut and paste it onto our new orange channel.
 
-  ### Punching a Hole in Spot Colours
+  #### Punching a Hole in Spot Colours
 
   Spot colour channels are usually displayed in greyscale. The darker the content, the more intense the application of the spot colour.
   
@@ -59,7 +59,7 @@ details: |
 
   Now the hammers should appear in greyscale (with no orange). They will print on the black plate when colour separated.
 
-  ### Full Intensity Spot
+  #### Full Intensity Spot
   
   Now we will show how filling with black on the Spot Channel actually applies 100% of the Spot Colour in the canvas.
 
@@ -67,7 +67,7 @@ details: |
   2. Target the Spot Colour Channel
   3. Fill with black. See? It fills with solid Orange 165.
 
-  ### Screening a Spot
+  #### Screening a Spot
 
   Now, create a screen of the orange 165 colour.
 
@@ -79,7 +79,7 @@ details: |
 
   20% black on the orange spot colour channel will print a 20% screen of Pantone 165 C.
 
-  ### Type on Spot Channels
+  #### Type on Spot Channels
 
   Type works very differently on spot colour channels, compared to normal type in Photoshop. To start with, it is not vector data. These means that it is way less editable. It also means that there are no font file dependancies with such a file. Let’s try.
 
@@ -93,7 +93,7 @@ details: |
 
   When you print seps, the file would separate into a black plate and a Pantone 165 plate.
 
-  ## Bump (or Kiss) Plates
+  ### Bump (or Kiss) Plates
 
   Spot colours are not only used in spot colour printing. They can also be used to augment a four colour process print job.
 
@@ -101,7 +101,7 @@ details: |
 
   You've seen this before, even if you didn't notice. That advertisement for makeup where the lipstick on the model looks more intense than the rest of the inks in the ad. They've likely printed the whole ad in CMYK, then they printed a spot colour only on her lips.
 
-  ## Varnish Plate
+  ### Varnish Plate
 
   The same technique is also used to add a varnish to a photo in Photoshop. Add a spot colour (of any colour), then name it Varnish. This will produce another plate at the printer's with which they will print the spot varnish over only those areas of the image.
 
@@ -113,7 +113,7 @@ details: |
     It's important that the fill on your spot varnish channel is set to 100% black. We don't screen varnishes.
   </div>
 
-  ## Printing Separations
+  ### Printing Separations
 
   Let's output our ad to a colour-separated PDF file. Go File > Print...
 
@@ -131,7 +131,7 @@ details: |
 assignment: |
   Convert the provided photoshop file to Black plus Pantone 1817C.
 
-  <figure class="width100">
+  <figure>
       <img class="size100" alt="spot-colour-channels-summative" src="/images/photoshop-spot-colour-channels/spot-colour-channels-summative.jpg">
   <figcaption>
     This image shows the colour break for your file.
