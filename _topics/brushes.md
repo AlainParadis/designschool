@@ -11,12 +11,12 @@ submission: "photoshop-document"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/how-to/photoshop-brushes-intro.html" alt:="Adobe: How to use Photoshop Brushes video tutorial" target="_blank">Brushes</a>
   - Lynda: <a href="https://www.lynda.com/Photoshop-tutorials/Customizing-Brushes-Photoshop/461843-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3aphotoshop+brushes%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2" target="_blank">Customizing Brushes</a>
+video: 
 lyndalinks: |
   - <a href="https://www.lynda.com/Photoshop-tutorials/Designing-captured-brush-tip/461843/495305-4.html?org=algonquincollege.com" target="_blank">Design a Captured Brush tip</a>
   - <a href="https://www.lynda.com/Photoshop-tutorials/Mimicking-brush-Bristle-tip/461843/495307-4.html?org=algonquincollege.com" class="">Mimic a Brush Bristle Tip</a>
   - <a href="https://www.lynda.com/Photoshop-tutorials/Replicating-chalk-Erodible-tips/461843/495309-4.html?org=algonquincollege.com" target="_blank">Replicating Chalk with Erodible Tips</a>
   - <a href="https://www.lynda.com/Photoshop-tutorials/Simulating-spray-Airbrush-tips/461843/495311-4.html?org=algonquincollege.com" target="_blank">Simulating Spray with Airbrush Tips</a>
-video: 
 downloads: "https://www.dropbox.com/s/t54bhbfoasjhrav/photoshop-brushes.zip?dl=1"
 description: "You don't need to be a fine artist to create beautiful artwork with brushes in Photoshop. As a matter of fact, Photoshop brushes can help the novice painter create stunning artwork. It also opens new possibilities for the more experienced."
 details: |
