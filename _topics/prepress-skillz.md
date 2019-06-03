@@ -4,7 +4,7 @@ type: assignment
 formsum: summative
 sortorder: 2.9
 appsused: psd, ai, indd
-title: "Prepress Skillz"
+title: "Prepress Skills"
 level: cg3
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86421&grpid=0&isprv=0&bp=0&ou=92653"
 submission: "my-assignment-folder"
@@ -15,7 +15,7 @@ links: |
   - <a href="beautiful-line-art.html" target="_blank" title="x">Beautiful Line Art</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLBd_egQk6ip1znumZgdkCmH"
 downloads: "https://www.dropbox.com/s/t8z181fk0z26s2z/prepress-skillz.zip?dl=1"
-description: "Designers need to get a solid handle on file prep for the press. The skillz below are some essential skillz you need to master."
+description: "Designers need to get a solid handle on file building and preparation for commercial printing. These are only some of the skills you'll need to become a well-rounded designer for print."
 details: |
 assignment: |
   ## Die Lines
