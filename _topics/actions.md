@@ -13,13 +13,13 @@ video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLBLWRrHy7k9Kc1
 downloads: "https://www.dropbox.com/s/gigiehzqkjch9vr/photoshop-actions.zip?dl=1"
 description: "Performing repetitive tasks on your computer can cause errors and be really tedious. Automator is an often ignored app which can save you a ton of time."
 details: |
-  ## Why Use Actions?
+  ### Why Use Actions?
 
   There are quite a few tasks a Photoshop user is required to do on a regular basis. Tasks like sharpening or resizing photos are done really often. Well, imagine if you could create your own custom sharpening workflow that's triggered with the click of a button. That's what Photoshop Actions bring to the table
 
   When you click the <span class="command">Record</span> button at the bottom of the Actions panel, Photoshop will record all the menus you access, all the buttons you click and all the values you enter. It will *not* record some things, like painting with a brush or the passage of time while it's recording.
 
-  ## The Actions Panel
+  ### The Actions Panel
 
   The Actions panel contains sets. In the sets are the individual actions. In the actions are the steps you've recorded.
 
@@ -41,7 +41,7 @@ details: |
 
   If you want a clean panel, you can delete the default set of actions Adobe has included with Photoshop. They're really useless.
 
-  ## The Actions Panel
+  ### The Actions Panel
 
   To create a new Action, click on the button at the bottom of the panel, or use the panel menu.
 
@@ -63,7 +63,7 @@ details: |
 
   When the panel is in Button Mode, you simply need to click on an action once to have it play. Notice the Play button isn't even there.
 
-  ## Our First Action
+  ## # Our First Action
 
   Sharpening photos is a common task which lends itself to automation. We'll set up a workflow which runs through a series of actions, but asks for parameters along the way.
 
@@ -80,7 +80,7 @@ details: |
 
   If you make a mistake while recording an action, you can continue recording, then fix it after. Complete your recording. Target the step with the error, then hit delete. Click the record button, then perform the corrected step. Stop recording. Done!
 
-  ## The Image Processor
+  ### The Image Processor
 
   Photoshop's Image Processor is a built-in automation powerhouse. You can batch-export images and much, much more.
 
@@ -107,7 +107,7 @@ details: |
 
   It works with Photoshop (psd), JPEG, and camera raw files.
 
-  ### Image Processor + Actions!
+  #### Image Processor + Actions!
 
   We've covered Image Processor and Actions on their own. Now let's see how powerful they can be when combined.
 
@@ -124,7 +124,7 @@ details: |
 
   We'll apply the Image Processor to the provided photos. While we're at it, let's make the images 500 pixels wide and save them as native .psd files. Save them into the 03-image-processor+actions-output folder.
 
-  ## Batch Workflows
+  ### Batch Workflows
 
   Once you've recorded a workflow, you can apply it to as many image files as you wish. This is what File > Automate > Batch... does.
 
@@ -157,7 +157,7 @@ details: |
 
   Let's run our Sharpen with High Pass action on our source photos. Save them to the the 04-batch-processing-output folder.
 
-  ## Crop & Straighten Photos
+  ### Crop & Straighten Photos
 
   The Crop and Straighten script in Photoshop can be a real time-saver if you have a series of photos you need to crop and straighten.
 
@@ -185,7 +185,7 @@ details: |
 
   Run the script on the 05-crop-and-straighten.jpg photo. Save the resulting images in the 05-crop-and-straighten-output folder.
 
-  ## Using Photomerge
+  ### Using Photomerge
 
   Photoshop includes a function called Photomerge. It's under the <span class="command">File > Automate</span> menu. It receives a series of photos. Your source photographs play a large role in panoramic compositions. You need to have enough overlap between the photos for Photoshop to know how to stitch them together.
 
@@ -198,7 +198,7 @@ details: |
 
   Create a panorama with the photos in the 06-photomerge > 00-photos-to-merge folder. Save the resulting file in the 06-photomerge folder.
 
-  ## Creating a Droplet
+  ### Creating a Droplet
 
   A droplet is a file you can keep anywhere on your computer. When you drop image file on it, it will perform a workflow. A droplet applies an action to one or more images, or a folder of images that you drag onto the droplet icon.
 
@@ -224,7 +224,7 @@ details: |
 
   <img class="size75" alt="photoshop-actions-create-droplet-locations" src="/images/photoshop-actions/photoshop-actions-create-droplet-locations.jpg">
 
-  ### Processing files with droplets
+  #### Processing files with droplets
 
   Drag files or a folder of images onto the droplet icon. Photoshop will launch if it is not already running. It will open and process each file, one after the other. You can work in other applications while it's running, but they will likely perform more slowly, since Photoshop is working as hard as it can.
 
@@ -232,7 +232,7 @@ details: |
     Remember that Automator can do many simple tasks Photoshop can. The added benefit is that it doesn't open the images. It's more limited, but it runs much, much faster.
   </div>
 
-  ### Back Up Droplet Actions
+  #### Back Up Droplet Actions
 
   A droplet is based on an action. Let's say you create your action, then create a droplet. You delete the action from the panel. You then lose the droplet. You'll need to re-record the action to create the droplet from it.
 
@@ -240,7 +240,7 @@ details: |
 
   In order to not lose anything, record the action, then go to the panel menu. Choose <span class="command">Save Action...</span>. This will save a file on your computer with the whole set of actions in it, which you can re-load in the panel.
 
-  ## Creating Contact Sheets
+  ### Creating Contact Sheets
 
   Contact sheets can be used to aid photo selection after a shoot. They can be presented to clients for approvals. In other words, they're very convenient to have around. The challenge is that creating them manually would be very tedious.
 
@@ -256,7 +256,7 @@ details: |
   Run the Contact Sheet script on the provided images. Save the resulting files into the 08-contact-sheet folder.
 
 assignment: |
-  ## Image Processor
+  ### Image Processor
 
   1. Feed the Image Processor dialogue the source images.
   2. Convert the images to jpeg, psd and tiff files.
@@ -264,11 +264,11 @@ assignment: |
   4. Do nothing in the section 4 at the bottom of the dialogue.
   5. Have the processed photos put in the 01-image-processor-output folder.
 
-  ## Crop & Straighten
+  ### Crop & Straighten
 
   Run the Crop & Straighten script on the 02-crop-and-straighten.psd image. Save the results in the 02-crop-and-straighten-output folder.
 
-  ## Photomerge
+  ### Photomerge
 
   Use the images in 06-photomerge > 00-photos-to-merge to create a panorama using Photomerge. Let's turn on <span class="command">Content Aware Fill Transparent Areas</span>.
 
@@ -276,7 +276,7 @@ assignment: |
 
   Save the resulting panorama into the 03-photomerge > 00-photos-to-merge folder.
 
-  ## Contact Sheet
+  ### Contact Sheet
 
   Create a contact sheet with the provided photos. Save the file(s) in the 04-contact-sheet folder.
 ---

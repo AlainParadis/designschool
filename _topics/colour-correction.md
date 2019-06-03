@@ -15,7 +15,7 @@ description: "We'll explore techniques which take the guesswork out of making co
 details: |
   If you ask a thousand designers for their colour correction techniques, you'd likely get a thousand different techniques. A large majority of them involve a lot of guesswork and subjective adjustments.
 
-  ## The Fab Five
+  ### The Fab Five
 
   The five properties to address in colour correction:
 
@@ -25,7 +25,7 @@ details: |
   * Blur: Apply sharpening as needed.
   * Sharpen: Sharpen non-destructively
 
-  ## Levels
+  ### Levels
 
   <img class="size50" alt="photoshop-colour-correction-levels-dialogue" src="/images/photoshop-colour-correction/colour-correction-levels-dialogue.jpg">
 
@@ -39,7 +39,7 @@ details: |
 
   As an option to using Threshold, holding ALT/OPTION after selecting the White/Black point adjustment tool will toggle Clipping preview and the Red pixels are the ones to target.
 
-  ## Set White Point
+  ### Set White Point
 
   In the image below, you can see that whites are not actually white. That's what we need to correct. You don't need to guess at this. You can see the span indicated in the histogram that there's a whole range of white missing from the photo.
 
@@ -57,7 +57,7 @@ details: |
 
   <img class="size75" alt="photoshop-colour-correction-white-point-before-after" src="/images/photoshop-colour-correction/colour-correction-white-point-before-after.jpg">
 
-  ## Set Black Point
+  ### Set Black Point
 
   When you find a *washed out* photo, it often means that blacks are not actually black. We'll find the current darkest pixel in the photo. We'll make it black, which will pull all the other pixels in a darker direction.
 
@@ -81,7 +81,7 @@ details: |
 
   <img class="size75" alt="photoshop-colour-correction-black-point-before-after" src="/images/photoshop-colour-correction/colour-correction-black-point-before-after.jpg">
 
-  ## Remove a Colour Cast
+  ### Remove a Colour Cast
 
   A photo taken in an brightly coloured environment can often cause a colour cast on the subject. We want to neutralize this effect. The first step is to determine what colour the cast is. For this, we'll use a cool little layers trick.
 
@@ -105,7 +105,7 @@ details: |
 
   That said, if you want to make further manual adjustments, you can use a Colour Balance Adjustment Layer. In this case, we know that the photo had a yellow colour cast. We used the Colour Balance Adjustment Layer to slide away from yellow to make the correction.
 
-  ## Do It For Me
+  ### Do It For Me
 
   Now that we know how the fundamentals work, let's see if Photoshop can cut to the chase and do all this for us. Introducing the Auto Levels feature.
 
@@ -128,11 +128,11 @@ details: |
 
   When setting White/Black point, or Per Channel Auto a good way to reduce any colour shift is to set the adjustment blend mode to Luminosity. This keeps the Shadow/Highlight correction but ignores the hue shifts.
 
-  ## Sharpenning
+  ### Sharpening
 
   As soon as you resize a photo out of your camera or a scan, the re-mapping of the pixels on the canvas will cause blurriness. We want to gently sharpen the photo. If we sharpen too much we'll get a halo effect in high-contrast areas, which we want to avoid.
 
-  ### Sharpen with High Pass
+  #### Sharpen with High Pass
 
   We'll use Smart Objects with filters to gently sharpen the image in a non-destructive way. Start with duplicating the layer you wish to sharpen.
 
@@ -144,13 +144,13 @@ details: |
 
   <img class="size50" alt="colour-correction-sharpen-before-after" src="/images/photoshop-colour-correction/colour-correction-sharpen-before-after.jpg">
 
-  ## Sharpening with Unsharp Mask
+  ### Sharpening with Unsharp Mask
 
   When sharpening an image, you should ask a few essential questions:
 
   What is the purpose of the image? Will it be used in print, on the Web? Will it be archived? Will it only be used once, or over and over again in corporate publications? At what size will this image be reproduced? Should you edit individual channels or the whole image globally?
 
-  ### Sharpen: Unsharp Mask
+  #### Sharpen: Unsharp Mask
 
   The Unsharp Mask filter is our go-to, most versatile sharpening filter. The terminology is a bit un-intuitive, but it really works well. There are no magic numbers for the Unsharp Mask filter. You have to make a decision on the values to enter.
 
@@ -162,15 +162,15 @@ details: |
 
   Above is a test image I created to demonstrate how the Unsharp Mask filter works. I've over-sharpened it on purpose. The file is in the downloads folder. It's useful for getting a grasp on what the three Threshold variables do to an image. Play with this to try to wrap your brain around it.
 
-  #### Amount
+  ##### Amount
 
   The sharpening illusion depends on a light/dark halo effect. The Amount value determines the intensity of the halo, but not its width. High Amount values cause very high contrast halo effects which are more harmful to the image.
 
-  #### Radius
+  ##### Radius
 
   The Radius setting controls the width of the halo. The wider the halo, the more obvious the sharpening effect. Radius is your first setting, because it is most dependant on the content of the photo. You should try to keep this value between 0.5 and 1.5. The less detail in your image, the higher the Radius number can be.
 
-  #### Threshold
+  ##### Threshold
 
   Threshold acts as a damper to the two other variables in UnSharp Mask. Threshold really says *don't sharpen until there's this much difference between the shapes*. Threshold tells Photoshop how far apart two pixels' tonal values have to be before they are affected by the filter.
 
@@ -178,7 +178,7 @@ details: |
 
   In the flower image above, the sharpening is quite subtle. You can see the sharper pixels on the yellow stamen of the flower.
 
-  ## Remove Noise
+  ### Remove Noise
 
   You'll often get noisy images in low-light high ISO value photos. No matter the cause of the noise, we need a non-destructive method for removing it.
 

@@ -14,7 +14,7 @@ video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLCPV88lerrXcuL
 downloads: "https://www.dropbox.com/s/ho5atnoj3grivpp/photoshop-transforms.zip?dl=1"
 description: "In this lesson, we'll explore the limitless transformation capabilities of Adobe Photoshop; all in a non-destructive workflow, of course."
 details: | 
-  ## Basic Transforms
+  ### Basic Transforms
 
   Before we apply transformations to a layer in Photoshop, we want to ensure our editing is non-destructive. To that end, convert your layer to a Smart Object by right-clicking on the canvas with the Marquee tool, then choosing <span class="command">Convert to Smart Object</span>. Now, however you transform your layer, you can edit the settings.
 
@@ -40,7 +40,7 @@ details: |
 
   We'll use the Warp transformation tool to fit the label to the bottle. This workflow will also include Blend Modes, Clipping Masks, Adjustment Layers and Smart Objects.
 
-  ## Vanishing Point
+  ### Vanishing Point
 
   Vanishing point is a great way to introduce one image into another and match the perspective. We'll place the image of the lizzard below on the wall of the building.
 
@@ -56,7 +56,7 @@ details: |
 
   The final step is to change the blend mode of the Lizzard layer to <span class="command">Multiply</span>. If you want to place another lizzard, it's best to repeat the whole process on a new layer.
 
-  ## Puppet Warp
+  ### Puppet Warp
 
   Puppet Warp bends shapes naturally. The function is available under <span class="command">Edit > Puppet Warp</span>. It's best to isolate the object on its own layer.
 
@@ -96,7 +96,7 @@ details: |
 
   <img class="size100" alt="photoshop-transforms-puppet-warp-before-after" src="/images/photoshop-transforms/photoshop-transforms-puppet-warp-before-after.jpg">
 
-  ## Perspective Warp
+  ### Perspective Warp
 
   Photoshop has a really handy feature that allows you to change the perspective on a photo. This function doesn't work with Smart Objects, so it's best to duplicate the original layer with <span class="command">Option-⌘-J</span>. Make sure to name all your layers.
 

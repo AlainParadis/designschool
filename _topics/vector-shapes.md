@@ -27,13 +27,13 @@ details: |
 
   3. The Direct Selection Tool is also like the one in Illustrator. It's used to select individual anchor points.
 
-  ## Drawing Modes
+  ### Drawing Modes
 
   There are three shape mode described below. When you select either of these tools, the options bar has settings for them.
 
   <img class="size75" alt="photoshop-vector-options-bar" src="/images/photoshop-vector-shapes/vectors-options-bar.jpg">
 
-  ### Shape Layers
+  #### Shape Layers
 
   Shape layers behave a lot like shapes in Illustrator. They're created on separate layers. They can be created with the various shape tools or you can draw your own with the Pen Tool.
 
@@ -41,7 +41,7 @@ details: |
 
   Vector shapes in Photoshop are made of two parts. There's a fill layer which houses the colour and a vector mask which dictates where the colour appears.
 
-  ### Paths
+  #### Paths
 
   <img class="size33" alt="photoshop-shape-modes-paths" src="/images/photoshop-vector-shapes/vectors-shape-modes-paths.jpg">
 
@@ -49,13 +49,13 @@ details: |
 
   You can use paths to create a mask. You can stroke a vector path with pixels or a brush. You can also fill a path with pixels. This is the type of path used to create a Clipping Path for use in InDesign.
 
-  ### Fill Pixels
+  #### Fill Pixels
 
   <img class="size33" alt="photoshop-shape-modes-pixels" src="/images/photoshop-vector-shapes/vectors-shape-modes-pixels.jpg">
 
   You can use the shape tools in Photoshop to use fill pixels. They're not vector, so they really have no place here. They're Photoshop raster shape tools. They paint right on the current layer. There's no vectors involved at all, so let's stop talking about them.
 
-  ## Type is Vector!
+  ### Type is Vector!
 
   Type in Photoshop is vector. It's completely scalable non-destructively.
 
@@ -63,13 +63,13 @@ details: |
 
   Make sure you default to Point Type. Most of the time, you just click and type with the type tool. The only time you drag a text box is when you have a paragraph of text.
 
-  ## Vector Shapes in InDesign
+  ### Vector Shapes in InDesign
 
   <img class="size100" alt="vectors-psd-layers-indesign" src="/images/photoshop-vector-shapes/vectors-psd-layers-indesign.jpg">
 
   When you place a layered native Photoshop file in InDesign, you can turn its Photoshop layers on and off from within InDesign. Go <span class="command">Object > Object Layer Options...</span> You can see all of your Photoshop layers and Layer Comps right in InDesign. Ahhhh, the Adobe goodness.
 
-  ## Printing
+  ### Printing
 
   When printing from Photoshop to a PostScript printer like the ones we have our classrooms or at the Print Shop, you will be printing the vector shapes. This means they'll be as sharp as the printer can print them.
 
@@ -77,7 +77,7 @@ details: |
 
   Note that this won't work on your inkjet printer at home, since it's not a PostScript&trade; printer. All vectors are rasterized when printing on an inkjet printer. Always.
 
-  ### Printing a .psd from InDesign
+  #### Printing a .psd from InDesign
 
   When you place a layered Photoshop file which contains vector data in InDesign, vectors get rasterized when they print, which is really too bad. The trick to get around this is to save your native .psd as a Photoshop PDF file. Place that PDF if InDesign, then the vectors will print as vectors.
 
@@ -85,7 +85,7 @@ details: |
 
   What's shown above is the file saved as a PDF. As a test, the resulting PDF file was opened in Illustrator. As you can see, the vector shapes from Photoshop are selectable in Illustrator. This means that if they were printed on a PostScript printer, they'll print as vectors, as clearly as possible.
 
-  ## Vector Shape Tools
+  ### Vector Shape Tools
 
   <a href="https://helpx.adobe.com/photoshop/using/drawing-shapes.html" target="_blank">Adobe Explainer</a>
 
@@ -99,13 +99,13 @@ details: |
 
   You do have the option to draw a shape while holding either Shift or Option. Shift draws shapes on the same layer. Option intersects shape out of the existing one on the same layer. Shift + Option together creates an intersecting shape on the same layer.
 
-  ## Our Practice File
+  ### Our Practice File
 
   Let's create the layout below. It mixes photography with vector shapes and typography.
 
   <img class="size50" alt="vectors-magazine-cover" src="/images/photoshop-vector-shapes/vectors-magazine-cover.jpg">
 
-  ## Vector Masking & Transparency
+  ### Vector Masking & Transparency
 
   You can draw pixel-based layer masks on vector shapes. This will make them translucent.
 
@@ -115,7 +115,7 @@ details: |
 
   Blend modes introduce beautiful raster/vector interactions. Experiment with blend modes on a vector shape on top of a photograph. You'll see that the shape interacts naturally with the content underneath.
 
-  ## Custom Vector Shapes
+  ### Custom Vector Shapes
 
   Use Illustrator to create your own shape. Paste it into Photoshop as a Shape Layer. Go <span class="command">Edit > Define Custom Shape</span>. Name your shape. It will then be available to use with the Custom Shape tool.
 

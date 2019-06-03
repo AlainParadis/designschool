@@ -27,17 +27,17 @@ details: |
 
   <img alt="spreadsheet" src="/images/photoshop-data-driven-graphics/spreadsheet.gif">
 
-  ### A Note on Images
+  #### A Note on Images
 
   As you can see in the spreadsheet pictured above, the images variable is a path from the spreadsheet file to the folder of images. It's not simply a list of images. You need to handle this intentionally. The cleanest way is to place the spreadsheet close to the images in your file organization. You can actually put it in the images folder. If you do, all you'll need in your spreadsheet file is the full image name itself. If you put it outside the images folder, you'll need to provide the path, as pictured.
   
   Once you're done editing your data in your spreadsheet application, you'll need to export or save as a .csv file. That's a *Comma Separated Values* file. It means that each column cell will be separated by a comma.
 
-  ### The First Column
+  #### The First Column
 
   It's important to use the first column for the key information. We've used the individuals' names. In a couple of steps from now, we're going to choose that column as the name of our data sets. That will make it that the files we output will be named with their names. This is useful.
 
-  ## Building your Photoshop File
+  ### Building your Photoshop File
 
   You'll need to create a layer in your Photoshop file for each column in your spreadsheet. Naming them the same as your column header titles is useful to be able to keep track which column relates to each layer.
 
@@ -47,13 +47,13 @@ details: |
 
   Note that the circles are vector shapes. The white frame on the photo is a Graphic Style. This is all just *point type*. There's no area type in this file.
 
-  ### Layer Organization
+  #### Layer Organization
 
   <img alt="variable-data-layers-panel" src="/images/photoshop-data-driven-graphics/variable-data-layers-panel.gif">
 
   When you create your Photoshop file, make sure you organize your layers properly. It's not technically necessary for the names to match for this to work. It's just easier to make sense of everything if they do.
 
-  ## Assign Variable to Layers
+  ### Assign Variable to Layers
 
   Now that Photoshop is aware of our data source, we need to link each layer to a variable from our spreadsheet. We do this under the Variables > Define function.
 
@@ -63,13 +63,13 @@ details: |
 
   Associate each of your layers to a variable from the dropdown menu for the right type of variable.
 
-  ### Text Replacement
+  #### Text Replacement
 
   <img alt="variable-text-replacement" src="/images/photoshop-data-driven-graphics/variable-text-replacement.gif">
 
   The Text Replacement variable does just that. It will replace the text on the Photoshop canvas with text in a column of the .csv file row by row.
 
-  ### Pixel Replacement
+  #### Pixel Replacement
 
   <img alt="variables-pixel-replacement" src="/images/photoshop-data-driven-graphics/variables-pixel-replacement.gif">
 
@@ -77,13 +77,13 @@ details: |
 
   As far as the Method dropdown options are concerned, you'll likely use either *Fit* or *As is*. It depends on your design.
 
-  ### Visibility
+  #### Visibility
 
   <img alt="variables-visibility" src="/images/photoshop-data-driven-graphics/variables-visibility.gif">
 
   A Visibility variable turns the visibility of a layer in Photoshop on or off, depending on the TRUE or FALSE entry in the .csv file.
     
-  ## Importing Your Data
+  ### Importing Your Data
 
   By now we have the two parts of our project complete. The spreadsheet and our Photoshop file. Using Define Variables is where we tie the two together.
 
@@ -95,11 +95,11 @@ details: |
 
   Once you've selected your .csv file, the path will show in the dialogue. You can leave the Encoding to Automatic. Check the two boxes below.
 
-  ### Use First Column for Data Set Names
+  #### Use First Column for Data Set Names
 
   In our spreadsheet files, it's a good idea to make the first column of data one with key information. In our practice and exercise files, we've used the individuals' names. This makes it that this data will be used to name the files, which is useful.
 
-  ## Review Variables
+  ### Review Variables
 
   Before we go any further, it's a good idea to check that everything's working with our data driven graphics. You can check that variables are properly linked to layers from this dialogue.
 
@@ -110,7 +110,7 @@ details: |
 
   If there's a problem, you can click OK to dismiss the Variables dialogue to go fix it. This won't produce any files.
 
-  ## Export Your Data Sets
+  ### Export Your Data Sets
 
   We're ready to actually create the multiple files from our Photoshop file and our .csv file. To do so, we use File > Export > Data Sets as Files...
 
@@ -160,7 +160,7 @@ assignment: |
 
   You're to mimic my practice file with a different layout and content. The <a href="http://www.ndp.ca" title="The NDP Web Site" target="_blank">NDP web site</a> is a great source for issue-based copy. Start with setting up a Photoshop file measuring **300 pixels X 600 pixels**, either tall or wide. You'll gather messaging from the NDP web site. You'll need to adapt the provided spreadsheet to suit your design's Photoshop layers.
 
-  ## Deliverables 
+  ### Deliverables 
 
   Submitting all those native, layered Photoshop files is going to be too big. What we need to do is produce them, but then use an Action or the Image Processor to create jpeg files to submit. So do not submit the .psd files you generated. Only submit your original design file.
 

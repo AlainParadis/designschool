@@ -15,7 +15,6 @@ description: "Adobe -- A mesh object is a multi-coloured object on which colors 
 details: | 
 
 assignment: |
-
   There are three files which contain linked images in your downloaded folder. Choose one of them.  Either the:
  
   <figure>

@@ -23,7 +23,7 @@ details: |
 
   <img alt="gradient-mesh-circle" src="/images/illustrator-gradient-mesh/gradient-mesh-circle.jpg" class="size50">
 
-  ## Drawing Meshes
+  ### Drawing Meshes
 
   Drawing a sphere:
 
@@ -44,7 +44,7 @@ details: |
 
   You can click with the Mesh Tool to add Control Points. You can Option-click on them to remove them.
 
-  ## Meshes & Irregular Shapes
+  ### Meshes & Irregular Shapes
 
     If you create irregular shapes like as shown below, the gradient mesh will be very difficult to control within that irregular shape. Better to create a simple shape, apply your mesh, then re-shape your object with something like Envelope Warp. All you need to do is expand it. So...
 

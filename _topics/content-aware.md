@@ -26,11 +26,11 @@ details: |
     Before performing any of these operations, it's important to duplicate the original layer, so we preserve our non-destructive workflow.
   </div>
 
-  ## Content-Aware Fill
+  ### Content-Aware Fill
 
   Content-Aware fill is great for either deleting or moving elements in a photo.
 
-  ### Delete an Element
+  #### Delete an Element
 
   In the image below, we want to erase the wires, the path and the fence. Select them with the Lasso Tool. Hit Shift-F5 to fill. Remember to duplicate the affected layer before cloning.
 
@@ -41,7 +41,7 @@ details: |
   </figcaption>
   </figure>
 
-  ### Move an Element
+  #### Move an Element
 
   The microphone in the photo was obviously not positioned at the right location, above the woman. Let's use the Content-Aware Move tool to shift it over. Remember to duplicate the layer before making the edit.
 
@@ -51,6 +51,7 @@ details: |
     Select the microphone along with some of its surrounding content. Use the Content-Aware Move Tool to scootch it over.
   </figcaption>
   </figure>
+
   ### Content-Aware Patch
 
   We can completely remove elements from a photo using the Patch Tool. It uses Content-Aware technology to fill intelligently.
@@ -63,7 +64,7 @@ details: |
   </figure>
   All you need to do is use the Lasso Tool to select around the subject.Switch to the Patch Tool. Set it to Conent-Aware in the Control Bar. Move the subject to a carefully chosen area.
 
-  ## Content-Aware Scale
+  ### Content-Aware Scale
 
   Content-Aware Scale allows you to stretch or shrink a photo. It fills in new areas between existing pixels with its best guess of how it should look. This works best with photos that have *low-energy* areas. Use   <span class="command">Edit > Conent-Aware Scale</span> or hit <span class="command">⌘-Option-Shift-C</span> to envoke it.
 
@@ -74,7 +75,7 @@ details: |
   </figcaption>
   </figure>
 
-  ## Content-Aware Crop
+  ### Content-Aware Crop
 
   While Content-Aware Scale adds pixels within the photo, Content-Aware Crop adds content on the outside of the photo. It expands the canvas, then fills in that new space intelligently.
 
@@ -85,7 +86,7 @@ details: |
   </figcaption>
   </figure>
 
-  ## Photomerge
+  ### Photomerge
 
   Photoshop's Photomerge feature stitches together a series of overlapping photos to create a panoramic composition. You can access it from <span class="command">File > Automate > Photomerge...</span>
 

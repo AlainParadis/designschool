@@ -14,11 +14,11 @@ video: "https://www.youtube.com/embed/aCfGzKmuJ50?rel=0"
 downloads: "https://www.dropbox.com/s/7vwjuzxer3atc95/photoshop-conditional-actions.zip?dl=1"
 description: "You're aware of Actions in Photoshop. Did you know you can create if/then statements which setup conditions before an action is run?"
 details: | 
-  ## Why Conditional Actions
+  ### Why Conditional Actions
 
   Imagine that you have hundreds of varied images. Then imagine that you're tasked with editing only the ones which have a certain characteristic. Finding only those images would be very tedious. You could also overlook some images. Well, Conditional Actions let you build workflows that choose what to do based on one of several available conditions. This means you could target only the desired images based on that given characteristic.
 
-  ## How They Work
+  ### How They Work
 
   How hypothetical situation has us converting only RGB images to CMYK for production. We'll feed Photoshop a folder of photos that are a mix of colour modes. The action will convert the colour mode of only the RGB images to CMYK. The others will be left un-touched. Greyscale images can be placed in a document for print, so we can leave them alone too.
 
@@ -28,7 +28,7 @@ details: |
 
   All we need to do is go <span class="command">Image > Mode > CMYK</span>, then save and close. <mark>Don't forget to stop recording.</mark> Now we have an action to run with conditions in the next step.
 
-  ## Convert Colour if...
+  ### Convert Colour if...
 
   To apply the workflow to only RGB images, we record a new action. Let's call it *IF RGB Convert to CMYK*. Click <span class="command">OK</span>. Choose Insert Conditional from the Actions panel menu.
 
@@ -44,7 +44,7 @@ details: |
 
   Now we need to feed Photoshop our folder of photos. To do so, we'll use <span class="command">File > Automate > Batch...</span>
 
-  ### Testing the opposite of what's in the condition
+  #### Testing the opposite of what's in the condition
 
   There might be instances when you want to test the opposite of what's in a condition.
 

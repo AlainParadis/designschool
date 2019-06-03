@@ -14,7 +14,7 @@ video: "https://www.youtube.com/embed/8BfO3RTKamA"
 downloads:
 description: "If you have a piece of artwork that repeats many times in your work, it's best to make a Symbol of it. The symbol can be edited, then all the instances you've used will update at once. You can even make colour variations with Dynamic Symbols."
 details: |
-  ## What Are Symbols?
+  ### What Are Symbols?
 
   A symbol is an object in Illustrator that acts like a container which contains artwork. If you double-click on a symbol, you enter Isolation Mode. This allows you to edit the contents of the symbol. You can actually replace them completely.
 
@@ -24,7 +24,7 @@ details: |
 
   Another benefit here, is that you can edit the original Symbol and all of its dependant instances will update automatically.
 
-  ## What Are Dynamic Symbols?
+  ### What Are Dynamic Symbols?
 
   > With Dynamic Symbols, symbols can share a master shape but different instances of the symbol can have dynamically modified appearances. If the master shape is modified, symbol instances receive the new modification, but maintain their own modifications as well. <cite><a href="https://helpx.adobe.com/illustrator/using/symbols.html" target="_blank" title="Adobe's support page about Symbols.">Adobe</a></cite>
 
@@ -36,7 +36,7 @@ details: |
 
   What changes when you edit a Dynamic Symbol are only the properties that the instances had in common to start with. In the case above, if you change the colour of one of the instances, the others will not change because they didn't have colour in common to start with.
 
-  ## Creating Symbols
+  ### Creating Symbols
 
   To create a new symbol, select artwork. You can either:
 
@@ -50,7 +50,7 @@ details: |
     By default, the selected artwork becomes an instance of the new symbol. If you don’t want the artwork to become an instance, press Shift as you create the new symbol. In addition, if you don’t want the New Symbol dialog box to open when you create a new symbol, press Alt (Windows) or Option (Mac OS) as you create the symbol and Illustrator will use a default name for the symbol, such as New Symbol 1.
   </div>
 
-  ## Using Symbols
+  ### Using Symbols
 
   There are 4 ways to add a symbol to an artboard.
 
@@ -61,7 +61,7 @@ details: |
   3. Use the <span class="command">Place Symbol Instance</span> command from the panel's menu.
   4. Use the Symbol Sprayer tool to spray them onto the page.
 
-  ## Selecting Symbols
+  ### Selecting Symbols
 
   One of the advantages of symbols is that you can create hundreds of instances easily. The problem is that once you've done so, they become difficult to select because there are so many.
 
@@ -69,7 +69,7 @@ details: |
 
   If you wish to select all instances of a symbol, click on one, then go <span class="command">Select > Same Symbol Instance</span>. This will grab them all.
 
-  ## Editing Symbols
+  ### Editing Symbols
 
   To edit a symbol, double-click on an instance on the page. You'll enter Isolation Mode.
 
@@ -83,7 +83,7 @@ details: |
 
   If you need to edit the artwork of a symbol instance, you always have the option to expand it. That will make it regular vectors like when you initially built it. Avoid expanding if you can avoid it.
 
-  ### 9-Slice Scaling
+  #### 9-Slice Scaling
 
   If you choose to use 9-Slice scaling when you create your symbol, the shape will scale where you dictate.
 
@@ -91,7 +91,7 @@ details: |
 
   To edit where the art scales, double-click on it to enter isolation mode. Move the guides where you want them. Now, when you stretch the object, it only stretches between the guides. Symbols are worth creating for this use alone.
 
-  ## Spraying Symbols
+  ### Spraying Symbols
 
   <img class="size25" alt="symbols-ways-to-place" src="/images/illustrator-symbols/tool-icon-symbol-sprayer.svg">
 
@@ -101,7 +101,7 @@ details: |
 
   The result of spraying symbols is a Symbol Set. It's a special kind of group in Illustrator. Note that the size of the brush doesn't affect the dimensions of the symbols sprayed onto the page. The size of the brush is an indicator of the radius it will affect with the gallery tools.
 
-  ### Modifying Sprayed Symbols
+  #### Modifying Sprayed Symbols
 
   Once you've created a symbol set with the Sprayer tool, you can modify it with tools in the Symbol tool gallery.
 

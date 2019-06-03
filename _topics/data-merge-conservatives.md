@@ -29,8 +29,6 @@ assignment: |
   <a href="https://docs.google.com/spreadsheets/d/1X_z2Lx8-C_1aCqiXSUgszFAn_R2c091u6-6Pf-Frk4c/edit?usp=sharing" title="Spreadsheet Data" target="_blank" class="limegreen">Spreadsheet Data</a>
   </div>
 
-
-
   Variables to Include:
 
   - Full Name

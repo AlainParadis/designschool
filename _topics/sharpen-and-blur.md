@@ -13,9 +13,9 @@ video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLCUswI9YXYxaFu
 downloads: "https://www.dropbox.com/s/jyl8bb0eh0ewxks/photoshop-sharpen-and-blur.zip?dl=1"
 description: "Photoshop doesn't really understand blurry or sharp. It just sees more or less contrast between pixels. It uses different algorithms in its blurring and sharpening tools to achieve its ends. Yeah. Algorithms."
 details: |
-  ## Sharpening
+  ### Sharpening
 
-  ### Smart Sharpen
+  #### Smart Sharpen
 
   The Smart Sharpen filter is a bit more intuitive than the Unsharp Mask filter. There are controls for highlights and shadow areas which give you more control.
 
@@ -44,7 +44,7 @@ details: |
   Angle
   : Sets the direction of motion for the Motion Blur option of the Remove control.
 
-  ### Sharpen with High Pass
+  #### Sharpen with High Pass
 
   This is a time-tested process for applying a non-destructive sharpening effect to a photo. It can also be applied to a selected area of a photo with the help of a mask.
 
@@ -54,7 +54,7 @@ details: |
 
   Click <span class="command">OK</span>. Change the blend mode of the Smart Object to <span class="command">Overlay</span>. Since you made the layer a Smart Object, you can double-click on the High Pass entry in your Layers panel to edit the High Pass settings after the fact.
 
-  ### Unsharp Mask
+  #### Unsharp Mask
 
   The Unsharp Mask filter increases contrast between neighbouring pixels. The radius setting determines the size of the area inside which the pixels will be compared. The Threshold settings determines how different the pixels need to be before they are affected by the filter. So, Threshold has a mitigating effect.
 
@@ -62,7 +62,7 @@ details: |
 
   Only use this filter on a Smart Object or on a duplicate of your layer. A Smart Object is better.
 
-  ### Shake Reduction
+  #### Shake Reduction
 
   Bluriness can be caused by either your camera or your subject moving as you take your photo. The result is a motion blur of your subject.
 
@@ -78,11 +78,11 @@ details: |
 
   Artifact Suppression: Sometimes, in the course of sharpening the image, you may observe some noticeable noise artifacts.
 
-  ## Blurs
+  ### Blurs
 
   More often than not, we want to sharpen a blurry photo. But sometimes, intentionally blurring a photo can add drama, motion or a short depth of field to your composition. We'll explore all these effects and more in this exercise. There are a range of blurring tools available in Photoshop. The first we'll look at is the Blur Gallery.
 
-  ### Blur Gallery
+  #### Blur Gallery
 
   <img class="size50" alt="blur-menu" src="/images/photoshop-sharpen-and-blur/blur-menu.jpg">
 
@@ -90,13 +90,13 @@ details: |
 
   <img class="size50" alt="blurs-convert-to-smart-object" src="/images/photoshop-sharpen-and-blur/blurs-convert-to-smart-object.jpg">
 
-  ### Control UI
+  #### Control UI
 
   When you envoke the blurs from the Blur Gallery, you can control them either from the on-screen controls or from the Control Bar along the top of the screen. These are the on-screen controls.
 
   <img class="size75" alt="blur-ui" src="/images/photoshop-sharpen-and-blur/blur-ui.jpg">
 
-  ### Field Blur
+  #### Field Blur
 
   It's only logical that the photo is in a field, right?
 
@@ -108,7 +108,7 @@ details: |
 
   In the Control bar, you can opt to save the mask to your Channels panel, in case you wish to apply the mask to something else in your composition.
 
-  ### Iris Blur
+  #### Iris Blur
 
   It's only logical that the photo has an iris in it, right?
 
@@ -116,19 +116,21 @@ details: |
 
   The blur effect is radial. <a href="https://helpx.adobe.com/photoshop/using/blur-gallery.html" target="_blank" title="Adobe's support page about Blur Gallery">Adobe</a>: Use the Iris blur to simulate a shallow depth-of-field effect to your picture, irrespective of the camera or lens used. You can also define multiple focus points, an effect almost impossible to achieve using traditional camera techniques.
 
-  ### Spin Blur
+  #### Spin Blur
 
   <img class="size75" alt="blurs-spin-blur-example" src="/images/photoshop-sharpen-and-blur/blurs-spin-blur-example.jpg">
 
   The blur effect is radial. <a href="https://helpx.adobe.com/photoshop/using/blur-gallery.html" target="_blank" title="Adobe's support page about Blur Gallery">Adobe</a>: Using the Spin Blur effect, you can rotate and blur the image around one or more points. The spin blur is a radial blur measured in degrees. Photoshop lets you work with center points, blur size and shape, and other settings, all while viewing a live preview of the changes.
 
-  ### Tilt Shift Blur
+  #### Tilt Shift Blur
 
   <img class="size75" alt="blurs-tilt-shift-example" src="/images/photoshop-sharpen-and-blur/blurs-tilt-shift-example.jpg">
 
   The blur effect is radial. <a href="https://helpx.adobe.com/photoshop/using/blur-gallery.html" target="_blank" title="Adobe's support page about Blur Gallery">Adobe</a>: Use the <a href="https://en.wikipedia.org/wiki/Tilt&ndash;shift_photography" target="_blank" title="Wikipedia's page on Tilt-Shift photography.">Tilt-Shift effect</a> to simulate an image taken with a tilt-shift lens. This special effect blur defines area of sharpness, and then fades to a blur at the edges. The Tilt-Shift effect can be used to simulate photos of miniature objects.
 
 assignment: |
+  ### Sharpen
+  
   Sharpen the provided images with the techniques listed below. Be sure you <span class="command">Convert for Smart Filters</span> at the outset.
 
   #### Smart Sharpen
