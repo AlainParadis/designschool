@@ -10,6 +10,12 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "photoshop-document"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/how-to/photoshop-brushes-intro.html" alt:="Adobe: How to use Photoshop Brushes video tutorial" target="_blank">Brushes</a>
+  - Lynda: <a href="https://www.lynda.com/Photoshop-tutorials/Customizing-Brushes-Photoshop/461843-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3aphotoshop+brushes%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2" target="_blank">Customizing Brushes</a>
+lyndalinks: |
+  - <a href="https://www.lynda.com/Photoshop-tutorials/Designing-captured-brush-tip/461843/495305-4.html?org=algonquincollege.com" target="_blank">Design a Captured Brush tip</a>
+  - <a href="https://www.lynda.com/Photoshop-tutorials/Mimicking-brush-Bristle-tip/461843/495307-4.html?org=algonquincollege.com" class="">Mimic a Brush Bristle Tip</a>
+  - <a href="https://www.lynda.com/Photoshop-tutorials/Replicating-chalk-Erodible-tips/461843/495309-4.html?org=algonquincollege.com" target="_blank">Replicating Chalk with Erodible Tips</a>
+  - <a href="https://www.lynda.com/Photoshop-tutorials/Simulating-spray-Airbrush-tips/461843/495311-4.html?org=algonquincollege.com" target="_blank">Simulating Spray with Airbrush Tips</a>
 video: 
 downloads: "https://www.dropbox.com/s/t54bhbfoasjhrav/photoshop-brushes.zip?dl=1"
 description: "You don't need to be a fine artist to create beautiful artwork with brushes in Photoshop. As a matter of fact, Photoshop brushes can help the novice painter create stunning artwork. It also opens new possibilities for the more experienced."
@@ -19,8 +25,6 @@ details: |
   <a href="http://www.wacom.com" title="Buy a Wacom tablet." target="_blank"><img alt="pastel-wacom-tablet" src="/images/photoshop-brushes/pastel-wacom-tablet.jpg"></a>
 
   If you own a drawing tablet or pen tablet, this would be the time to bring it to class. If you don't own one, you'll still do perfectly fine on this assignment. If you're interested in purchasing one, this is a great opportunity to be introduced to using one in Photoshop. So mozy on over to the <a href="http://www.wacom.com" title="Buy a Wacom tablet." target="_blank">Wacom web site</a> to shop for a tablet. They're also available at the <a href="https://www.bookstore.algonquincollege.com/Search?data=wacom" title="Shop for a pen tablet at the College's Connections Book Store." target="_blank">Connections store</a> at the college or <a href="https://www.amazon.ca/s/ref=bl_dp_s_web_2404990011?ie=UTF8&amp;node=2404990011&amp;field-brandtextbin=Wacom" title="Buy a Wacom tablet." target="_blank">elsewhere online</a>.
-
-  Avoid purchasing one of the many knockoff products of another brand name. This seems to be a business that Wacom owns all to themselves.
 
   ### Installing Custom Content
 
