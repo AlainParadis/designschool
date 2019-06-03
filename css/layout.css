@@ -237,7 +237,7 @@ section.video-instructions .item1-youtube ul, section.video-instructions .item1-
 }
 
 section.video-instructions .item1-youtube ul>li, section.video-instructions .item1-lynda ul>li {
-    line-height:1.3rem;
+    line-height:1.4rem;
     margin: .25rem 0;
     padding: 0 0 0 25px;
     background:url(/images/svg/bullet-video.svg) no-repeat 0 7px;
