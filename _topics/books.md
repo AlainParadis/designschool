@@ -29,7 +29,7 @@ details: |
 
   You've done all this before. The beauty of using these features with a book file is that they all sync across documents.
 
-  ## Why Book Files?
+  ### Why Book Files?
 
   <img class="size15 left" alt="indesign-book-file-icon" src="/images/indesign-books/indesign-book-file-icon.jpg">
 
@@ -39,7 +39,7 @@ details: |
 
   Reserve the use of book files to very long documents; let's say over 100 or 150 pages. You can also create a book file for a shorter book that's built with many, short InDesign documents. It's not necessary to have all that extra book functionality for a document you can easily manage in one file.
 
-  ## Create a book file
+  ### Create a book file
 
   <figure>
       <img class="size75" alt="indesign-books-new-book-command" src="/images/indesign-books/indesign-books-new-book-command.jpg">
@@ -48,13 +48,13 @@ details: |
   </figure>
   To create a book file, go <span class="command">File > New > Book...</span>. What appears is the Book panel. It's a container for InDesign documents.
 
-  ### Not a Panel, Not a Document
+  #### Not a Panel, Not a Document
 
   Despite the appearance of the Book panel. It doesn't actually behave like a panel. For instance, you cannot find it in the Window menu to open the panel. It actually behaves more like a document. It has a Save command. To open it, you either double-click on its icon in Finder or you use the <span class="command">File > Open...</span> command.
 
   You can also have more than one book file open at a time. 
 
-  ## Add documents to a book file
+  ### Add documents to a book file
 
   To add files to the book, click on the &#10133; button at the bottom of the Book panel. Navigate on your Mac to your InDesign documents, then open them.
 
@@ -87,13 +87,13 @@ details: |
 
   The Book panel's menu is full of useful commands for managing books.
 
-  ## Manage book files
+  ### Manage book files
 
   With InDesign books, you can establish numbering in a master document, then have them sync across all the files in the book. You can add or remove documents in the Book panel. You can also re-order them by dragging them up and down the panel.
 
   Remember that the Book panel only refers to the InDesign documents it contains. If you move or delete the originals from your computer, the panel will lose control of them.
 
-  ## Numbering Pages
+  ### Numbering Pages
 
   The numbering options are found in the Book panel menu. You can edit settings for a single document in the book or for the whole book. All the regular numbering options are there. You can set roman numerals or arabic numerals and so on.
 
@@ -133,11 +133,11 @@ details: |
 
   To do so, you need to define a numbered list. You create a defined number list in the paragraph styles panel, in Bullets & Numbering. <a href="bullet-and-number-lists.html" title="InDesign Bullet & Number Lists">Read lots about lists here.</a>
 
-  ## Colour Swatches
+  ### Colour Swatches
 
   Book files can sync colour swatch properties across their documents. If you're using CMYK colours, it's best to give them a name. It could something like *Algonquin Green*. Pantone will sync normally. Never edit a Pantone colour's name.
 
-  ## Tables of Contents
+  ### Tables of Contents
 
   When you build a TOC using InDesign's <span class="command">Layout > Table of Contents...</span> feature, it can take all the individual book documents into account.
 
@@ -150,7 +150,7 @@ details: |
 
   If you make changes to content in the book files, simply update the TOC from the <span class="command">Layout</span> menu.
 
-  ## Synchronize book documents
+  ### Synchronize book documents
 
   One of the great benefits of working with book files in InDesign is the ability to synchronize paragraph styles and more across documents in a book.
 

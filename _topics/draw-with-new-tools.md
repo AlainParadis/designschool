@@ -18,7 +18,7 @@ video: "https://www.youtube.com/embed/aqyZiVOtOYc"
 downloads:
 description: "In the past few years, Adobe have created new drawing tools for Illustrator. These enhance basic vector drawing capabilities beyond the tools that have been in Illustrator since its inception in the 1980's."
 details: |
-  ## Curvature Tool
+  ### Curvature Tool
 
   <img class="size15 left" alt="Illustrator Curvature Tool Icon" src="/images/illustrator-draw-new-tools/tool-icon-curvature-tool.svg">
 
@@ -32,7 +32,7 @@ details: |
 
   The Curvature Tool allows you to click from one point to another. The Rubber Band function shows you where the path will land before each click. Default paths have smooth points. To get corner points, either Option-click or double-click. The Escape key drops the path.
 
-  ## Shape Builder Tool
+  ### Shape Builder Tool
 
   <img class="size15 left" alt="Illustrator Curvature Tool Icon" src="/images/illustrator-draw-new-tools/tool-icon-shape-builder-tool.svg">
 
@@ -46,7 +46,7 @@ details: |
 
   The Shape Builder tool has options. To access them, simply double-click on the tool. See <a href="https://helpx.adobe.com/illustrator/using/building-new-shapes-using-shape.html#about_the_shape_builder_tool" target="_blank" title="Adobe's support page for details">Adobe's support page for details</a>.
 
-  ## Shaper Tool
+  ### Shaper Tool
 
   <img class="size15 left" alt="Illustrator Shaper Tool Icon" src="/images/illustrator-draw-new-tools/tool-icon-shaper-tool.svg">
 
@@ -72,7 +72,7 @@ details: |
 
   You can remove one of the shapes from the Shaper Group by dragging outside the rectangle.
 
-  ## Blob Brush
+  ### Blob Brush
 
   <img class="size15 left" alt="Illustrator Blob Brush Tool Icon" src="/images/illustrator-draw-new-tools/tool-icon-blob-brush.svg">
 
@@ -92,7 +92,7 @@ details: |
 
   If you deselect what you've drawn to date, then draw again, it starts a new shape.
 
-  ## Pencil Tool
+  ### Pencil Tool
 
   <img class="size15 left" alt="Illustrator Pencil Tool Icon" src="/images/illustrator-draw-new-tools/tool-icon-pencil-tool.svg">
 
@@ -128,7 +128,7 @@ details: |
 
   Shift-dragging with the Pencil Tool constrains paths to 45º angles. If you hold the Option after you've clicked with Pencil Tool, it will create straight paths as you drag without constraining to a specific angle.
 
-  ## Variable-Width Paths
+  ### Variable-Width Paths
 
   Applying variable-width paths to your artwork gives it a more fluid appearance. The tool is very adept at tapering the width of the stroke. The controls are very precise and easy to use.
 
@@ -146,7 +146,7 @@ details: |
 
   When you apply a variable width, the weight displayed in the Stroke panel is the widest part of the path.
 
-  ## Editing Variable Widths
+  ### Editing Variable Widths
 
   If you double-click on an existing Width Point, a dialogue will appear with weight options.
 
@@ -164,7 +164,7 @@ details: |
 
   If you have multiple strokes you wish affect at once, you can style one. Switch to your Eye Dropper Tool. Hold the ⌘ key to temporarily switch to the Selection Tool. Click on another path. Let go of the ⌘ key, then click on the styled path to eye dropper it.
 
-  ## Width Profiles
+  ### Width Profiles
 
   Illustrator has a libary of profiles. You can access it from the Control bar. You can also access them from the Stroke panel.
 

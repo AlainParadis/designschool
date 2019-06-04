@@ -14,7 +14,7 @@ downloads: "https://www.dropbox.com/s/xw72qepxxgr8s49/illustrator-fundamentals.z
 description: "This is a summative assignment which includes all the Illustrator skills you've learned to date."
 details:
 assignment: |
-  ## Drawing with Shapes
+  ### Drawing with Shapes
 
   Replicate the objects using the shape tools in the provided document.
 
@@ -22,7 +22,7 @@ assignment: |
 
   There may be more than one way to get to the same result. As long as you're using shape tools, it's fine. Once you're done, save and close the document.
 
-  ## Pen Tool
+  ### Pen Tool
 
   Trace the provided image with the Pen Tool only. Use strokes only. Once you're done, duplicate the illustration with strokes, then colour fill it, as shown below. The goal is to create the most accurate paths possible with the fewest anchor points.
 
@@ -46,7 +46,7 @@ assignment: |
 
   [//]: Name each artboard, Logo Alone, Business Card, Post Card, Web Page Mockup & All Encompassign. Done? Save & close.
 
-  ## Type in Illustrator
+  ### Type in Illustrator
 
   Set type on the provided document using point type and area type where appropriate.
 
@@ -64,7 +64,7 @@ assignment: |
 
   See the model above as a guide for where to use point type vs. area type. Make sure you use the <span class="command">Space After</span> setting in your paragraph style to create spacing between paragraphs, as shown. Once complete, ⌘-S, then ⌘-W.
 
-  ## Colour Swatches
+  ### Colour Swatches
 
   Assign colours to the provided logo adhering to the guide images.
 

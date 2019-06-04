@@ -64,7 +64,7 @@ details: |
   </figcaption>
   </figure>
 
-  ## Oops! I Messed Up
+  ### Oops! I Messed Up
 
   If you made a mistake during installation, delete the printer from System Preferences
 
@@ -77,7 +77,7 @@ details: |
 
   Start over the whole installation process to replace the driver.
 
-  ## Printing
+  ### Printing
 
   This is how you print from your laptop to the Print Shop.
 
@@ -90,7 +90,7 @@ details: |
     <li> Click Print.</li>
   </ol>
 
-  ### A Note on Paper Sizes
+  #### A Note on Paper Sizes
 
   <ul>
     <li> Tabloid measures 11" x 17"</li>

@@ -15,7 +15,7 @@ video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDQSMVBZMxW-sp
 downloads:
 description: "The potential usefulness of Tables in InDesign is virtually limitless. We'll start with the basics, then progress to blow-your-mind tables that you can't even tell are tables. You'll see. It'll blow your mind."
 details: |
-  ## About Tables
+  ### About Tables
 
   Tables are always inside text frames. They may even have not strokes or fills, but they're still there. They behave a lot like a paragraph of text.
 
@@ -60,7 +60,7 @@ details: |
   
   To center a table, you can center it as you would a paragraph of text. You can apply a left indent also. You can add Space After and Space Before a table.
 
-  ## Table Formatting
+  ### Table Formatting
 
   Table controls are extensive. There's a control in InDesign to do just about anything to a table's appearance to make it look just right.
 
@@ -160,7 +160,7 @@ details: |
 
   You can share Table Styles & Cell Styles. If you drag a table into the CC Libraries panel, the styles will come with it. You do need to drag it out of the panel, for the styles to appear in a new document. You can also use the flyout menu from the Table Styles panel and choose 'Load Styles...'.
 
-  ## Graphics Cells
+  ### Graphics Cells
 
   Tables can hold more than just text. You can place graphics in a cell, with granular controls to make them look just right.
 
@@ -177,7 +177,7 @@ details: |
 
   You can edit the graphics frame inside the cell, like adding a stroke to the frame inside the cell. You can use all the tools available to any graphics frame, like <span class="command">Object > Convert Shape...</span> to make it another shape inside its cell. You can affect it with the pen tool too.
 
-  ## Updating Table Content
+  ### Updating Table Content
 
   If you do some setup work up front, you can really save time with client edits. Using table, cell & text styles can make updates seamless.
 
@@ -185,7 +185,7 @@ details: |
 
   You can use copy/paste to modify text content in a table. The new text needs to be tab-delimited. To do so, paste the text into a frame off the page. Copy the new text. Select the first cell and paste. If the new text matches the structure of the existing table, it will fit. When you paste, choose <span class="command">Edit > Paste Without Formatting</span>. This will keep the formatting that was in your table to start with.
 assignment: |
-  ## Let's Build Some Tables
+  ### Let's Build Some Tables
 
   Your assignment is to use the provided content to build and style tables as shown.
 
@@ -198,7 +198,7 @@ assignment: |
   </figcaption>
   </figure>
 
-  ### Convert tabbed text to a table.
+  #### Convert tabbed text to a table.
 
   <figure>
     <img class="size100" alt="indesign-tabs-to-table" src="/images/indesign-tables/indesign-tabs-to-table.jpg">
@@ -207,7 +207,7 @@ assignment: |
   </figcaption>
   </figure>
 
-  ### Style a table with Table, Cell, Paragraph & Character Styles.
+  #### Style a table with Table, Cell, Paragraph & Character Styles.
 
   <figure>
     <img class="size100" alt="indesign-tables-graphic-cells" src="/images/indesign-tables/indesign-tables-with-graphics.svg">

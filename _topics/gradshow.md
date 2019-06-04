@@ -20,7 +20,7 @@ video:
 downloads: "https://www.dropbox.com/s/jp8m950e6g5k77i/fieldwork-gradshow-downloads.zip?dl=1"
 description: "The annual Grad Show gives students the opportunity to showcase the design work you've completed in the last three years. It's an opportunity for students, their families, faculty and industry to gather to celebrate before graduation."
 details: |
-  ## Venue Details
+  ### Venue Details
 
   The Grad Show is held at the Horticulture Building at Lansdowne Park on Bank Street.
 
@@ -32,15 +32,15 @@ details: |
 
   Download the floorplan for the from the *Downloads* link.
 
-  ## Team Descriptions
+  ### Team Descriptions
   
   Every member of this class should be a member of at least one team but can also be on every team they have time/interest in.
 
-  ### One Grad Show Chairs (2) (Elected)
+  #### One Grad Show Chairs (2) (Elected)
 
   Two people oversee the entire class and event planning as well as coordinate and attend meetings with Project Managers. Can meet with Alain or Thomas outside of class to update on event.
 
-  ### Website Team
+  #### Website Team
 
   This team works with Thomas to build the web site for the graduating cohort.
 

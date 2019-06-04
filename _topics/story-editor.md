@@ -39,7 +39,7 @@ details: |
   </figcaption>
   </figure>
 
-  ## Power Editing
+  ### Power Editing
 
   If you really want to speed through a text stying job quickly, what you can do is set a keyboard shortcut for your style sheets. Open your story editor, select text, then hit the appropriate keyboard shortcuts to apply your styles.
 

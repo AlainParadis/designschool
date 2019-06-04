@@ -15,26 +15,26 @@ video:
 downloads:
 description: "Congratulations on being accepted into the Graphic Design program at Algonquin College. We have a number of topics to cover in our first Computer Graphics class."
 details: |
-  ## Welcome!
+  ### Welcome!
 
-  ### Our Present & Future
+  #### Our Present & Future
 
   - A bit of history.
   - Where could this program lead you?
 
-  ## Let's Dive In!
+  ### Let's Dive In!
 
-  ### Classroom Management
+  #### Classroom Management
 
   - The door will be locked once class starts. If you're late, wait for a break before coming in.
   - No phone use in class, unless on a break.
   - Want to provide anonymous feedback? Use the feedback form in the footer.
 
-  ### Student Photos
+  #### Student Photos
 
   - During our first class, we're going to take an individual photo of each of you for our faculty records.
 
-  ### About Computer Graphics
+  #### About Computer Graphics
 
   - Why a Mac?
     - The minimum requirement for their computer is a <a href="https://www.apple.com/ca_edu_107689/shop/buy-mac/macbook-pro/15-inch" title="Apple.com: education pricing on the 15&quot; MacBook Pro" target="_blank">15” Retina MacBook Pro</a>.
@@ -54,7 +54,7 @@ details: |
     - Formative assignments: learn & practice software skills.
     - Summative assignments: evaluate your mastery of software skills.
 
-  ## Get Set Up
+  ### Get Set Up
 
   - Set up macOS.
   - Back up your files.
@@ -63,7 +63,7 @@ details: |
   - <a href="https://www.apple.com/ca/shop/product/MMEL2AM/A/thunderbolt-3-usb-c-to-thunderbolt-2-adapter" title="Thunderbolt 3 USB-C to Thunderbolt 2 adaptor" target="_blank">Purchase this adaptor</a> to connect to displays.
   - Bring a pair of earphones/headphones to listen to tutorials.
 
-  ### Software installation
+  #### Software installation
 
   - Before next class:
     - <a href="https://helpx.adobe.com/download-install/kb/creative-cloud-desktop-app-download.html" alt:="Install Adobe Desktop App" target="_blank">Install Creative Cloud</a> applications listed above. If you already have them, apply any available updates.

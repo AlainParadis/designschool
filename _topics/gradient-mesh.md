@@ -62,7 +62,7 @@ details: |
   Then your Gradient Mesh will better follow the profile of the shape.
 
 assignment: |
-  ## Create Gradient Meshes
+  ### Create Gradient Meshes
 
   We've practiced building basic shapes and applying Gradient Meshes to them. Now, let's create more photo-realistic artwork with meshes. We'll create meshes on the soccer ball to create detailed, realistic lighting effects.
  

@@ -25,9 +25,9 @@ assignment: |
     Read this whole page before you start so you have an idea of how to proceed.
   </div>
 
-  ## Document Prep
+  ### Document Prep
 
-  ### Document Setup
+  #### Document Setup
 
   Create a new InDesign document with the following settings.
 

@@ -42,7 +42,7 @@ details: |
 
   Herein lies the problem. If you apply Photoshop's default black, then place that image in InDesign or Illustrator next to its default black, they won't match.
 
-  ## Appearance of Black
+  ### Appearance of Black
 
   You can control what the various blacks look like in Illustrator and in InDesign. Go to <span class="command">Preferences > Appearance of Black...</span> Choose to display and output all blacks accurately in both apps. This way, you can see and control the numbers for your blacks. 
 
@@ -50,11 +50,11 @@ details: |
 
   This way you'll be able to distinguish black recipes on screen. You'll get in print what you see in the apps.
 
-  ## Your Intent
+  ### Your Intent
 
   To find the solution to your specific circumstance, you need to know what the intent of your file is.
 
-  ### Black for Text
+  #### Black for Text
 
   When setting body copy, make sure you only use 100% K. If you use a mix of CMYK inks, it will be very difficult for the printer to get those inks to print lined up exactly. This is called registration (of the four inks), and it's very difficult on fine lines.
 
@@ -62,7 +62,7 @@ details: |
 
   See how cyan, magenta, yellow and black inks don't line up properly. This poor registration is caused by the paper shifting while running through an offset press. See how the 100% K black is sharp.
 
-  ### Going to Press
+  #### Going to Press
 
   If you're printing at a commercial printer's their presses won't render a dark black with only 100% K. It looks even more washed out when printing on un-coated stock. Consult with them to get their rich black recipe to achieve a truly black black.
 
@@ -72,15 +72,15 @@ details: |
 
   You can clearly see the difference in the appearance of the various blacks in the panel above.
 
-  ### To the Print Shop
+  #### To the Print Shop
 
   If you use the same ink numbers in different apps, you *should* obtain the same results. If you don't, it could be caused by the printer drivers in the laser or inkjet printer. You should show your print job to the printer to resolve the issue. Try printing a test sheet with all the different blacks on it to see how the printer interprets them.
 
-  ## Conclusion
+  ### Conclusion
 
   You need to plan ahead while you're working to use the same numbers for black in all of your applications.
 
-  ### Tips
+  #### Tips
 
   * Ask your commercial printer which black to use to achieve the look you want.
   * Save recipes for various blacks in your Creative Cloud Library panel for quick access.

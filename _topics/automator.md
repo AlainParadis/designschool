@@ -13,7 +13,7 @@ video: "https://www.youtube.com/embed/g7OAyK9FjQo?list=PL4qBMvigUSLBQ81-YCSdw7Gq
 downloads:
 description: "Performing repetitive tasks on your computer can cause errors and be really tedious. Automator is an often ignored app which can perform the same work faster and without errors."
 details: |
-  ## How Otto Works
+  ### How Otto Works
 
   You don't have an employee on which you can hand off tedious tasks like renaming hundreds of files or resizing a folder full of images. Well, actually now you do have one. Otto will save time and he won't make any mistakes.
 
@@ -32,7 +32,7 @@ details: |
 
   To create a workflow, drag one or more actions into the workflow pane. The order in which you stack them counts because one action feeds the next. If your workflow doesn't work, there will be an error message in the Log pane at the bottom of the window.
 
-  ### Types of Automations
+  #### Types of Automations
 
   Workflows:
   : These are the simplest types of automation. Simply drag actions into the workflow pane, then click the <span class="command">Run</span> button.
@@ -62,7 +62,7 @@ details: |
   If you discover that you've chosen the wrong type of automation, you can always change it after the fact by going <span class="command">File > Convert To...</span>, then choose the type you want.
   </div>
 
-  ## A Simple Workflow
+  ### A Simple Workflow
 
   Let's rename a large number of files using a simple workflow. Launch Automator, then choose to create a new workflow. Save it into the provided <span class="command">01-simple-workflow</span> folder named *Rename Finder Items.workflow*.
 
@@ -86,7 +86,7 @@ details: |
 
   Save this workflow file into the <span class="command">01-simple-workflow</span> folder named *Rename Finder Items.workflow*.
 
-  ## A Finder Service
+  ### A Finder Service
 
   <img class="size15" alt="automator-finder-service-icon" src="/images/macos-automator/automator-finder-service-icon.jpg">
 
@@ -112,7 +112,7 @@ details: |
 
   Save the Automator document as Make Web-Friendly. Now, when you need to rename a batch of files or folders, you can do it with a right-click.
 
-  ## A Folder Action
+  ### A Folder Action
 
   <img class="size15" alt="automator-folder-action-icon" src="/images/macos-automator/automator-folder-action-icon.jpg">
 
@@ -134,7 +134,7 @@ details: |
 
   On the left is a list of folders on your computer which have actions attached to them. On the right is a list of all the folder actions you've created.
 
-  ## A Calendar Action
+  ### A Calendar Action
 
   <img class="size15" alt="automator-calendar-action-icon" src="/images/macos-automator/automator-calendar-action-icon.jpg">
 

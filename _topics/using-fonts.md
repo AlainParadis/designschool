@@ -16,13 +16,13 @@ video: "https://www.youtube.com/embed/-GzgaKUs_gI"
 downloads: 
 description: "Because you'll be juggling many simultaneous assignments, you'll need to activate and deactivate fonts. Most of the time, you'll use fonts from Adobe Fonts. The odd time, you'll need to install fonts on your computer."
 details: |
-  ## Adobe Fonts
+  ### Adobe Fonts
 
   <a href="https://fonts.adobe.com/fonts" target="_blank" title="Adobe Fonts">Adobe Fonts</a> is an online font subscription service. As a participant in a *Bring Your Own Device* (BYOD) program at Algonquin College, you have access to the service.
 
   Fonts on Adobe Fonts can be used on web sites or in documents for print.
 
-  ## Local Fonts
+  ### Local Fonts
 
   Sometimes you may need to install a specific font on your computer. The video above shows you how to set up a simple font management system that doesn't require installing any software.
 
@@ -32,7 +32,7 @@ details: |
 
   It's a good idea to *copy* font folders into this location rather than move them. If you copy them, the originals will stay in place, with your project. Every once in a while, you can move all fonts in the Fonts folder to the trash without having to worry about losing the originals.
 
-  ## Checking Font Usage
+  ### Checking Font Usage
 
   In the past, when you moved a document from one computer to another, you needed to move the fonts along with it. If you didn't the document wouldn't look the same when opened. With the advent of online font services like Adobe Fonts, this is less of a concern. If you're using Adobe Fonts, when you open the document, you're prompted to activate the fonts requested by that document.
 
@@ -42,7 +42,7 @@ details: |
 
   You can check which fonts are in use in a specific document by using <span class="command">Type > Find Font...</span> in InDesign and in Illustrator. You can see that you can substitute fonts from this dialogue with the <span class="command">Change</span> button.
 
-  ## Packaging
+  ### Packaging
 
   Packaging a document gathers and copies all associated files into a new folder. These files include the original document, placed images and fonts. The packaging process does not gather Adobe Fonts.
 

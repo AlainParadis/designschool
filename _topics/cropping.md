@@ -17,25 +17,25 @@ description: "The Crop tool has been in Photoshop since about 1988. Since then, 
 details: |
   The Crop Tool can do much more than simply cropping. It can straighten a photo and also mask content. We'll dive deep into the intricacies of this legacy tool.
 
-  ## Simple Crop
+  ### Simple Crop
 
   The basic function of the Crop Tool is to reduce the size of the canvas. You can do this by sizing the crop rectangle on the image. Hold the Option key to scale from the centre. Hold Shift to constrain proportions.
 
   <img alt="photoshop-croppping-simple-crop" src="/images/photoshop-cropping/photoshop-croppping-simple-crop.jpg" class="size75">
 
-  ## Crop to a Ratio
+  ### Crop to a Ratio
 
   Sometimes you need to fit an image withing a certain aspect ratio. Let's say it's a graphic for television. It needs to be 16:9. The Crop Tool can help you out here. Drag a crop rectangle. Go to the control bar and select 16:9 from the Ratio drop-down menu.
 
   <img alt="photoshop-croppping-crop-ratio" src="/images/photoshop-cropping/photoshop-croppping-crop-ratio.jpg" class="size75">
 
-  ## Increase Canvas Size
+  ### Increase Canvas Size
 
   <img class="size75" alt="photoshop-croppping-increase-canvas-size" src="/images/photoshop-cropping/photoshop-croppping-increase-canvas-size.jpg">
 
   The usual way to add canvas area to an image is to go Image > Canvas Size, then increasing the height/width. If you don't need a specific canvas size, just tap c on the keyboard to switch to your Crop Tool and drag it bigger than the current canvas and hit Return. Just make sure to un-check "Delete Cropped Pixels" in the control bar. You'll get a transparent background.
 
-  ## Straighten a Photo
+  ### Straighten a Photo
 
   <img alt="photoshop-croppping-straighten" src="/images/photoshop-cropping/photoshop-croppping-straighten.jpg" class="size75">
 
@@ -45,13 +45,13 @@ details: |
   If you have an active crop rectangle, you can tap the h key to show/hide the surrounding pixels. It's a toggle preview of your cropped image. Shhh. Don't tell anyone.
   </div>
 
-  ## Perspective Crop
+  ### Perspective Crop
 
   <img alt="photoshop-croppping-perspective-crop" src="/images/photoshop-cropping/photoshop-croppping-perspective-crop.jpg" class="size75">
 
   You can correct perspective using the Perspective Crop Tool to straighten photos. Let's say you took a photo of a building from what you thought was a square angle. You get back to your computer to see that the building isn't parallel with the edges of the photo. Just drag a Perspective Crop Tool to align with the *un-parallel* lines of the photo. When you hit return, Photoshop will straighten the photo for you.
 
-  ## Content-Aware Crop
+  ### Content-Aware Crop
 
   <img alt="photoshop-croppping-content-aware" src="/images/photoshop-cropping/photoshop-croppping-content-aware.jpg" class="size75">
 

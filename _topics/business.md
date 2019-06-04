@@ -14,11 +14,11 @@ video:
 downloads: 
 description: 
 details: |
-  ## Course Description
+  ### Course Description
 
   Business acumen plays as much of a role in the success of a graphic designer as do mastery of colour, layout and typography. Students interact with industry professionals who share their current, in-depth knowledge in their area of expertise. Guest lectures allow students to acquire the latest relevant and specialized knowledge about finance, intellectual property, ethics, employment and more. Through case studies, group activities and quizzes, students take steps towards gainful employment or even starting their own graphic design firm.
 
-  ## Course Info
+  ### Course Info
 
   - Course Code: DSN1696
   - Start Date: September, 2018
@@ -48,7 +48,7 @@ details: |
     </tbody>
   </table>
 
-  ## Weekly Topics
+  ### Weekly Topics
 
 
   1. **Getting Things Done**

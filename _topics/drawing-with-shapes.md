@@ -19,7 +19,7 @@ video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLCeEpUWTPF0uIY
 downloads: "https://www.dropbox.com/s/g2tw15fl48u1dt1/illustrator-drawing-with-shapes.zip?dl=1"
 description: "Using Illustrator's shape tools to draw can be an effective way to create smooth paths and predictable results. We can go much further than simply dragging shapes. There are a number of keyboard shortcuts that can help us create well-formed objects."
 details: |
-  ## Illustrator Setup
+  ### Illustrator Setup
 
   Before we start to use Illustrator, we'll take a quick tour of the interface, then adjust a few settings. 
 
@@ -27,7 +27,7 @@ details: |
     <a href="setup-illustrator.html" title="Let's set up Illustrator." class="button">Set Up Illustrator</a>
   </div>
 
-  ## Our First Illustrations
+  ### Our First Illustrations
 
   In Illustrator, the most basic method for drawing is using the shape tools. You can combine ellipses, rectangles, polygons, stars and more to create any object you need.
 
@@ -47,7 +47,7 @@ details: |
 
   Use the Space Bar to reposition your shape. You can also use the Up or Down arrows to increase or decrease the number of sides on a polygon.
 
-  ## Drawing Stroked Paths
+  ### Drawing Stroked Paths
 
   If you draw paths with a stroke on them, in addition to changing their stroke weight, you have the option to change the shapes of the corners or the ends of those paths.
 
@@ -55,7 +55,7 @@ details: |
 
   You can even control whether the stroke sits on the middle, outside or inside of the paths.
 
-  ## Dynamic Shapes
+  ### Dynamic Shapes
 
   Illustrator has the ability to customize the radius of a shape's corners.
 
@@ -63,7 +63,7 @@ details: |
 
   Simply drag the Corner Widget to edit the shape's corner radius. Use the Direct Selection Tool to edit only selected corners. Alternately, you can edit corners more accurately using the Transform Panel.
 
-  ## Repeat Shapes
+  ### Repeat Shapes
 
   The ⌘-D keyboard shortcut repeats the last object move or copy you performed. You can also use a similar command to have shapes rotate around the perimeter of a circle.
 
@@ -71,7 +71,7 @@ details: |
 
   If you Option-click using the Rotate Tool, you'll be presented with the rotate dialogue. Enter a number that's divisible into 360 to get even spacing. Once you've copied one shape, you can hit ⌘-D to repeat the shape around the cicle.
 
-  ## Direct Select Anchor Points
+  ### Direct Select Anchor Points
 
   The Direct Selection Tool selects directly. That means that it only selects what you have clicked on within a single object.
 
@@ -79,7 +79,7 @@ details: |
 
   When you use the Direct Selection tool to click on one or more anchor points, only what you clicked on gets selected. If you move, rotate, scale from there, only those anchor points will be affected.
 
-  ## Drawing Modes
+  ### Drawing Modes
 
   If you draw multiple shapes in Illustrator, the first one will be on the bottom and the last one will be on top of the stacking order on the page. That is, the final one covers up the ones you drew before it. This is Illustrator's default behaviour.
 
@@ -89,7 +89,7 @@ details: |
 
   <span class="command">Shift-D</span> cycles you through the three modes. <span class="command">Draw Inside</span> automatically creates a clipping mask.
 
-  ## Align Tools
+  ### Align Tools
 
   You don't need to waste time aligning artwork in Illustrator. There's an Align Panel devoted to helping you align items automatically.
 
@@ -99,7 +99,7 @@ details: |
 
   <img class="size100" alt="align-key-item" src="/images/illustrator-drawing-with-shapes/align-key-item.gif">
 
-  ## Grouping & Ungrouping
+  ### Grouping & Ungrouping
 
   Grouping items in Illustrator makes items move together. To group items, simply select them, then type <span class="command">⌘-G</span>. Grouping is hierarchical. That means that you can group items sequentially. They will then ungroup in the same order. You'll be able to tell items are grouped from the Layers Panel. It will also read Group in the top-left corner of the screen when you select a group.
 
@@ -109,7 +109,7 @@ details: |
 
   You can select individual items in a group with the Direct Selection Tool. You can also enter Isolation Mode by double-clicking on grouped items. Isolation Mode is also hierarchical, as shown in the above image.
 
-  ## Compound Paths
+  ### Compound Paths
 
   A compound path is a combination of two or more shapes. Creating a Compount Path creates a hole in the bottom-most object. The upper shapes actually become holes in the bottom one. When you click on them, they're actually empty.
 

@@ -30,7 +30,7 @@ assignment: |
 
   Let's start setting this up.
 
-  ## Create Book Documents
+  ### Create Book Documents
 
   Start by creating an InDesign document. This is the file which will serve as the master file from which all the other book files will be based. This is the format:
 
@@ -43,9 +43,9 @@ assignment: |
 
   We'll need to set up our master document before we duplicate it for each chapter. Remember, if you leave unwanted content in the panels in this document, it'll be present in all your book files. We don't want that. That's why it's important to plan ahead to build this document properly.
 
-  ## Initial Document Setup
+  ### Initial Document Setup
 
-  ### Paragraph Styles
+  #### Paragraph Styles
 
   Define the base serif in the Basic Paragraph style. Create a new style for the Base-Sans paragraph style. Create styles as shown below. Changing their appearance isn't that important for now.
 
@@ -60,7 +60,7 @@ assignment: |
 
   For Futura, make sure you sync a bold instance. You'll need it for titles and the TOC later on.
 
-  ### Clean out the Swatches panel
+  #### Clean out the Swatches panel
 
   We want to remove all un-needed swatches from the Swatches panel. Remember that book sync is non-destructive. It only adds content across documents, it doesn't remove any. That's why this needs to be done at the outset.
 
@@ -73,7 +73,7 @@ assignment: |
   </figcaption>
   </figure>
 
-  ### Layers
+  #### Layers
 
   Create layers for Folios, Images and Text. Make sure they're in that order. Folios underneath, then images, and text on top of everything.
 
@@ -86,11 +86,11 @@ assignment: |
 
   Remember, layers don't sync across documents unless you have content on them on master pages. When the master pages sync, the layers get created.
 
-  ### Text Frames
+  #### Text Frames
 
   Create a primary text frame on your master pages. Make sure you have one on each master. Thread them together on the master. When you import your text in the next steps, hold the Shift key. That will make the text thread onto all the pages. Cool, eh?
 
-  ## Book Documents
+  ### Book Documents
 
   Once your InDesign master document is ready with all the basic settings, we can duplicate it to have a total of seven files. See the image below.
 
@@ -98,7 +98,7 @@ assignment: |
     Close all InDesign documents. Go to the Finder, then hit cmd-D to duplicate the file until you have seven of them.
   </div>
 
-  ### Cover, FM & EM
+  #### Cover, FM & EM
 
   Rename files for your Cover, Front Matter and End Matter files. Delete pages from the files to match the image below. Once all your InDesign documents are created, make a new Book file. Add the documents to the book file.
 
@@ -114,9 +114,9 @@ assignment: |
   Import each chapter's text into the appropriate InDesign document. Apply the Body Copy paragraph style to the text. Style the chapter numbers and chapter titles, too.
 
 
-  ## Pagination
+  ### Pagination
 
-  ### Set Up Numbering
+  #### Set Up Numbering
 
   Set up page numbering on the documents. There will be no page numbers on the cover document, obviously. We want lower case roman numerals for the Front Matter document, ie: i, ii, iii, iv, etc... There'll be regular arabic numerals for the chapter files of the document. ie: 1, 2, 3, 4, etc...
 
@@ -131,7 +131,7 @@ assignment: |
     Remember to turn on Master Page synching in the Book sync settings. Option-click on the Sync button to do so.
   </div>
 
-  ### Folios
+  #### Folios
 
   Let's add page numbers to our master pages for the FM, EM and chapters. Make sure they're on the Folio layer and on the Master Page. Create a paragraph style for them.
 
@@ -146,7 +146,7 @@ assignment: |
     Shift-Tab creates a tab that alignes to the other end of the text frame. Use this in your folio text frame as shown.
   </div>
 
-  ## Number List
+  ### Number List
 
   Let's make a number list across book files. Use the provided list of Pinocchio characters. You'll need to create a defined list in Paragraph Styles.
 
@@ -159,7 +159,7 @@ assignment: |
 
   If the numbers don't update in the second part of the list, make sure you update them from the Book panel's menu.
 
-  ## Table of Contents
+  ### Table of Contents
 
   Build a two-level table of contents in your Front Matter file for your document, including all the necessary paragraph styles.
 
@@ -170,7 +170,7 @@ assignment: |
   </figcaption>
   </figure>
 
-  ## Cover Image
+  ### Cover Image
 
   To wrap things up, place the provided image on the cover.
 
@@ -178,7 +178,7 @@ assignment: |
 
   Remember to make sure you image extends to the bleed line.
 
-  ## Package Your Book.
+  ### Package Your Book.
 
   Save and close all of your book documents. Leave the Book panel open, and click the <span class="command">Save Book</span> button. Deselect all the documents in the Book panel. Go to the Book panel menu, then click on <span class="command">Package book for Print...</span>.
 

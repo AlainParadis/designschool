@@ -43,7 +43,7 @@ details: |
   * ⌘-d = Deselect all.
   * Shift-⌘-i = Invert selection.
   
-  ## Raster Layer Masks
+  ### Raster Layer Masks
 
   A raster layer mask is a greyscale image, where darker pixels hide the underlying photo to increasing degrees. It works a bit like a dimmer on a light switch. The darker the pixels are on the mask, the less you can see the photo on that layer.
 

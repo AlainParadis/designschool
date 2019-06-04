@@ -17,11 +17,11 @@ video:
 downloads:
 description: "Our first steps are to get you logged in to various online services. This will allow you to access your schedule, bursary information, cours materials, your network password, your grades and more."
 details: | 
-  ## Your College Login
+  ### Your College Login
 
   You'll need to obtain your college login info. To do so, go to <a href="https://acsis.algonquincollege.com" title="Log in to your college ACSIS account.">Student Information System</a> (ACSIS). Click on Network, then follow the instructions to change your temporary password to a new unique password.
 
-  ## Wi-Fi
+  ### Wi-Fi
 
   Join the ACGuest Wi-Fi network. We'll want to disconnect from it as soon as you have your official login credentials.
 
@@ -40,7 +40,7 @@ details: |
 
   Don't allow your computer to connect to the ACGuest network again. It's just annoying.
 
-  ## E-Mail Forwarding
+  ### E-Mail Forwarding
 
   It's crucial that you receive messages sent to your College e-mail address in a timely fashion. The best solution is likely to forward your college e-mail messages to your personal address. To do so, log in to your account at <a href="http://liveac.algonquincollege.com/" title="Log in to your college e-mail account." target="_blank">liveac.algonquincollege.com</a>.
 
@@ -48,7 +48,7 @@ details: |
 
   Find the Forwarding settings. Enter your personal e-mail address, then save your settings.
 
-  ## Other Important Services
+  ### Other Important Services
 
   * Login to Brightspace: <a href="https://brightspace.algonquincollege.com/d2l/home" alt:="Algonquin College Learning Management System" target="_blank">Brightspace</a>
   * Get software: [digitalresources.algonquincollege.com](https://plato.algonquincollege.com/DigitalResources/Default.aspx)
@@ -56,11 +56,11 @@ details: |
 
   Before you install Adobe software, you'll want to uninstall previous versions. I'll give you instructions one-on-one in class. I want you to have only the latest software on your computer, and no older versions.
 
-  ## Connect to Our File Server
+  ### Connect to Our File Server
 
   To connect to the Graphic Design file server, [follow these instructions](http://algonquincollege.freshdesk.com/support/solutions/articles/11000009593-how-to-connect-to-the-college-dropbox-server-from-your-mac "Connect to the Graphic Design file server").
 
-  ## Additional Support
+  ### Additional Support
 
   If you need additional software or hardware support, you can always contact me via <a href="mailto:paradia@algonquincollege.com" title="E-Mail Alain Paradis">e-mail</a>. You should be able to resolve most common support issues by refering to [our FreshDesk site](http://algonquincollege.freshdesk.com) We also have two excellent tech support people who are there to help you. They are:
 
@@ -70,11 +70,11 @@ details: |
 
   Their offices are at N208E. That's just down the hall, in the direction of P Building.
 
-  ## College Printer Setup
+  ### College Printer Setup
 
   You'll setup the school printers on your laptop so you can print in the classrooms, the Agency and the Print Shop. <a href="http://algonquincollege.freshdesk.com/support/solutions/articles/11000037912-how-to-install-student-printers-on-your-mac" title="Set up your Mac for printing in our classrooms." target="_blank">Go to this page for instructions</a> on how to set up printing
 
-  ## Adobe Creative Cloud Setup
+  ### Adobe Creative Cloud Setup
 
   As a student in a Bring Your Own Device (BYOD) program, you are entitled to a vast array of resources, including Adobe Creative Cloud software. You will receive a message at your <a href="https://liveac.algonquincollege.com" title="Check your college e-mail for instructions on setting up Adobe Apps." target="_blank">college e-mail account</a> with a link and instructions.
 
@@ -88,7 +88,7 @@ details: |
 
   Once you're done, you should have the Adobe Desktop App installed, along with Illustrator, Photoshop, InDesign and Acrobat.
 
-  ## Loaner Laptops
+  ### Loaner Laptops
 
   All students in the Graphic Design Program have access to a loaner MacBook Pro in the event that their computer requires repairs. This is what the College requires:
 

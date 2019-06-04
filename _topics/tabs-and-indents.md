@@ -15,7 +15,7 @@ video: "https://www.youtube.com/embed/oFx3WQh5HaA"
 downloads: "https://www.dropbox.com/s/lcefjntctjdvy85/indesign-tabs-and-indents.zip?dl=1"
 description: "The all-mighty tab character can do wonders in InDesign. We'll explore setting indented text and building grids with tabs and indents, too."
 details: |
-  ## Indents
+  ### Indents
 
   Tabs and indents are useful for setting spacing in blocks or lines of type. It's important to know when to use which.
 
@@ -34,7 +34,7 @@ details: |
 
   I've seldom found a use for right indents on paragraphs. It happens, but rarely.
 
-  ## Tabs
+  ### Tabs
 
   Tabs are flexible spaces used within blocks of text, not at their edges.
 
@@ -54,7 +54,7 @@ details: |
 
   Rather than hitting the Tab key repeatedly, just use one, then set its width in the Tabs ruler.
 
-  ### Fancy Tabs
+  #### Fancy Tabs
 
   You can also do fancy stuff like lining up a specific character to a tab.
 

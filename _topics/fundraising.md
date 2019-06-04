@@ -31,7 +31,7 @@ details: |
 
   Fundraising goal: approximately $4000.
 
-  ## Costs
+  ### Costs
 
   - Rental of space
   - Staff on Site

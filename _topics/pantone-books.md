@@ -24,13 +24,13 @@ details: |
 
   The books have four colour models: Spot colours, CMYK, RGB and HTML. They're the most versatile books you can buy.
 
-  ## Or Buy Only One Book
+  ### Or Buy Only One Book
 
   <img class="size50" alt="pantone-single-colour-book" src="/images/general/pantone-single-colour-book.jpg">
 
   You also have the option of purchasing only one of the books for $192.10, taxes and shipping included.
 
-  ## Count Me In!
+  ### Count Me In!
 
   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeXm4nTp8oXL4XA6gt1OigsO15ThGhG4jzkDN3_gn3jarq06g/viewform?embedded=true" width="760" height="1250" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 ---

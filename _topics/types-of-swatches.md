@@ -15,7 +15,7 @@ video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLAXH87Oz_yimA4
 downloads: "https://www.dropbox.com/s/z9zudywgx019tid/illustrator-types-of-swatches.zip?dl=1"
 description: "Illustrator is a go-to application for print design as well as design for the screen. Depending on your intent, you'll need to make decisions about colour. We'll learn to create and edit global, spot, RGB, CMYK colour swatches in Illustrator."
 details: |
-  ## New Document Colour Options
+  ### New Document Colour Options
 
   You need to make decisions about colour when you first create your Illustrator documents. For example, you can see that when you choose Web from the <span class="command">Profile</span> drop-down menu, you automatically get a document in RGB mode. You would use only RGB colours in this document. If you were to choose RGB colours with the CMYK sliders, you risk that they'll be outside of gammut. That means that they won't display accurately.
 
@@ -23,13 +23,13 @@ details: |
 
   The same goes for design for print. You need to build all your colours with the CMYK colour space for four colour process output.
 
-  ## Types of Swatches
+  ### Types of Swatches
 
   Illustrator has a number of different types of swatches. We'll create some of each of the solid colour swatches and apply them to the provided logo artwork. This is important to us because of how offset printing (or lithography) works.
 
   <img class="size50" alt="illustrator-colour-swatches" src="/images/illustrator-types-of-swatches/illustrator-types-of-swatches.svg">
 
-  ## Regular Swatches
+  ### Regular Swatches
 
   A regular swatch has a plain icon in the panel. It can be in RGB or in CMYK. These are meant for use in four colour process printing (CMYK) or design for the screen (RGB).
 
@@ -37,7 +37,7 @@ details: |
 
   Greyscale swatches print only on the black plate on a printing press. CMYK swatches are produced across all cyan, magenta, yellow and black plates in four colour process offset printing. RGB swatches are used for design for the screen. If you apply a regular swatch's colour to some artwork, then change the swatch colour, the artwork isn't affected. 
 
-  ## Global Swatches
+  ### Global Swatches
 
   The real magic happens when you create Global Swatches. Global swatches can be in CMYK or RGB.
 
@@ -47,7 +47,7 @@ details: |
 
   Illustrator creates Global Swatches by default. Apply the colours to your art. If you need to change colours, you can double-click on the corresponding swatch to edit it. Once you accept the change, all artwork with that swatch gets the new colour. Like I said, magic.
 
-  ## Spot Colour Swatches
+  ### Spot Colour Swatches
 
   Spot colour swatches are based on colours from Pantone colour books. Each colour is meant to print on one colour plate on an offset press.
 
@@ -55,7 +55,7 @@ details: |
 
   We will start by finding spot colours from a Pantone library. We'll add them to our document's Swatches panel, then apply them to our logo art.
 
-  ## Useful Panels
+  ### Useful Panels
 
   Before we get to work, let's hide all of our panels with <span class="command">Shift-Tab</span>, then open only three of them:
 
@@ -65,7 +65,7 @@ details: |
 
   <img class="size75" alt="illustrator-delete-unused-swatches" src="/images/illustrator-types-of-swatches/illustrator-delete-unused-swatches.jpg">
 
-  ## Colour Spaces
+  ### Colour Spaces
 
     Greyscale
   : The first logo would appear on a single colour plate if printed to press.
@@ -81,7 +81,7 @@ details: |
 
   There are more colours in the RGB colour space than in CMYK. Almost all CMYK colours convert precisely to RGB; not so the other way around. The fact that the CMYK space is so much smaller than the RGB space is the reason why colours change when you switch from RGB to CMYK. <a href="https://duckduckgo.com/?q=rgb+vs+CMYK+spectrum&t=osx&iax=images&ia=images&iai=https%3A%2F%2Fartofmeganlorraine.files.wordpress.com%213%2%2Fgamut-rgb-cmyk.jpg" title="CMYK vs RGB compared." target="_blank">See here...</a>
 
-  ## Applying Swatches
+  ### Applying Swatches
 
   Depending on the type of production you need, you'll use different types of swatches.
 

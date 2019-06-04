@@ -14,7 +14,7 @@ downloads:
 description: "In this summative assignment, you'll use the provided files to build the layouts as directed."
 details: |
 assignment: |
-  ## Tabs, Indents, Bullet & Numbered Lists
+  ### Tabs, Indents, Bullet & Numbered Lists
 
   Use the provided visual guide, text and graphics to put together this layout.
 
@@ -26,7 +26,7 @@ assignment: |
   </figure>
   Make sure you use Bullets & Numbering to make the bullets built into a paragraph style and not typed in the text. Don't worry about getting every line break to match. We're looking for well executed styles.
 
-  ## Tables
+  ### Tables
 
   Use the provided visual guide and text to put together this layout with tables.
 
@@ -39,7 +39,7 @@ assignment: |
 
   Make sure you create table and paragraph styles for all content in the layout.
 
-  ## Next & Nested Styles
+  ### Next & Nested Styles
 
   Style the text in the povided document using next and nested styles.
 
@@ -52,7 +52,7 @@ assignment: |
 
   Apply the correct style to the first column, then create the nested style inside it. Set up next styles for columns 2 and three, then apply them automatically.
 
-  ## Text Variables
+  ### Text Variables
 
   Use the design guide and the provided files to create a document with 3 different running headers, automatic page numbers a table of contents and live image captions.
 

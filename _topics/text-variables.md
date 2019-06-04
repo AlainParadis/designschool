@@ -18,7 +18,7 @@ video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLAe_aVG7bNa4YG
 downloads:
 description: "Automatic page numbering, automatic story jumps, text variables; these are only some of the tools we'll use to create a publication in InDesign. They all allow us to have content that updates dynamically, which makes editing a breeze."
 details: |
-  ## Document Setup
+  ### Document Setup
 
   Create a new document as shown, with 16 facing pages. Note that 16 is divisible by 4. Publications always need to have a number of pages divisible by 4 because one signature has four sides.
 
@@ -26,7 +26,7 @@ details: |
 
   Double-check that you've entered all the other values in the dialogue properly. Once our document is created, we want to edit our base paragraph styles.
 
-  ## Paragraph Styles
+  ### Paragraph Styles
 
   Start by opening the Basic Paragraph style. Change your font to <span class="command">Abril Text Regular</span>. You'll need to <a href="https://fonts.adobe.com/fonts/abril" target="_blank" title="Activate this font on Adobe Fonts.">activate this on Adobe Fonts</a>. You also need to create a Base Sans paragraph style. Let's use Proxima Nova Regular. <a href="https://fonts.adobe.com/fonts/proxima-nova" target="_blank" title="Activate this font on Adobe Fonts.">Go activate it on Adobe Fonts</a>.
 
@@ -39,7 +39,7 @@ details: |
   * Chapter Names, based on Base Sans
   * Recipe Names, based on Base Sans
 
-  ## Master Pages
+  ### Master Pages
 
   Rename A-Master to A-Base. This is the master that will contain any elements which repeat on all pages of the document.
 
@@ -47,7 +47,7 @@ details: |
 
   See the images just below...
 
-  ## Numbering & Sections
+  ### Numbering & Sections
 
   We're going to create sections for our document. The document page numbers will start on the third page. We'll start by making the pages numbered with lower case roman numberals. Right-click on page one, then choose <span class="command">Numbering & Section Options...</span>. Make the page numbering style roman numberals.
 
@@ -55,7 +55,7 @@ details: |
 
   Right-click on page three. Go to <span class="command">Numbering & Section Options...</span> Change the numbering style to arabic numerals. Make sure you set the starting numbering to 1.
 
-  ## Place Text
+  ### Place Text
 
   Put threaded primary text frames on the <span class="command">B Master</span> pages. Let's apply the masters from the third page to the last. The best way to do this is select the page icons in the Pages panel, then option-click on the master you want to apply to them.
 
@@ -65,7 +65,7 @@ details: |
 
   <img class="size75" alt="text-variables-style-mapping" src="/images/indesign-text-variables/text-variables-style-mapping.jpg">
 
-  ## Page Folios
+  ### Page Folios
 
   Page folios can be at the top or bottom corners or centers of the pages. They can figure on every page of the publication or change depending on the content. They can include: page numbers, chapter numbers, publication title, section title, story title, issue date, web address and more.
 
@@ -91,7 +91,7 @@ details: |
 
   We'll also add the chapter name near the spine. Hit Shift-tab to get a right-aligned tab. Add a custom variable for the chapter's name.
 
-  ## Slug Info
+  ### Slug Info
 
   Let's use our document's slug area to leave important document information for all collaborators on the document. The information will update automatically.
 
@@ -101,7 +101,7 @@ details: |
 
   With your cursor in the frame, go <span class="command">Type > Text Variables > Insert Variable > Creation Date</span>. Let's do this two more times to match the example above. This will keep a good record of the last state of the document for all those contributing to the design.
 
-  ## Automatic Story Jumps
+  ### Automatic Story Jumps
 
   When you read a magazine, you often encounter stories that continue on a page further in the publication. It'll usually says *Continued on page x*. This is called a Story Jump. InDesign can deal with these automatically.
 
@@ -113,7 +113,7 @@ details: |
 
   The key to making this work is that our story jump text frame physically touches the related text frame.
 
-  ## Live Captions
+  ### Live Captions
 
   InDesign is capable of pulling meta-data from a placed photo to use it as a caption. This is really a great solution when you work in a team. The photographer in the field or the photo editor can type a caption in the photo's meta-data from Photoshop. InDesign will generate a Live Caption based on that meta data automatically on the page.
 
@@ -145,7 +145,7 @@ details: |
 
   <img class="size100" alt="text-variables-caption-image-title" src="/images/indesign-text-variables/text-variables-caption-image-title.jpg">
 
-  ## Tables of Contents
+  ### Tables of Contents
 
   An InDesign Table of Contents is built based on the Paragraph Style used to style the chapter headings. That's where it pulls the text from. It's going to be imperative that your titles have paragraph styles applied.
 
@@ -155,7 +155,7 @@ details: |
 
   You'll find the options under <span class="command">Layout > Table of Contents...</span>. If you make a change in your text, you can go <span class="command">Layout > Update Table of Contents</span>
 assignment: |
-  ## Document Setup
+  ### Document Setup
 
   Create a new document as shown, with 16 facing pages. Note that 16 is divisible by 4.
 
@@ -163,7 +163,7 @@ assignment: |
 
   Double-check that you’ve entered all the other values in the dialogue properly. Once our document is created, we want to edit our base paragraph styles.
 
-  ## Paragraph Styles
+  ### Paragraph Styles
 
   Edit your Basic Paragraph style so it's in <a href="https://fonts.adobe.com/fonts/adobe-caslon" target="_blank" title="Caslon Pro Regular">Caslon Pro Regular</a>. Create a Base Sans paragraph style using <a href="https://fonts.adobe.com/fonts/runda" target="_blank" title="Runda font">Runda Bold font</a>. This is the font you'll base all other sans serif styles on.
 
@@ -171,7 +171,7 @@ assignment: |
 
   This is my Paragraph Styles panel. Make sure you base all serif styles on Basic Paragraph. Base all sans-serif styles on Base Sans.
 
-  ## Master Pages
+  ### Master Pages
 
   Rename A-Master to A-Base. Create a new master based on A-Base called B-Content.
 
@@ -179,13 +179,13 @@ assignment: |
 
   Create a Primary Text Frame on B-Content. Make sure it has two columns. Thread the frame on the left-hand master to the one on the right-hand master.
 
-  ## Numbering & Sections
+  ### Numbering & Sections
 
   Set up sections so that the first to the fourth pages have lower case roman numberals. Starting on the fifth page, your numbering should have regular (arabic) numbering.
 
   <img class="size33" alt="indesign-pages-panel-numbering" src="/images/indesign-text-variables/indesign-pages-panel-numbering.jpg">
 
-  ## Place Text
+  ### Place Text
 
   Place the provided text starting on the fifth page of the document, which should be numbered page 1.
 
@@ -193,7 +193,7 @@ assignment: |
 
   Your body copy should be set in Caslon Pro Regular 9pt. The product lines need to be set in Runda Bold font, which is your sans-serif typeface at 18pt. The product names are also in Runda Bold font at 10pt in upper case. The upper case is styled in the paragraph style, never typed in the text.
 
-  ## Page Folios
+  ### Page Folios
 
   Set up automatic page numbers on your B-Content master page.
 
@@ -201,7 +201,7 @@ assignment: |
 
   Create a text variable using the product name paragraph style. Insert it in the footer, after the page number. Create a right-aligned tab, then add a variable for the product lines.
 
-  ## Slug Info
+  ### Slug Info
 
   Go to your A-Base master. We'll increase the size of the slug to accomodate messages for the design team. Make the top slug 6p0 (1 inch)
 
@@ -209,13 +209,13 @@ assignment: |
 
   Slug content needs to be away from the bleed line.
 
-  ## Automatic Story Jumps
+  ### Automatic Story Jumps
 
   Use the provided to text on two separate pages, in threaded text frames. Create a story jump on each of the frames. One reads *Continued on page...* The other reads *Continued from page...*
 
   <img class="size100" alt="indesign-story-jump" src="/images/indesign-text-variables/indesign-story-jump.jpg">
 
-  ## Live Captions
+  ### Live Captions
 
   Place the provided image near with the Apple Watch text. Create a text wrap around the image.
 
@@ -231,7 +231,7 @@ assignment: |
 
   Apple Watch Series 2 is the perfect partner for a healthy life.
 
-  ## Table of Contents
+  ### Table of Contents
 
   Create a table of contents on the third page of your document — page iii. It'll be a two-level table of contents.
 

@@ -20,7 +20,7 @@ details: |
 
   You can add an Adjustment Layer on an image from the button at the bottom of the Layers panel, as shown above. The Adjustment Layer appears above the targeted layer in the stacking order. It affects all layers below it.
 
-  ## Masking
+  ### Masking
 
   <img class="size33" alt="photoshop-adjustment-layers-mask" src="/images/photoshop-adjustment-layers/photoshop-adjustment-layers-mask.jpg">
 
@@ -28,13 +28,13 @@ details: |
 
   Adjustment Layers allow you to edit colours in photos without touching the photo's original pixels. They're overlays that sit above (or between) your layers to affect the layers below. It's like looking through rose-coloured glasses. Adjustment Layers come with a Layer Mask built in. We'll experiment colouring part of a photo.
 
-  ## Properties
+  ### Properties
 
   <img class="size33" alt="photohsop-adjustment-layers-properties" src="/images/photoshop-adjustment-layers/photohsop-adjustment-layers-properties.jpg">
 
   When you add an Adjustment Layer, the Properties panel appears to allow you to edit its settings. The Properties panel changes depending on the type of Adjustment Layer you're using.
 
-  ## Opacity & Blend Modes
+  ### Opacity & Blend Modes
 
   <img class="size33" alt="photohsop-adjustment-layers-opacity" src="/images/photoshop-adjustment-layers/photohsop-adjustment-layers-opacity.jpg">
 
@@ -42,9 +42,9 @@ details: |
 
   You can explore Adjustment Layers freely because they're non-destructive. You can simply edit settings or delete the Adjustment Layer if things don't work out. Keep in mind, that the stacking order in your Layers Panel counts.
 
-  ## Examples
+  ### Examples
 
-  ### Colourizing
+  #### Colourizing
 
   Let's open the leaf photo to colourize the leaf itself.
 

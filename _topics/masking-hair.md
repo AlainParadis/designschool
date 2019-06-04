@@ -24,7 +24,7 @@ details: |
   </figure>
   One of the strengths of masking in Photoshop is that you can use the characteristics of the image to create a mask. By delving into the channels, we can use higher-contrast areas to mask even the most whispy hair.
 
-  ## Your Workspace
+  ### Your Workspace
 
   For this exercise, it's best to clear the panels and only show the ones we want. To that end, hit <span class="command">Shift-Tab</span>. All panels disappear except for the Options bar and tools. Now go to the Window menu, then select the Layers, Channels.
 
@@ -41,7 +41,7 @@ details: |
   </figcaption>
   </figure>
 
-  ## Layers
+  ### Layers
 
   An Alpha Channel in Photoshop is a saved selection represented as a greyscale image. In the panel below, what's white on the channel is selected. What's black is deselected. What's grey is a partial selection -- kind of like onion paper. The lighter the colour on the channel, the more it's selected.
 
@@ -70,7 +70,7 @@ details: |
 
   The result we want is getting the background as white as possible and her as dark as possible without losing any of the whispy hairs. Note that you can zoom while the Levels dialogue is open.
 
-  ## Channels
+  ### Channels
 
   The Channels panel is where most of the magic happens. While still on our new darker layer, go to the Channels panel. Find the channel where the subject has most contrast with the background. The edges are what counts.
 
@@ -88,7 +88,7 @@ details: |
 
   Use a soft-edged brush. Just be carefull when you get close to the edges. You don't want to paint any black on the white background.
 
-  ## Wrap-up
+  ### Wrap-up
 
   By now, you should have a completely black subject, except for the areas where you can see through the hair.
 
@@ -116,7 +116,7 @@ assignment: |
     Make sure to name all of your layers.
   </div>
 
-  ## The Process
+  ### The Process
 
   1. Duplicate main layer
   2. Run Levels

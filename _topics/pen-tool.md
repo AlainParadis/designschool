@@ -25,7 +25,7 @@ details: |
 
   Make sure you draw these paths with a bright colour, so you can see what you're doing. Also, remove the fill from your path, so it doesn't cover up your work as you go.
 
-  ## Corner Anchor Points
+  ### Corner Anchor Points
 
   If you're drawing straight paths with corner points, all you need to do is click with the Pen Tool. You don't need to drag.
 
@@ -36,7 +36,7 @@ details: |
   </figcaption>
   </figure>
 
-  ## Round Anchors
+  ### Round Anchors
 
   When you want to draw rounded anchors, simply click and drag in the direction you wish to draw.
 
@@ -49,7 +49,7 @@ details: |
 
   When creating round anchor points, avoid ever clicking. Always click & drag.
 
-  ## Converting Anchors
+  ### Converting Anchors
 
   You can convert anchor points from corner anchors to round and back with the Convert Anchor Point Tool. The tool has a V shaped cursor.
 

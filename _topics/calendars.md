@@ -23,9 +23,9 @@ details: |
 
   If you need further assistance with calendars, please see me at school.
 
-  ## Calendars
+  ### Calendars
 
-  ### Level 2
+  #### Level 2
 
   <span class="fs70">Level 2 Section 010</span>
   <input readonly class="fs70 pad05" value="https://calendar.google.com/calendar/ical/algonquindesign.ca_rkq8kobk3t3rqebuoe16r6k%40group.calendar.google.com/public/basic.ics">
@@ -39,7 +39,7 @@ details: |
   <span class="fs70">Level 2 Section 040</span>
     <input readonly class="fs70 pad05" value="https://calendar.google.com/calendar/ical/algonquindesign.ca_inksih0s57r5pgl3c1a58spbqo%40group.calendar.google.com/public/basic.ics">
 
-  ### Level 4
+  #### Level 4
 
   <span class="fs70">Level 4 Section 010</span>
   <input readonly class="fs70 pad05" value="https://calendar.google.com/calendar/ical/algonquindesign.ca_aq8bth96ov8qktornceasag%40group.calendar.google.com/public/basic.ics">
@@ -47,7 +47,7 @@ details: |
   <span class="fs70">Level 4 Section 020</span>
   <input readonly class="fs70 pad05" value="https://calendar.google.com/calendar/ical/algonquindesign.ca_sqtrbse2f3q9i0eqr6uftsslps%40group.calendar.google.com/public/basic.ics">
 
-  ### Level 6
+  #### Level 6
 
   <span class="fs70">Level 6 Section 010</span>
   <input readonly class="fs70 pad05" value="https://calendar.google.com/calendar/ical/algonquindesign.ca_uns4g4b9rsbhcss0p8bs0804g8%40group.calendar.google.com/public/basic.ics">

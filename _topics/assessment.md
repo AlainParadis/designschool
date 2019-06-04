@@ -10,7 +10,7 @@ video:
 downloads:
 description: "Each faculty member in the Graphic Design Program strives for clear, known, detailed and fair assessment. The information below is provided to show each and every student where their target goal is and how to attain it."
 details: |
-  ## Our Grading System
+  ### Our Grading System
 
   Algonquin College's grading system is based on letter grades. You'll find a qualitative description as well as numerical equivalents of the letter grades below.
 
@@ -18,7 +18,7 @@ details: |
 
   If you've earned an A, or 85% and you find yourself wondering why you lost 15 points on an assignment, don't think of it that way. Your work must have been superior, but not excellent. The difference between 85% and 89% becomes irrelevant, because the whole range earns you a grade of A. Focus on the letter, not the number.
 
-  ## Grade Designations
+  ### Grade Designations
   <dl>
   <dt>A: Excellent</dt>
   <dd>Course learning requirements are met in a consistently outstanding manner.</dd>
@@ -32,7 +32,7 @@ details: |
   <dd>Course learning requirements are not met. No credit is awarded.</dd>
   </dl>
 
-  ## Numeric Values
+  ### Numeric Values
 
   <table>
   <thead>
@@ -55,12 +55,12 @@ details: |
     </tbody>
   </table>
 
-  ## Attendance
+  ### Attendance
 
   This is not a correspondence course. In order to earn points for in-class assignments, you must be present in class. If you have an un-excused absence, you can complete the assignment with the help of the online course material, but you will not earn points. I will, however, provide written feedback on your performance. If your absence is unavoidable, please communicate with me before the class to make me aware of it. I will have the option to excuse your absence and allow completion of the assignment outside of class.
 
   <a name="filenames">&nbsp;</a>
-  ## Importance of File Naming
+  ### Importance of File Naming
 
   Attention to detail is crucial in the practice of Graphic Design. File naming is no exception. Naming files incorrectly can cause disastrous effects, like broken images on the web, print errors and missed deadlines. This is why we are so strict with this in the Computer Graphics courses.
 

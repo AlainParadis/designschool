@@ -17,13 +17,13 @@ downloads:
 description: |
   The Appearance Panel contains each element of a graphic, including strokes, fills, effects and more. It should be on your screen at all times. Use it for all your stylin'.
 details: |
-  ## Appearance
+  ### Appearance
 
   Artwork in Illustrator can have solid fills, gradient fills, pattern fills, solid strokes, gradient strokes, transparency, etc… All these attributes combined make up the artwork's appearance. We should apply these attributes using the Appearance panel. This gives us one place to see and to edit all the object's attributes.
 
   The Appearance Panel should be open at all times while you're working in Illustrator. It actually saves screen space to keep it open, because other panels are included within it. The Stroke Panel is a good example. There's a complete Stoke panel inside the Appearance panel.
 
-  ## Object Type Indicator
+  ### Object Type Indicator
 
   Whenever you have something selected in Illustrator, the Object Type Indicator displays what type of object it is.
 
@@ -76,7 +76,7 @@ details: |
   </figcaption>
   </figure>
 
-  ### Opacity and Blend Modes
+  #### Opacity and Blend Modes
 
   The Appearance Panel also controls the opacity and blends modes for each attribute of your object. So you can set a stroke to have a 50% opacity on an object with a solid fill.
 
@@ -89,7 +89,7 @@ details: |
 
   You can also change the blend mode of that attribute.
 
-  ### Effects
+  #### Effects
 
   You can access the Effects menu from the bottom of the Appearance Panel. It's the little <span class="command">*Fx*</span> along the bottom of the panel. This is the same menu as the actual Effects menu in the menu bar.
 
@@ -104,7 +104,7 @@ details: |
 
   If settings are at 72 dpi, a given drop shadow would be big. If settings are at 300&nbsp;dpi, the same drop shadow will look smaller, or sharper.
 
-  ## How Patterns Work
+  ### How Patterns Work
 
   A reapeating pattern is based on a transparent tile behind your artwork. It can be square or rectangular. If you want some of the art to span across two tiles, it needs to appear partially in the first, then proportionally on the opposite side of the tile. This is the process for making a tile manually.
 
@@ -144,7 +144,7 @@ details: |
 
   The settings here will depend on the type of pattern you've made. Note that you can edit the pattern, then choose <span class="command">Save a Copy</span> in the isolation bar. This is really great for iterating or making variations on a pattern.
 
-  ### The Pattern Panel
+  #### The Pattern Panel
 
   The Tile Type sets how the tiles are positioned relative to each other.
 
@@ -203,11 +203,11 @@ details: |
 
   In the grey bar below the Control Panel, choose to save or discard changes to the pattern.
 
-  ### Start From Nothing
+  #### Start From Nothing
 
   You can use the Make Pattern function starting from no artwork. This is pretty cool. Go <span class="command">Object > Pattern > Make...</span> The panel will come up, with a tile preview on the page. Now you can draw in the square. Illustrator will generate a live preview of your pattern as you draw it. I told you it was cool.
 
-  ### Transforming Patterns
+  #### Transforming Patterns
 
   There are two options when scaling an object that has a pattern in it. You can have the pattern scale or not.
 
@@ -215,23 +215,23 @@ details: |
 
   All you need to do is double-click on the scale tool. Choose the options you want. Most of the time, we want patterns to scale with the shape they're in.
 
-  ## Graphic Styles
+  ### Graphic Styles
 
   Graphic Styles are stores Appearances. So if you build an oval with a fill and two stokes, you can save that appearance in the Graphic Styles Panel. You're not saving the fact that it's an oval, you're only saving its attributes.
 
   <img class="size75" alt="illustrator-graphic-styles" src="/images/illustrator-appearance-graphic-styles/illustrator-graphic-styles.jpg">
 
-  ### Creating Graphic Styles
+  #### Creating Graphic Styles
 
   One simple way to save a Graphic Style is to select an object with the attributes you want, then click the New button at the bottom of the panel. Make sure you name your styles, so you can find them easily.
 
   You can also drag artwork into the Graphic Styles panel. All it stores is its attributes, not the actual artwork.
 
-  ### Applying Graphic Styles
+  #### Applying Graphic Styles
 
   To apply a graphic style, all you need to do is select the object, then click on the style in the panel.
 
-  ### Updating Graphic Styles
+  #### Updating Graphic Styles
 
   The payoff for using graphic styles really comes when you need to edit them. You can update all instances of the graphic style on the page in one go. Just edit one instance, then choose Redefine Style from the Appearances panel menu. You can also option-drag the edited artwork's icon from the Appearance panel onto the style in the Graphic Styles panel.
 
@@ -239,7 +239,7 @@ details: |
 
   When you ⌥-drag the new appearance onto the existing graphic style, all artwork with that style applied gets updated with the new appearance.
 
-  ## Expanding Appearance
+  ### Expanding Appearance
 
   When you build an object in the Appearance panel, it can have multiple fills and strokes. Expanding objects separates the elements into the separate parts. You want to expand the appearance of artwork if you need to edit the individual parts. The important thing to remember is to expand <mark>a copy</mark> of your artwork. Keep the live art with the appearances intact.
 

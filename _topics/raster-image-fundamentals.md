@@ -21,7 +21,7 @@ description: "Understanding the properties of raster images is crucial to buildi
 details: |
   As a graphic designer, you’ll be manipulating raster images for many different intents: high-end printing, app & web design, large format signage, etc… Being aware of the mechanics of what’s happening to the pixels in your images is crucial to successful reproduction.
 
-  ## Defining Terms
+  ### Defining Terms
 
   Terminology relating to raster images is rather *flexible*. Let's assign terms to concepts
 
@@ -36,7 +36,7 @@ details: |
   </dl>
 
 
-  ## Images for the Screen Vs Print
+  ### Images for the Screen Vs Print
 
   When creating graphics for use on screen, the Resolution setting in Photoshop's Image Size dialogue doesn't matter. All we care about are the pixel dimensions when designing for the screen.
 
@@ -48,7 +48,7 @@ details: |
 
   On the other hand, if the resolution is too low when printing, the image will look blurry or pixelated.
 
-  ### Pixel Dimensions
+  #### Pixel Dimensions
 
   If you open the two provided images in Photoshop then view them at 100% by typing ⌘-1, you'll see they zoom to the same size on screen. That's because they're both 1000 pixels wide.
 
@@ -66,7 +66,7 @@ details: |
 
   The pixels for the image on the left are much larger, since there are only 72 of them in one inch. There are 240 pixels in one inch for the image on the right. That makes them much smaller.
 
-  ## Resampling
+  ### Resampling
 
   > Resampling is changing the amount of image data as you change either the pixel dimensions or the resolution of an image. When you downsample (decrease the number of pixels), information is deleted from the image. When you resample up (increase the number of pixels, or upsample), new pixels are added.
   <cite><a href="https://helpx.adobe.com/photoshop/using/image-size-resolution.html" target="_blank" title="Adobe's page about resampling.">Adobe</a></cite>
@@ -95,7 +95,7 @@ details: |
 
   The operation we're performing here is <mark>resampling</mark>. This means that we're removing pixels from the image, which is a destructive process. If you were to save and close this image, that data would be lost forever.
 
-  ## Resizing
+  ### Resizing
 
   > When you resize an image and do not resample it, you change the image's size without changing the amount of data in that image. Resizing without resampling changes the image's physical size without changing the pixel dimensions in the image. No data is added to or removed from the image. <cite><a href="https://helpx.adobe.com/photoshop/kb/advanced-cropping-resizing-resampling-photoshop.html" target="_blank" title="Adobe: Resize Vs Resample">Adobe</a></cite>
 
@@ -115,7 +115,7 @@ details: |
 
   You can resize a very large, low resolution image smaller, thus shrinking its pixels into a smaller area, which raises its resolution. Conversely, you can take a very high resolution low pixel dimension image and stretch its pixels over a much larger area to make a large, low resolution image for large format output.
 
-  ## InDesign: Placing Images
+  ### InDesign: Placing Images
 
   When you place an image on a page in an InDesign document, there's a link to the original file on your hard drive. What you're seeing is a picture of the image in InDesign. InDesign's command for importing a graphic onto a page is called <span class="command">Place</span> rather than *import*.
 
@@ -134,7 +134,7 @@ details: |
 
   If you wish to place a series of images at once, you can use the <span class="command">File > Place...</span> command, then choose multiple images. Once you do so, you'll get a cursor loaded with all the images. Then, you can click and drag them onto your pages one after the other.
 
-  ### Resizing Images in InDesign
+  #### Resizing Images in InDesign
 
   When a graphic or a photo is placed on the page in InDesign, it's inside and InDesign frame. The brown frame is the graphic itself. The blue one is the InDesign frame which contains it. Both can be resized individually.
 
@@ -148,7 +148,7 @@ details: |
 
   When you select an image in InDesign, a circle appears at its center. This is called the Content Grabber. It allows you to drag the image around inside the InDesign frame. This can be useful for cropping an image inside the frame.
 
-  ### Links
+  #### Links
 
   The Links panel lists all the images you've placed in your document. There's a ton of information in the lower part of the panel about each image.
 
@@ -156,7 +156,7 @@ details: |
 
   It's important to keep image files well organized in your project folder because InDesign will reference that location to find the linked files. If you rename or move an image in Finder after its been placed, InDesign will lose track of the image. This means that it won't be packaged with the rest of the files, which makes your document rather useless.
 
-  ### What Does 100% Mean?
+  #### What Does 100% Mean?
 
   When we place raster images in InDesign, it's fine to resize them at will while we're designing our document. When our design is completed, you should resize your images to 100% before sending files for reproduction. The 100% means that the print size in Photoshop matches the print size in InDesign.
 
@@ -188,7 +188,7 @@ details: |
 
   You can see that the image is at 100%. Our photo now prints the same size in InDesign as it does in Photoshop. This is our goal.
 
-  ## Low-Rez Images for Print?
+  ### Low-Rez Images for Print?
 
   I'm sure you've heard before that it's not possible to use an image from the web in print; that you can't use a 72dpi image in print. That's not completely true. If an image's pixel dimensions are large enough, you can use that to get a higher resolution.
 
@@ -206,7 +206,7 @@ details: |
 
   So we've successfully taken a 72dpi image and made safe for high-quality print output at 9" wide at 300dpi.
 
-  ## HiDPI (Retina<span style="font-weight: normal;">&trade;</span>) Pixels
+  ### HiDPI (Retina<span style="font-weight: normal;">&trade;</span>) Pixels
 
   HiDPI or Apple's Retina&trade; screens display one image pixel using four or more device pixels.
 
@@ -222,7 +222,7 @@ details: |
 
   Your MacBook Pro doubles pixels. That means that each image pixel is displayed with two device pixels. The proof is that when you take a screen grab, then open it in Photoshop, the image measures twice the pixel dimensions as Finder says.
 
-  ### Output for Screens
+  #### Output for Screens
 
   Open the provided file in Illustrator. Go <span class="command">Window > Asset Export</span>. Drag the camera icon into the panel. Rename the asset icon-camera. Click on iOS. This will set up the three sizes for your graphic, plus a vector .SVG file. Save them into the provided 06-app-icon folder. Go see in the folder, you should have three files that are increasing in dimensions.
 

@@ -21,7 +21,7 @@ details: |
 
   Watch the video tutorial, then set up the same folder structure.
 
-  ## Backups!
+  ### Backups!
 
   In addition to having your current active files in DropBox or in Google Drive, it's a good idea to have the rest of your files backed up.
 
@@ -31,7 +31,7 @@ details: |
   Option #2: BackBlaze
   : <a href="http://www.backblaze.com" title="Learn about BackBlaze backups." target="_blank">BackBlaze</a> is a complete cloud-based backup product for only $5 per month (or $50 per year). It backs up your whole computer online constantly.
 
-  ## Finder Preferences
+  ### Finder Preferences
 
   Let's change your Finder's Preferences to make navigation easier and more convenient. We want to make sure that Finder windows help us work faster. We'll have drives show on our Desktop. Make Finder windows open in our Semester # folder so we can get right to work. Apple sets up new Macs with some really inconvenient settings. We'll get rid of those.
 
@@ -39,7 +39,7 @@ details: |
 
   Watch the video and set up your Finder the same way.
 
-  ## Desktop View Options
+  ### Desktop View Options
 
   We want icons on our desktop to snap to a grid, but not sort themselves in any way. We want icons for folders and files to be easy to find, so we can clear our Desktop easily.
 
@@ -49,7 +49,7 @@ details: |
 
   Watch the video and set up your Desktop the same way.
 
-  ## Browser Download Folder
+  ### Browser Download Folder
 
   Odds are that if you look in any random Mac user's Downloads folder, you'll find that it's full of unused downloaded files. Odds are, there are many duplicates too. This just burns up a pile of disk space for nothing.
 
@@ -59,7 +59,7 @@ details: |
 
   Watch the video and set up your browsers the same way.
 
-  ## Dock Setup
+  ### Dock Setup
 
   The goal of the Dock on your Mac is to give you quick access to apps, files and folders. By default, your Mac's Dock is full of icons you don't need. You'll remove un-needed items and add the Adobe Creative Cloud applications.
 
@@ -67,7 +67,7 @@ details: |
 
   Watch the video and set up your Dock the same way.
 
-  ## Finder 'Open with' Defaults
+  ### Finder 'Open with' Defaults
 
   This tutorial will guide you through setting up your Mac so raster files are opened by Photoshop by default. The Mac OS is set up to open raster files with its own Preview application. That's useless to us. We want a TIFF, JPEG, PNG and other raster file formats to open with Photoshop when we double-click their icons.
 

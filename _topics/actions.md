@@ -63,7 +63,7 @@ details: |
 
   When the panel is in Button Mode, you simply need to click on an action once to have it play. Notice the Play button isn't even there.
 
-  ## # Our First Action
+  ### # Our First Action
 
   Sharpening photos is a common task which lends itself to automation. We'll set up a workflow which runs through a series of actions, but asks for parameters along the way.
 

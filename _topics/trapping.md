@@ -14,7 +14,7 @@ video: "https://www.youtube.com/embed/q3ReWstCi0Y"
 downloads: "https://www.dropbox.com/s/2scolofucbf6zm6/illustrator-trapping.zip?dl=1"
 description: "While designers shouldn't need to do trapping on their files, they should be familiar with the concept and the mechanics of how it works."
 details: |
-  ## Why Trapping?
+  ### Why Trapping?
 
   While I was eating my Cap'n Crunch cereal this morning, I found myself entranced by the artwork on the box. I was focused on a small area of the front. I noticed that where two contrasting colours met, they seemed to overlap to create a darker colour band all along that intersection. 
 
@@ -52,7 +52,7 @@ details: |
     In real life, trapping is the responsibility of the printer. You actually should never perform trapping on your own files. The reason is, to trap your files, you would need specialized software and very specific technical information on the stock and presses used to produce your work. What we're doing today, is learning the mechanics of trapping, so you understand what the printer is doing with your designs before they go to press.
   </div>
 
-  ## How Trapping Works
+  ### How Trapping Works
 
   <img class="size75" alt="trapping-example" src="/images/illustrator-trapping/trapping-example.svg">
 
@@ -62,7 +62,7 @@ details: |
 
   There are a few settings that can affect the intensity of the trap. There's the weight of the stroke and the tint reduction. The weight of the stroke is pretty obvious. The weight of the stroke dictates the size of the overlap of the light colour on top of the dark colour. Tint reduction is how *faded* the lighter colour is where it overlaps with the darker one.
 
-  ## Creating a Trap
+  ### Creating a Trap
 
 
 assignment: |

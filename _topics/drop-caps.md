@@ -30,7 +30,7 @@ details: |
 
   <img class="size75" alt="indesign-drop-cap-completed" src="/images/indesign-drop-caps/indesign-drop-cap-completed.jpg">
 
-  ## Custom Drop Caps
+  ### Custom Drop Caps
 
   InDesign's drop cap functionality is effective and easy to use. What if you want a more decorative drop cap? Well, Illustrator can help you out here. This process will be more time-consuming, but the result has much more impact.
 

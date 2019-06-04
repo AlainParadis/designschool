@@ -13,13 +13,13 @@ video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDYEZv4e0l-keh
 downloads:
 description: "In Photoshop, a composite is a collage of multiple photos and graphics with a theme. The focus of this assignment is to build one of these compositions in the most non-destructive, editable way possible."
 details: |
-  ## What is Compositing?
+  ### What is Compositing?
 
   A composite is made of a selection of images with a theme. Multiple images are part of a seamless composition.
 
-  ## What Are Our Goals?
+  ### What Are Our Goals?
 
-  ### Goals, Conceptual
+  #### Goals, Conceptual
 
   The goal of this assignment is to have you design a composition with a theme of your choice. You need to use your own photos. The composition can be memories of an event, a person in your life or some other personal topic. Feel free to take photos for this assignment.
 
@@ -31,7 +31,7 @@ details: |
 
   Your concept *can* convey a message. It could be an environmental, anti-gun, pro-Trump (!) or whatever else you can think of. It can be edgy; even controversial. Just keep it decent. The decency test is: *would the College allow you to post it on their bulletin boards?*
 
-  ### Goals, Technical
+  #### Goals, Technical
 
   One of the principal goals here is to build a file in Photoshop which is easily editable. To this end, you must use most of these features in your file.
 
@@ -74,7 +74,7 @@ details: |
   Smart Objects
   : Use <span class="command">File > Place Embedded...</span> to import a photo as a Smart Object. You can also right-click on a layer, then choose <span class="command">Create Smart Object</span>. This will make that layer scalable without damaging the pixels. Just don't scale it up much passed 100%.
 
-  ## Placing Images
+  ### Placing Images
 
   Import images for your composition by using <span class="command">File > Place Embedded...</span>. You can also drag their icons from Finder into you canvas. Do **not** use <span class="command">File > Place Linked...</span>
 
@@ -82,7 +82,7 @@ details: |
     Odds are, your images will start off as .JPEG files. Open them all, then save them as native .PSD files <em>before</em> you import them. It will make them easier to edit once they're in your main composition.
   </div>
 
-  ## My Example
+  ### My Example
 
   When I was seventeen, I circumnavigated the globe on a tall ship. These are a few photos from my trip.
 
@@ -121,11 +121,11 @@ assignment: |
   * Leave your type live. Use only TypeKit fonts.
   * Image choice is restricted to your own photos.
 
-  ## Source Images
+  ### Source Images
 
   You can take your own photos. Use only your own images for this. It would really make your composition unique and your own.
 
-  ## Your Submission
+  ### Your Submission
 
   <img class="size100" alt="submission-screen-grab" src="/images/photoshop-compositing/submission-finder-window.jpg">
 

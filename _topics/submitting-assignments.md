@@ -10,7 +10,7 @@ video:
 downloads: 
 description: "When handing in assignments on Brightspace, there are a few techniques which can help you ensure a timely submission."
 details: | 
-  ## Count on Technology Failing You. It will.
+  ### Count on Technology Failing You. It will.
 
   Make sure you give yourself **a lot** of time to submit. An hour is *not* a lot of time. If you can submit the day before the due date, all the better.
 
@@ -18,7 +18,7 @@ details: |
 
   It's advisable to carry <a href="https://duckduckgo.com/?q=ethernet+cable&amp;bext=msl&amp;atb=v31-3__&amp;iax=1&amp;ia=images" title="Ethernet cable" target="_blank">an ethernet cable</a> and <a href="http://www.apple.com/ca/shop/product/MD463LL/A/thunderbolt-to-gigabit-ethernet-adapter?fnode=8b&amp;fs=f%3Dadapter%26fh%3D4595%252B45b0" title="Ethernet to Thunderbolt adaptor" target="_blank">an adaptor</a> in your computer bag, so you can use a wired connection at school to transfer large files faster. It will also come to your rescue if the college's Wi-Fi goes down.
 
-  ### Submission Page
+  #### Submission Page
 
   To submit an assignment on Brightspace, go to the assignment page. There will be a Submit button at the top-right of the page. There are also details about the assignment, like:
 
@@ -29,7 +29,7 @@ details: |
 
   <img alt="canvas-submission-button" src="/images/general/canvas-submission-button.gif">
 
-  ### Submitting Your Assignment
+  #### Submitting Your Assignment
 
   Start by choosing your submission file. You cannot submit a folder. Brightspace won't accept it. In the case pictured below, you need to submit a zip-compressed file.
 

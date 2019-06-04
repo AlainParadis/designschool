@@ -20,7 +20,7 @@ details: |
 
   <img class="size75" alt="illustrator-perspective" src="/images/illustrator-perspective/illustrator-perspective.jpg">
 
-  ## Types of Perspective
+  ### Types of Perspective
 
   Illustrator allows for the three types of perspective illustration. See the image below for a visual of one-point, two-point and three-point perspectives.
 
@@ -61,7 +61,7 @@ details: |
   Editing the grid angles can be a finicky process. The Perspective grid presets are burried three menus deep, which is totally annoying. It's often necessary to reset it to a default position, then start editing again. To that end, we'll record an action to reset the grid.
   </div>
 
-  ## Adjusting the Grid
+  ### Adjusting the Grid
 
   The grid is central to drawing in perspective. We'll deconstruct the grid and adjust it to suit our needs. Adjust the grid with the Perspective Grid Tool.
 
@@ -76,7 +76,7 @@ details: |
 
   The Perspective Grid can be moved from one Artboard to another. Hover the Perspective Grid Tool over the Ground Plane widget, then drag.
 
-  ## Actually Drawing
+  ### Actually Drawing
 
   Drawing in perspective isn't much different than normal drawing. As long as the one of the planes are targeted on the .
 

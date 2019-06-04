@@ -22,7 +22,7 @@ details: |
 
   Lists *can* become complex. You can create multi-level lists which have multiple levels of indenting. They can have custom bullet glyphs. Text styling can vary by level. You can even have paragraphs within a list that don't have bullets.
 
-  ## Units of Measure
+  ### Units of Measure
 
   <figure>
       <img class="size75" alt="Units of Measure - Picas, Points & Inches" src="/images/svg/picas-points-and-inches.svg">
@@ -40,7 +40,7 @@ details: |
   </figcaption>
   </figure>
 
-  ## Formatting Tips
+  ### Formatting Tips
 
   When formatting lists, hanging punctuation is the best way to go, as shown in the middle option below. Outdented formatting is a rarely used option. It looks clean, but it means you need to indent everything else on the page, which is annoying to manage.
 
@@ -73,7 +73,7 @@ details: |
 
   If you're working with words or phrases that are not sentences, avoid using a period. Turn off hyphenation for lists in the paragraph style's Hyphenation settings.
 
-  ## Bullet Lists
+  ### Bullet Lists
 
   To create a bullet list, simply choose Bullets from the List Type drop-down menu. If you have Preview checked, you'll see the bullets appear on the page.
 
@@ -106,7 +106,7 @@ details: |
   </figcaption>
   </figure>
 
-  ### Alignment
+  #### Alignment
 
   This refers to the alignment of the bullets, not the text itself.
 
@@ -119,7 +119,7 @@ details: |
 
   Note how the lower-case roman numberals in the example above are right-aligned. Whenever you have a numbered list with two-digit numbers, make sure the numbers are right-aligned.
 
-  ### Left Indent
+  #### Left Indent
 
   This is the distance from the margin to the right edge of the bullet.
 
@@ -130,7 +130,7 @@ details: |
   </figcaption>
   </figure>
 
-  ### First Line Indent
+  #### First Line Indent
 
   When you have multiple lines in a list item, this will align the first line.
 
@@ -141,7 +141,7 @@ details: |
   </figcaption>
   </figure>
 
-  ### Tab Position
+  #### Tab Position
 
   The distance from the margin to the start of the text. Combined with the left indent, it sets the space between the number (or bullet) and the text.
 
@@ -152,7 +152,7 @@ details: |
   </figcaption>
   </figure>
 
-  ## Number Lists
+  ### Number Lists
 
   When you choose to create a numbered list, you have a selection of number styles for your lists in the Format drop-down menu. You can even style the numbers with a character style, as shown here (cyan text).
 
@@ -165,7 +165,7 @@ details: |
 
   Note again that the numbers in cyan are right-aligned, as they should be.
 
-  ## Defined Lists
+  ### Defined Lists
 
   Creating defined lists gives you more control over your lists. A defined list is a container for a list. The list can be built with multiple paragraph styles. Start by defining a list.
 
@@ -209,7 +209,7 @@ details: |
 
   If you want to restart numbering manually, you can use <span class="command">Type > Bulleted & Numbered Lists > Restart Numbering</span>.
 
-  ### Figure Captions
+  #### Figure Captions
 
   If you wish to number figures throughout your document, you can use a defined list. This way, you'll avoid having to number the items manually.
 
@@ -220,25 +220,25 @@ details: |
 assignment: |
   Start by renaming the *Appleseed* folder with your name and group number. Then, go to <a href="https://fonts.adobe.com/fonts/acumin" target="_blank" title="Activate Acumin Pro Regular and Bold.">Adobe Fonts</a> to activate Acumin Pro Regular and Acumin Pro Bold.
 
-  ### Bullet List
+  #### Bullet List
 
   Create a bullet list from the provided text on page one of the exercise InDesign document.
 
   <img class="size100" alt="exercise-1" src="/images/indesign-bullet-number-lists/exercise-1.jpg">
 
-  ### Split Columns
+  #### Split Columns
 
   The provided list is too long to have in one column. Format the list properly, then make sure it's split into two columns.
 
   <img class="size100" alt="exercise-2" src="/images/indesign-bullet-number-lists/exercise-2.jpg">
 
-  ### Multi-Level List
+  #### Multi-Level List
 
   This list is a mix of bullets and numbers. Note that the numbers will continue through the list. They don't re-start.
 
   <img class="size100" alt="exercise-3" src="/images/indesign-bullet-number-lists/exercise-3.jpg">
 
-  ### Defined List
+  #### Defined List
 
   Define a list, then format the given text as shown. Note that the numbered items for this list restart within the list.
 

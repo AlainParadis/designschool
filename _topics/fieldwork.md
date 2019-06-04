@@ -23,7 +23,7 @@ details: |
 
   <div class="button-wrapper"><a href="https://goo.gl/forms/JFRiwf5aa3MkHAb13" title="I Got My Fieldwork" target="_blank" class="button">I Got My Fieldwork</a></div>
 
-  ## Assessment
+  ### Assessment
 
   This is a pass/fail course. It must be successfully completed to graduate from the Graphic Design program.
 
@@ -41,7 +41,7 @@ details: |
   - Completion of fieldwork
   - Completion of a fieldwork journal
 
-  ## Consent Form
+  ### Consent Form
 
   You need to fill out this form.
 
@@ -49,7 +49,7 @@ details: |
 
   Return the PDF to me completed via <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#97;&#114;&#97;&#100;&#105;&#97;&#64;&#97;&#108;&#103;&#111;&#110;&#113;&#117;&#105;&#110;&#99;&#111;&#108;&#108;&#101;&#103;&#101;&#46;&#99;&#111;&#109;">e-mail</a>.
 
-  ## Fieldwork Journal
+  ### Fieldwork Journal
 
   You must complete a journal describing your activities and duties during fieldwork.
   
@@ -61,9 +61,9 @@ details: |
 
   A document will be sent to you at a later date.
 
-  ## Legal Stuff
+  ### Legal Stuff
 
-  ### Is Your Fieldwork Abroad?
+  #### Is Your Fieldwork Abroad?
 
   If a student wishes to complete their fieldwork outside of Canada you should contact the Centre for International Studies here at the college for information about studies outside of Canada. Go to the link Apply for Funding&nbsp;to get additional information about study or work internationally.
 
@@ -73,7 +73,7 @@ details: |
 
   Interested in a bursary for your fieldwork abroad? <a href="http://www.algonquincollege.com/international/study-and-work-abroad-2018/placement-abroad/" target="_blank">Read more...</a>
 
-  ### International Students
+  #### International Students
 
   If you are an international student you need to contact me and I will supply you with a required letter that you have to have signed by me to enable your eligibility to work in Canada for the required 6 weeks of placement in order for you to graduate.
 

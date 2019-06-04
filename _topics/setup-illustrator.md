@@ -11,7 +11,7 @@ video: "https://www.youtube.com/embed/1c4SNj6Gd08"
 downloads: "https://www.dropbox.com/s/kl0l85nuxyrsqks/setup-illustrator.zip?dl=1"
 description: "Before we start to use Illustrator, we need to edit settings to make it work better for us."
 details: |
-  ## Updates? Apply Them!
+  ### Updates? Apply Them!
 
   This page assumes you have Illustrator CC installed on your computer. The next step is to ensure it's up to date. To do so, go to your Creative Cloude Desktop App icon in your Mac's menu bar.
 
@@ -19,7 +19,7 @@ details: |
 
   If one of the buttons is set to Update, then you have an update to apply.
 
-  ## Default Document
+  ### Default Document
 
   Before we even launch Illustrator, we're going to put in place a better default document. Go to this folder on your Mac.
 
@@ -27,7 +27,7 @@ details: |
 
   In the folder, there's a document named Print.ai. Rename it Print-original.ai. Put the new one into this folder.
 
-  ## Keyboard Shortcuts
+  ### Keyboard Shortcuts
 
   Let's install a better set of keyboard shortcuts. The .kys file is in the folder you've downloaded. Move them to this location on your Mac. Go to your Library folder from the Finder's Go menu.
 
@@ -35,7 +35,7 @@ details: |
 
   We're never really done setting up Illustrator. I find myself constantly adjusting settings and creating new workspaces. It's an ongoing process.
 
-  ## Preferences
+  ### Preferences
 
   Before we start to use Illustrator, we want to change a few settings in the application. Go to the Illustrator menu, then choose Preferences. Change Preferences to match what's in the provided images.
 
@@ -43,7 +43,7 @@ details: |
 
   Once you've made the changes, quit Illustrator so the new settings are written to your hard drive.
 
-  ## Workspaces
+  ### Workspaces
 
   By default, Illustrator uses the Application Frame. It's a window that contains the whole application's user interface. It's very constraining. Let's get rid of it from the outset. You'll see, you'll be better without it.
 
@@ -66,7 +66,7 @@ details: |
 
   If you find yourself needing a whole different set of panels for a specific type of work, go ahead and make new a workspace.
 
-  ## Guided Tour
+  ### Guided Tour
 
   Now we're ready to launch Illustrator. The first item on the menu is to take a quick tour of Illustrator's user interface. We'll look at the Control Panel, Tools and Panels setup. I'll show you how you can easily switch between open documents and view them in full-screen mode.
 

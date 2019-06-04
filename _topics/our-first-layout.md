@@ -34,7 +34,7 @@ details: |
 
   <img class="size50 center" alt="Units of measure Point, Picas and Inches" src="/images/svg/picas-points-and-inches.svg">
 
-  ## Using Fonts
+  ### Using Fonts
 
   This document uses two typefaces: Myriad Pro for titles and Minion Pro for body copy.
 
@@ -44,13 +44,13 @@ details: |
 
   We need to activate these two fonts on the <a href="https://fonts.adobe.com/" target="_blank" title="Adobe Fonts web site">Adobe Fonts web site</a>. You'll need to be logged in with your Adobe ID.
 
-  ## The What, Why & How of Style Sheets
+  ### The What, Why & How of Style Sheets
 
   Style sheets allow you to store the appearance settings of text in a central location called either a paragraph style or a character style.
 
   The greatest benefit of style sheets is that you can change their settings, then all the text that has that style applied changes automatically. The beauty of this is the speed that changes can be made. Also, the lack of manual, one-off edits makes for fewer user-errors and omissions.
 
-  ### Paragraph Vs. Character Styles
+  #### Paragraph Vs. Character Styles
 
   Paragraph Styles are so called because they only apply to whole paragraphs of text. You cannot make one word *italic* with a Paragraph Style. That's what Character Styles are for.
 
@@ -62,9 +62,9 @@ details: |
 
   Character styles are most often used from within paragraph styles. These are called nested styles. Character styles may be nested in different ways. There are InDesign's actual Nested Styles, there are Grep Styles and others. We use these because applying Character Styles manually is very tedious.
 
-  ## Paragraph Style Sheets
+  ### Paragraph Style Sheets
 
-  ### What is a Paragraph?
+  #### What is a Paragraph?
 
   Most of the work we need to do to create this layout is simply creating paragraph styles, then applying them to the text.
 
@@ -78,13 +78,13 @@ details: |
 
   The letter Z above is a paragraph, according to InDesign, because there's a Pilcrow before and after it.
 
-  ## Setting Base Styles
+  ### Setting Base Styles
 
   Formatting text in InDesign can either be a headache or a pleasure. We'll give you the tools you need to make styling text quick and error-free.
 
   Before we can start formatting the document text, we need to create a few *base* paragraph styles.
 
-  ### Edit Basic Paragraph
+  #### Edit Basic Paragraph
 
   <img alt="indesign-paragraph-styles-dialogue" src="/images/indesign-style-sheets/indesign-paragraph-styles-dialogue.jpg" class="size100">
 
@@ -100,13 +100,13 @@ details: |
 
   Make the most of this inheritance property for style sheets.
 
-  ### Size and Leading
+  #### Size and Leading
 
   In your Paragraph Styles, you can define the size of the text and its leading. These settings are found in *Basic Character Formats* in your stylesheet's settings. If you're just starting out, it's a good idea to leave the leading to *Auto*. This establishes a 120% value. So 10 point type will have a 12 point leading.
 
   <img alt="indesign-simple-paragraph-style-example" class="size100" src="/images/indesign-style-sheets/indesign-simple-paragraph-style-example.jpg">
 
-  ### Paragraph Spacing
+  #### Paragraph Spacing
 
   When reading text, it's ideal to have a visual indication of the end of a paragraph and the start of the next. This is either achieved with a first line indent or a space after the paragraph — never both.
 
@@ -114,7 +114,7 @@ details: |
 
   You can see an example of a first line indent on the left of the above image. On the right, there's a space after the paragraph. Choose one of the two treatments, not both. In this specific case, we'll create space after paragraphs in our style sheet.
 
-  ### Text Colour
+  #### Text Colour
 
   In some instances, you want to change the colour of your text. You can do this in a stylesheet, along with all the other properties. It's found under the *Character Colour* pane in your stylesheets settings.
 
@@ -122,7 +122,7 @@ details: |
 
   There are many, many more properties in the Paragraph Styles Options dialogue. We'll explore most of them over time.
 
-  ## Columns of Text
+  ### Columns of Text
 
   The main text of our whole layout is in one three-column text frame.
 
@@ -132,7 +132,7 @@ details: |
 
   Make sure you delete every last character at the end of the paragraph the <span style="color: #0096FF;">&#8744;</span> glyph needs to be the last glyph in the column, right after the period glyph.
 
-  ## Master Pages
+  ### Master Pages
 
   In publications, some elements repeat themselves on multiple pages. Rather than manually placing items on each page of your document, we place them on master pages.
 
@@ -140,7 +140,7 @@ details: |
 
   You can see, in the image above, that the black bar with the  logo is on the Master Page. You can also see the letter A at the top of the document page. That means A-Master is applied to the document page. Anything on A-Master will appear on page one.
 
-  ## Bleeds
+  ### Bleeds
 
   The bleed area is the narrow space all around the exterior of the pages ending at the red line. It's extra space to prevent unsightly white area in case of inaccurate cutting by the printer. It's generally one eighth of an inch. That's 0.125" or 9 points.
 
@@ -148,7 +148,7 @@ details: |
 
   If content touches the edge of the page, you need to extend it to the bleed line. Be precise with positioning at the bleed. Go no further.
 
-  ## Placing Images
+  ### Placing Images
 
   In Adobe-speak, importing an image is called *placing*. We'll place the image of the Mac Mini on the page. When you place an image, it's always inside a frame.
 
@@ -156,11 +156,11 @@ details: |
 
   In the image above, the photo has a brown frame around it. That's our Photoshop file. The blue box is the InDesign frame. <a href="raster-image-fundamentals.html" title="See more about placing images here">See more about placing images here</a>.
 
-  ## Preflight & Package
+  ### Preflight & Package
 
   The nature of an InDesign document is that it depends on certain files being present on your computer or online. These inlclude photos, graphics and fonts. If these aren't present, the document won't display properly. An image may not appear at all. A font may be substituted for another, changing the look of your design.
 
-  ### Font Usage
+  #### Font Usage
 
   Once you're done your layout, you want to double-check that your font and image usage is correct. Let's check fonts first. Go <span class="command">Type > Find Font...</span>. A dialogue opens which shows you which fonts have been used in your document.
 
@@ -168,7 +168,7 @@ details: |
 
   You can see in the Find Font dialogue that we only have the font we've actually used in our document.
 
-  ### Image Usage
+  #### Image Usage
 
   We need to ensure that the images we've place in our document are properly linked to our file. To do so, we can check our Links panel. Go <span class="command">Window > Links</span>. This panel has a list of each object we've placed on our pages. It also displays the properties of those images and graphics.
 

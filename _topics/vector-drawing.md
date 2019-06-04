@@ -17,7 +17,7 @@ video: "https://www.youtube.com/embed/Mxcfrm7m99Y"
 downloads: 
 description: "InDesign is surprisingly adept at illustration. There's often no need to jump into Illustrator to create vector art. It can be done right in your page layout in InDesign."
 details: |
-  ## Shape Tools
+  ### Shape Tools
 
   Have you ever wondered why InDesign has two rectangle tools? Well, I have. They're really kind of redundant.
 
@@ -45,7 +45,7 @@ details: |
 
   If you want to set corner radius by the numbers, go to the Options Bar. Option-click on the Corner Options widget to open the Corner Options dialogue.
 
-  ## Step & Repeat
+  ### Step & Repeat
 
   In Illustrator, if you wish to repeat the last move or copy you performed, you'd hit ⌘-D. InDesign has a wonderful feature called Step & Repeat that does just that. Hit <span class="command">Option-⌘-U</span> to invoke the dialogue.
 
@@ -53,7 +53,7 @@ details: |
 
   The functionality is really versatile. It's a great tool for creating equally spaced objects.
 
-  ## The Pen Tool
+  ### The Pen Tool
 
   Here's a revelation. In my opinion, the Pen Tool in InDesign is superior to the one in Illustrator. It works exactly the same way, but I find it more accurate.
 
@@ -61,7 +61,7 @@ details: |
 
   Use all the same techniques <a href="{{ site.baseurl }}/pen-tool.html" target="_blank" title="Illustrator's Pen Tool is so old-school.">you've learned</a> in Illustrator with the Pen Tool in InDesign.
 
-  ## Pathfinder
+  ### Pathfinder
 
   InDesign has a very versatile Pathfinder panel. It can help you build shapes based on other shapes. 
 

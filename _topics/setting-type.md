@@ -26,13 +26,13 @@ details: |
     <a href="https://fonts.adobe.com/fonts/myriad" title="Activate fonts on Adobe Fonts" target="_blank" class="fs16limegreen borderlimegreen1 pad05 nounderline">Go to Adobe Fonts</a>
   </div>
 
-  ## Paragraph Styles
+  ### Paragraph Styles
 
   Paragraph Styles store the appearance of block-level text so that appearance can be applied to various instances of text throughout your document. If the attributes of a paragraph style is edited, all the text with that paragraph style applied will change. This is very convenient when you have a lot of text to format. Edits can be done globally with only a few clicks.
 
   Use the guide above to create on paragraph style for each different text formatting definition.
 
-  ## Units of Measure
+  ### Units of Measure
 
   It's best to use points as a unit of measure when doing page layout since type is measured in points. This gives you one common measuring system.
 

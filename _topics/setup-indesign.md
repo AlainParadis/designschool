@@ -13,7 +13,7 @@ description: "Before we start to use InDesign, we need to edit settings to make 
 details: |
   InDesign has thousands of settings. Some of them can really speed up our work. Let's change a few to make sure the application works best for us.
 
-  ## Workspaces
+  ### Workspaces
 
   Un-check Application frame here: <span class="command">Window > Application Frame</span>.
 
@@ -30,7 +30,7 @@ details: |
 
   While you're there, un-check the Show Start Workspace....
 
-  ## Keyboard Shortcuts
+  ### Keyboard Shortcuts
 
   Download and install *Al's Most Excellent InDesign keyboard shortcuts*. Unzip the file, then move it here:
 
@@ -45,7 +45,7 @@ details: |
     Remember, to get into your Library folder, you need to go to the Finder's Go menu. Hold the Option key, then click on Library.
   </div>
 
-  ## InDesign Defaults
+  ### InDesign Defaults
 
   InDesign has a system of default settings. To establish them, change settings <mark>with no document open</mark>. Each new document your create after this will have those settings.
 

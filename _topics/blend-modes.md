@@ -23,7 +23,7 @@ details: |
   </figcaption>
   </figure>
 
-  ## Important Keyboard Shortcuts
+  ### Important Keyboard Shortcuts
 
   These keyboard shortcuts should be committed to memory. They'll help you with this assignment and all the rest of your Photoshop work, especially when you're working with layer masks.
 
@@ -39,9 +39,9 @@ details: |
 
   [ &nbsp;  or &nbsp; ] : Make brush smaller or bigger.
 
-  ## Blending Basics
+  ### Blending Basics
 
-  ### Opacity
+  #### Opacity
 
   Opacity is the most basic type of blending. If you reduce the opacity of a layer, it blends with the layer(s) below.
 
@@ -52,7 +52,7 @@ details: |
   </figcaption>
   </figure>
 
-  ### Blend Modes
+  #### Blend Modes
 
   You'll find, as you navigate through Photoshop, you'll encounter Blend Modes menues everywhere. As you create new layers, there's an option to choose a blend mode. There are blend modes for individual painting tools, too. They're everywhere.
 

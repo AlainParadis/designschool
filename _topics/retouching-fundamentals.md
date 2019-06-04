@@ -31,7 +31,7 @@ details: |
   </figure>
 
   These are the tools we'll focus on. They're all made to repair photographs.
-  ## Clone Stamp Tool
+  ### Clone Stamp Tool
 
   <img class="size15" alt="Photoshop's Retouching Tools" src="/images/photoshop-retouching-fundamentals/tool-icon-clone-stamp.svg">
 
@@ -45,13 +45,13 @@ details: |
 
   The Clone Stamp Tool doesn't do any calculations or adjustments. It just clones the pixels you sampled, no matter whether they match or not.
 
-  ## Healing Brush
+  ### Healing Brush
 
   <img class="size15" alt="Photoshop's Retouching Tools" src="/images/photoshop-retouching-fundamentals/tool-icon-spot-healing-brush.svg">
 
   The Healing Brush Tool works very similarly to the Clone Stamp Tool, except that it's a smarter tool. You need to sample an area first. When you release the mouse while cloning, it evaluates the surrounding pixels then adjusts the cloned pixels to blend into their surroundings.
 
-  ## Spot Healing Brush Tool
+  ### Spot Healing Brush Tool
 
   <img class="size15" alt="Photoshop's Retouching Tools" src="/images/photoshop-retouching-fundamentals/tool-icon-healing-brush.svg">
 
@@ -59,7 +59,7 @@ details: |
 
   This is the perfect tool for removing blemishes on a subject's skin. It should be your go-to tool. If you find it not bending to your will, go back to the Clone Stamp Tool.
 
-  ## Patch Tool
+  ### Patch Tool
 
   <img class="size15" alt="Photoshop's Retouching Tools" src="/images/photoshop-retouching-fundamentals/tool-icon-patch-tool.svg">
 
@@ -85,7 +85,7 @@ details: |
       <dd>Enable this option to create the result of the move in another layer using information from all layers. Select the target layer in the Layers panel.</dd>
   </dl>
 
-  ## Red Eye Tool
+  ### Red Eye Tool
 
   <img class="size15" alt="Photoshop's Retouching Tools" src="/images/photoshop-retouching-fundamentals/tool-icon-red-eye.svg">
 
@@ -108,7 +108,7 @@ details: |
   > A reflection of the camera flash in the subject’s retina causes red eye. You’ll see it more often when taking pictures in a darkened room because the subject’s iris is wide open. To avoid red eye, use the camera’s red eye reduction feature. Or, better yet, use a separate flash unit that you can mount on the camera farther away from the camera’s lens.
   <cite><a href="https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html" title="Adobe's notes on the Red Eye Tool." target="_blank">From: Adobe</a></cite>
 
-  ## The Final Product
+  ### The Final Product
 
   The important factor is to never touch the original photo. Make sure edits you make are on their own layers. This allows you to return to the photo to make changes. You can also turn off your new layers to see the original photo.
 
@@ -118,7 +118,7 @@ details: |
   </figcaption>
   </figure>
 
-  ## Content Aware Tools
+  ### Content Aware Tools
 
   The Content Aware Tools in Photoshop are truly magical. They make a really good guess at how you want to fill in shapes. All you do is lasso the unwanted area, then <span class="command">Edit > Fill > Content Aware Fill</span>. Presto!
 
@@ -145,7 +145,7 @@ assignment: |
 
    You can create layers as needed. I usually create a layer for each separate task. Remember to name all of your layers with a meaningful name.
 
-  ## Content Aware Fill
+  ### Content Aware Fill
 
   Use Content Aware Fill to remove the microphone and light from the background.
 

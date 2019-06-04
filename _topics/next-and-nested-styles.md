@@ -18,7 +18,7 @@ description: "Next and Nested styles are two different things in InDesign. When 
 details: |
   Before we get started, we'll set up our panels. Hit <span class="command">Shift-Tab</span> to hide your panels. Go to the Type menu, then check <span class="command">Paragraph Styles</span> and <span class="command">Character Styles</span>. Stretch them so they're longer, then dock them to the edge of your screen.
 
-  ## Nested Styles
+  ### Nested Styles
 
   Nested Styles are Character Styles which are applied from inside a Paragraph Style based on text delimeters. Nested styles apply Character Styles until they run into a delimeter you establish in the Paragraph Style's settings.
 
@@ -52,7 +52,7 @@ details: |
 
   The character itself doesn't show. It doesn't print. It doesn't take any space in the text. Once it's in the text, the Nested Style will stop at this character. InDesign really does have a solution for every problem you can through at it.
 
-  ## Next Styles
+  ### Next Styles
 
   Next Styles are set in the first pane of the Paragraph Styles panel. A Next Style is exactly what the name implies. When you create a Paragraph Style, you simply tell InDesign which style comes after the current one. Once you establish Next Styles, you can establish a pattern.
 

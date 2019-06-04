@@ -18,7 +18,7 @@ video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLD-jwtDjjxD_pY
 downloads: "https://www.dropbox.com/s/296l3dxhfe105li/photoshop-selecting.zip?dl=1"
 description: "Selecting pixels is central to editing in Photoshop. Leveraging the characteristics of the photo is critical to getting a good selection. From there after, you can target selected pixels for editing. All this is done in a non-destructive workflow."
 details: |
-  ## Representations of Selections
+  ### Representations of Selections
 
   We usually visualize the marquee as a selection in Photoshop, but there are other representations of selections. These are them.
 
@@ -57,13 +57,13 @@ details: |
 
   The quickest way is to right-click within selection with the Marquee Tool still active. You'll have the option to <span class="command">Transform Selection...</span>. Just hit <span class="command">Return</span> once you've done your transformations.
 
-  ## Lasso
+  ### Lasso
 
-  ### Lasso Tool
+  #### Lasso Tool
 
   To use the Lasso Tool, you simply drag it around the canvas. When you drop your mouse, the selection closes itself. As with all the marquee tools, Shift adds and Option subtracts from the selection. 
 
-  ### Polygon Lasso Tool
+  #### Polygon Lasso Tool
 
   <img class="size100" alt="photoshop-selecting-lasso" src="/images/photoshop-selecting/photoshop-selecting-lasso.jpg">
 
@@ -83,7 +83,7 @@ details: |
 
   [ &nbsp;  or &nbsp; ] : Make brush smaller or bigger.
 
-  ## Quick Selection
+  ### Quick Selection
 
   The Quick Selection tool has pretty much replaced the Magic Wand Tool. It pours a selection onto the image like water. The marquee stops when it detects contrast. The keyboard shortcut for the tool is <span class="command">w</span>.
 
@@ -99,7 +99,7 @@ details: |
 
   <img class="size100" alt="photoshop-selecting-quick-select" src="/images/photoshop-selecting/photoshop-selecting-quick-select.jpg">
 
-  ## Select Colour Range
+  ### Select Colour Range
 
   Go <span class="command">Select > Colour Range...</span>. You have the choice of sampling colours on the canvas or choosing colours from the dropdown menu.
 
@@ -109,7 +109,7 @@ details: |
 
   <img class="size100" alt="photoshop-select-colour-range-2" src="/images/photoshop-selecting/photoshop-select-colour-range-2.jpg">
 
-  ## Select Focus Area
+  ### Select Focus Area
 
   When you use <span class="command">Select > Focus Area...</span> Photoshop examines the image for sharp and blurry areas. It can output the resulting selection to a mask on a new layer.
 
@@ -117,7 +117,7 @@ details: |
 
   The first part of the dialogue is simply the preview. Choose the setting you prefer. <span class="command">Parameters</span> allow you to include more or fewer pixels in your selection. <span class="command">Output</span> is what you get once you click <span class="command">OK</span>. The best choice is <span class="command">New Layer with Layer Mask</span>. It's most editable.
 
-  ## Quick Mask
+  ### Quick Mask
 
   Quick Mask mode allows you to paint a selection. By default, what's red is deselected. You can change this by double-clicking on the Quick Select button in the Tools panel to invert this.
 
@@ -125,7 +125,7 @@ details: |
 
   Use a any tool to paint black, white or grey while in Quick Selection Mode to select or deselect to varying degrees.
 
-  ## Masking Tools
+  ### Masking Tools
 
   ### Layer Mask
 
@@ -153,19 +153,19 @@ details: |
 
   When you place such an image in InDesign, you can choose to use it as a clipping path to hide all content outside the path.
 
-  ## Reversibility of Selections
+  ### Reversibility of Selections
 
   <img class="size100" alt="photoshop-selection-reversability" src="/images/photoshop-selecting/photoshop-selection-reversability.jpg">
 
   If you're attempting to select a very detailed object on a rather flat background, it would likely be simpler to select the background, then invert the selection. That's the nature of selections in Photoshop. They're simple to invert.
 
-  ### Save a Selection
+  #### Save a Selection
 
   No matter the selection you create, you can use <span class="command">Select > Save Selection...</span> to create an *Alpha Channel*. This is simply a saved selection. It doesn't show on the canvas. It only appears in the Channels panel. It's saved in your document even after it's closed.
 
   Any mask you create makes an Alpha Channel, which is saved in your Photoshop file. This includes the mask that comes with an Adjustment Layer.
 
-  ## Clipping Path
+  ### Clipping Path
 
   When you want to place an image of a hard-edged object in a page layout without its background, a clipping path is the way to go.
 

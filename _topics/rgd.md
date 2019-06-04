@@ -13,9 +13,9 @@ video:
 downloads:
 description: "Through RGD, Canadian designers exchange ideas, educate and inspire, set professional standards and build a strong, supportive community dedicated to advocating for the value of design."
 details: |
-  ## DesignThinkers
+  ### DesignThinkers
 
-  ### Toronto, October 23-25, 2018
+  #### Toronto, October 23-25, 2018
 
   <div class="textcenter">
     <a href="http://www.designthinkers.com/Toronto/Schedule.aspx" title="DesignThinkers Conference Schedule" target="_blank" class="fs15">Complete conference schedule</a>
@@ -42,15 +42,15 @@ details: |
 
   <img class="size100" alt="map-campus-woodroffe" src="/images/general/map-campus-woodroffe.jpg">
 
-  ## Hotel
+  #### Hotel
 
   We'll likely be staying at the <a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/toronto/yyzls/hoteldetail" title="Holiday Inn Downtown" target="_blank">Holiday Inn Downtown</a> [<a href="http://bit.ly/2yENuf2" title="Holiday Inn Downtown Map" target="_blank">Google Map</a>]. There will be four people per room. One person per room needs to be assigned to pay for it. The three others can reimburse the person who's paid.
 
-  ## Bus
+  ### Bus
 
   It's customary to give the driver a tip upon arrival back at the College. $2/passenger is standard. We'll need someone to collect the funds.
 
-  ## Studio Crawl
+  ### Studio Crawl
 
   Once we arrive at the hotel, you'll be free to grab a bite then make your way to the RGD's offices to pick up your passport for the studio tours. Studio Crawl starts at 2:30pm on the 23rd.
 
@@ -69,13 +69,13 @@ details: |
 
   There are portfolio reviews during the conference. You'll be responsible for signing up and paying for them. <a href="https://www.designthinkers.com/Sessions/2017/Toronto/Portfolio-Reviews.aspx" title="DesignThinkers portfolio reviews" target="_blank">Read more about them here...</a> --->
 
-  ## What happens to my classes?
+  ### What happens to my classes?
 
   You shouldn't be penalized for attending a professional event like DesignThinkers. That said, you should take measures to complete work before attending. Do what you can to make the trip have the least impact on your studies. All faculty will do their best to make this fair for everyone, whether they attend the conference or not.
 
   More information about the trip will be posted here, so stay tuned. Question? <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#97;&#114;&#97;&#100;&#105;&#97;&#64;&#97;&#108;&#103;&#111;&#110;&#113;&#117;&#105;&#110;&#99;&#111;&#108;&#108;&#101;&#103;&#101;&#46;&#99;&#111;&#109;">E-Mail Al</a>.
 
-  ## Interested in Attending?
+  ### Interested in Attending?
 
   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfMJtslq1_PWWLlAiU6dyr8D59xU317W0n3hpqHB9S5xAWkRg/viewform?embedded=true" width="640" height="1226" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 ---

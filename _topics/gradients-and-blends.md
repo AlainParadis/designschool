@@ -16,7 +16,7 @@ video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLCH0nGq1ZceFuw
 downloads:
 description: "Create, edit and apply gradients to strokes and fills in Adobe Illustrator."
 details: |
-  ## Gradients
+  ### Gradients
 
   The Gradient Tool is a very powerful one. And with great power comes great responsibility. We'll learn to wield it like a true Jedi Master. The danger here is to create muddy colour transitions between our gradient stops. We'll build a drawing of a pencil using gradients in class. Once you're done, you'll possess secrets of the Gradient Tool.
 
@@ -35,7 +35,7 @@ details: |
   * Selecting colours for tasteful gradients
   * Opacity in gradients
 
-  ## Blends
+  ### Blends
 
   The end-product of a blend can often look like a gradient, but they're much more versatile.
 

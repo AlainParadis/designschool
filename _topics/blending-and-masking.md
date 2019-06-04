@@ -13,7 +13,7 @@ video:
 downloads: "https://www.dropbox.com/s/kni4vuo621s5fcz/photoshop-double-exposure-effect.zip?dl=1"
 description: "This effect has been trendy for a while now. Notwithstanding the trend, the effect makes use of important features in Photoshop."
 details: | 
-  ## The Double Exposure Effect
+  ### The Double Exposure Effect
 
   The double exposure effect has been very popular of late. The trend will most certainly fade, but the exercise of creating the effect has valuable techniques which can be applied in varied circumstances.
 
@@ -25,7 +25,7 @@ details: |
 
   You can peruse some examples of <a href="https://duckduckgo.com/?q=double+exposure+photography&amp;t=osx&amp;iax=1&amp;ia=images" title="Double Exposure effect examples" target="_blank">the double exposure effect that's become so popular here</a>.
 
-  ## Source Images
+  ### Source Images
 
   We need two types of photos. One portrait of an individual. It's best to either have a white background on the portrait. The second is an outdoor scene. The source photos play a large role in the final effect. The more you practice with the effect, the more you'll be able to predict the outcome.
 
@@ -33,7 +33,7 @@ details: |
 
   Once you've practiced the technique enough that you undestand the mechanics of it, you can experiment with different content, like architectural photos and others.
 
-  ## Technique #1: Paste Onto a Mask
+  ### Technique #1: Paste Onto a Mask
 
   The most basic method for achieving the double exposure effect is to simply paste the portrait onto the mask on the scene's layer. Just <span class="command">⌘-A</span> select all to copy the portrait. Add a layer to the scenery layer. <span class="command">⌥-click</span> on the mask, then paste. Voilà. You have your most basic double exposure effect.
 
@@ -57,7 +57,7 @@ details: |
 
   This technique may not give you the control you want. The following technique will.
 
-  ## Technique #2: Blend Modes
+  ### Technique #2: Blend Modes
 
   This is by far the most versatile technique. It gives you the best control of each layer in your composition.
 

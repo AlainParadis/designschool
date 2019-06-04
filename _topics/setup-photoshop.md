@@ -21,11 +21,11 @@ details: |
 
   <img class="size100" alt="setup-photoshop-shortcuts-path" src="/images/setup-photoshop/setup-photoshop-shortcuts-path.jpg">
 
-  ## Preferences
+  ### Preferences
 
   Download the support files for this page. There are a series of images of Photoshop Preferences panes. Match your settings to these.
 
-  ## Custom Workspace
+  ### Custom Workspace
 
   Photoshop has many panels. You don't need them all open at once. We always want to open only the panels we need for the job at hand. That's what workspaces are for. They are simply saved sets of open panels.
 

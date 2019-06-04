@@ -25,7 +25,7 @@ details: |
 
   You also have the Options Bar at your disposal while you use the Artboard tool.
 
-  ## Organizing Artboards
+  ### Organizing Artboards
 
   Once you're using the Artboard tool, you can create artboards by dragging as you would with the rectangle tool. As an example, you can create artboards for a company. They could include:
 

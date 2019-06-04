@@ -24,7 +24,7 @@ details: |
 
   Layer organization and stacking order is a whole other area to master. Naming layers is important for your own work and even more for collaboration. [This is a must-read](http://photoshopetiquette.com) if you want to respect industry-standard Photoshop etiquette.
 
-  ## Filter Layers
+  ### Filter Layers
 
   <figure>
     <img class="size33" alt="photoshop-layers-filters" src="/images/photoshop-layers/photoshop-layers-filters.jpg">
@@ -45,13 +45,13 @@ details: |
 
   This doesn't turn on/off the visibility on the canvas. It only filters the layers in the panel.
 
-  ## Blend Modes
+  ### Blend Modes
 
   <img class="size33" alt="photoshop-blend-modes-panel" src="/images/photoshop-layers/photoshop-blend-modes-panel.jpg">
 
   Blend Modes determine how the pixels on a layer above mix with pixels on the layer below. They can also be used with an individual tool. So, you can brush in a specific blend mode. <a href="https://helpx.adobe.com/photoshop/using/blending-modes.html" title="Adobe's Blend Mode descriptions" target="_blank">This is Adobe's detailed descriptions</a> of each Blend Mode.
 
-  ## Locks
+  ### Locks
 
   <img class="size33" alt="photoshop-layers-locks" src="/images/photoshop-layers/photoshop-layers-locks.jpg">
 
@@ -63,7 +63,7 @@ details: |
 
   These locks are different from the one at the bottom of the Layers panel. These lock the ability to move or paint a layer. The chain link at the bottom of the panel *link* layers together so them move together.
 
-  ## Opacity & Fill
+  ### Opacity & Fill
 
   <img class="size33" alt="photoshop-layers-panel-opacity-fill" src="/images/photoshop-layers/photoshop-layers-panel-opacity-fill.jpg">
 
@@ -90,7 +90,7 @@ details: |
 
 
 
-  ## Let's Practice
+  ### Let's Practice
 
   Let's use each one of these types of layers. Create a new document, then add guides on your canvas with <span class="command">View > New Guide Layout..</span>
 
