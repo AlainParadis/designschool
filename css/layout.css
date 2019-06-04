@@ -232,7 +232,14 @@ section.video-instructions {
 }
 
 section.video-instructions .item1-youtube,
-section.video-instructions .item1-lynda {
+section.video-instructions .item1-lynda,
+section.video-instructions .item1-novideo {
+    grid-column: 1 / -1;
+}
+
+section.video-instructions .item2-youtube,
+section.video-instructions .item2-lynda,
+section.video-instructions .item2-novideo {
     grid-column: 1 / -1;
 }
 
@@ -251,14 +258,11 @@ section.video-instructions .item1-lynda ul>li {
     background: url(/images/svg/bullet-video.svg) no-repeat 0 7px;
 }
 
+
 header nav a,
 footer nav a {
     padding: 0 .25rem;
     text-decoration: none;
-}
-
-section.video-instructions .item2 {
-    grid-column: 1 / -1;
 }
 
 section.content {
@@ -762,19 +766,7 @@ section.home-panels .panel-cg6 {
         align-self: end;
     }
 
-    section.video-instructions .item1 {
-        -ms-grid-column: 1;
-        -ms-grid-column-span: 6;
-        grid-column: 1 / 7;
-    }
-
-    section.video-instructions .item2 {
-        grid-column: 7 / -1;
-    }
-
     section.courseinfo .item1 {
-        -ms-grid-column: 1;
-        -ms-grid-column-span: 1;
         grid-column: 1 / 2;
     }
 
@@ -787,7 +779,7 @@ section.home-panels .panel-cg6 {
     section.courseinfo .item3 {
         grid-column: 3 / -1;
     }
-
+    
     section.content .item1 {
         -ms-grid-column: 1;
         -ms-grid-column-span: 5;
@@ -924,21 +916,17 @@ section.home-panels .panel-cg6 {
         grid-column: 1 / 4;
     }
 
-    section.video-instructions .item1-youtube {
-        -ms-grid-column: 1;
-        -ms-grid-column-span: 7;
-        grid-column: 1 / 8;
-    }
+section.video-instructions .item1-youtube,
+section.video-instructions .item1-lynda,
+section.video-instructions .item1-novideo {
+    grid-column: 1 / 7;
+}
 
-    section.video-instructions .item1-lynda {
-        -ms-grid-column: 4;
-        -ms-grid-column-span: 4;
-        grid-column: 4 / 8;
-    }
-
-    section.video-instructions .item2 {
-        grid-column: 8 / -1;
-    }
+section.video-instructions .item2-youtube,
+section.video-instructions .item2-lynda,
+section.video-instructions .item2-novideo {
+    grid-column: 7 / -1;
+}
 
     section.content .item2 {
         -ms-grid-column: 4;

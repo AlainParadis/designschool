@@ -34,28 +34,9 @@
     </div>
 </section>
     <section class="video-instructions">
-    <div class="{% if page.video contains 'youtube' %}item1-youtube{% elsif page.lyndalinks contains 'lynda.com' %}item1-lynda{% endif %}">
-        {% if page.video %}
-        <div id="embed-youtube-container">
-            <iframe src="{{ page.video }}" frameborder="0" allowfullscreen></iframe>
-        </div>
-        {% endif %}
-        {% if page.lyndalinks %}
-        <h3>Lynda.com Video Tutorials</h3>
-        <p>You need to be logged in to Lynda.com with your Algonquin College account. For instructions, <a href="http://www7.algonquincollege.com/byod/lynda.htm" target="_blank">please see this page</a>.</p>
-            {% for lyndalink in page.lyndalinks %}
-                {{ lyndalink | markdownify }}
-            {% endfor %}
-            <p>Odds are that most of the other videos in the above-linked courses will be of use to you. Feel free to watch them all!</p>
-        {% endif %}
-    </div>
-    <div class="item2">
-        <p class="darkgreen fs12">{{ page.description }}</p>
-        {% if page.type == 'assignment' %}
-        <a href="{{ page.downloads }}" title="Download practice & exercise files for this assignment." class="" target="_blank"><img src="/images/svg/icon-download.svg" class="size10 center"></a>
-        <div class="textcenter">
-            <a href="{{ page.downloads }}" title="Download practice & exercise files for this assignment." class="fw700 decoration-none" target="_blank">Download Files</a>
-        </div>
+    <div class="{% if page.video contains 'youtube' %}item1-youtube{% elsif page.lyndalinks contains 'lynda.com' %}item1-lynda{% elsif page.video != 'youtube' or page.lyndalinks != 'lynda.com' %}item1-novideo{% endif %}">
+        {% if page.video != 'youtube' and page.lyndalinks != 'lynda' %}
+        <p class="darkgreen fs15">{{ page.description }}</p>
         {% endif %}
         {% if page.formsum == 'formative' %}
         <div class="formsum">
@@ -81,6 +62,31 @@
                 <a href="{{ site.baseurl }}/topics/assessment.html" title="Algonquin College Grading System">Your Grading System</a>
             </h5>
         </div>
+        {% endif %}
+        {% if page.type == 'assignment' %}
+        <a href="{{ page.downloads }}" title="Download practice & exercise files for this assignment." class="" target="_blank"><img src="/images/svg/icon-download.svg" class="size10 center"></a>
+        <div class="textcenter">
+            <a href="{{ page.downloads }}" title="Download practice & exercise files for this assignment." class="fw700 decoration-none" target="_blank">Download Files</a>
+        </div>
+        {% endif %}
+    </div>
+    <div class="{% if page.video contains 'youtube' %}item2-youtube{% elsif page.lyndalinks contains 'lynda.com' %}item2-lynda{% elsif page.video != 'youtube' or page.lyndalinks != 'lynda.com' %}item2-novideo{% endif %}">
+        {% if page.video %}
+        <h3>Video Tutorials</h3>
+        <div id="embed-youtube-container">
+            <iframe src="{{ page.video }}" frameborder="0" allowfullscreen></iframe>
+        </div>
+        {% endif %}
+        {% if page.video contains 'youtube' and page.lyndalinks contains 'lynda' %}
+            <p class="darkgreen fs15">{{ page.description }}</p>
+        {% endif %}
+        {% if page.lyndalinks %}
+        <h3>Lynda.com Video Tutorials</h3>
+        <p>You need to be logged in to Lynda.com with your Algonquin College account. For instructions, <a href="http://www7.algonquincollege.com/byod/lynda.htm" target="_blank">please see this page</a>.</p>
+            {% for lyndalink in page.lyndalinks %}
+                {{ lyndalink | markdownify }}
+            {% endfor %}
+            <p>Odds are that most of the other videos in the above-linked courses will be of use to you. Feel free to watch them all!</p>
         {% endif %}
     </div>
 </section>
