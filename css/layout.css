@@ -231,27 +231,21 @@ section.video-instructions {
     padding: 0.5rem 9999px 0.5rem 9999px;
 }
 
-section.video-instructions .item1-youtube,
-section.video-instructions .item1-lynda,
-section.video-instructions .item1-novideo {
+section.video-instructions .item1 {
     grid-column: 1 / -1;
 }
 
-section.video-instructions .item2-youtube,
-section.video-instructions .item2-lynda,
-section.video-instructions .item2-novideo {
+section.video-instructions .item2 {
     grid-column: 1 / -1;
 }
 
-section.video-instructions .item1-youtube ul,
-section.video-instructions .item1-lynda ul {
+section.video-instructions .item1 ul {
     list-style-type: none;
     margin: 0 0 1em 15px;
     padding: 0;
 }
 
-section.video-instructions .item1-youtube ul>li,
-section.video-instructions .item1-lynda ul>li {
+section.video-instructions .item1 ul>li {
     line-height: 1.4rem;
     margin: .25rem 0;
     padding: 0 0 0 25px;
@@ -916,17 +910,13 @@ section.home-panels .panel-cg6 {
         grid-column: 1 / 4;
     }
 
-section.video-instructions .item1-youtube,
-section.video-instructions .item1-lynda,
-section.video-instructions .item1-novideo {
-    grid-column: 1 / 7;
-}
+    section.video-instructions .item1 {
+        grid-column: 1 / 7;
+    }
 
-section.video-instructions .item2-youtube,
-section.video-instructions .item2-lynda,
-section.video-instructions .item2-novideo {
-    grid-column: 7 / -1;
-}
+    section.video-instructions .item2 {
+        grid-column: 7 / -1;
+    }
 
     section.content .item2 {
         -ms-grid-column: 4;
