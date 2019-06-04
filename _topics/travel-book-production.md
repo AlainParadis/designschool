@@ -4,7 +4,7 @@ type: assignment
 formsum: formative
 sortorder: 2.0
 appsused: indd ai psd
-title: "Cook-book Production"
+title: "Travel-book Production"
 level: cg6
 brightspace: 
 submission: "my-assignment-folder"

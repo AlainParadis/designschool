@@ -4,7 +4,7 @@ type: assignment
 formsum: formative
 sortorder: 1.0
 appsused: indd ai psd
-title: "Cook-book Planning"
+title: "Travel-book Planning"
 level: cg6
 brightspace: 
 submission: "my-assignment-folder"
@@ -42,7 +42,7 @@ details: |
       - Font selection
       - Type hierarchy
     - Paper mockup
-    - Binding - Wether they print it or not, they need to plan which type of binding it would use.
+    - Binding - Whether they print it or not, they need to plan which type of binding it would use.
   - There will be weekly milestones. You'll do as Dave Bromley does in his courses. See each student each week to check-off that they've done that week's work.
   - You critique their design decisions -- guide them.
   - This is a big project, but grading at the end of the semester should not be too bad, since you'll be checking in all semester.
