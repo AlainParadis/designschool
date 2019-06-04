@@ -83,8 +83,9 @@ h6
 
 h5
 {
-	font-size: .8rem;
-	line-height: .96rem;
+	font-size: .9rem;
+	line-height: 1.2rem;
+	font-weight: 700;
 }
 
 h4
@@ -246,6 +247,29 @@ mark {
 header nav ul li a:link { color: white; }
 header nav ul li a:hover { color: var(--limegreen100); }
 header nav ul li a:visited { color: white; }
+section.courseinfo ul {
+    list-style-type: none;
+    margin: .25rem 0 0.5rem 0;
+    padding: 0 0.5rem 0 0;
+}
+
+section.courseinfo ul li { display: block; }
+section.content ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+section.content .item1 ul li { display: block; }
+section.content .item1 ul li:before,
+section.content .item2 ul li:before {
+	content: " \00bb ";
+	color: var(--limegreen100);
+}
+section.content .item1 ul li {  }
+section.content .item1 ul li a { margin-left: .4rem; }
+
+section.content .item2 ul li { margin-left: 1rem; }
+section.content .item2 ul li:before { padding-right: .3rem ; }
 
 .table-header { font-weight: 700; }
 .panel h3 {
