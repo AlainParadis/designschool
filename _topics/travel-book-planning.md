@@ -1,7 +1,7 @@
 ---
 layout: submission
 type: assignment
-formsum: summative
+formsum: formative
 sortorder: 1.1
 appsused: indd ai psd
 title: "Travel Book Planning"
@@ -11,37 +11,8 @@ submission: "my-assignment-folder"
 links:
 video: 
 downloads: 
-description: "This is a semester-long, self-directed project with milestones. It will include publication design, photo manipulation and illustration. It is a software skills culminating performance for the Computer Graphics courses."
+description: "Publication design demands planning. You'll inventory content, sketch page layouts, search stock photography and more. The more planning you do, the smoother the production stage will be. Approval will be required before you can move to production."
 details: |
-  This assignment will include all the software skills students have learned to date, brought together to create a travel book.
-
-  ### Logistics
-
-  Your instructor will be your project manager and your art director. They will critique your design decisions and work with you to design the best publication you can.
-
-  You'll check in each class to ensure you're progressing with your work. Each check-in will contribute to your final grade. You will also have deliverables as you progress.
-
-  At each class, you will be provided guidance with the next step of development. There will also be a software tutorial to help you get that week's tasks completed.
-
-  ### Project Stages
-
-  #### Planning
-
-  You will start by project planning the heck out of this. This will include making an inventory of the provided content.
-
-  #### Development
-
-  InDesign will be the hub in which we'll layout text, photography and illustrations.
-
-  #### Output
-
-   We'll output for multiple intents.
-
-   1. Package
-   2. PDF for press
-   3. PDF for download
-   4. ePub
-
   ### Publication Format
 
   The length and format of the publication is up to you. The one caveat is that you must use all of the provided text. You will source quality stock photography. You will also create vector illustrations to complement the aesthetics of the pages.

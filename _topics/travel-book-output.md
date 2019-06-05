@@ -1,7 +1,7 @@
 ---
 layout: submission
 type: assignment
-formsum: summative
+formsum: formative
 sortorder: 1.3
 appsused: indd ai psd pdf
 title: "Travel Book Output"

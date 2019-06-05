@@ -1,9 +1,9 @@
 ---
 layout: submission
 type: assignment
-formsum: summative
+formsum: formative
 sortorder: 1.2
-appsused: indd ai psd
+appsused: indd ai psd pdf
 title: "Travel Book Production"
 level: cg6
 brightspace: 
