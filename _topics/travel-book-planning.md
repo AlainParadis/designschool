@@ -1,8 +1,8 @@
 ---
 layout: submission
 type: assignment
-formsum: formative
-sortorder: 1.0
+formsum: summative
+sortorder: 1.1
 appsused: indd ai psd
 title: "Travel Book Planning"
 level: cg6
@@ -19,7 +19,7 @@ details: |
 
   Your instructor will be your project manager and your art director. They will critique your design decisions and work with you to design the best publication you can.
 
-  You'll check in each class to ensure you're progressing with your work. Each check-in will contribute to your final grade.
+  You'll check in each class to ensure you're progressing with your work. Each check-in will contribute to your final grade. You will also have deliverables as you progress.
 
   At each class, you will be provided guidance with the next step of development. There will also be a software tutorial to help you get that week's tasks completed.
 
@@ -72,11 +72,11 @@ assignment: |
 
   #####  Illustration
   
+    You will have at least one info-graphic taking up a minimum of a page or as much as a spread.
 
-  #####  Page graphics
+    You should have other illustrations as page decorations. It might be more convenient to place them on master pages rather than having to position them individually on each page.
 
-
-  #####  Type specimen
+  #####  Type Specimen
 
     - Font selection
     - Type hierarchy

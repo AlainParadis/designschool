@@ -1,20 +1,19 @@
 ---
 layout: submission
 type: assignment
-formsum: formative
-sortorder: 3.0
+formsum: summative
+sortorder: 1.3
 appsused: indd ai psd pdf
 title: "Travel Book Output"
 level: cg6
 brightspace: 
 submission: "my-assignment-folder"
-links: |
-  - 
+links:
 video: 
 downloads: 
 description: "You're done building your publication! Now, it's time to output the document for the designated intents."
 details: |
-  ### Cook-book Output
+  ### Travel Book Output
 
   #### File Prep
 

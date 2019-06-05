@@ -13,3 +13,6 @@ video:
 downloads: 
 description: "You're done building your publication! Now, it's time to output the document for the designated intents."
 details: |
+
+
+---

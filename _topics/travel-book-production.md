@@ -1,15 +1,14 @@
 ---
 layout: submission
 type: assignment
-formsum: formative
-sortorder: 2.0
+formsum: summative
+sortorder: 1.2
 appsused: indd ai psd
 title: "Travel Book Production"
 level: cg6
 brightspace: 
 submission: "my-assignment-folder"
-links: |
-  - 
+links:
 video: 
 downloads: 
 description: "These are the main software instructions, which are really the bulk of the assessed skills."
@@ -33,7 +32,8 @@ details: |
       - Rename photo files contextually
       - Organize all photos in Finder by purpose/intent
     - Research & plan illustration style
-        
+
+    
 
   #### InDesign
 
