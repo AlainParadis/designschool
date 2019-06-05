@@ -266,7 +266,7 @@ section.content .item2 ul li:before {
 	color: var(--limegreen100);
 }
 section.content .item1 ul li {  }
-section.content .item1 ul li a { margin-left: .4rem; }
+section.content .item1 ul li a { margin-left: .4rem; font-weight: 400; }
 
 section.content .item2 ul li { margin-left: 1rem; }
 section.content .item2 ul li:before { padding-right: .3rem ; }
