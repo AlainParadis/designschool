@@ -5,7 +5,7 @@
 	{% for topic in all_topics %}
 	{% if topic.level contains include.coursename %}
 	<div class="table-row {% if topic.formsum == 'summative' %}summative{% endif %}">
-		<div class="table-cell title {% if topic.formsum == 'summative' %}summative{% endif %}">
+		<div class="table-cell {% if topic.formsum == 'summative' %}summative{% endif %}">
 			<a href="{{ site.baseurl }}{{topic.url}}" title="{{ topic.sortorder }}: {{ topic.description }}">{{ topic.title }}</a>
 		</div>
 		<div class="table-cell">
