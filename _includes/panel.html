@@ -5,8 +5,8 @@
 	{% for topic in all_topics %}
 	{% if topic.level contains include.coursename %}
 	<div class="table-row">
-		<div class="table-cell {% if topic.formsum == 'summative' %}summative{% endif %}">
-			<a href="{{ site.baseurl }}{{topic.url}}" title="{{ topic.sortorder }}: {{ topic.description }}">{{ topic.title }}</a>
+		<div class="table-cell">
+			<a href="{{ site.baseurl }}{{topic.url}}" title="{{ topic.sortorder }}: {{ topic.description }}" class="{% if topic.formsum == 'summative' %}summative{% endif %}">{{ topic.title }}</a>
 		</div>
 		<div class="table-cell">
 			{% if topic.appsused contains 'macos' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-macos.svg" alt="Mac OS icon"></span>{% endif %}

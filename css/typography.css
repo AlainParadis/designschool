@@ -237,13 +237,6 @@ mark {
 	padding-right: .20rem;
 }
 
-.summative {
-	font-weight: 700;
-}
-
-.summative a {
-	padding-left: 0em;
-}
 header nav ul li a:link { color: white; }
 header nav ul li a:hover { color: var(--limegreen100); }
 header nav ul li a:visited { color: white; }
@@ -270,6 +263,24 @@ section.content .item1 ul li a { margin-left: .4rem; font-weight: 400; }
 
 section.content .item2 ul li { margin-left: 1rem; }
 section.content .item2 ul li:before { padding-right: .3rem ; }
+
+a.summative {
+	font-weight: 700;
+}
+
+a.summative::after {
+	padding-left: 0em;
+	content: "Summative";
+	margin-left: .7em;
+	padding: .2em .4em .1em;
+	position: relative;
+	top: -.1em;
+	border-radius: 3px;
+	background-color: hsla(24,7%,70%,.3);
+	color: rgba(0,0,0,.4);
+	font-size: .6rem;
+	text-transform: uppercase;
+}
 
 .table-header { font-weight: 700; }
 .panel h3 {
