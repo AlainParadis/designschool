@@ -8,7 +8,7 @@
 		<div class="table-cell title {% if topic.formsum == 'summative' %}summative{% endif %}">
 			<a href="{{ site.baseurl }}{{topic.url}}" title="{{ topic.sortorder }}: {{ topic.description }}">{{ topic.title }}</a>
 		</div>
-		<div class="table-cell {% if topic.formsum == 'summative' %}summative{% endif %}">
+		<div class="table-cell">
 			{% if topic.appsused contains 'macos' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-macos.svg" alt="Mac OS icon"></span>{% endif %}
 			{% if topic.appsused contains 'cc' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-cc.svg" alt="Creative Cloud icon"></span>{% endif %}
 			{% if topic.appsused contains 'indd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-indd.svg" alt="InDesign icon"></span>{% endif %}
