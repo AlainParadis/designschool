@@ -8,48 +8,79 @@ title: "Travel Book Planning"
 level: cg6
 brightspace: 
 submission: "my-assignment-folder"
-links: |
-  - 
+links:
 video: 
 downloads: 
 description: "This is a semester-long, self-directed project with milestones. It will include publication design, photo manipulation and illustration. It is a software skills culminating performance for the Computer Graphics courses."
 details: |
-  ### Thoughts on a Cook-book Project
+  This assignment will include all the software skills students have learned to date, brought together to create a travel book.
 
-  This assignment will include all the software skills students have learned to date. It should be self-directed.
+  ### Logistics
 
-  #### General Notes
+  Your instructor will be your project manager and your art director. They will critique your design decisions and work with you to design the best publication you can.
 
-  - Students will find their own content: recipes, <a href="https://cg.algonquindesign.ca/topics/stock.html" title="Stock Photography" target="_blank">stock photography</a>.
-    - You will vet the content for quality.
-    - Text needs to make sense. There needs to be enough text. *"I really like tons of white space."* is not allowed.
-  - They'll create all original illustrations -- no stock illustrations allowed.
-  - Book must have a theme.
-    - ie: fisherman's guide to cooking fish. Kosher bread-making, etc... The more specific the theme, the better.
-  - The aesthetics of the book need to be distinctive & consistent.
-  - The book can veer off the cook-book path. It can tell a story, while the recipes are complimentary to that story.
+  You'll check in each class to ensure you're progressing with your work. Each check-in will contribute to your final grade.
 
-  #### Logistics
+  At each class, you will be provided guidance with the next step of development. There will also be a software tutorial to help you get that week's tasks completed.
 
-  - You will be project lead and art director.
-  - Students will devise a plan at the outset.
-    - Theme (cooking subject matter)
-    - Style tile
-       - Photography
-       - Illustration
-       - Page graphics
-    - Type specimen
-      - Font selection
-      - Type hierarchy
-    - Paper mockup
-    - Binding - Whether they print it or not, they need to plan which type of binding it would use.
-  - There will be weekly milestones. You'll do as Dave Bromley does in his courses. See each student each week to check-off that they've done that week's work.
-  - You critique their design decisions -- guide them.
-  - This is a big project, but grading at the end of the semester should not be too bad, since you'll be checking in all semester.
-  - Construction cannot go forward before all planning is complete
-    - Paper mockup
-    - Page grid design
+  ### Project Stages
+
+  #### Planning
+
+  You will start by project planning the heck out of this. This will include making an inventory of the provided content.
+
+  #### Development
+
+  InDesign will be the hub in which we'll layout text, photography and illustrations.
+
+  #### Output
+
+   We'll output for multiple intents.
+
+   1. Package
+   2. PDF for press
+   3. PDF for download
+   4. ePub
+
+  ### Publication Format
+
+  The length and format of the publication is up to you. The one caveat is that you must use all of the provided text. You will source quality stock photography. You will also create vector illustrations to complement the aesthetics of the pages.
 
 assignment: |
+  Construction cannot go forward before all planning is complete. This is what you will produce.
+
+  ### Inventory Content
+
+  You must read all the provided text. Take an inventory of the structure of the text. Are there many levels of headings? Are bullet or number lists?
+
+  ### Design Planning
+
+  #### Style Guide
+
+    You will create a multi-part style guide to show your design direction. Note that this will be much more specific than a mood board. It will actually display each element of your design. The goal is for us to clearly and completely see your design direction.
+
+  #####  Photography
+
+  Provide samples of photography to show consistency in style. You'll want to pay attention to:
+
+  - framing
+  - lighting
+  - indoor/outdoor
+  - object and/or people
+  - colour
+  - etc...
+
+  #####  Illustration
+  
+
+  #####  Page graphics
+
+
+  #####  Type specimen
+
+    - Font selection
+    - Type hierarchy
+    - Paper mock-up
+    - Binding - Whether it's printed it or not, they need to plan which type of binding it would use.
   
 ---
