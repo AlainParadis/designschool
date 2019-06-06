@@ -123,7 +123,17 @@
         </div>
     </section>
     <section class="content">
-        <div class="item item1">{% include left-nav.html %}</div>
+        <div class="item item1">
+        {% if page.type == 'assignment' %}
+            {% include left-nav-default.html %}
+        {% endif %}
+        {% if page.type == 'informational' %}
+            {% include left-nav-info.html %}
+        {% endif %}
+        {% if page.type == 'setup' %}
+            {% include left-nav-setup.html %}
+        {% endif %}
+        </div>
         <div class="item item2">
             <div>
                 {{ page.details | markdownify }}
