@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: general
 type: informational
 formsum: formative
 sortorder:
