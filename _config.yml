@@ -31,3 +31,5 @@ collections:
       output: true
   fpp:
       output: true
+  info:
+      output: true
