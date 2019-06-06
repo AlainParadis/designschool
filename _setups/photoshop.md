@@ -1,5 +1,5 @@
 ---
-layout: submission
+layout: default
 type: informational
 formsum: 
 sortorder: 5
