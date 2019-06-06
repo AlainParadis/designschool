@@ -35,3 +35,11 @@ collections:
       output: true
   information:
       output: true
+  admin:
+    output: true
+  administration:
+    output: true
+  setup:
+      output: true
+  setups:
+      output: true
