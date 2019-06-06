@@ -1,8 +1,8 @@
 <h4>Set Up All Your Stuff</h4>
-{% assign all_info = site.setups | sort: 'sortorder' %}
+{% assign all_setup = site.setups | sort: 'sortorder' %}
 <nav>
 <ul>
-  {% for item in all_info %}
+  {% for item in all_setup %}
   {% if item.level contains page.level %}
     <li><a href="{{ site.baseurl }}{{item.url}}" title="{{item.sortorder}}: {{item.description}}" class="item {% if item.formsum == 'summative' %}summative{% endif %} {% if item.url contains page.url %}current{% endif %}">{{item.title}}</a></li>
   {% endif %}
