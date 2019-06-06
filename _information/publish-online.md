@@ -1,7 +1,7 @@
 ---
-layout: submission
+layout: default
 type: informational
-formsum: formative
+formsum:
 sortorder: 1.0
 appsused: indd
 title: "Publish Online"

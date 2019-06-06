@@ -1,7 +1,7 @@
 ---
-layout: submission
+layout: default
 type: informational
-formsum: 
+formsum:
 sortorder: 1.3
 appsused: indd
 title: "Story Editor"

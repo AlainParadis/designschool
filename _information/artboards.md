@@ -1,7 +1,7 @@
 ---
-layout: submission
+layout: default
 type: informational
-formsum: formative
+formsum:
 sortorder: 2.4
 appsused: ai
 title: "Artboards"
