@@ -121,6 +121,13 @@ h1
 	color: var(--darkgreen100)
 }
 
+.page-title h1 a:link,
+.page-title h1 a:hover,
+.page-title h1 a:visited {
+	text-decoration: none;
+	color: var(--darkgreen100)
+}
+
 b, bold {
 	font-weight: 700;
 }
