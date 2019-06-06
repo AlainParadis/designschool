@@ -33,3 +33,5 @@ collections:
       output: true
   info:
       output: true
+  information:
+      output: true

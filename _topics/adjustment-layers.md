@@ -1,6 +1,6 @@
 ---
 layout: submission
-type: informational
+type: assignment
 formsum: formative
 sortorder: 4.5
 appsused: psd

@@ -5,7 +5,7 @@ formsum:
 sortorder: 1.0
 appsused: macos
 title: "Apple Mouse Buttons"
-level: 
+level: info
 brightspace: 
 submission: 
 links:
