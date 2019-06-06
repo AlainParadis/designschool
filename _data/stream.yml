@@ -110,6 +110,12 @@
 
 - coursetitle: Setup # Stream [7]
   nickname: Setup
+  level: setup
   shortname: setup
-  coursecode: 
-  description:
+  coursecode: None
+  instructor: None
+  description: "As students in a [Bring Your Own Device](http://www7.algonquincollege.com/byod/mobile2019-2020/mobile-device-graphic-design.htm) program, you have access to a number of services at Algonquin College. This page offers resources to grant you access to free software, online services and more. Review these pages at the start of each semester to make sure you're taking full advantage of the College's offerings."
+  prerequisites:
+    - prerequisite: None
+  logistic: |
+      All students should review these setup instructions at the start of each semester to ensure their software is ready to use for school.
