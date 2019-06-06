@@ -1,121 +1,120 @@
-- coursetitle: Computer Graphics One # Stream [0]
-  nickname: CG One
-  level: cg1
-  shortname: CG1
-  coursecode: DSN1562
-  instructor: Alain Paradis
-  description: |
-    The field of computer graphics consists of page layout, illustration and photo manipulation. Page layout is the hub for illustrations and photographs. Purpose-built instructional web pages, in-class and video tutorials guide students through the process of building electronic documents in Adobe InDesign, containing images edited in Photoshop and custom digital illustrations created in Adobe Illustrator. Activities include learning common technology-related terminology, organizing graphics files and fonts, illustrating digitally and editing photographs which they integrate into page designs.
-  prerequisites:
-    - prerequisite: None
-  logistic: |
-    This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
+courses:
+  - coursetitle: Computer Graphics One # Stream [0]
+    nickname: CG One
+    level: cg1
+    shortname: CG1
+    coursecode: DSN1562
+    instructor: Alain Paradis
+    description: |
+      The field of computer graphics consists of page layout, illustration and photo manipulation. Page layout is the hub for illustrations and photographs. Purpose-built instructional web pages, in-class and video tutorials guide students through the process of building electronic documents in Adobe InDesign, containing images edited in Photoshop and custom digital illustrations created in Adobe Illustrator. Activities include learning common technology-related terminology, organizing graphics files and fonts, illustrating digitally and editing photographs which they integrate into page designs.
+    prerequisites:
+    logistic: |
+      This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
 
-      Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
+        Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
 
-- coursetitle: Computer Graphics Two # Stream [1]
-  nickname: CG Two
-  level: cg2
-  shortname: CG2
-  coursecode: DSN1567
-  instructor: Alain Paradis
-  description: "Students focus on creating documents which comply with industry standards for print production. Emphasis is placed on the importance of file management and job planning. With the support of detailed online lessons and video tutorials, students learn increasingly intricate software techniques for building electronic documents using Adobe InDesign, Photoshop, Illustrator and Acrobat. These documents will pass preflight at a commercial printer."
-  prerequisites:
-    - prerequisite: DSN1561 Graphic Design One
-    - prerequisite: DSN1560 Typography One
-    - prerequisite: DSN1562 Computer Graphics One
-  logistic: |
-    This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
+  - coursetitle: Computer Graphics Two # Stream [1]
+    nickname: CG Two
+    level: cg2
+    shortname: CG2
+    coursecode: DSN1567
+    instructor: Alain Paradis
+    description: "Students focus on creating documents which comply with industry standards for print production. Emphasis is placed on the importance of file management and job planning. With the support of detailed online lessons and video tutorials, students learn increasingly intricate software techniques for building electronic documents using Adobe InDesign, Photoshop, Illustrator and Acrobat. These documents will pass preflight at a commercial printer."
+    prerequisites:
+      - prerequisite: DSN1561 Graphic Design One
+      - prerequisite: DSN1560 Typography One
+      - prerequisite: DSN1562 Computer Graphics One
+    logistic: |
+      This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
 
-      Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
+        Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
 
-- coursetitle: Computer Graphics Three # Stream [2]
-  nickname: CG Three
-  level: cg3
-  shortname: CG3
-  coursecode: DSN1535
-  instructor: Greg Treadwell
-  description: "Automating processes in the design studio teaches students how they can save time and avoid costly errors. Adobe Photoshop is used to create artistic paintings. Adobe Illustrator is our go-to application for drawing photo-realistic and perspective illustrations. Students build a multi-part document destined for book design and production."
-  prerequisites:
-    - prerequisite: DSN1565 Graphic Design Two
-    - prerequisite: DSN1566 Typography Two
-    - prerequisite: DSN1567 Computer Graphics Two
-  logistic: |
-    This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
+  - coursetitle: Computer Graphics Three # Stream [2]
+    nickname: CG Three
+    level: cg3
+    shortname: CG3
+    coursecode: DSN1535
+    instructor: Greg Treadwell
+    description: "Automating processes in the design studio teaches students how they can save time and avoid costly errors. Adobe Photoshop is used to create artistic paintings. Adobe Illustrator is our go-to application for drawing photo-realistic and perspective illustrations. Students build a multi-part document destined for book design and production."
+    prerequisites:
+      - prerequisite: DSN1565 Graphic Design Two
+      - prerequisite: DSN1566 Typography Two
+      - prerequisite: DSN1567 Computer Graphics Two
+    logistic: |
+      This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
 
-      Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
+        Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
 
-- coursetitle: Computer Graphics Four # Stream [3]
-  nickname: CG Four
-  level: cg4
-  shortname: CG4
-  coursecode: DSN1541
-  instructor: Greg Treadwell
-  description: "Armed with a solid foundation using Adobe software, we explore a broad and varied selection of new technical skills: painting original art in Adobe Illustrator; manipulating large amounts of data in InDesign, drawing three-dimensional vector graphics."
-  prerequisites:
-    - prerequisite: DSN1533 Typography Three
-    - prerequisite: DSN1534 Graphic Design Three
-    - prerequisite: DSN1535 Computer Graphics Three
-  logistic: |
-    This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
+  - coursetitle: Computer Graphics Four # Stream [3]
+    nickname: CG Four
+    level: cg4
+    shortname: CG4
+    coursecode: DSN1541
+    instructor: Greg Treadwell
+    description: "Armed with a solid foundation using Adobe software, we explore a broad and varied selection of new technical skills: painting original art in Adobe Illustrator; manipulating large amounts of data in InDesign, drawing three-dimensional vector graphics."
+    prerequisites:
+      - prerequisite: DSN1533 Typography Three
+      - prerequisite: DSN1534 Graphic Design Three
+      - prerequisite: DSN1535 Computer Graphics Three
+    logistic: |
+      This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
 
-      Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
+        Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
 
-- coursetitle: Computer Graphics Five # Stream [4]
-  nickname: CG Five
-  level: cg5
-  shortname: CG5
-  coursecode: DSN1677
-  instructor: Anish Parmar
-  description: "In an effort to further broaden our software tool set, we delve into such advanced features as variable data in Illustrator and Photoshop; drawing isometric vector illustrations and building three dimensional objects in Adobe Photoshop."
-  prerequisites:
-    - prerequisite: DSN1539 Graphic Design Four
-    - prerequisite: DSN1540 Typography Four
-    - prerequisite: DSN1541 Computer Graphics Four
-  logistic: |
-    This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
+  - coursetitle: Computer Graphics Five # Stream [4]
+    nickname: CG Five
+    level: cg5
+    shortname: CG5
+    coursecode: DSN1677
+    instructor: Anish Parmar
+    description: "In an effort to further broaden our software tool set, we delve into such advanced features as variable data in Illustrator and Photoshop; drawing isometric vector illustrations and building three dimensional objects in Adobe Photoshop."
+    prerequisites:
+      - prerequisite: DSN1539 Graphic Design Four
+      - prerequisite: DSN1540 Typography Four
+      - prerequisite: DSN1541 Computer Graphics Four
+    logistic: |
+      This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
 
-      Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
+        Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
 
-- coursetitle: Computer Graphics Six # Stream [5]
-  nickname: CG Six
-  level: cg6
-  shortname: CG6
-  coursecode: DSN1685
-  instructor: Anish Parmar
-  description: "When students present their work at portfolio reviews, it needs to be impeccable. Students build digital files designed to impress even the most seasoned designer in order to demonstrate technical software mastery. By applying finishing touches to existing pieces, students ensure that they are exemplary exhibitions of Adobe Illustrator, Photoshop and InDesign proficiency."
-  prerequisites:
-    - prerequisite: DSN1545 Graphic Design Five
-    - prerequisite: DSN1677 Computer Graphics Five
-  logistic: |
-    This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
+  - coursetitle: Computer Graphics Six # Stream [5]
+    nickname: CG Six
+    level: cg6
+    shortname: CG6
+    coursecode: DSN1685
+    instructor: Anish Parmar
+    description: "When students present their work at portfolio reviews, it needs to be impeccable. Students build digital files designed to impress even the most seasoned designer in order to demonstrate technical software mastery. By applying finishing touches to existing pieces, students ensure that they are exemplary exhibitions of Adobe Illustrator, Photoshop and InDesign proficiency."
+    prerequisites:
+      - prerequisite: DSN1545 Graphic Design Five
+      - prerequisite: DSN1677 Computer Graphics Five
+    logistic: |
+      This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
 
-      Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
+        Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
 
-- coursetitle: Fieldwork & Professional Practice # Stream [6]
-  nickname: Fieldwork
-  level: fpp
-  shortname: Fieldwork
-  coursecode: DSN1690
-  instructor: Alain Paradis
-  description: "Students work as junior designers in industry studios. Students practise the skills and techniques acquired throughout their studies and gain valuable experience in a variety of areas by working on projects for their chosen employer. Students are introduced to making contact with potential employers, presenting their work professionally, ensuring their personal brand reflects their strength as a designer, interviewing and ensuring they are ready for the job market. The course culminates in the preparation of the year-end grad show where industry representatives are invited to view student work, build relationships and provide valuable feedback."
-  prerequisites:
-    - prerequisite: DSN1545 Graphic Design 5
-    - prerequisite: DSN1668 Design Research 2
-    - prerequisite: DSN1677 Computer Graphics 5
-    - prerequisite: DSN1686 Web Development 5
-    - prerequisite: DSN1688 Motion Graphics 3
-  logistic: |
-      This is a multi-faceted course where students take the lead in raising funds, preparing for fieldwork and organizing their grad show. You will be organized in teams, each with a task [described here](../topics/gradshow.html). Each week, teams meet to move their responsibilites forward. Attendance & participation by each student is a requirement for passing the course.
+  - coursetitle: Fieldwork & Professional Practice # Stream [6]
+    nickname: Fieldwork
+    level: fpp
+    shortname: Fieldwork
+    coursecode: DSN1690
+    instructor: Alain Paradis
+    description: "Students work as junior designers in industry studios. Students practise the skills and techniques acquired throughout their studies and gain valuable experience in a variety of areas by working on projects for their chosen employer. Students are introduced to making contact with potential employers, presenting their work professionally, ensuring their personal brand reflects their strength as a designer, interviewing and ensuring they are ready for the job market. The course culminates in the preparation of the year-end grad show where industry representatives are invited to view student work, build relationships and provide valuable feedback."
+    prerequisites:
+      - prerequisite: DSN1545 Graphic Design 5
+      - prerequisite: DSN1668 Design Research 2
+      - prerequisite: DSN1677 Computer Graphics 5
+      - prerequisite: DSN1686 Web Development 5
+      - prerequisite: DSN1688 Motion Graphics 3
+    logistic: |
+        This is a multi-faceted course where students take the lead in raising funds, preparing for fieldwork and organizing their grad show. You will be organized in teams, each with a task [described here](../topics/gradshow.html). Each week, teams meet to move their responsibilites forward. Attendance & participation by each student is a requirement for passing the course.
 
-- coursetitle: Setup # Stream [7]
-  nickname: Setup
-  level: setup
-  shortname: setup
-  coursecode: None
-  instructor: None
-  description: "As students in a [Bring Your Own Device](http://www7.algonquincollege.com/byod/mobile2019-2020/mobile-device-graphic-design.htm) program, you have access to a number of services at Algonquin College. This page offers resources to grant you access to free software, online services and more. Review these pages at the start of each semester to make sure you're taking full advantage of the College's offerings."
-  prerequisites:
-    - prerequisite: None
-  logistic: |
-      All students should review these setup instructions at the start of each semester to ensure their software is ready to use for school.
+  - coursetitle: Setup # Stream [7]
+    nickname: Setup
+    level: setup
+    shortname: setup
+    coursecode: None
+    instructor: None
+    description: "As students in a [Bring Your Own Device](http://www7.algonquincollege.com/byod/mobile2019-2020/mobile-device-graphic-design.htm) program, you have access to a number of services at Algonquin College. This page offers resources to grant you access to free software, online services and more. Review these pages at the start of each semester to make sure you're taking full advantage of the College's offerings."
+    prerequisites:
+    logistic: |
+        All students should review these setup instructions at the start of each semester to ensure their software is ready to use for school.
