@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+{% include head.html %}
+<body>
+    <header role="banner">
+        <nav role="navigation">
+            {% include top-nav.html %}
+        </nav>
+        <div class="site-id">
+            <div class="item1">
+                <a href="{{ site.baseurl }}/"><img class="stacked" alt="Algonquin College Graphic Design Program Computer Graphics Course Curriculum" src="/images/svg/logo-ac-computer-graphics-stacked.svg"></a>
+                <a href="{{ site.baseurl }}/"><img class="horizontal" alt="Algonquin College Graphic Design Program Computer Graphics Course Curriculum" src="/images/svg/logo-ac-computer-graphics.svg"></a>
+            </div>
+            <div class="item2"></div>
+        </div>
+    </header>
+    <section class="page-title">
+        <div class="item1">
+            <h1>{{ page.title }}</h1>
+        </div>
+        <div class="item2">
+        </div>
+    </section>
+    <article class="card-wrapper">
+        {% assign all_info = site.setups | sort: 'sortorder' %}
+        {% for cards in all_info %}
+        {% if cards.level contains page.level %}
+        <a href="{{ site.baseurl }}{{cards.url}}" class="decoration-none card">
+            <h4>{{cards.title}}</h4>
+            <div class="appsused">
+                {% if cards.appsused contains 'macos' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-macos.svg" alt="Mac OS"></span>{% endif %}
+                {% if cards.appsused contains 'cc' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-cc.svg" alt="Creative Cloud"></span>{% endif %}
+                {% if cards.appsused contains 'indd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-indd.svg" alt="InDesign"></span>{% endif %}
+                {% if cards.appsused contains 'ai' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-ai.svg" alt="Illustrator"></span>{% endif %}
+                {% if cards.appsused contains 'psd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-psd.svg" alt="Photoshop"></span>{% endif %}
+                {% if cards.appsused contains 'lr' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-lr.svg" alt="Lightroom icon"></span>{% endif %}
+                {% if cards.appsused contains 'pdf' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-pdf.svg" alt="Acrobat"></span>{% endif %}
+                {% if cards.appsused contains 'xd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-xd.svg" alt="Xd icon"></span>{% endif %}
+                {% if cards.appsused contains 'fe' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-felix-beta.svg" alt="Project Felix Beta"></span>{% endif %}
+            </div>
+            <div>{{cards.description}}</div>
+        </a>
+        {% endif %}
+        {% endfor %}
+    </article>
+    {% include footer.html %}
+</body>
+
+</html>
