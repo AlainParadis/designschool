@@ -127,10 +127,10 @@
         {% if page.type == 'assignment' %}
             {% include left-nav-default.html %}
         {% endif %}
-        {% if page.type == 'informational' %}
+        {% if page.level == 'info' %}
             {% include left-nav-info.html %}
         {% endif %}
-        {% if page.type == 'setup' %}
+        {% if page.level == 'setup' %}
             {% include left-nav-setup.html %}
         {% endif %}
         </div>
