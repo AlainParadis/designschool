@@ -259,7 +259,7 @@ section.content .item2 ul li:before {
 	color: var(--limegreen100);
 }
 section.content .item1 ul li {  }
-section.content .item1 ul li a { margin-left: .4rem; font-weight: 400; }
+section.content .item1 ul li a { margin-left: .4rem; }
 
 section.content .item2 ul li { margin-left: 1rem; }
 section.content .item2 ul li:before { padding-right: .3rem ; }
@@ -297,6 +297,7 @@ a.summative::after {
 	color: white;
 	background-color: var(--darkgreen100);
 	padding: 0.2rem 0.2rem 0.2rem 0.4rem;
+	margin-top: 0;
 	border-radius: .25rem .25rem 0 0;
 }
 
