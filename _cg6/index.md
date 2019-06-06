@@ -5,7 +5,6 @@ appsused: macos, cc, indd, ai, psd, pdf
 title: "Computer Graphics Six"
 level: cg6
 course: "Computer Graphics Six"
-description: "DSN1685 -- When students present their work at portfolio reviews, it needs to be impeccable. Students build digital files designed to impress even the most seasoned designer in order to demonstrate technical software mastery. By applying finishing touches to existing pieces, students ensure that they are exemplary exhibitions of Adobe Illustrator, Photoshop and InDesign proficiency."
 ---
   [Lynda.com Creating an InDesign Booklet Using XML](https://www.lynda.com/Design-tutorials/Creating-InDesign-Booklet-Using-XML/435134-2.html)
 
