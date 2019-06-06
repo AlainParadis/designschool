@@ -163,6 +163,10 @@ section.news {
 }
 
 section .newsitem {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    align-content: start;
     border: solid 1px var(--limegreen100);
     padding: 0;
     background-color: white;
@@ -750,6 +754,8 @@ section.home-panels .panel-cg6 {
     }
 
     section.courseinfo .item1 {
+        -ms-grid-column: 1;
+        -ms-grid-column-span: 1;
         grid-column: 1 / 2;
         padding-left: 0.5rem;
     }
@@ -908,6 +914,8 @@ section.home-panels .panel-cg6 {
     }
 
     section.video-instructions .item1 {
+        -ms-grid-column: 1;
+        -ms-grid-column-span: 6;
         grid-column: 1 / 7;
         padding-left: 0.5rem;
     }

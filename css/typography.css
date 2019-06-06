@@ -32,6 +32,10 @@ a:visited { color: var(--darkgray); }
 a:hover { color: var(--mediumgray); }
 a:active { color: var(--orange100); }
 a:focus {	outline: 2px solid black; }
+::-moz-selection {
+	background: yellow;	/* WebKit/Blink Browsers */
+	color: var(--darkgreen100);
+}
 ::selection {
 	background: yellow;	/* WebKit/Blink Browsers */
 	color: var(--darkgreen100);
