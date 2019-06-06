@@ -5,7 +5,7 @@ formsum: formative
 sortorder:
 appsused: indd
 title: "Align To Baseline"
-level: info
+level: undetermined
 brightspace: 
 submission: "my-assignment-folder"
 links: |
