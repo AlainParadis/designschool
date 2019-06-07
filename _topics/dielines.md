@@ -3,7 +3,7 @@ layout: submission
 type: assignment
 formsum: formative
 sortorder: 1.0
-appsused: ai, indd
+appsused: sketching, ai, indd
 title: "Die Lines"
 level: cg3
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86416&grpid=0&isprv=0&bp=0&ou=92653"
