@@ -7,7 +7,7 @@ appsused: indd ai psd
 title: "Travel Book Planning"
 level: cg6
 brightspace: 
-submission: "my-assignment-folder"
+submission: "travel-book-planning"
 links:
 video: 
 downloads: 
@@ -49,9 +49,9 @@ assignment: |
 
   #####  Type Specimen
 
-    - Font selection
-    - Type hierarchy
-    - Paper mock-up
-    - Binding - Whether it's printed it or not, they need to plan which type of binding it would use.
-  
+  The type specimen will communicate the typographic treatment in your work. It is _not_ a page layout. It's meant to show the font selection & hierarchy. That means it will include the various sizes, weights and colours.
+
+  #### Publication Format
+
+  The dimensions and binding type for your publication are important elements. For the dimensions, I suggest standard paper sizes. Build your 1/8" bleed and the amount of creep into your overall dimensions. *Best to build a mock-up*.
 ---
