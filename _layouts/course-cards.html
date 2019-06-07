@@ -64,15 +64,15 @@
         <a href="{{ site.baseurl }}{{cards.url}}" class="decoration-none card">
             <h4>{{cards.title}}</h4>
             <div class="appsused">
+                {% if cards.appsused contains 'sketching' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-sketching.svg" alt="Sketch by hand"></span>{% endif %}
                 {% if cards.appsused contains 'macos' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-macos.svg" alt="Mac OS"></span>{% endif %}
-                {% if cards.appsused contains 'cc' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-cc.svg" alt="Creative Cloud"></span>{% endif %}
-                {% if cards.appsused contains 'indd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-indd.svg" alt="InDesign"></span>{% endif %}
-                {% if cards.appsused contains 'ai' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-ai.svg" alt="Illustrator"></span>{% endif %}
-                {% if cards.appsused contains 'psd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-psd.svg" alt="Photoshop"></span>{% endif %}
-                {% if cards.appsused contains 'lr' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-lr.svg" alt="Lightroom icon"></span>{% endif %}
-                {% if cards.appsused contains 'pdf' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-pdf.svg" alt="Acrobat"></span>{% endif %}
-                {% if cards.appsused contains 'xd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-xd.svg" alt="Xd icon"></span>{% endif %}
-                {% if cards.appsused contains 'fe' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-felix-beta.svg" alt="Project Felix Beta"></span>{% endif %}
+                {% if cards.appsused contains 'cc' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-cc.svg" alt="Adobe Creative Cloud"></span>{% endif %}
+                {% if cards.appsused contains 'ai' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-ai.svg" alt="Adobe Illustrator"></span>{% endif %}
+                {% if cards.appsused contains 'psd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-psd.svg" alt="Adobe Photoshop"></span>{% endif %}
+                {% if cards.appsused contains 'indd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-indd.svg" alt="Adobe InDesign"></span>{% endif %}
+                {% if cards.appsused contains 'pdf' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-pdf.svg" alt="Adobe Acrobat"></span>{% endif %}
+                {% if cards.appsused contains 'xd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-xd.svg" alt="Adobe Xd"></span>{% endif %}
+                {% if cards.appsused contains 'dn' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-dn.svg" alt="Adobe Dimensions"></span>{% endif %}
             </div>
             <div>{{cards.description}}</div>
         </a>

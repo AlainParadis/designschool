@@ -23,7 +23,7 @@ assignment: |
     <li>a background photo that contains a flat surface</li>
       <ul>
         <li>You're encouraged to take your own photo to use in your scene, or</li>
-        <li>See <a href="stock.html" target="_blank">the stock photo library</a> for source photos.</li>
+        <li>See <a href="/administration/stock.html" target="_blank">the stock photo library</a> for source photos.</li>
       </ul>
     <li>add at least one object from the Adobe Dimension asset library</li>
     <li>an .obj file to import into the scene</li>

@@ -24,7 +24,7 @@ details: |
   Before we start to use Illustrator, we'll take a quick tour of the interface, then adjust a few settings. 
 
   <div class="button-wrapper">
-    <a href="setup-illustrator.html" title="Let's set up Illustrator." class="button">Set Up Illustrator</a>
+    <a href="/setups/illustrator.html" title="Let's set up Illustrator." class="button">Set Up Illustrator</a>
   </div>
 
   ### Our First Illustrations

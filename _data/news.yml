@@ -1,26 +1,26 @@
 - headline: CG1 This Week # News [0]
   image: 500x275.jpg
-  link: http://www.apple.com
+  link: https://www.apple.com
   text: "We'll get our hardware and software set up to kick off the semester"
   breaking:
 
 - headline: Adobe News # News [1]
   image: 500x275.jpg
-  link: http://www.adobe.com
+  link: https://www.adobe.com
   text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua."
   breaking:
 
 - headline: Important! # News [2]
   image: 500x275.jpg
-  link: http://www.vw.ca
+  link: https://www.vw.ca
   text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua."
   breaking: "on"
 
 - headline: Program News Item # News [3]
   image: 500x275.jpg
-  link: http://www.apple.com
+  link: https://www.apple.com
   text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua." 
   breaking:

@@ -73,7 +73,7 @@ details: |
 
   You can finish up by smoothing paths, if necessary. Select your vector art. Go <span class="command">Object > Path > Simplify...</span> Go easy. If you simplify too much, you'll distort your illustration. The best plan is to work on a duplicate of your illustration.
 
-  Keep this folder in order to submit it with the <a href="live-paint-recolour.html" title="This is the Live Paint and Recolour Artwork part of this assignment.">Live Paint</a> part of this project.
+  Keep this folder in order to submit it with the <a href="unleash-your-inner-vectors.html" title="This is the Live Paint and Recolour Artwork part of this assignment.">Live Paint</a> part of this project.
 
   ### Live Paint
 
