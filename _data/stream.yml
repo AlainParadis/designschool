@@ -11,7 +11,7 @@ courses:
     logistic: |
       This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
 
-        Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
+        Attending each class is imperative. See the [attendance policy](../administration/assessment.html#attendance).
 
   - coursetitle: Computer Graphics Two # Stream [1]
     nickname: CG Two
@@ -27,7 +27,7 @@ courses:
     logistic: |
       This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
 
-        Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
+        Attending each class is imperative. See the [attendance policy](../administration/assessment.html#attendance).
 
   - coursetitle: Computer Graphics Three # Stream [2]
     nickname: CG Three
@@ -43,7 +43,7 @@ courses:
     logistic: |
       This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
 
-        Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
+        Attending each class is imperative. See the [attendance policy](../administration/assessment.html#attendance).
 
   - coursetitle: Computer Graphics Four # Stream [3]
     nickname: CG Four
@@ -59,7 +59,7 @@ courses:
     logistic: |
       This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
 
-        Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
+        Attending each class is imperative. See the [attendance policy](../administration/assessment.html#attendance).
 
   - coursetitle: Computer Graphics Five # Stream [4]
     nickname: CG Five
@@ -75,7 +75,7 @@ courses:
     logistic: |
       This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
 
-        Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
+        Attending each class is imperative. See the [attendance policy](../administration/assessment.html#attendance).
 
   - coursetitle: Computer Graphics Six # Stream [5]
     nickname: CG Six
@@ -90,7 +90,7 @@ courses:
     logistic: |
       This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
 
-        Attending each class is imperative. See the [attendance policy](../topics/assessment.html#attendance).
+        Attending each class is imperative. See the [attendance policy](../administration/assessment.html#attendance).
 
   - coursetitle: Fieldwork & Professional Practice # Stream [6]
     nickname: Fieldwork
