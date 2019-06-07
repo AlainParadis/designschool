@@ -21,8 +21,8 @@ details: |
 
   Let's change a few settings in InDesign before we start building our document. You need to do this with <em>no</em> document open.
 
-  <div class="attentionbox borderlimegreen1 center pad05 width50 textcenter marginbottom10">
-    <a href="setup-indesign.html" title="InDesign Setup" class="fs12 limegreen width50">InDesign Setup</a>
+  <div class="button-wrapper">
+    <a href="/setups/indesign.html" title="InDesign Setup" class="button">InDesign Setup</a>
   </div>
 
   Once you're done these changes, quit and re-launch InDesign.
@@ -297,7 +297,7 @@ details: |
 
   ### Drop Caps
 
-  We'll style a drop cap with the help of <a href="drop-caps.html" title="Learn how to create a drop cap character in InDesign.">this information</a>.
+  We'll style a drop cap with the help of <a href="/information/drop-caps.html" title="Learn how to create a drop cap character in InDesign.">this information</a>.
 
   ### Paragraph Rules
 
