@@ -8,8 +8,10 @@ title: "Apple Mouse Buttons"
 level: info
 brightspace: 
 submission: 
-links:
-video: 
+links: |
+  - <a href="" class="https://support.apple.com/mac/accessories">Apple Accessories Support</a>
+  - <a href="https://www.apple.com/ca/shop/product/MLA02LL/A/magic-mouse-2-silver?fnode=56">Buy a Magic Mouse 2</a>
+video:
 downloads: 
 description: "If you're using an Apple Magic Mouse, it's not initially obvious that there's a right-click button, but it is there. On this page, you'll find instructions to activate it."
 details: |
