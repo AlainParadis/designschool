@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 1.3
+sortorder: 2.3
 appsused: psd, indd
 title: "Beautiful Line Art"
 level: cg3
