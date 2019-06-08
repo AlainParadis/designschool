@@ -2,7 +2,7 @@
 layout: default
 type: informational
 formsum:
-sortorder: 1.0
+sortorder:
 appsused: indd
 title: "Publish Online"
 level: info

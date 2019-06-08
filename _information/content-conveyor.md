@@ -2,12 +2,12 @@
 layout: default
 type: informational
 formsum: 
-sortorder: 1.0
+sortorder:
 appsused: indd
 title: "Content Conveyor"
 level: info
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-submission: "my-assignment-folder"
+submission:
 links: |
   - 
 video: 

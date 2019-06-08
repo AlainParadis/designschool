@@ -2,7 +2,7 @@
 layout: default
 type: informational
 formsum: 
-sortorder: 2.1
+sortorder:
 appsused: psd, indd, ai
 title: "Consistent Blacks"
 level: info

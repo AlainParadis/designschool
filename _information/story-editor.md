@@ -2,7 +2,7 @@
 layout: default
 type: informational
 formsum:
-sortorder: 1.3
+sortorder:
 appsused: indd
 title: "Story Editor"
 level: info

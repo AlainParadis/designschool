@@ -1,14 +1,15 @@
 ---
-layout: submission
-type: assignment
-formsum: formative
-sortorder: 9.0
+layout: default
+type: informational
+formsum:
+sortorder:
 appsused: macos
 title: "Automator"
-level: undetermined
-brightspace: "https://brightspace.algonquincollege.com/d2l/home"
-submission: "my-assignment-folder"
-links:
+level: info
+brightspace:
+submission:
+links: |
+  - Apple Support: <a href="https://support.apple.com/guide/automator/welcome/mac" class="">Automator</a>
 video: "https://www.youtube.com/embed/g7OAyK9FjQo?list=PL4qBMvigUSLBQ81-YCSdw7GqKhk4sEZxv"
 downloads:
 description: "Performing repetitive tasks on your computer can cause errors and be really tedious. Automator is an often ignored app which can perform the same work faster and without errors."

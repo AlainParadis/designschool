@@ -2,7 +2,7 @@
 layout: default
 type: informational
 formsum:
-sortorder: 1.0
+sortorder:
 appsused: indd
 title: "Quick Apply"
 level: info

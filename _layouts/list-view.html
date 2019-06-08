@@ -28,10 +28,12 @@
         <ul>
             {% for undeterminedlevel in site.topics %}
             {% if undeterminedlevel.level == 'undetermined' %}
-            <li><a href="{{ site.baseurl }}{{undeterminedlevel.url}}" class="" title="{{ undeterminedlevel.description }}">{{ undeterminedlevel.title }}</a></li>
+            <li><a href="{{ site.baseurl }}{{undeterminedlevel.url}}" class="{% if undeterminedlevel.formsum == 'summative' %}summative{% endif %}" title="{{ undeterminedlevel.description }}">{{ undeterminedlevel.title }}</a></li>
             {% endif %}
             {% endfor %}
         </ul>
+        <p>{{ collection.all_products_count }}</p>
+        
         </div>
     </section>
     {% include footer.html %}

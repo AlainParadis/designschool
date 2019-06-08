@@ -22,7 +22,7 @@
         </div>
     </section>
     <article class="card-wrapper">
-        {% assign all_info = site.information | sort: 'sortorder' %}
+        {% assign all_info = site.information | sort: 'title' %}
         {% for cards in all_info %}
         {% if cards.level contains page.level %}
         <a href="{{ site.baseurl }}{{cards.url}}" class="decoration-none card">

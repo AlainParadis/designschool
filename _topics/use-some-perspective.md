@@ -2,13 +2,16 @@
 layout: submission
 type: assignment
 formsum: summative
-sortorder: 3.9
+sortorder: 1.9
 appsused: ai
-title: "Drawing in Perspective"
-level: undetermined
+title: "Use Some Perspective"
+level: cg3
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission: "illustrator-document"
-links:
+links: |
+  - Adobe: <a href="https://helpx.adobe.com/illustrator/using/perspective-drawing.html" target="_blank" title="Perspective Drawing">Perspective Drawing</a>
+  - Adobe: <a href="https://helpx.adobe.com/illustrator/using/perspective-grid.html" target="_blank" title="Define Perspective Grids">Define Perspective Grids</a>
+  - Lynda: <a href="https://www.lynda.com/Illustrator-tutorials/Perspective-Drawing-Illustrator/186123-2.html" target="_blank" title="Drawing in Perspective">Drawing in Perspective</a>
 video: 
 downloads:
 description: "Drawing in perspective is really rewarding. In this unit, we'll explore the different types of perspective available to us."

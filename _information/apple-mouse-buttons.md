@@ -2,7 +2,7 @@
 layout: default
 type: informational
 formsum:
-sortorder: 1.0
+sortorder:
 appsused: macos
 title: "Apple Mouse Buttons"
 level: info

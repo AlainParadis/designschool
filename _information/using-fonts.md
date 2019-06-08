@@ -2,7 +2,7 @@
 layout: default
 type: informational
 formsum: 
-sortorder: 3.0
+sortorder:
 appsused: indd, macos, cc, ai, psd
 title: "Using Fonts"
 level: info

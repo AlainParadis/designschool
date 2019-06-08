@@ -1,15 +1,15 @@
 ---
 layout: default
 type: informational
-formsum: formative
+formsum: 
 sortorder:
 appsused: indd
 title: "Align To Baseline"
-level: undetermined
+level: info
 brightspace: 
-submission: "my-assignment-folder"
+submission:
 links: |
-  - Adobe: <a href="https://helpx.adobe.com/indesign/using/aligning-text.html" title="xx" target="_blank">Aligning Text</a>
+  - Adobe: <a href="https://helpx.adobe.com/indesign/using/aligning-text.html" title="Adobe: Aligning Text" target="_blank">Aligning Text</a>
 video: "https://www.youtube.com/embed/U_U3-RYLYlg"
 downloads:
 description: "The baseline grid represents the leading for body text in a document. You can use multiples of this leading value for all elements of the page to ensure that text always lines up between columns and from page to page."

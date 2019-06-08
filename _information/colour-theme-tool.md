@@ -2,14 +2,13 @@
 layout: default
 type: informational
 formsum:
-sortorder: 1.0
+sortorder:
 appsused: indd
 title: "Colour Theme Tool"
 level: info
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission:
-links: |
-  - 
+links: 
 video: 
 downloads: 
 description: 
