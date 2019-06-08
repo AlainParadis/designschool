@@ -297,7 +297,7 @@ a.summative::after {
 .panel h3 {
 	font-size: 1.5rem;
 	font-weight: 700;
-	margin: .25rem 0 0 .25rem;
+	margin: .25rem 0 .5rem .25rem;
 }
 
 .panel h3 a {
