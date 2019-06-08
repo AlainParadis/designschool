@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+{% include head.html %}
+
+<body>
+    <header role="banner">
+        <nav role="navigation">
+            {% include top-nav.html %}
+        </nav>
+        <div class="site-id">
+            <div class="item1">
+                <a href="{{ site.baseurl }}/"><img class="stacked" alt="Algonquin College Graphic Design Program Computer Graphics Course Curriculum" src="/images/svg/logo-ac-computer-graphics-stacked.svg"></a>
+                <a href="{{ site.baseurl }}/"><img class="horizontal" alt="Algonquin College Graphic Design Program Computer Graphics Course Curriculum" src="/images/svg/logo-ac-computer-graphics.svg"></a>
+            </div>
+            <div class="item2"></div>
+        </div>
+    </header>
+    <section class="page-title">
+        <div class="item1">
+            <h1 class="fs30">{{ page.title }}</h1>
+        </div>
+        <div class="item2">
+        </div>
+    </section>
+    <section class="content">
+      <div class="item1"></div>
+      <div class="item2">
+        <h2>Pages Not in any Levels</h2>
+        <ul>
+            {% for undeterminedlevel in site.topics %}
+            {% if undeterminedlevel.level == 'undetermined' %}
+            <li><a href="{{ site.baseurl }}{{undeterminedlevel.url}}" class="" title="{{ undeterminedlevel.description }}">{{ undeterminedlevel.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+        </div>
+    </section>
+    {% include footer.html %}
+</body>
+
+</html>
