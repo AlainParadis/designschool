@@ -10,6 +10,7 @@
 		</div>
 		<div class="table-cell">
 			{% if topic.appsused contains 'macos' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-macos.svg" alt="Mac OS icon"></span>{% endif %}
+			{% if topic.appsused contains 'sketching' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-sketching.svg" alt="Sketching by hand"></span>{% endif %}
 			{% if topic.appsused contains 'cc' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-cc.svg" alt="Creative Cloud icon"></span>{% endif %}
 			{% if topic.appsused contains 'indd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-indd.svg" alt="InDesign icon"></span>{% endif %}
 			{% if topic.appsused contains 'ai' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-ai.svg" alt="Illustrator icon"></span>{% endif %}
@@ -18,7 +19,6 @@
 			{% if topic.appsused contains 'pdf' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-pdf.svg" alt="Acrobat icon"></span>{% endif %}
 			{% if topic.appsused contains 'xd' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-xd.svg" alt="Xd icon"></span>{% endif %}
 			{% if topic.appsused contains 'dn' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-dn.svg" alt="Adobe Dimensions"></span>{% endif %}
-			{% if topic.appsused contains 'sketching' %}<span class="app-icon"><img src="{{ site.baseurl }}/images/svg/icon-sketching.svg" alt="Sketching by hand"></span>{% endif %}
 		</div>
 	</div>
 	{% endif %}
