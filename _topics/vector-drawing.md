@@ -1,12 +1,12 @@
 ---
-layout: submission
-type: assignment
+layout: default
+type: informational
 formsum:
-sortorder: 3.3
+sortorder:
 appsused: indd
 title: "Vector Drawing"
-level: undetermined
-brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+level: info
+brightspace:
 submission:
 links: |
   - <a href="https://helpx.adobe.com/search.html#q=draw&amp;t=AEM&amp;sort=relevancy&amp;f:@CommonProduct=[InDesign%2FCS6,InDesign,InDesign%2FCC,InDesign%2FCC%20(2015)]&amp;CommonProduct=InDesign&quot;" target="_blank" title="Drawing in InDesign">Drawing in InDesign</a>
