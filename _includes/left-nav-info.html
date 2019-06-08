@@ -1,5 +1,5 @@
 <h4>All Info Pages</h4>
-{% assign all_info = site.information | sort: 'sortorder' %}
+{% assign all_info = site.information | sort: 'title' %}
 <nav>
 <ul>
   {% for item in all_info %}
