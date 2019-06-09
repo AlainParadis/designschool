@@ -111,6 +111,7 @@ details: |
 
   <div class="attentionbox tip">If you hold the Shift key, then click, you can set the base colour for the them. Give it a go!</div>
 
+  As you can see, InDesign's Eye Dropper is a way more versatile tool than is immediately apparent. Now you know how to use this tool to its full potential. 
 
 assignment: |
   
