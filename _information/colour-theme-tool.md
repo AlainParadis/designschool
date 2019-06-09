@@ -44,11 +44,31 @@ details: |
     </figcaption>
     </figure>
 
-  
+  You can see that you have the option of sampling many elements on the page. The default settings are good for most users most of the time.
 
-  ### Sample Text Styling
+  #### Sample Text Styling
 
-  The Eye Dropper allows you to sample text styling.
+  The Eye Dropper allows you to sample text styling. Simply select the text you want to affect, then click on the text you want it to look like. It will even pick up its style sheets.
+
+    <figure>
+      <img src="/images/indesign-eye-dropper-tool/indesign-sample-text.jpg" class="size100" alt="indesign sample text">
+    <figcaption>
+      InDesign will make one bit of text look like another. It will also apply the original's style sheet.
+    </figcaption>
+    </figure>
+
+  #### Sample Anything on the Screen
+
+  You can sample any colour on the screen from InDesign. Go to your Swatches panel. Option-click on the New Swatch button.
+
+    <figure>
+      <img src="/images/indesign-eye-dropper-tool/indesign-sample-anywhere.jpg" class="size75" alt="Sample any colour on your screen.">
+    <figcaption>
+      Click and hold on the eye dropper tool. Drag the tool around while holding down your mouse. You can sample any colour on your screen -- even outside InDesign!
+    </figcaption>
+    </figure>
+
+  Switch the colour mode drop-down to RGB. You'll see an eye dropper appear at the bottom of the dialogue. Click and hold on it and drag around the screen.
 
   ### Colour Theme Tool
 
