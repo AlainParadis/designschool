@@ -2,10 +2,10 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 5.5
+sortorder: 6.1
 appsused: indd, psd
 title: "Text Variables"
-level: undetermined
+level: cg3
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86414&grpid=0&isprv=0&bp=0&ou=92653"
 submission: "indesign-package"
 links: |

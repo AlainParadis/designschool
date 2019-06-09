@@ -2,10 +2,10 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 1.0
+sortorder: 6.0
 appsused: indd
 title: "Conditional Text"
-level: undetermined
+level: cg3
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission: "my-assignment-folder"
 links: |
