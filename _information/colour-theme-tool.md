@@ -4,7 +4,7 @@ type: informational
 formsum:
 sortorder:
 appsused: indd
-title: "Colour Theme Tool"
+title: "Eye Dropper & Colour Theme Tool"
 level: info
 brightspace:
 submission:
@@ -46,6 +46,21 @@ details: |
 
   You can see that you have the option of sampling many elements on the page. The default settings are good for most users most of the time.
 
+  #### Sample Dimensions!
+
+  If you change the settings of the Eye Dropper as shown below, you can sample the size of objects on the page.
+
+    <figure>
+      <img src="/images/indesign-eye-dropper-tool/indesign-sample-dimensions.jpg" class="size75" alt="InDesign sample dimensions">
+    <figcaption>
+      Sample the dimensions of an object with these settings.
+    </figcaption>
+    </figure>
+
+  <img src="/images/indesign-eye-dropper-tool/indesign-sample-dimensions.gif" class="size100 borderdarkgrey1" alt="Sample the size of objects with the eye dropper">
+
+  You'll generally want this setting turned off. It could come in useful in very specific cases.
+
   #### Sample Text Styling
 
   The Eye Dropper allows you to sample text styling. Simply select the text you want to affect, then click on the text you want it to look like. It will even pick up its style sheets.
@@ -72,13 +87,29 @@ details: |
 
   ### Colour Theme Tool
 
-  The Colour Theme tool is where the magic really happens. It allows you to click at one spot on a photo to create a series of swatches based on the colours in that photo.
+  The Colour Theme tool is where the magic really happens. You can drag across multiple items on the page to quickly pick up their colours.
 
-  Notice that when you 
+    <figure>
+      <img src="/images/indesign-eye-dropper-tool/indesign-colour-theme-shapes.gif" class="size100 borderdarkgrey1" alt="Colour theme tool">
+    <figcaption>
+      Drag across items on the page to pick up all their colours. Click to add them to the Swatches panel.
+    </figcaption>
+    </figure>
 
-  * We can cover sampling paragraph styles.
-  * Set up what the eye dropper samples and what it doesn't.
-  * What does it mean when the Eye Dropper tool shifts from the left to the right? When it's full vs empty?
+  It allows you to click at one spot on a photo to create a series of swatches based on the colours in that photo. Note how they appear in the theme panel as soon as we drag. All you need to do is click to add them to your Swatches panel.
+
+    <figure>
+      <img src="/images/indesign-eye-dropper-tool/indesign-colour-theme-photo.gif" class="size75 borderdarkgrey1" alt="Sample colours from a photo in InDesign.">
+    <figcaption>
+      Sample colour from a photo by clicking on it with the Colour Theme tool.
+    </figcaption>
+    </figure>
+
+  The process is just as simple with a photo. In this case, we just click on the photo. You have the option to choose a different theme in the drop-down menu.
+
+  <div class="attentionbox tip">If you hold the Shift key, then click, you can set the base colour for the them. Give it a go!</div>
+
+
 assignment: |
   
 ---
