@@ -4,7 +4,7 @@ type: informational
 formsum:
 sortorder:
 appsused: indd
-title: "Eye Dropper & Colour Theme Tool"
+title: "Eye Dropper Tool"
 level: info
 brightspace:
 submission:
@@ -16,20 +16,22 @@ video:
 downloads: 
 description: "The Colour Theme tool is a hidden gem in InDesign. It can sample colour and even apply colour. It can magically pull a whole colour theme from a photo for you to use in your designs. Let's try it out!"
 details: |
-  InDesign's Eye Dropper tool has a lot of power packed into a seemingly trivial tool.
+  InDesign's Eye Dropper tool has a lot of power packed into a seemingly straightforward tool.
 
   ### Basic Functionality
 
-  <div class="attentionbox shortcut">To switch to the Eye Dropper, first hit Escape to ensure your cursor is not in a text frame. Now it's safe to hit i.</div>
+  <div class="attentionbox shortcut">To switch to the Eye Dropper, first hit Escape to ensure your cursor is not in a text frame. Now it's safe to hit the i key.</div>
 
-  The Eye Dropper tool in InDesign is quite unique. It can actually apply colour. Use it to click on a colour. You'll notice that the tool icon flips over. That's the 
+  The Eye Dropper tool in InDesign is quite unique. It can actually apply colour. Use it to click on a colour. You'll notice that the tool icon flips over. That's the *loaded eye dropper*. It drops the colour into the new shape.
 
     <figure>
       <img src="/images/indesign-eye-dropper-tool/indesign-eye-dropper.jpg" class="size75" alt="InDesign Eye Dropper Tool">
     <figcaption>
-      Sample with the tool on the left. Apply the sample with the tool on the right.
+      Sample with the tool on the left. Apply the sample with the <i>loaded eye dropper</i> on the right.
     </figcaption>
     </figure>
+
+  <img src="/images/indesign-eye-dropper-tool/indesign-sample-then-apply.gif" class="size100 borderdarkgrey1" alt="Sample then apply colours">
 
   Note that InDesign's Eye Dropper is not a pixel-based tool. To prove it, sample a gradient. It will not sample the spot where you clicked, like Photoshop would do. It works like Illustrator does. It will sample the whole gradient.
 
