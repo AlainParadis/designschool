@@ -109,7 +109,7 @@ details: |
 
   The process is just as simple with a photo. In this case, we just click on the photo. You have the option to choose a different theme in the drop-down menu.
 
-  <div class="attentionbox tip">If you hold the Shift key, then click, you can set the base colour for the them. Give it a go!</div>
+  <div class="attentionbox tip">If you hold the Shift key, then click, you can choose your own base colour for the theme. Give it a go!</div>
 
   As you can see, InDesign's Eye Dropper is a way more versatile tool than is immediately apparent. Now you know how to use this tool to its full potential. 
 
