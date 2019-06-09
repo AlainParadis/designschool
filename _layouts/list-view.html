@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 {% include head.html %}
-
 <body>
     <header role="banner">
         <nav role="navigation">
@@ -26,8 +25,8 @@
       <div class="item2">
         <h2>Pages Not in any Levels</h2>
         <ul>
-            {% for undeterminedlevel in site.topics %}
-            {% if undeterminedlevel.level == 'undetermined' %}
+            {% for undeterminedlevel in site.topics%}
+            {% if undeterminedlevel.level == 'undetermined'%}
             <li><a href="{{ site.baseurl }}{{undeterminedlevel.url}}" class="{% if undeterminedlevel.formsum == 'summative' %}summative{% endif %}" title="{{ undeterminedlevel.description }}">{{ undeterminedlevel.title }}</a></li>
             {% endif %}
             {% endfor %}
