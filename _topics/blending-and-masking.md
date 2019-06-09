@@ -2,13 +2,14 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 2.0
+sortorder: 1.0
 appsused: psd
 title: "Blending & Masking"
 level: undetermined
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=120805&grpid=0&isprv=0&bp=0&ou=145571"
 submission: "my-assignment-folder"
-links: 
+links: |
+  Lynda.com: <a href="https://www.lynda.com/Illustrator-tutorials/Creating-double-exposure-effect-Photoshop/117542/441267-4.html">Double Exposure Effect</a>
 video: 
 downloads: "https://www.dropbox.com/s/kni4vuo621s5fcz/photoshop-double-exposure-effect.zip?dl=1"
 description: "This effect has been trendy for a while now. Notwithstanding the trend, the effect makes use of important features in Photoshop."
