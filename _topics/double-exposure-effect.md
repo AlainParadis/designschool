@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: summative
-sortorder: 2.9
+sortorder: 1.9
 appsused: psd
 title: "Double Exposure Effect"
 level: undetermined
