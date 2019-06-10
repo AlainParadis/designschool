@@ -15,7 +15,7 @@
 	</div>
 </header>
 <section class="news">
-	{% for newsitem in site.data.news %}
+	{% for newsitem in site.data.news limit:4%}
 	<a href="{{ newsitem.link }}" title="This is a news item." class="newsitem decoration-none">
 		<h3 class="{% if newsitem.breaking == 'on' %}breaking{% endif %}">{{ newsitem.headline }}</h3>
 		{% if newsitem.image %}
