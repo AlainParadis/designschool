@@ -1,10 +1,10 @@
-- headline: CG1 This Week # News [0]
-  image: 500x275.jpg
-  link: https://www.apple.com
-  text: "We'll get our hardware and software set up to kick off the semester"
+- headline: Welcome to the Program! # News [0]
+  image: 1000.gif
+  link: /setup/index.html
+  text: "Let's get set up for the semester. Install software, set up your Mac and get familiar with college services."
   breaking:
 
-- headline: Adobe News # News [1]
+- headline: Welcome Returning Students! # News [1]
   image: 500x275.jpg
   link: https://www.adobe.com
   text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -12,7 +12,7 @@ tempor incididunt ut labore et dolore magna aliqua."
   breaking:
 
 - headline: Important! # News [2]
-  image: 500x275.jpg
+  image:
   link: https://www.vw.ca
   text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua."

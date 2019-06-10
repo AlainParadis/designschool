@@ -164,18 +164,20 @@ section.news {
 section .newsitem {
     display: flex;
     flex-direction: column;
-    align-items: stretch;
-    align-content: start;
+    flex-wrap: wrap;
     border: solid 1px var(--limegreen100);
     padding: 0;
     background-color: white;
     border-radius: 0.25rem;
 }
-
-section .newsitem img {
-    max-height: 275px;
-    overflow-y: hidden;
-    overflow-x: hidden;
+section .newsitem .poster {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height: 200px;
+    overflow: hidden;
+}
+section .newsitem .poster img {
     border-bottom: 1px solid var(--limegreen100);
 }
 
