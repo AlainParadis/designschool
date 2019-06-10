@@ -7,9 +7,11 @@ appsused: macos
 title: "macOS Setup"
 level: setup
 brightspace: 
+links: |
+  - <a href="https://support.apple.com/en-ca/guide/disk-utility/dskutl14079/mac" target="_blank">Apple Support Erase a Drive</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLC801w73wa2lidM9d61x0aE"
 downloads:
-description: "Let's get your Mac set up for the semester. We'll create a file structure, make sure you have backups and more."
+description: "Let's get your Mac set up for the semester. Some important Finder preferences need to be changed. We'll create a folder structure so that you stay organized during the semester. We'll need to ensure you have proper backups of your work. If you're a returning students, you'll need to archive past semesters' work."
 details: | 
   In order to keep all course files organized, you'll create a folder for each course inside a Semester One folder. Place the Semester One folder inside of either a <a href="http://drive.google.com" title="Google Drive" target="_blank">Google Drive</a> or a <a href="http://www.dropbox.com" title="Dropbox Cloud Storage" target="_blank">Dropbox.com</a> folder. Once you're done, drag your Semester One folder to the Sidebar of a Finder window.
 
@@ -20,6 +22,23 @@ details: |
   Inside of each course folder, create a folder for each assignment as you start that assignment. Keep files organized inside each assignment folder.
 
   Watch the video tutorial, then set up the same folder structure.
+
+  ### Returning Student? Archive Away!
+
+  If you're a returning student, you need to keep files from previous semesters. Hopefully, you kept your work organized. If not, take the time to file everything away.
+
+    <figure>
+      <img src="/images/setup-day1/usb-key.jpg" class="size50 borderdarkgrey1" alt="Photo of a USB Key">
+    <figcaption>
+      Purchase a 32GB usb drive.
+    </figcaption>
+    </figure>
+
+  The simplest solution is to purchase a USB key. A 32GB thumb drive should suffice.
+
+  <div class="attentionbox tip">Remember to format the USB drive as <i>macOS Extended</i> using Disk Utility. <a href="https://support.apple.com/en-ca/guide/disk-utility/dskutl14079/mac" target="_blank">Read how...</a></div>
+
+  Copy all your files from last semesters onto it. Then you can remove them from your laptop. By the end of the semester, you should have six folders at the root of the drive -- one for each semester.
 
   ### Backups!
 
