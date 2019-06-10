@@ -100,7 +100,7 @@ details: |
   - jpeg
   - png
 
-  ## Reveal Your Library Folder
+  ### Reveal Your Library Folder
 
   By default, the Library folder that resides in your Home Directory is hidden. It contains important files like application preferences and the Fonts folder. We want to show the folder so we can access it more easily. Go to your Home Directory by typing <span class="command">Shift-⌘-H</span>. Then type <span class="command">Type ⌘-J</span>.
 

@@ -17,6 +17,16 @@ video:
 downloads:
 description: "Our first steps are to get you logged in to various online services. This will allow you to access your schedule, bursary information, cours materials, your network password, your grades and more."
 details: | 
+  ### Your Tech Support Team
+
+  If you need software or hardware support, you can always contact me via <a href="mailto:paradia@algonquincollege.com" title="E-Mail Alain Paradis">e-mail</a>. You should be able to resolve most common support issues by referring to [our FreshDesk site](http://algonquincollege.freshdesk.com) We also have two excellent tech support people who are there to help you. They are:
+
+  Brad St-Jean <a href="mailto:stjeanb@algonquincollege.com" title="E-Mail Brad St-Jean">E-mail</a>
+
+  Mike Stacey <a href="mailto:staceym@algonquincollege.com" title="E-Mail Mike Stacey">E-mail</a>
+
+  **Their offices are at N208E**. That's just down the hall, near the water fountain.
+
   ### Your College Login
 
   You'll need to obtain your college login info. To do so, go to <a href="https://acsis.algonquincollege.com" title="Log in to your college ACSIS account.">Student Information System</a> (ACSIS). Click on Network, then follow the instructions to change your temporary password to a new unique password.
@@ -59,16 +69,6 @@ details: |
   ### Connect to Our File Server
 
   To connect to the Graphic Design file server, [follow these instructions](http://algonquincollege.freshdesk.com/support/solutions/articles/11000009593-how-to-connect-to-the-college-dropbox-server-from-your-mac "Connect to the Graphic Design file server").
-
-  ### Additional Support
-
-  If you need additional software or hardware support, you can always contact me via <a href="mailto:paradia@algonquincollege.com" title="E-Mail Alain Paradis">e-mail</a>. You should be able to resolve most common support issues by refering to [our FreshDesk site](http://algonquincollege.freshdesk.com) We also have two excellent tech support people who are there to help you. They are:
-
-  Brad St-Jean <a href="mailto:stjeanb@algonquincollege.com" title="E-Mail Brad St-Jean">E-mail</a>
-
-  Mike Stacey <a href="mailto:staceym@algonquincollege.com" title="E-Mail Mike Stacey">E-mail</a>
-
-  Their offices are at N208E. That's just down the hall, in the direction of P Building.
 
   ### College Printer Setup
 
