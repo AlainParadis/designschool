@@ -1,38 +1,34 @@
-- headline: Welcome to the Program! # News [0]
-  image: 1000.gif
+- headline: Welcome to New Students!
+  active: "yes"
+  image: cg1-week1-setup.jpg
   link: /setup/index.html
   text: "Let's get set up for the semester. Install software, set up your Mac and get familiar with college services."
   breaking:
 
-- headline: Welcome Returning Students! # News [1]
-  image: 500x275.jpg
-  link: https://www.adobe.com
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua."
+- headline: Welcome to Returning Students!
+  active: "yes"
+  image: week1-setup.jpg
+  link: /setup/index.html
+  text: "Returning students need to get setup for the semester. Archive past semesters' files. Set up a new folder structure for the upcoming semester."
   breaking:
 
-- headline: Important! # News [2]
-  image:
-  link: https://www.vw.ca
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua."
-  breaking: "on"
-
-- headline: Program News Item # News [3]
-  image: 500x275.jpg
-  link: https://www.apple.com
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua." 
+- headline: Run Your Updates
+  active: "yes"
+  image: adobe-software.jpg
+  link:
+  text: "As the semester starts, you should run your macOS software updater. Also, go to the Adobe Desktop app in your menu bar to run any available app updates." 
   breaking:
 
-- headline: Important! # News [2]
+- headline: Important!
+  active: "yes"
   image: 500x275.jpg
   link: https://www.vw.ca
   text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua."
-  breaking: "on"
+  breaking:
 
-- headline: Program News Item # News [3]
+- headline: Program News Item
+  active: "no"
   image: 500x275.jpg
   link: https://www.apple.com
   text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

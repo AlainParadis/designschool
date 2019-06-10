@@ -16,6 +16,7 @@
 </header>
 <section class="news">
 	{% for newsitem in site.data.news limit:4%}
+	{% if newsitem.active == 'yes' %}
 	<div class="newsitem">
 		<a href="{{ newsitem.link }}" title="This is a news item." class="decoration-none">
 		<h3 class="{% if newsitem.breaking == 'on' %}breaking{% endif %}">{{ newsitem.headline }}</h3>
@@ -24,9 +25,10 @@
 			<img src="{{ site.baseurl }}/images/news/{{ newsitem.image }}">
 			</div>
 		{% endif %}
-		<p>{{ newsitem.text }}</p>
-	</a>
-</div>
+			<p>{{ newsitem.text }}</p>
+		</a>
+	</div>
+{% endif %}
 {% endfor %}
 </section>
 <section class="home-panels">
