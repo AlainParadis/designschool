@@ -4,12 +4,11 @@ type: assignment
 formsum: formative
 sortorder: 1.0
 appsused: ai
-title: ""
+title: "Topic Template"
 level: 
 brightspace: 
-submission: "generic-zip-folder"
-links: |
-  - 
+submission: "my-assignment-folder"
+links:
 video: 
 downloads: 
 description: 
