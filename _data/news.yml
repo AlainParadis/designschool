@@ -19,18 +19,12 @@
   text: "As the semester starts, you should run your macOS software updater. Also, go to the Adobe Desktop app in your menu bar to run any available app updates." 
   breaking:
 
-- headline: Important!
-  active: "yes"
-  image: 500x275.jpg
-  link: https://www.vw.ca
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua."
-  breaking:
-
-- headline: Program News Item
+- headline: Office Hours
   active: "no"
-  image: 500x275.jpg
-  link: https://www.apple.com
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua." 
+  image:
+  link:
+  text: |
+    If you need to find Alain, my office is in N200. My office hours are by appointment. You can email me at <a href="mailto:paradia@algonquincollege.com" >paradia@algonquincollege.com</a>.
+
+    <p>Remember, your Student Success Specialist is Deborah Buck. Her office is in N219. She can be reached at <a href="maito:buckd@algonquincollege.com">buckd@algonquincollege.com</a></p>
   breaking:
