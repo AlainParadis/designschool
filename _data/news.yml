@@ -9,22 +9,23 @@
   active: "yes"
   image: week1-setup.jpg
   link: /setup/index.html
-  text: "Returning students need to get setup for the semester. Archive past semesters' files. Set up a new folder structure for the upcoming semester."
+  text: Returning students need to get setup for the semester. Archive past semesters' files. Set up a new folder structure for the upcoming semester."
   breaking:
 
 - headline: Run Your Updates
   active: "yes"
   image: adobe-software.jpg
   link:
-  text: "As the semester starts, you should run your macOS software updater. Also, go to the Adobe Desktop app in your menu bar to run any available app updates." 
+  text:
+    As the semester starts, you should run your macOS software updater. Also, go to the Adobe Desktop app in your menu bar to run any available app updates.
   breaking:
 
-- headline: Office Hours
-  active: "no"
-  image:
+- headline: Student Success
+  active: "yes"
+  image: student-success.jpg
   link:
   text: |
-    If you need to find Alain, my office is in N200. My office hours are by appointment. You can email me at <a href="mailto:paradia@algonquincollege.com" >paradia@algonquincollege.com</a>.
+    There are many support services available to you at Algonquin. If you find yourself struggling in any way, please reach out to us.
 
-    <p>Remember, your Student Success Specialist is Deborah Buck. Her office is in N219. She can be reached at <a href="maito:buckd@algonquincollege.com">buckd@algonquincollege.com</a></p>
+    If you need to find Dave or Alain, our offices are in N200. Office hours are by appointment.
   breaking:

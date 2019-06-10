@@ -182,7 +182,7 @@ section .newsitem .poster img {
 }
 
 section .newsitem p {
-    padding: 0.25rem;
+    margin: 0 0.25rem 0.5rem 0.25rem;
 }
 
 section.courseinfo {
