@@ -10,7 +10,7 @@ links: |
   - <a href="https://www.apple.com/ca/retail/rideau/" alt:="Apple Store Rideau" target="_blank">Apple Store Rideau</a>
   - <a href="https://www.apple.com/ca/retail/bayshoreshoppingcentre/" alt:="Apple Store Bayshore" target="_blank">Apple Store Bayshore</a>
   - <a href="http://www.backblaze.com" alt:="BackBlaze computer cloud backup." target="_blank">Backblaze</a>
-  - <a href="https://www.apple.com/ca_edu_93120/shop/buy-mac/macbook-pro" alt:="Apple Store for Education" target="_blank">Apple’s Online Education Store</a>
+  - <a href="https://www.apple.com/ca_edu_93120/shop/buy-mac/macbook-pro/15-inch" alt:="Apple Store for Education" target="_blank">Apple’s Online Education Store</a>
   - <a href="https://www.apple.com/ca_edu_93120/shop/browse/home/specialdeals" alt:="Refurbished Apple Store for Education" target="_blank">Apple Refurbished Store</a>
 video: 
 downloads: 

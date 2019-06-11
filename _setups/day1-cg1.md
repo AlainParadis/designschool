@@ -37,7 +37,7 @@ details: |
   #### About Computer Graphics
 
   - Why a Mac?
-    - The minimum requirement for their computer is a <a href="https://www.apple.com/ca_edu_107689/shop/buy-mac/macbook-pro/15-inch" title="Apple.com: education pricing on the 15&quot; MacBook Pro" target="_blank">15” Retina MacBook Pro</a>.
+    - The minimum requirement for their computer is a <a href="https://www.apple.com/ca_edu_93120/shop/buy-mac/macbook-pro/15-inch" title="Apple.com: education pricing on the 15&quot; MacBook Pro" target="_blank">15” Retina MacBook Pro</a>.
     - You're encouraged to purchase AppleCare with your new laptop.
   - Why Creative Cloud?
     - InDesign for page layout.
