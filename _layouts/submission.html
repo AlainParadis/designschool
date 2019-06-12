@@ -21,6 +21,13 @@ layout: default
       <span class="orange">Failure to submit your files as directed will incur a proportional loss of points. If your file/folder is not named with your name, you will earn a zero. <a href="/administration/assessment.html#filenames" title="Why is file naming important?">Why?</a></span>
     </p>
 
+{% elsif page.submission == 'illustrator-package' %}
+<p>Make sure your document is named properly:</p>
+<p class="filename">Appleseed-Johnny-#-{{ page.title }}.ai</p>
+<p>Check that there are no placed images in your Links panel. Lastly, go <span class="command">Type > Fine Font...</span>. Make sure the only fonts there are from Adobe Fonts. If there are others, get rid of them.</p>
+<p>Now, you're ready to save your file and package it. Go <span class="command">File > Package...</span> and follow the prompts. You'll submit the folder named</p>
+<p class="foldername">Appleseed-Johnny-#-{{ page.title }}.zip</p>
+
 {% elsif page.submission == 'my-assignment-folder' %}
     <p>
     Once you've completed your work, save and close each document. Rename the provided assignment folder as LastName-FirstName-Group-Nº-Assignment-Name so,
