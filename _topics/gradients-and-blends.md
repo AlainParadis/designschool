@@ -31,6 +31,7 @@ details: |
   * The Gradient Annotator
   * Linear gradients
   * Radial gradients
+  * Freeform gradients
   * Gradients on a path
   * Selecting colours for tasteful gradients
   * Opacity in gradients
