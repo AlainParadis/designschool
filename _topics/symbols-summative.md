@@ -19,7 +19,7 @@ assignment: |
   Create a single, letter-sized ad for a fictional company. It can be landscape or portrait orientation. Make sure to name your file like this from the outset:
 
   <div class="attentionbox filename">
-    Appleseed, Johnny, Group #, Symbols.ai
+    Appleseed-Johnny-#-Symbols-Summative.ai
   </div>
 
   Before you even start your work, delete all stock symbols from the Symbols panel. Go to the panel menu, then choose Select all unused. Delete them all. We want only your new, original symbols in the panel.

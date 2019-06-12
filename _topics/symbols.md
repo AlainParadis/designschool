@@ -7,7 +7,7 @@ appsused: ai
 title: "Symbols"
 level: cg4
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=123817&grpid=0&isprv=0&bp=0&ou=145538"
-submission: "illustrator-package"
+submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/symbols.html#use_9_slice_scaling" title="Symbols" target="_blank">Symbols</a>
 video: "https://www.youtube.com/embed/8BfO3RTKamA"
@@ -119,5 +119,33 @@ details: |
 
 assignment: |
 
+  ### Basic Symbols
 
+  Draw your own original symbols on the provided map. You should have an icon for:
+
+    1. Camp grounds
+    2. Picnic grounds
+    3. A hospital
+    4. Bicycle paths
+    5. Walking paths
+    6. Location markers (a dot or geometric shape)
+    7. Mile marker (a triangular shape)
+
+  <img src="/images/illustrator-symbols/illustrator-symbols-map.jpg" class="size100 borderdarkgrey1" alt="Illustrator Symbols Map">
+
+  Make one of the icons a dynamic symbol. Change the colours of the instances. In my case, I changed the colour of the picnic grounds icons.
+
+  ### 9-Slice Scaling
+
+  In the second instance, the arrow art has already been drawn for you. What you need to do is make it a symbol with 9-slice scaling. You want to make only the wood shaft scale, as shown.
+
+  <img src="/images/illustrator-symbols/illustrator-symbols-arrow.jpg" class="size100 borderdarkgrey1" alt="Illustrator Symbols Arrow">
+
+  ### Symbol Sprayer
+
+  Create a symbol from the provided artwork. Use the Symbol Sprayer to spray instances on the page.
+
+  <img src="/images/illustrator-symbols/illustrator-symbols-sprayer.jpg" class="size100 borderdarkgrey1" alt="Illustrator Symbols Sprayer">
+
+  Use the Sprayer tools to create variations in their size, rotation, etc...
 ---
