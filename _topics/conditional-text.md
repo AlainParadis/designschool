@@ -5,7 +5,7 @@ formsum: formative
 sortorder: 6.0
 appsused: indd
 title: "Conditional Text"
-level: cg3
+level: undetermined
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission: "my-assignment-folder"
 links: |
