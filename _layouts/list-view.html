@@ -32,7 +32,16 @@
             {% endfor %}
         </ul>
         <p>{{ collection.all_products_count }}</p>
-        
+        <hr>
+        <h3>All Illustrator</h3>
+        <p>These are all assignments where Illustrator in involved.</p>
+        <ul>
+            {% for all-topics in site.topics %}
+            {% if all-topics.appsused contains 'ai' %}
+                <li><a href="{{ all-topics.url }}">{{ all-topics.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+        </ul>
         </div>
     </section>
     {% include footer.html %}
