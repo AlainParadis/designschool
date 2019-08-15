@@ -8,7 +8,8 @@ title: "VW Layout"
 level: cg1
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=84507&grpid=0&isprv=0&bp=0&ou=92671"
 submission: "indesign-package"
-links:
+links: |
+  - <a href="https://helpx.adobe.com/indesign/using/formatting-text.html#use_quick_apply" target="_blank">Adobe: Quick Apply</a>
 downloads: "https://www.dropbox.com/s/h8vupzuloc7jysr/indesign-vw-layout.zip?dl=1"
 video:
 description: "Use the provided files to build the Volkswagen advertisement according to the included PDF design guide."
