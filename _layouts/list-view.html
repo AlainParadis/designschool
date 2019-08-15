@@ -31,13 +31,32 @@
             {% endif %}
             {% endfor %}
         </ul>
-        <p>{{ collection.all_products_count }}</p>
         <hr>
         <h3>All Illustrator</h3>
-        <p>These are all assignments where Illustrator in involved.</p>
+        <p>These are all assignments where Illustrator is involved.</p>
         <ul>
             {% for all-topics in site.topics %}
             {% if all-topics.appsused contains 'ai' %}
+                <li><a href="{{ all-topics.url }}">{{ all-topics.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+        <hr>
+        <h3>All InDesign</h3>
+        <p>These are all assignments where InDesign is involved.</p>
+        <ul>
+            {% for all-topics in site.topics %}
+            {% if all-topics.appsused contains 'indd' %}
+                <li><a href="{{ all-topics.url }}">{{ all-topics.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+        <hr>
+        <h3>All Photoshop</h3>
+        <p>These are all assignments where Photoshop is involved.</p>
+        <ul>
+            {% for all-topics in site.topics %}
+            {% if all-topics.appsused contains 'psd' %}
                 <li><a href="{{ all-topics.url }}">{{ all-topics.title }}</a></li>
             {% endif %}
             {% endfor %}
