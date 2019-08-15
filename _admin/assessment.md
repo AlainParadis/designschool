@@ -4,7 +4,7 @@ type: informational
 sortorder: 
 appsused:
 title: "Assessment"
-level: admin
+level:
 brightspace: 
 video: 
 downloads:

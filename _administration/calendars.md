@@ -4,7 +4,7 @@ type: informational
 sortorder:
 appsused:
 title: "Calendars"
-level: info
+level: admin
 supportdoc:
 brightspace: 
 downloads:

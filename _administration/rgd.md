@@ -4,7 +4,7 @@ type: informational
 sortorder: 
 appsused:
 title: "RGD"
-level:
+level: admin
 brightspace: 
 links:  |
   - <a href="https://www.rgd.ca" alt:="The RGD" target="_blank">The RGD's Web Site</a>

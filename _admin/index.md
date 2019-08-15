@@ -1,7 +1,7 @@
 ---
-layout: course-cards
+layout: admin
 type: course-home
 appsused: macos, cc, indd, ai, psd, pdf
-title: "Computer Graphics One"
+title: "Admin Pages"
 level: admin
 ---

@@ -4,7 +4,7 @@ type: generic
 sortorder: 6
 appsused: macos
 title: "Submitting Assignments on Brightspace"
-level: "general"
+level: admin
 brightspace: 
 video: 
 downloads: 

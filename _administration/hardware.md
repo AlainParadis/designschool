@@ -4,7 +4,7 @@ type: informational
 sortorder: 
 appsused:
 title: "Hardware Requirements"
-level: info
+level: admin
 brightspace: 
 links: |
   - <a href="https://www.apple.com/ca/retail/rideau/" alt:="Apple Store Rideau" target="_blank">Apple Store Rideau</a>

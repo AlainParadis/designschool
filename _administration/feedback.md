@@ -5,7 +5,7 @@ formsum:
 sortorder: 1.0
 appsused: 
 title: "Anonymous Student Feedback"
-level:
+level: admin
 brightspace: 
 submission: 
 links: 

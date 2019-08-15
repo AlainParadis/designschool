@@ -4,7 +4,7 @@ type: informational
 sortorder: 
 appsused:
 title: "Pantone Books"
-level: info
+level: admin
 brightspace: 
 video: 
 downloads:
