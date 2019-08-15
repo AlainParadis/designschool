@@ -14,6 +14,7 @@ links: |
   - <a href="https://helpx.adobe.com/indesign/using/creating-text-text-frames.html" target="_blank" title="Create Text Frames">Create Text Frames</a>
   - <a href="https://helpx.adobe.com/indesign/using/threading-text.html" target="_blank" title="Threading Text">Adobe: Threading Text</a>
   - <a href="https://helpx.adobe.com/indesign/using/text-wrap.html" target="_blank" title="Adobe: Text Wrap">Adobe: Text Wrap</a>
+  - <a href="https://helpx.adobe.com/indesign/using/formatting-text.html" target="_blank">Adobe: Quick Apply</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDjkXfBZub8komrk3Bj3RyO"
 downloads: "https://www.dropbox.com/s/9ymsw3yk3qkmayf/indesign-our-first-layout.zip?dl=1"
 description: "In our introduction to page layout in InDesign, we'll build a single page layout promoting Apple's Mac Mini desktop computer."
