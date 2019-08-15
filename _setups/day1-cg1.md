@@ -11,7 +11,6 @@ submission:
 links: |
   - <a href="setup-mac.html" title="macOS Setup">macOS Setup</a>
   - <a href="setup-college-services.html" title="Set up your college online services">Setup College Services</a>
-  - <a href="https://support.apple.com/en-ca/guide/mac-help/welcome/mac" target="_blank">MacOS User Guide</a>
 video: 
 downloads:
 description: "Congratulations on being accepted into the Graphic Design program at Algonquin College. We have a number of topics to cover in our first Computer Graphics class."
