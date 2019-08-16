@@ -14,6 +14,23 @@
 		<div class="item2"></div>
 	</div>
 </header>
+<section class="news">
+	{% for newsitem in site.data.news limit:4%}
+	{% if newsitem.active == 'yes' %}
+	<div class="newsitem">
+		<a href="{{ newsitem.link }}" title="{{ newsitem.headline }}" class="decoration-none">
+		<h3 class="{% if newsitem.breaking == 'on' %}breaking{% endif %}">{{ newsitem.headline }}</h3>
+		{% if newsitem.image %}
+		<div class="poster">
+			<img src="{{ site.baseurl }}/images/news/{{ newsitem.image }}">
+			</div>
+		{% endif %}
+			<p>{{ newsitem.text | markdownify }}</p>
+		</a>
+	</div>
+{% endif %}
+{% endfor %}
+</section>
 <section class="home-panels">
 	<div class="panel panel-cg1">
 		<h3><a href="{{ site.baseurl }}/cg1/index.html" title="Course Home" class="decoration-none">{{ site.data.stream.courses[0].coursetitle }}</a></h3>
