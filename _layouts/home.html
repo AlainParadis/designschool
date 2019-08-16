@@ -14,22 +14,28 @@
 		<div class="item2"></div>
 	</div>
 </header>
-<section class="news">
-	{% for newsitem in site.data.news limit:4%}
-	{% if newsitem.active == 'yes' %}
-	<div class="newsitem">
-		<a href="{{ newsitem.link }}" title="{{ newsitem.headline }}" class="decoration-none">
-		<h4 class="{% if newsitem.breaking == 'on' %}breaking{% endif %}">{{ newsitem.headline }}</h4>
-		{% if newsitem.image %}
+<section class="thefeed">
+	<div class="thefeed-title">
+		<h3><a href="{{ site.baseurl}}/thefeed/index.html" class="nounderline" target="_blank">The Feed</a></h3>
+	</div>
+	<div class="thefeed-items">
+	{% for thefeeditem in site.data.thefeed limit:4%}
+	{% if thefeeditem.active == 'yes' %}
+	<div class="thefeeditem">
+		<a href="{{ thefeeditem.link }}" title="{{ thefeeditem.headline }}">
+		<h4 class="{% if thefeeditem.breaking == 'on' %}breaking{% endif %}">{{ thefeeditem.headline }}</h4>
+		{% if thefeeditem.image %}
 		<div class="poster">
-			<img src="{{ site.baseurl }}/images/news/{{ newsitem.image }}">
+			<img src="{{ site.baseurl }}/images/thefeed/{{ thefeeditem.image }}">
 			</div>
 		{% endif %}
-			<div>{{ newsitem.text | markdownify }}</div>
+			<div>{{ thefeeditem.text | markdownify }}</div>
 		</a>
 	</div>
-{% endif %}
-{% endfor %}
+	{% endif %}
+	{% endfor %}
+</div>
+<p class="textalignright fs08"><a href="{{ site.baseurl}}/thefeed/index.html">See all stories...</a></p>
 </section>
 <section class="home-panels">
 	<div class="panel panel-cg1">

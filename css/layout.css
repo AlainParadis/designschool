@@ -69,8 +69,8 @@ footer nav {
 
 header nav {
     background-color: var(--darkgreen100);
-    margin: 0 -9999px;
     padding: 0 9999px;
+    margin: 0 -9999px;
 }
 
 header nav ul,
@@ -105,8 +105,8 @@ header .site-id {
     grid-template-rows: 1fr;
     grid-gap: 1rem;
     background-color: var(--limegreen100);
-    margin: 0 -9999px 0 -9999px;
     padding: 0.5rem 9999px 0.5rem 9999px;
+    margin: 0 -9999px 0 -9999px;
 }
 
 header .site-id .item1 {
@@ -135,8 +135,8 @@ section.page-title {
     grid-template-rows: 1fr;
     grid-gap: 0.5rem;
     background-color: rgb(148, 201, 71, 0.4);
-    margin: 0 -9999px 0rem -9999px;
     padding: 0.5rem 9999px 0.5rem 9999px;
+    margin: 0 -9999px 0rem -9999px;
 }
 
 section.page-title .item1 {
@@ -148,34 +148,33 @@ section.page-title .item2 {
     -ms-grid-column-align: right;
     justify-self: right;
 }
-
-section.news {
+section.thefeed {
+    background-color: rgb(148, 201, 71, 0.2);
+    padding: 0.5rem 9999px 0.5rem 9999px;
+    margin: 0 -9999px 0rem -9999px;
+}
+section.thefeed .thefeed-items {
     display: -ms-grid;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
     -ms-grid-rows: 1fr;
     grid-template-rows: 1fr;
     grid-gap: 0.25rem;
-    background-color: rgb(148, 201, 71, 0.2);
-    margin: 0 -9999px 0rem -9999px;
-    padding: 0.5rem 9999px 0.5rem 9999px;
 }
 
-section .newsitem {
+section.thefeed .thefeeditem {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
 }
-section .newsitem .poster {
+section.thefeed .thefeeditem .poster {
     display: flex;
     justify-content: center;
     align-items: center;
     max-height: 200px;
     overflow: hidden;
 }
-section .newsitem .poster img {  }
-
-section .newsitem p {}
+section .thefeeditem .poster img {  }
 
 section.courseinfo {
     display: -ms-grid;
@@ -213,8 +212,8 @@ section.video-instructions {
     grid-gap: 0.5rem;
     align-items: stretch;
     background-color: rgb(148, 201, 71, 0.2);
-    margin: 0 -9999px 0.5rem -9999px;
     padding: 0.5rem 9999px 0.5rem 9999px;
+    margin: 0 -9999px 0.5rem -9999px;
 }
 
 section.video-instructions .item1 {
@@ -284,8 +283,8 @@ section.submission {
     grid-template-rows: 1fr;
     grid-gap: 0.5rem;
     background-color: rgb(148, 201, 71, 0.4);
-    margin: 0 -9999px 0 -9999px;
     padding: 0.5rem 9999px 0.5rem 9999px;
+    margin: 0 -9999px 0 -9999px;
 }
 
 section.submission .item {
@@ -321,8 +320,8 @@ footer {
     grid-template-rows: 1fr;
     grid-gap: 0.5rem;
     background-color: rgb(148, 201, 71, 0.2);
-    margin: 0.5rem -9999px 0.5rem -9999px;
     padding: 0.5rem 9999px 0.5rem 9999px;
+    margin: 0.5rem -9999px 0.5rem -9999px;
 }
 
 footer.item {

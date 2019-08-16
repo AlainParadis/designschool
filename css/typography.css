@@ -27,7 +27,15 @@ html
 	color: #000000;
 }
 
-a, a:link { color: black; }
+a, a:link { 
+	color: black;
+	-webkit-text-decoration: skip;
+	        text-decoration: skip;
+	-webkit-text-decoration-style: solid;
+	        text-decoration-style: solid;
+	-webkit-text-decoration-color: var(--limegreen100);
+	        text-decoration-color: var(--limegreen100);}
+}
 a:visited { color: var(--darkgray); }
 a:hover { color: var(--mediumgray); }
 a:active { color: var(--orange100); }
@@ -139,6 +147,10 @@ em {
 .textcenter,
 a.textcenter {
 	text-align: center !important;
+}
+.textalignright,
+a.textalignright {
+	text-align: right !important;
 }
 
 .small {
@@ -299,19 +311,28 @@ a.summative::after {
 	font-weight: 700;
 	margin: .25rem 0 .5rem .25rem;
 }
-
-.panel h4 a {
-	border-bottom: 1px var(--limegreen100);
+.thefeed-title {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 0.5rem;
 }
-
-.news h4 {
+.thefeed h3 {
+	border-bottom: solid 1px var(--limegreen100);
 	color: var(--darkgreen100);
+	text-transform: uppercase;
+	letter-spacing: 1.0rem;
+	padding-left: 1rem;
 }
 
-.newsitem h4.breaking {
+.thefeed h4 {
+	text-decoration: underline;
+}
+
+.thefeeditem h4.breaking {
 	color: var(--orange100);
 }
-.newsitem p { font-size: 0.8rem; }
+.thefeeditem p { font-size: 0.8rem; }
+.thefeeditem a { text-decoration: none; }
 
 section.courseinfo h3 {
 	font-weight: 700;
