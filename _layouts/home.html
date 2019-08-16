@@ -19,13 +19,13 @@
 	{% if newsitem.active == 'yes' %}
 	<div class="newsitem">
 		<a href="{{ newsitem.link }}" title="{{ newsitem.headline }}" class="decoration-none">
-		<h3 class="{% if newsitem.breaking == 'on' %}breaking{% endif %}">{{ newsitem.headline }}</h3>
+		<h4 class="{% if newsitem.breaking == 'on' %}breaking{% endif %}">{{ newsitem.headline }}</h4>
 		{% if newsitem.image %}
 		<div class="poster">
 			<img src="{{ site.baseurl }}/images/news/{{ newsitem.image }}">
 			</div>
 		{% endif %}
-			<p>{{ newsitem.text | markdownify }}</p>
+			<div>{{ newsitem.text | markdownify }}</div>
 		</a>
 	</div>
 {% endif %}

@@ -1,28 +1,28 @@
 - headline: Welcome to New Students!
   active: "yes"
-  image: cg1-week1-setup.jpg
+  image: 
   link: /setup/index.html
   text: "Let's get set up for the semester. Install software, set up your Mac and get familiar with college services. Remember, you have an excellent support team. Read on..."
   breaking:
 
-- headline: Welcome to Returning Students!
+- headline: Welcome Back!
   active: "yes"
-  image: week1-setup.jpg
+  image: 
   link: /setup/index.html
   text: Returning students need to get setup for the semester. Archive past semesters' files. Set up a new folder structure for the upcoming semester.
   breaking:
 
 - headline: Run Your Updates
   active: "yes"
-  image: adobe-software.jpg
+  image: 
   link:
   text:
     As the semester starts, you should run your macOS software updater. Also, go to the Adobe Desktop app in your menu bar to run any available app updates.
-  breaking:
+  breaking: "on"
 
 - headline: Student Success
   active: "yes"
-  image: student-success.jpg
+  image: 
   link:
   text: |
     There are many support services available to you at Algonquin. If you find yourself struggling in any way, please reach out to us.
