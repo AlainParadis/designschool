@@ -300,20 +300,18 @@ a.summative::after {
 	margin: .25rem 0 .5rem .25rem;
 }
 
-.panel h3 a {
-	text-decoration: none;
+.panel h4 a {
+	border-bottom: 1px var(--limegreen100);
 }
 
 .news h4 {
 	color: var(--darkgreen100);
-	text-decoration: underline;
 }
 
 .newsitem h4.breaking {
 	color: var(--orange100);
 }
 .newsitem p { font-size: 0.8rem; }
-.news a {	 }
 
 section.courseinfo h3 {
 	font-weight: 700;

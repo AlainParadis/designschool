@@ -152,10 +152,10 @@ section.page-title .item2 {
 section.news {
     display: -ms-grid;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
     -ms-grid-rows: 1fr;
     grid-template-rows: 1fr;
-    grid-gap: 1rem;
+    grid-gap: 0.25rem;
     background-color: rgb(148, 201, 71, 0.2);
     margin: 0 -9999px 0rem -9999px;
     padding: 0.5rem 9999px 0.5rem 9999px;
@@ -165,7 +165,6 @@ section .newsitem {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    padding: 0;
 }
 section .newsitem .poster {
     display: flex;
