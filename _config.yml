@@ -43,3 +43,5 @@ collections:
       output: true
   setups:
       output: true
+  thefeed:
+      output: true
