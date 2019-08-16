@@ -18,7 +18,7 @@
   link:
   text:
     As the semester starts, you should run your macOS software updater. Also, go to the Adobe Desktop app in your menu bar to run any available app updates.
-  breaking: "on"
+  breaking: "off"
 
 - headline: Student Success
   active: "yes"
