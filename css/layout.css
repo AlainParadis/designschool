@@ -160,6 +160,7 @@ section.thefeed .thefeed-items {
     -ms-grid-rows: 1fr;
     grid-template-rows: 1fr;
     grid-gap: 0.25rem;
+    padding: 0 0.5rem;
 }
 
 section.thefeed .thefeeditem {
