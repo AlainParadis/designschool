@@ -2,7 +2,7 @@
 layout: default
 type: informational
 formsum:
-sortorder: 0
+sortorder: 1.0
 appsused: cc macos
 title: "Day One"
 level: cg1
