@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+{% include head.html %}
+<body>
+    <header role="banner">
+        <nav role="navigation">
+            {% include top-nav.html %}
+        </nav>
+        <div class="site-id">
+            <div class="item1">
+                <a href="{{ site.baseurl }}/"><img class="stacked" alt="Algonquin College Graphic Design Program Computer Graphics Course Curriculum" src="/images/svg/logo-ac-computer-graphics-stacked.svg"></a>
+                <a href="{{ site.baseurl }}/"><img class="horizontal" alt="Algonquin College Graphic Design Program Computer Graphics Course Curriculum" src="/images/svg/logo-ac-computer-graphics.svg"></a>
+            </div>
+            <div class="item2"></div>
+        </div>
+    </header>
+    <section class="page-title">
+        <div class="item1">
+           <h1>{{ page.title }}</h1>
+        </div>
+        <div class="item2 darkgreen">
+            {{ page.date | date: "%b %-d, %Y" }}
+        </div>
+    </section>
+    <section class="video-instructions">
+        <div class="item1"><p class="darkgreen fs15">{{ page.deck }}</p>
+            {% if page.video contains 'youtube' or page.lyndalinks contains 'lynda' %}
+            {% if page.formsum == 'formative' %}
+            <div class="formsum">
+                <h3 class="textcenter">This is a <span class="">{{ page.formsum }}</span> assignment</h3>
+                <p>
+                    That means that you'll be learning and practising new software skills. This assignment contributes to your final grade in the course. This work will be graded as either:
+                </p>
+                <div class="completeincomplete">
+                    <span class="complete">Complete</span>
+                    <span class="incomplete">Incomplete</span>
+                </div>
+                <p>
+                    If needed, I will provide written feedback on your performance.
+                </p>
+            </div>
+            {% elsif page.formsum == 'summative' %}
+            <div class="formsum sum">
+                <h3 class="textcenter">This is a <span class="">{{ page.formsum }}</span> assignment</h3>
+                <p>
+                    It evaluates your mastery of the skills in this instructional unit. This assignment contributes to your final grade in the course. You will earn a letter grade.
+                </p>
+                <h5 class="padbottom10 textcenter">
+                    <a href="{{ site.baseurl }}/administration/assessment.html" title="Algonquin College Grading System">Your Grading System</a>
+                </h5>
+            </div>
+            {% endif %}
+            {% if page.type == 'assignment' %}
+            <a href="{{ page.downloads }}" title="Download practice & exercise files for this assignment." class="" target="_blank"><img src="/images/svg/icon-download.svg" class="size10 center"></a>
+            <div class="textcenter">
+                <a href="{{ page.downloads }}" title="Download practice & exercise files for this assignment." class="fw700 decoration-none" target="_blank">Download Files</a>
+            </div>
+            {% endif %}
+            {% endif %}
+        </div>
+        <div class="item2">
+        </div>
+    </section>
+    <section class="content">
+        <div class="item item1">
+        <a href="{{ site.baseurl }}/thefeed/index.html" class=""><< Back to The Feed</a>
+        </div>
+        <div class="item item2">
+            <div>
+              <div class="">{{ content }}</div>
+            </div>
+        </div>
+        <div class="item item3">
+
+        </div>
+    </section>
+    <!-- {% if page.type == 'assignment' %} -->
+    <section class="submission">
+        <div class="item item1">
+            
+        </div>
+        <div class="item item2">
+            
+        </div>
+        <div class="item item3">
+            
+        </div>
+    </section>
+    <!-- {% endif %} -->
+    {% include footer.html %}
+</body>
+
+</html>

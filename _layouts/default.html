@@ -142,21 +142,7 @@
         <div class="item item2">
             <div>
               {{ page.details | markdownify }}
-              {% if page.level == 'thefeed' %}
-              {% for thefeeditem in site.data.thefeed %}
-                <div class="thefeeditem">
-                    <a href="{{ thefeeditem.link }}" title="{{ thefeeditem.headline }}">
-                    <h4>{{ thefeeditem.headline }}</h4>
-                    {% if thefeeditem.image %}
-                    <div class="poster">
-                        <img src="{{ site.baseurl }}/images/thefeed/{{ thefeeditem.image }}">
-                    </div>
-                    {% endif %}
-                <div>{{ thefeeditem.text | markdownify }}</div>
-            </a>
-            </div>
-            {% endfor %}
-            {% endif %}
+              {% include blog-post-list.html %}
             </div>
             {% if page.formsum == 'formative' or page.formsum == 'summative' %}
             <div>

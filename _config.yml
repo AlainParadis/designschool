@@ -29,6 +29,8 @@ collections:
       output: true
   setup:
       output: true
+  setups:
+      output: true
   fpp:
       output: true
   info:
@@ -39,9 +41,7 @@ collections:
     output: true
   administration:
     output: true
-  setup:
-      output: true
-  setups:
-      output: true
   thefeed:
       output: true
+  posts:
+    output: true
