@@ -22,6 +22,20 @@ description: "Below is a list of potential employers you can contact to do field
 details: |
   <div class="fs80">
   <hr />
+  Organization: Coffee Booster<br>
+  Contact-Person: Chris Tester<br>
+  Contact-Job-Title: Founder<br>
+  Contact-Email: chris@coffeebooster.com<br>
+  Contact-Tel: 587-888-2685<br>
+  Organization-Address: 110-20 Bexley Place, Nepean, ON<br>
+  Organization-URL: www.coffeebooster.com<br>
+  Description-of-Work:<br>
+  The proposed nature of work will be a mix between:<br>
+  - Web design (Website, digital advertising)<br>
+  - Print design (Point of Sale materials, Sales collateral)<br>
+  - Packaging<br>
+  - Social Media content<br>
+  <hr />
   Organization: Health Standards Organization<br>
   Contact-Person: Sabrina Hubley<br>
   Contact-Job-Title: HRBP<br>
