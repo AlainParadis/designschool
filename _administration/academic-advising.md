@@ -9,319 +9,383 @@ description: "This page contains resources for students."
 details: |
   ### Centre for Accessible Learning (CAL)
   **Location:** E341<br>
-  **Website:** <a href="www.algonquincollege.com/cal/" title="Link to resource" target="_blank">www.algonquincollege.com/cal/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/cal/" title="Link to resource" target="_blank">www.algonquincollege.com/cal/</a><br>
   **Hours:** N/A<br>
   **Phone:** 613-727-4723x.7200<br>
   **E-mail:** <a href="mailto:cal@algonquincollege.com" title="Link to resource" target="_blank">cal@algonquincollege.com</a><br>
   **Services:**<br>
-  Individualized accommodation plans<br>
-  Learning Strategist Support/Assistive Technology Lab/sign language interpreters<br>
-  Computerized note taking<br>
-  Test room services & accommodations<br>
-  Intake Assessment Advisor<br>
+  <ul>
+    <li>Individualized accommodation plans</li>
+    <li>Learning Strategist Support/Assistive Technology Lab/sign language interpreters</li>
+    <li>Computerized note taking</li>
+    <li>Test room services & accommodations</li>
+    <li>Intake Assessment Advisor</li>
+  </ul>
 
   ### Connections the Campus Store
   **Location:** H110<br>
-  **Website:** <a href="www.bookstore.algonquincollege.com/" title="Link to resource" target="_blank">www.bookstore.algonquincollege.com/</a><br>
+  **Website:** <a href="http://www.bookstore.algonquincollege.com/" title="Link to resource" target="_blank">www.bookstore.algonquincollege.com/</a><br>
   **Hours:** Mon-Fri, 7:45AM-7:00PM<br>
   **Phone:** 613-727-4723x.7609<br>
   **E-mail:** <a href="mailto:campusstore@algonquincollege.com" title="Link to resource" target="_blank">campusstore@algonquincollege.com</a><br>
   **Services:**<br>
-  • Buy textbooks & e-text help<br>
-  • The Print Shop<br>
+  <ul>
+    <li>Buy textbooks & e-text help</li>
+    <li>The Print Shop</li>
+  </ul>
 
   ### Counselling Services
   **Location:** E341<br>
-  **Website:** <a href="www.algonquincollege.com/counselling/" title="Link to resource" target="_blank">www.algonquincollege.com/counselling/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/counselling/" title="Link to resource" target="_blank">www.algonquincollege.com/counselling/</a><br>
   **Hours:** Mon-Fri, 8:00AM-4:45PM<br>
   **Phone:** 613-727-4723x.7200<br>
   **E-mail:** <a href="mailto:welcomecentre@algonquincollege.com" title="Link to resource" target="_blank">welcomecentre@algonquincollege.com</a><br>
   **Services:**<br>
-  Stress/anxiety/depression/relationship issues/anger management/distress & suicide intervention<br>
-  Career & program choice<br>
-  Parent Resource Network; Tragic Event Response Team; cross-cultural/settlement counselling<br>
+  <ul>
+    <li>Stress/anxiety/depression/relationship issues/anger management/distress & suicide intervention</li>
+    <li>Career & program choice</li>
+    <li>Parent Resource Network; Tragic Event Response Team; cross-cultural/settlement counselling</li>
+  </ul>
 
   ### Centre for Continuing and Online Learning (CCOL)
   **Location:** A143A<br>
-  **Website:** <a href="www.algonquincollege.com/cool/" title="Link to resource" target="_blank">www.algonquincollege.com/cool/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/cool/" title="Link to resource" target="_blank">www.algonquincollege.com/cool/</a><br>
   **Hours:** N/A<br>
   **Phone:** 613-727-4723x.3330<br>
   **E-mail:** <a href="mailto:ol@algonquincollege.com" title="Link to resource" target="_blank">ol@algonquincollege.com</a><br>
   **Services:**<br>
-  • Flexible learning options from part- time to full-time courses either online or on campus<br>
+  <ul>
+    <li> Flexible learning options from part- time to full-time courses either online or on campus</li>
+  </ul>
+
 
   ### Employment Support Centre
   **Location:** E341<br>
-  **Website:** <a href="www.algonquincollege.com/employment/" title="Link to resource" target="_blank">www.algonquincollege.com/employment/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/employment/" title="Link to resource" target="_blank">www.algonquincollege.com/employment/</a><br>
   **Hours:** Mon-Fri, 8:30AM-4:45PM<br>
   **Phone:** 613-727-4723x.7200<br>
   **E-mail:** <a href="mailto:employment@algonquincollege.com" title="Link to resource" target="_blank">employment@algonquincollege.com</a><br>
   **Services:**<br>
-  • Job search skills & interview coaching<br>
-  • Résumé, portfolio, cover letter coaching<br>
-  • On-campus recruiting; job search resources; job postings on and off campus<br>
-  • HireAC for online job postings<br>
+  <ul>
+    <li> Job search skills & interview coaching</li>
+    <li> Résumé, portfolio, cover letter coaching</li>
+    <li> On-campus recruiting; job search resources; job postings on and off campus</li>
+    <li> HireAC for online job postings</li>
+  </ul>
 
   ### Experienced Worker Centre
   **Location:** A214<br>
-  **Website:** <a href="www.algonquincollege.com/ewc/" title="Link to resource" target="_blank">www.algonquincollege.com/ewc/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/ewc/" title="Link to resource" target="_blank">www.algonquincollege.com/ewc/</a><br>
   **Hours:** Mon-Fri, 9:00AM-4:30PM<br>
   **Phone:** 613-727-4723x.7127<br>
   **E-mail:** N/A<br>
   **Services:**<br>
-  • Assistance to any potential non- direct considering a return to school or re-training. EWC Intake and Referral Consultants match clients skills, interests, and career goals to best fit programs and related funding.<br>
-  •Information & assistance with all Employment Ontario programs, including Second Career which provides up to $28,000 to adults in career transition (unemployed, working part-time, end of contract, etc)<br>
-  • Assistance gathering relevant information for funding applications and requirements<br>
-  • Access to current local labor market<br>
+  <ul>
+    <li> Assistance to any potential non- direct considering a return to school or re-training. EWC Intake and Referral Consultants match clients skills, interests, and career goals to best fit programs and related funding.</li>
+    <li> Information & assistance with all Employment Ontario programs, including Second Career which provides up to $28,000 to adults in career transition (unemployed, working part-time, end of contract, etc)</li>
+    <li> Assistance gathering relevant information for funding applications and requirements</li>
+    <li> Access to current local labor market</li>
+  </ul>
 
   ### Financial Aid and Student Awards
   **Location:** Student Central - Lower Level Dare District (C Building)<br>
-  **Website:** <a href="www.algonquincollege.com/financial-aid/" title="Link to resource" target="_blank">www.algonquincollege.com/financial-aid/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/financial-aid/" title="Link to resource" target="_blank">www.algonquincollege.com/financial-aid/</a><br>
   **Hours:** Mon-Fri, 8:30AM-4:30PM<br>
   **Phone:** 613-727-0002<br>
   **E-mail:** <a href="mailto:financialaid@algonquincollege.com" title="Link to resource" target="_blank">financialaid@algonquincollege.com</a><br>
   **Services:**<br>
-  • Government student loan programs (OSAP & Out-of-Province)<br>
-  • Bursaries<br>
-  • Financial Assistance<br>
+  <ul>
+    <li> Government student loan programs (OSAP & Out-of-Province)</li>
+    <li> Bursaries</li>
+    <li> Financial Assistance</li>
+  </ul>
 
   ### SA Food Cupboard
   **Location:** C033<br>
-  **Website:** <a href="www.algonquinsa.com/services/food-cupboard/" title="Link to resource" target="_blank">www.algonquinsa.com/services/food-cupboard/</a><br>
+  **Website:** <a href="http://www.algonquinsa.com/services/food-cupboard/" title="Link to resource" target="_blank">www.algonquinsa.com/services/food-cupboard/</a><br>
   **Hours:** Mon-Fri, 9:00AM-4:00PM<br>
   **Phone:** 613-727-4723x.7711<br>
   **E-mail:** <a href="mailto:clarkj1@algonquincollege.com" title="Link to resource" target="_blank">clarkj1@algonquincollege.com</a><br>
-  • Provides students in financial need with food and basic necessities<br>
-  • Access is limited to once a month and on an emergency need basis<br>
-  • Accepts donations of pre-packaged and non-perishable items<br>
-  • Must have valid student card and bring reusable bag<br>
+  <ul>
+    <li> Provides students in financial need with food and basic necessities</li>
+    <li> Access is limited to once a month and on an emergency need basis</li>
+    <li> Accepts donations of pre-packaged and non-perishable items</li>
+    <li> Must have valid student card and bring reusable bag</li>
+  </ul>
 
   ### Food Services
   **Location:** D111<br>
-  **Website:** <a href="www.algonquincollege.com/food- services/" title="Link to resource" target="_blank">www.algonquincollege.com/food- services/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/food- services/" title="Link to resource" target="_blank">www.algonquincollege.com/food- services/</a><br>
   **Hours:** Mon-Fri, 8:15AM-4:45PM<br>
   **Phone:** N/A<br>
   **E-mail:** <a href="mailto:bellc@algonquincollege.com" title="Link to resource" target="_blank">bellc@algonquincollege.com</a><br>
   **Services:**<br>
-  • 7 Dining facilities on Campus<br>
-  • Conference, catering & room bookings for internal and external clients<br>
-  • Vending machines and vending machine refunds<br>
-  • Banquets & events<br>
-  • Meal plans<br>
+  <ul>
+    <li> 7 Dining facilities on Campus</li>
+    <li> Conference, catering & room bookings for internal and external clients</li>
+    <li> Vending machines and vending machine refunds</li>
+    <li> Banquets & events</li>
+    <li> Meal plans</li>
+  </ul>
 
   ### Mamidosewin Centre (Aboriginal Student Centre)
   **Location:** E122<br>
-  **Website:** <a href="www.algonquincollege.com/mamidosewin/" title="Link to resource" target="_blank">www.algonquincollege.com/mamidosewin/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/mamidosewin/" title="Link to resource" target="_blank">www.algonquincollege.com/mamidosewin/</a><br>
   **Hours:** Mon-Fri, 8:00AM-4:30PM<br>
   **Phone:** 613-727-4723x.7186<br>
   **E-mail:** N/A<br>
   **Services:**<br>
-  • Aboriginal Counsellor, Student Success Specialist, Employment Coach, Events Coordinator, visiting elders<br>
-  • Cree School Board Liaison<br>
-  • Culturally relevant support services; links to community services, activities, ceremonies teachings, traditional healing • Social gathering space, kitchenette, printer<br>
+  <ul>
+    <li> Aboriginal Counsellor, Student Success Specialist, Employment Coach, Events Coordinator, visiting elders</li>
+    <li> Cree School Board Liaison</li>
+    <li> Culturally relevant support services; links to community services, activities, ceremonies teachings, traditional healing</li>
+    <li>Social gathering space, kitchenette, printer</li>
+  </ul>
 
   ### Prior Learning Assessment and Recognition (PLAR)
   **Location:** C037<br>
-  **Website:** <a href="www.algonquincollege.com/plar/" title="Link to resource" target="_blank">www.algonquincollege.com/plar/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/plar/" title="Link to resource" target="_blank">www.algonquincollege.com/plar/</a><br>
   **Hours:** Mon, Wed, Thurs, 9:00AM-12:00PM<br>
   **Phone:** N/A<br>
   **E-mail:** <a href="mailto:plar@algonquincollege.com" title="Link to resource" target="_blank">plar@algonquincollege.com</a><br>
   **Services:**<br>
-  • Help learners to transform work life and work experience into college credits<br>
-  • Assessments<br>
+  <ul>
+    <li> Help learners to transform work life and work experience into college credits</li>
+    <li> Assessments</li>
+  </ul>
 
   ### Early Learning Centre (Child Care)
   **Location:** K Building<br>
-  **Website:** <a href="www.algonquincollege.com/healthandcommunity/early-learning-centre/" title="Link to resource" target="_blank">www.algonquincollege.com/healthandcommunity/early-learning-centre/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/healthandcommunity/early-learning-centre/" title="Link to resource" target="_blank">www.algonquincollege.com/healthandcommunity/early-learning-centre/</a><br>
   **Hours:** Mon-Fri, 7:30AM-5:45PM<br>
   **Phone:** 613-727-4723x.7774<br>
   **E-mail:** <a href="mailto:elc@algonquincollege.com" title="Link to resource" target="_blank">elc@algonquincollege.com</a><br>
   **Services:**<br>
-  • Licensed Child Development Centre and student learning centre for newborns to 4yrs<br>
-  • Provides learning opportunities for Early Childhood Education (ECE) students through practice and observation<br>
+  <ul>
+    <li> Licensed Child Development Centre and student learning centre for newborns to 4yrs</li>
+    <li> Provides learning opportunities for Early Childhood Education (ECE) students through practice and observation</li>
+  </ul>
 
   ### Parking/Locker/Card Services
   **Location:** E120<br>
-  **Website:** <a href="www.algonquincollege.com/parking/" title="Link to resource" target="_blank">www.algonquincollege.com/parking/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/parking/" title="Link to resource" target="_blank">www.algonquincollege.com/parking/</a><br>
   **Hours:** Mon-Thurs, 8:00AM-4:00PM<br>
   **Phone:** 613-727-4723x.7187<br>
   **E-mail:** <a href="mailto:photoid@algonquincollege.com" title="Link to resource" target="_blank">photoid@algonquincollege.com</a><br>
   <a href="mailto:lockers@algonquincollege.com" title="Link to resource" target="_blank">lockers@algonquincollege.com</a><br>
   <a href="mailto:parking@algonquincollege.com" title="Link to resource" target="_blank">parking@algonquincollege.com</a><br>
   **Services:**<br>
-  • AC Card/Photo ID • Parking Passes<br>
-  • Lockers<br>
+  <ul>
+    <li> AC Card/Photo ID</li>
+    <li> Parking Passes</li>
+    <li> Lockers</li>
+  </ul>
 
   ### International Education Centre
   **Location:** C021<br>
-  **Website:** <a href="www.algonquincollege.com/international/" title="Link to resource" target="_blank">www.algonquincollege.com/international/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/international/" title="Link to resource" target="_blank">www.algonquincollege.com/international/</a><br>
   **Hours:** Mon-Fri, 8:30AM-4:45PM<br>
   **Phone:** 613-727-4723x.7031<br>
   **E-mail:** <a href="mailto:international@algonquincollege.com" title="Link to resource" target="_blank">international@algonquincollege.com</a><br>
   **Services:**<br>
-  • Orientation and Transition Support<br>
-  • Immigration (IRCC)<br>
-  • Social & Cultural activities<br>
+  <ul>
+    <li> Orientation and Transition Support</li>
+    <li> Immigration (IRCC)</li>
+    <li> Social & Cultural activities</li>
+  </ul>
 
   ### Health Services
   **Location:** C141<br>
-  **Website:** <a href="www.algonquincollege.com/healthservices/" title="Link to resource" target="_blank">www.algonquincollege.com/healthservices/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/healthservices/" title="Link to resource" target="_blank">www.algonquincollege.com/healthservices/</a><br>
   **Hours:** Mon-Fri, 8:30AM-4:45PM<br>
   **Phone:** 613-727-4723x.7222<br>
   **E-mail:** <a href="mailto:elc@algonquincollege.com" title="Link to resource" target="_blank">elc@algonquincollege.com</a><br>
   **Services:**<br>
-  • Birth control/free condoms/STDs & HIV testing • Pregnancy testing, vaccinations, flu shots<br>
-  • Quitting smoking, nutrition counselling<br>
-  • Allergy injections, blood/TB tests<br>
-  • Travel advice & immunizations<br>
-  • Referral to specialists<br>
-  • Mental health assistance<br>
+  <ul>
+    <li> Birth control/free condoms/STDs & HIV testing</li>
+    <li>Pregnancy testing, vaccinations, flu shots</li>
+    <li> Quitting smoking, nutrition counselling</li>
+    <li> Allergy injections, blood/TB tests</li>
+    <li> Travel advice & immunizations</li>
+    <li> Referral to specialists</li>
+    <li> Mental health assistance</li>
+  </ul>
 
   ### Academic Advising Centralized Support
   **Location:** C037<br>
-  **Website:** <a href="www.algonquincollege.com/acadvising/" title="Link to resource" target="_blank">www.algonquincollege.com/acadvising/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/acadvising/" title="Link to resource" target="_blank">www.algonquincollege.com/acadvising/</a><br>
   **Hours:** Mon-Fri, 8:30AM-4:45PM<br>
   **Phone:** 613-727-4723x.6838<br>
   **E-mail:** <a href="mailto:acadvising@algonquincollege.com" title="Link to resource" target="_blank">acadvising@algonquincollege.com</a><br>
   **Services:**<br>
-  • Connecting students with their Academic team<br>
-  • Resources and Support for Academic Advisors<br>
+  <ul>
+    <li> Connecting students with their Academic team</li>
+    <li> Resources and Support for Academic Advisors</li>
+  </ul>
 
   ### Registrar’s Office
   **Location:** Student Central - Lower Level Dare District (C Building)<br>
-  **Website:** <a href="www.algonquincollege.com/ro/" title="Link to resource" target="_blank">www.algonquincollege.com/ro/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/ro/" title="Link to resource" target="_blank">www.algonquincollege.com/ro/</a><br>
   **Hours:** Mon-Thurs, 8:30AM-6:00PM<br>
   Fri, 8:30AM-4:30PM<br>
   **Phone:** 613-727-4723x.6755<br>
   **E-mail:** <a href="mailto:AskUs@algonquincollege.com" title="Link to resource" target="_blank">AskUs@algonquincollege.com</a><br>
   **Services:**<br>
-  • Registration/admissions/ withdrawals/course exemption application<br>
-  • Academic records/transcripts/fees / timetables/scheduling<br>
-  • Student number<br>
+  <ul>
+    <li> Registration/admissions/ withdrawals/course exemption application</li>
+    <li> Academic records/transcripts/fees / timetables/scheduling</li>
+    <li> Student number</li>
+  </ul>
 
   ### Office of the Ombudsman
   **Location:** E112<br>
-  **Website:** <a href="www.algonquincollege.com/ombuds/" title="Link to resource" target="_blank">www.algonquincollege.com/ombuds/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/ombuds/" title="Link to resource" target="_blank">www.algonquincollege.com/ombuds/</a><br>
   **Hours:** Mon-Fri, 8:30AM-4:30PM<br>
   (closed 12:00PM-1:00PM)<br>
   **Phone:** 613-727-4723x.6835<br>
   **E-mail:** <a href="mailto:ombuds@algonquincollege.com" title="Link to resource" target="_blank">ombuds@algonquincollege.com</a><br>
   **Services:**<br>
-  • Safe space for students to seek advice, assistance and pursue any college-related concern<br>
-  • Provides information on College policies, the rights and responsibilities of students in College situations<br>
-  • Directs complaints and inquiries<br>
-  • Investigates complaints, as necessary<br>
+  <ul>
+    <li> Safe space for students to seek advice, assistance and pursue any college-related concern</li>
+    <li> Provides information on College policies, the rights and responsibilities of students in College situations</li>
+    <li> Directs complaints and inquiries</li>
+    <li> Investigates complaints, as necessary</li>
+  </ul>
 
   ### Spiritual Centre
   **Location:** E211G<br>
-  **Website:** <a href="www.algonquincollege.com/spiritual-centre/" title="Link to resource" target="_blank">www.algonquincollege.com/spiritual-centre/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/spiritual-centre/" title="Link to resource" target="_blank">www.algonquincollege.com/spiritual-centre/</a><br>
   **Hours:** Mon-Fri, 8:00AM-10:00PM<br>
   **Phone:** 613-727-4723x.6456<br>
   **E-mail:** <a href="mailto:neilsos@algonquincollege.com" title="Link to resource" target="_blank">neilsos@algonquincollege.com</a><br>
   **Services:**<br>
-  • Quiet space for prayer & reflection for religious services<br>
-  • Faith counselling & discussion groups<br>
+  <ul>
+    <li> Quiet space for prayer & reflection for religious services</li>
+    <li> Faith counselling & discussion groups</li>
+  </ul>
 
   ### Cooperative Education
   **Location:** E345<br>
-  **Website:** <a href="www.algonquincollege.com/coop/" title="Link to resource" target="_blank">www.algonquincollege.com/coop/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/coop/" title="Link to resource" target="_blank">www.algonquincollege.com/coop/</a><br>
   **Hours:** N/A<br>
   **Phone:** 613-727-4723x.7623<br>
   **E-mail:** <a href="mailto:coop@algonquincollege.com" title="Link to resource" target="_blank">coop@algonquincollege.com</a><br>
   **Services:**<br>
-  • Find out if your program has a co-op option, see co-op placements and eligibility<br>
-  • Detailed review of the student co-op education guide<br>
+  <ul>
+    <li> Find out if your program has a co-op option, see co-op placements and eligibility</li>
+    <li> Detailed review of the student co-op education guide</li>
+  </ul>
 
   ### Location: R Building
-  **Website:** <a href="www.algonquincollege.com/residence/" title="Link to resource" target="_blank">www.algonquincollege.com/residence/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/residence/" title="Link to resource" target="_blank">www.algonquincollege.com/residence/</a><br>
   **Hours:** 24/7<br>
   **Phone:** 613-727-7698<br>
   **E-mail:** <a href="mailto:info@algonquinresidence.ca" title="Link to resource" target="_blank">info@algonquinresidence.ca</a><br>
   **Services:**<br>
-  • Each student assigned Residence Advisor (RA), an upper level student • On-site Residence Programmer organizes educational workshops & events<br>
+  <ul>
+    <li> Each student assigned Residence Advisor (RA), an upper level student</li>
+    <li> On-site Residence Programmer organizes educational workshops & events</li>
+  </ul>
+
 
   ### Student Association (SA)
   **Location:** E114<br>
-  **Website:** <a href="www.algonquinsa.com" title="Link to resource" target="_blank">www.algonquinsa.com</a><br>
+  **Website:** <a href="http://www.algonquinsa.com" title="Link to resource" target="_blank">www.algonquinsa.com</a><br>
   **Hours:** Mon-Thurs, 8:30AM-7:00PM<br>
   Fri, 8:30AM-5:00PM<br>
   **Phone:** 613-727-4723x.7711<br>
   **E-mail:** <a href="mailto:studentsassociation@algonquincollege.com" title="Link to resource" target="_blank">studentsassociation@algonquincollege.com</a><br>
   **Services:**<br>
-  • Health & dental coverage<br>
-  • Free CV copies, color report printing (USB file; 20pp max), free faxing ( job search Canada/US, academic-related, international for international students only)<br>
-  • Emergency line, tax prep, funding for grad/clubs/field trips<br>
-  • Observatory pub (courtesy phone)<br>
-  • Group study room booking<br>
+  <ul>
+    <li> Health & dental coverage</li>
+    <li> Free CV copies, color report printing (USB file; 20pp max), free faxing ( job search Canada/US, academic-related, international for international students only)</li>
+    <li> Emergency line, tax prep, funding for grad/clubs/field trips</li>
+    <li> Observatory pub (courtesy phone)</li>
+    <li> Group study room booking</li>
+  </ul>
 
   ### Information Technology Services (ITS)
   **Location:** Student Central - Lower Level Dare District (C Building)<br>
-  **Website:** <a href="www.algonquincollege.com/its/" title="Link to resource" target="_blank">www.algonquincollege.com/its/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/its/" title="Link to resource" target="_blank">www.algonquincollege.com/its/</a><br>
   **Hours:** Mon-Fri, 7:30AM-8:00PM<br>
   Sat, 8:00AM-4:00PM<br>
   **Phone:** 613-727-4723x.5555<br>
   **E-mail:** <a href="mailto:5555@algonquincollege.com" title="Link to resource" target="_blank">5555@algonquincollege.com</a><br>
   **Services:**<br>
-  • Network account/email/ACSIS/mobile devices software/classroom hardware/ accounts/Brightspace/wireless network drives/printing support<br>
-  • Mobile computing device support<br>
-  • Passwords and lockouts<br>
-  • live@AC/Citrix/Cyber security support<br>
-  • Setting up home to Algonquin connection<br>
+  <ul>
+    <li> Network account/email/ACSIS/mobile devices software/classroom hardware/ accounts/Brightspace/wireless network drives/printing support</li>
+    <li> Mobile computing device support</li>
+    <li> Passwords and lockouts</li>
+    <li> live@AC/Citrix/Cyber security support</li>
+    <li> Setting up home to Algonquin connection</li>
+  </ul>
 
   ### Library Services (Library)
   **Location:** C350<br>
-  **Website:** <a href="www.algonquincollege.com/library/" title="Link to resource" target="_blank">www.algonquincollege.com/library/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/library/" title="Link to resource" target="_blank">www.algonquincollege.com/library/</a><br>
   **Hours:** Mon-Thurs, 7:30AM-9:00PM<br>
   Fri, 7:30AM-5:00PM<br>
-  Sat-Sun, 10:00AM-4:00PM **Phone:** 613-727-4723x.5834<br>
+  Sat-Sun, 10:00AM-4:00PM<br>
+  **Phone:** 613-727-4723x.5834<br>
   **E-mail:** <a href="mailto:library@algonquincollege.com" title="Link to resource" target="_blank">library@algonquincollege.com</a><br>
   **Services:**<br>
-  • Access to books/periodicals/visual media/ e-resources<br>
-  • Remote access to over 80,000 journals/ magazines/newspapers<br>
-  • Research help, computer coach<br>
-  • AV viewing areas, study areas, inter- library loans<br>
+  <ul>
+    <li>Access to books/periodicals/visual media/ e-resources</li>
+    <li>Remote access to over 80,000 journals/ magazines/newspapers</li>
+    <li>Research help, computer coach</li>
+    <li>AV viewing areas, study areas, inter- library loans</li>
+  </ul>
 
   ### Security
   **Location:** T124<br>
-  **Website:** <a href="www.algonquincollege.com/safety- security-services/" title="Link to resource" target="_blank">www.algonquincollege.com/safety- security-services/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/safety- security-services/" title="Link to resource" target="_blank">www.algonquincollege.com/safety- security-services/</a><br>
   **Hours:** 24/7<br>
   **Phone:** 613-727-4723x.5010<br>
   **E-mail:** <a href="mailto:security@algonquincollege.com" title="Link to resource" target="_blank">security@algonquincollege.com</a><br>
   **Services:**<br>
-  • Campus security & protection<br>
-  • Crime prevention & awareness<br>
-  • Incident response & reporting<br>
-  • Lost and found<br>
-  • “Walk Safe” program<br>
-  • Smoking regulations<br>
-  • Emergency medical service OUTSIDE Health Services hours<br>
+  <ul>
+    <li>Campus security & protection</li>
+    <li>Crime prevention & awareness</li>
+    <li>Incident response & reporting</li>
+    <li>Lost and found</li>
+    <li>“Walk Safe” program</li>
+    <li>Smoking regulations</li>
+    <li>Emergency medical service OUTSIDE Health Services hours</li>
+  </ul>
 
   ### Degree Pathways and Transfer Credits
   **Location:** C037<br>
-  **Website:** <a href="www.algonquincollege.com/transfer- options" title="Link to resource" target="_blank">www.algonquincollege.com/transfer- options</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/transfer- options" title="Link to resource" target="_blank">www.algonquincollege.com/transfer- options</a><br>
   **Hours:** By Appointment<br>
   **Phone:** N/A<br>
   **E-mail:** <a href="mailto:transfer@algonquincollege.com" title="Link to resource" target="_blank">transfer@algonquincollege.com</a><br>
   **Services:**<br>
-  • Guide learners through the credit exemption process, answer general inquiries about credit exemptions<br>
-  • Aid students who are considering a degree program<br>
+  <ul>
+    <li>Guide learners through the credit exemption process, answer general inquiries about credit exemptions</li>
+    <li>Aid students who are considering a degree program</li>
+  </ul>
 
   ### Student Learning Centre
   **Location:** C259<br>
-  **Website:** <a href="www.algonquincollege.com/slc/" title="Link to resource" target="_blank">www.algonquincollege.com/slc/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/slc/" title="Link to resource" target="_blank">www.algonquincollege.com/slc/</a><br>
   **Hours:** Mon-Fri, 10:00AM-6:00PM<br>
   Sat-Sun, 10:00AM-4:00PM<br>
   **Phone:** 613-727-4723x.6661<br>
   **E-mail:** <a href="mailto:slc@algonquincollege.com" title="Link to resource" target="_blank">slc@algonquincollege.com</a><br>
   **Services:**<br>
-  • Workshops on study skills, research and writing, citations, technology, and career preparedness Peer-Tutoring:<br>
-  • Students meet with upper level students; one- on-one academic assistance<br>
-  • 48hr advanced booking required; 24hr cancellation notice required<br>
-  • Cost - $8 per hour (financial support available)<br>
+  <ul>
+    <li>Workshops on study skills, research and writing, citations, technology, and career preparedness Peer-Tutoring:</li>
+    <li>Students meet with upper level students; one- on-one academic assistance</li>
+    <li>48hr advanced booking required; 24hr cancellation notice required</li>
+    <li>Cost - $8 per hour (financial support available)</li>
+  </ul>
   Coaching:<br>
-  • Students meet for one-on-one or small group coaching on the fundamentals of a subject<br>
-  • Subjects include writing, English (as a second language), computers, math, anatomy/physiology, and chemistry<br>
-  • By appointment or drop-in hours • Cost – Paid for by the Library<br>
+  <ul>
+    <li>Students meet for one-on-one or small group coaching on the fundamentals of a subject</li>
+    <li>Subjects include writing, English (as a second language), computers, math, anatomy/physiology, and chemistry</li>
+    <li>By appointment or drop-in hours</li>
+    <li>Cost – Paid for by the Library</li>
+  </ul>
 
   ### Test Centre<br>
   **Location:** C035<br>
@@ -330,6 +394,8 @@ details: |
   **Phone:** 613-727-4723x.7079<br>
   **E-mail:** <a href="mailto:testcentre@algonquincollege.com" title="Link to resource" target="_blank">testcentre@algonquincollege.com</a><br>
   **Services:**<br>
-  Admission-eligibility assessments<br>
-  Room E304e for CAL and remote assessments<br>
+  <ul>
+    <li>Admission-eligibility assessments</li>
+    <li>Room E304e for CAL and remote assessments</li>
+  </ul>
 ---
