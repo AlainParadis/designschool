@@ -140,20 +140,16 @@
         {% endif %}
         </div>
         <div class="item item2">
-            <div>
-              {{ page.details | markdownify }}
-              {% include blog-post-list.html %}
-            </div>
-            {% if page.formsum == 'formative' or page.formsum == 'summative' %}
-            <div>
-                {% if page.formsum == 'formative' %}
+            {{ page.details | markdownify }}
+            {% if page.level == 'thefeed' %}
+                {% include blog-post-list.html %}
+            {% elsif page.formsum == 'formative' or page.formsum == 'summative' %}
+            {% if page.formsum == 'formative' %}
                 <h2>Formative Activity</h2>
                 {% elsif page.formsum == 'summative' %}
                 <h2>Your Assignment</h2>
                 {% endif %}
                 {{ page.assignment | markdownify }}
-            </div>
-            
             {% endif %}
         </div>
         <div class="item item3">
