@@ -272,7 +272,7 @@ section.courseinfo ul {
 section.courseinfo ul li { display: block; }
 section.content ul {
 	list-style: outside none;
-  margin-left: 0; 
+  margin-left: 1rem; 
   padding-left: 1em;
   text-indent: -2em;
 }
