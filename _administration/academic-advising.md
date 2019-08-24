@@ -5,7 +5,7 @@ sortorder:appsused:
 title: "Academic Advising"
 level: admin
 brightspace:video:downloads:
-description: "This page contains resources for students."
+description: "Academic Advisors do more than provide resources and answer questions for students in need. They help you set academic goals, help you develop a career plan, and connect you with resources at the College. Your Academic Advisor is here to support you as you pursue your educational endeavors at Algonquin College."
 details: |
   ### Centre for Accessible Learning (CAL)
   **Location:** E341<br>
