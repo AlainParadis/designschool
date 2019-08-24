@@ -1,5 +1,5 @@
 ---
-layout: submission
+layout: default
 type: informational
 formsum:
 sortorder: 1.1
@@ -17,7 +17,7 @@ links: |
   - <a href="https://goo.gl/forms/JFRiwf5aa3MkHAb13" title="Form: I Got My Fieldwork!" target="_blank">I Got My Fieldwork!</a>
   - <a href="https://www.dropbox.com/s/plfn2c0o37p7kax/fieldwork-consent-form-2019.pdf.zip?dl=1" title="Fieldwork Consent Form">Fieldwork Consent Form PDF</a>
 video: 
-downloads: "https://www.dropbox.com/s/jp8m950e6g5k77i/fieldwork-gradshow-downloads.zip?dl=1"
+downloads:
 description: "The fieldwork program is proud to partner with creative agencies in Canada's National Capital Region and around the world. The goal of our fieldwork program is to initiate our students to the professional practice of graphic design in a safe, stimulating and productive workplace."
 details: |
 

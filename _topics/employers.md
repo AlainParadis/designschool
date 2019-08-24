@@ -20,6 +20,11 @@ video:
 downloads: "https://www.dropbox.com/s/jp8m950e6g5k77i/fieldwork-gradshow-downloads.zip?dl=1"
 description: "Below is a list of potential employers you can contact to do fieldwork."
 details: |
+  Do not assume organizations listed here will take someone on fieldwork.
+  They are listed here because they expressed interest some time in the past.
+
+  The contacts on this list aren't in any order.
+
   <div class="fs80">
   <hr />
   Organization: Coffee Booster<br>

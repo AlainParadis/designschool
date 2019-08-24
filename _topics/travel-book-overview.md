@@ -5,7 +5,7 @@ formsum:
 sortorder: 1.0
 appsused: sketching
 title: "Travel Book Overview"
-level: cg6
+level: undetermined
 brightspace: 
 submission: "my-assignment-folder"
 links:

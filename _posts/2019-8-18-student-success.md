@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Student Success"
-date: 2019-08-18 19:50:46
+date: 2019-08-10 07:50:46
 deck: "There are many support services available to you at Algonquin. If you find yourself struggling in any way, please reach out to us. "
 categories:
 ---
@@ -12,6 +12,16 @@ While you are a student at Algonquin College, you will never be alone. You can r
 Your first resource is your Student Support Specialist, Deborah Buck. Her office is in N219. She can also be reached <a href="mailto:buckd@algonquincollege.com">by e-mail</a> or by phone at 613-727-4723 ext: 5503.
 
 Deborah is here to support you. She can help connect you to the college resources which will ensure you success.
+
+### Resources
+
+We have this pretty handy web page with an exhaustive list of all support resources across the college.
+
+<div class="textcenter">
+<a href="{{ site.baseurl }}/administration/academic-advising.html" class="fs15">Support Resources</a>
+</div>
+
+These resources are there for you. Please avail yourself of them!
 
 ### Your Coordinators
 
