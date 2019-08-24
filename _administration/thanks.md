@@ -5,7 +5,7 @@ formsum:
 sortorder: 1.0
 appsused:
 title: "Thank you!"
-level: admin
+level: undetermined
 brightspace: 
 submission:
 links:

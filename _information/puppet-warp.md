@@ -5,7 +5,7 @@ formsum:
 sortorder:
 appsused: ai
 title: "Puppet Warp"
-level: info
+level: undetermined
 brightspace:
 submission:
 links: |

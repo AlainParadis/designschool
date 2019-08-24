@@ -2,10 +2,10 @@
 layout: submission
 type: informational
 formsum:
-sortorder: 1.0
+sortorder:
 appsused:
 title: "Business of Design"
-level: 
+level: undetermined
 brightspace: 
 submission:
 links: |
@@ -64,7 +64,7 @@ details: |
   6. **Hiring Professional Services**
   You can't do it all yourself. We'll explore how to hire professional services such as photographers, writers, translators and even accountants.
   7. **Business Ethics & Professional Conduct**
-  Committing to the highest level of professional and ethical standards will 
+  Committing to the highest level of professional and ethical standards will get you a clear conscience, guaranty work you can be proud of and keep you out legal trouble.
   8. **Profitable Freelancing**
   Striking out on your own? These are some hard-learned lessons to make sure you prosper.
   9. **Pricing your work**

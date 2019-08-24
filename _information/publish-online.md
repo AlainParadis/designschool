@@ -5,7 +5,7 @@ formsum:
 sortorder:
 appsused: indd
 title: "Publish Online"
-level: info
+level: undetermined
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission:
 links: |

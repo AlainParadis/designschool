@@ -4,7 +4,7 @@ type: informational
 sortorder: 
 appsused: 
 title: "Applied Arts Student Awards Submission"
-level: admin
+level: undetermined
 brightspace: 
 video: 
 downloads: 
