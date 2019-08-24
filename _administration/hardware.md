@@ -1,7 +1,7 @@
 ---
 layout: default
 type: informational
-sortorder: 
+sortorder:
 appsused:
 title: "Hardware Requirements"
 level: admin
