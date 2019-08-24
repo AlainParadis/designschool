@@ -9,8 +9,7 @@ level: cg5
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86505&grpid=0&isprv=0&bp=0&ou=92682"
 submission: "my-assignment-folder"
 links: |
-  - Download the <a href="http://astutegraphics.com/software/subscribe/" title="Get the Astute Graphics Subscribe Plugin" target="_blank">Astute Graphics Subscribe Plugin</a>
-  - <a href="http://www.glitschkastudios.com" title="Von Glitschka" target="_blank">Von Glitschka's site</a>
+ - <a href="http://www.glitschkastudios.com" title="Von Glitschka" target="_blank">Von Glitschka's site</a>
 video: "https://www.youtube.com/embed/TQJF1-QqT9k?list=PL4qBMvigUSLCF_-Av9YPxwF2NrtmirNa-"
 downloads: "https://www.dropbox.com/s/jbluzdsenp36jo0/illustrator-intro-to-isometrics.ai.zip?dl=1"
 description: "We'll learn what isometric illustration is. How does it differ from drawing in a two-point perspective? We'll look at some examples and applications for isometrics."
@@ -44,7 +43,7 @@ details: |
 
   ### Isometrics: Illustrator Setup
 
-  Before we can draw isometric shapes, we need to change a number of settings in Illustrator. We also need to install a plugin which will help us with precision drawing.
+  Before we can draw isometric shapes, we need to change a number of settings in Illustrator.
 
   ### Setup Illustrator
 
@@ -91,43 +90,6 @@ details: |
   <div class="attentionbox shortcut">
     Toggle Smart Guides on and off with ⌘-U.
   </div>
-
-  #### Install Astute SubScribe
-
-  We need to install a free Illustrator plugin in order to be able to draw certain shapes in an isometric projection. You'll need to go through the purchase process at no cost.
-
-  Start by quitting Illustrator.
-
-  <div class="attentionbox download">
-    Download the <a href="http://astutegraphics.com/software/subscribe/" title="Get the Astute Graphics Subscribe Plugin" target="_blank">Astute Graphics Subscribe Plugin</a>.
-  </div>
-
-  This is how the purchase works:
-
-  <figure>
-    <img class="size75" alt="subscribe-order-add-to-basket" src="/images/illustrator-isometric-illustration/subscribe-order-add-to-basket.jpg">
-  <figcaption>
-    Purchase the Subscribe plugin at no cost.
-  </figcaption>
-  </figure>
-
-  <figure>
-      <img class="size75" alt="subscribe-order-license-key" src="/images/illustrator-isometric-illustration/subscribe-order-license-key.jpg">
-  <figcaption>
-    Once the purchase is complete, you'll receive an email with a license key. Copy that code.
-  </figcaption>
-  </figure>
-
-  Once you've purchased, you'll be given a download link on the web. Download the installer and run it.
-
-    <figure>
-    <img class="size100" alt="iso-subscribe-installation" src="/images/illustrator-isometric-illustration/iso-subscribe-installation.jpg">
-  <figcaption>
-    Make sure you un-check all but SubScribe in this dialogue during installation.
-  </figcaption>
-  </figure>
-
-  Once you've run the installer, you'll have new tools in your Tools Panel in Illustrator. If you wish, at this point, you can go <span class="command">Window > Tools > New Tools Panel...</span> to create a new set of tools with only the ones you want for isometric illustration. <a href="https://helpx.adobe.com/illustrator/using/custom-tools-panels.html" title="Adobe's instructions on editing your tool panel in Illustrator." target="_blank">Here are some instructions</a>.
 
   ### Important Keyboard Shortcuts
 
