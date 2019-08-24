@@ -12,7 +12,7 @@ links: |
   - Lynda: [Using a Tablet](https://www.lynda.com/Illustrator-tutorials/Using-Wacom-Tablets-Illustrator/374180-2.html)
 video: 
 downloads:
-description: "We're going emulate the real-world process of painting by creating natural-looking brushes."
+description: "Now that you've created your own custom Illustrator brushes, let's use them to create something wonderful. Paint a character in Illustrator using a variety of brushes and techniques."
 details: | 
 assignment: | 
   You will draw a character and render it using your own custom brushes in Illustrator.
