@@ -12,7 +12,7 @@ links: |
   - <a href="http://www.glitschkastudios.com/#/vector-painting/" title="Examples of painting in Illustrator." target="_blank">Glitschka Studios</a>
 video: 
 downloads: 
-description: "We're going emulate the real-world process of painting by creating natural-looking brushes."
+description: "Illustrator is very adept at painting. As a matter of fact, it's actually quite difficult to discern that the artwork is built with vectors. We're going emulate the real-world process of painting by creating our very own natural-looking brushes."
 details: | 
   ### Why Create Brushes?
 
