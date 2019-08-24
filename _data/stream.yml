@@ -8,6 +8,7 @@ courses:
     description: |
       The field of computer graphics consists of page layout, illustration and photo manipulation. Page layout is the hub for illustrations and photographs. Purpose-built instructional web pages, in-class and video tutorials guide students through the process of building electronic documents in Adobe InDesign, containing images edited in Photoshop and custom digital illustrations created in Adobe Illustrator. Activities include learning common technology-related terminology, organizing graphics files and fonts, illustrating digitally and editing photographs which they integrate into page designs.
     prerequisites:
+      - prerequisite: None
     logistic: |
       This course consists of in-class lessons. At each class, we will practice software skills once together, then you will perform them on your own. These classes are meant to be formative in nature. Every few weeks, you will independently complete all the skills practiced to date during one class.
 
