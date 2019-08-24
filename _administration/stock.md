@@ -4,7 +4,7 @@ type: informational
 sortorder:
 appsused:
 title: "Stock Photography"
-level: admin
+level: stock
 supportdoc:
 brightspace: 
 downloads:
