@@ -3,7 +3,7 @@
 <nav>
 <ul>
   {% for item in all_pages %}
-  {% if item.level contains page.level %}
+  {% if item.level contains page.level and item.layout != 'course-cards' %}
     <li><a href="{{ site.baseurl }}{{item.url}}" title="{{item.sortorder}}: {{item.description}}" class="item {% if item.formsum == 'summative' %}summative{% endif %} {% if item.url contains page.url %}current{% endif %}">{{item.title}}</a></li>
   {% endif %}
 {% endfor %}
