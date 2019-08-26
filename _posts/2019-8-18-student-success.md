@@ -18,7 +18,7 @@ Deborah is here to support you. She can help connect you to the college resource
 We have this pretty handy web page with an exhaustive list of all support resources across the college.
 
 <div class="textcenter">
-<a href="{{ site.baseurl }}/administration/academic-advising.html" class="fs15">Support Resources</a>
+<a href="{{ site.baseurl }}/administration/student-support-resources.html" class="fs15">Support Resources</a>
 </div>
 
 These resources are there for you. Please avail yourself of them!
