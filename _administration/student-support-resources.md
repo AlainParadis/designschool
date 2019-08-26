@@ -254,7 +254,7 @@ details: |
 
   ### Spiritual Centre
   **Location:** E211G<br>
-  **Website:** <a href="http://www.algonquincollege.com/spiritual-centre/" title="Link to resource" target="_blank">www.algonquincollege.com/spiritual-centre/</a><br>
+  **Website:** <a href="https://www.algonquincollege.com/spiritual-centre/" title="Link to resource" target="_blank">www.algonquincollege.com/spiritual-centre/</a><br>
   **Hours:** Mon-Fri, 8:00AM-10:00PM<br>
   **Phone:** 613-727-4723x.6456<br>
   **E-mail:** <a href="mailto:neilsos@algonquincollege.com" title="Link to resource" target="_blank">neilsos@algonquincollege.com</a><br>
