@@ -49,7 +49,7 @@ details: |
 
   ### Centre for Continuing and Online Learning (CCOL)
   **Location:** A143A<br>
-  **Website:** <a href="http://www.algonquincollege.com/cool/" title="Link to resource" target="_blank">www.algonquincollege.com/cool/</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/ccol/" title="Link to resource" target="_blank">www.algonquincollege.com/ccol/</a><br>
   **Hours:** N/A<br>
   **Phone:** 613-727-4723x.3330<br>
   **E-mail:** <a href="mailto:ol@algonquincollege.com" title="Link to resource" target="_blank">ol@algonquincollege.com</a><br>
@@ -115,7 +115,7 @@ details: |
 
   ### Food Services
   **Location:** D111<br>
-  **Website:** <a href="http://www.algonquincollege.com/food- services/" title="Link to resource" target="_blank">www.algonquincollege.com/food- services/</a><br>
+  **Website:** <a href="https://www.algonquincollege.com/food-services/" title="Link to resource" target="_blank">www.algonquincollege.com/food-services/</a><br>
   **Hours:** Mon-Fri, 8:15AM-4:45PM<br>
   **Phone:** N/A<br>
   **E-mail:** <a href="mailto:bellc@algonquincollege.com" title="Link to resource" target="_blank">bellc@algonquincollege.com</a><br>
@@ -168,7 +168,7 @@ details: |
 
   ### Parking/Locker/Card Services
   **Location:** E120<br>
-  **Website:** <a href="http://www.algonquincollege.com/parking/" title="Link to resource" target="_blank">www.algonquincollege.com/parking/</a><br>
+  **Website:** <a href="https://www.algonquincollege.com/parking/" title="Link to resource" target="_blank">www.algonquincollege.com/parking/</a><br>
   **Hours:** Mon-Thurs, 8:00AM-4:00PM<br>
   **Phone:** 613-727-4723x.7187<br>
   **E-mail:** <a href="mailto:photoid@algonquincollege.com" title="Link to resource" target="_blank">photoid@algonquincollege.com</a><br>
@@ -213,7 +213,7 @@ details: |
 
   ### Academic Advising Centralized Support
   **Location:** C037<br>
-  **Website:** <a href="http://www.algonquincollege.com/acadvising/" title="Link to resource" target="_blank">www.algonquincollege.com/acadvising/</a><br>
+  **Website:** <a href="https://www.algonquincollege.com/acadvising/" title="Link to resource" target="_blank">www.algonquincollege.com/acadvising/</a><br>
   **Hours:** Mon-Fri, 8:30AM-4:45PM<br>
   **Phone:** 613-727-4723x.6838<br>
   **E-mail:** <a href="mailto:acadvising@algonquincollege.com" title="Link to resource" target="_blank">acadvising@algonquincollege.com</a><br>
@@ -338,7 +338,7 @@ details: |
 
   ### Security
   **Location:** T124<br>
-  **Website:** <a href="http://www.algonquincollege.com/safety- security-services/" title="Link to resource" target="_blank">www.algonquincollege.com/safety- security-services/</a><br>
+  **Website:** <a href="https://www.algonquincollege.com/safety-security-services/" title="Link to resource" target="_blank">www.algonquincollege.com/safety-security-services/</a><br>
   **Hours:** 24/7<br>
   **Phone:** 613-727-4723x.5010<br>
   **E-mail:** <a href="mailto:security@algonquincollege.com" title="Link to resource" target="_blank">security@algonquincollege.com</a><br>
@@ -355,7 +355,7 @@ details: |
 
   ### Degree Pathways and Transfer Credits
   **Location:** C037<br>
-  **Website:** <a href="http://www.algonquincollege.com/transfer- options" title="Link to resource" target="_blank">www.algonquincollege.com/transfer- options</a><br>
+  **Website:** <a href="http://www.algonquincollege.com/transfer-options" title="Link to resource" target="_blank">www.algonquincollege.com/transfer-options</a><br>
   **Hours:** By Appointment<br>
   **Phone:** N/A<br>
   **E-mail:** <a href="mailto:transfer@algonquincollege.com" title="Link to resource" target="_blank">transfer@algonquincollege.com</a><br>

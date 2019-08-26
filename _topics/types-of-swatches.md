@@ -79,7 +79,7 @@ details: |
   RGB Colours
   : RGB colours are used for displaying on-screen. Any screen. In fact, any colour that's produced with light.
 
-  There are more colours in the RGB colour space than in CMYK. Almost all CMYK colours convert precisely to RGB; not so the other way around. The fact that the CMYK space is so much smaller than the RGB space is the reason why colours change when you switch from RGB to CMYK. <a href="https://duckduckgo.com/?q=rgb+vs+CMYK+spectrum&t=osx&iax=images&ia=images&iai=https%3A%2F%2Fartofmeganlorraine.files.wordpress.com%213%2%2Fgamut-rgb-cmyk.jpg" title="CMYK vs RGB compared." target="_blank">See here...</a>
+  There are more colours in the RGB colour space than in CMYK. Almost all CMYK colours convert precisely to RGB; not so the other way around. The fact that the CMYK space is so much smaller than the RGB space is the reason why colours change when you switch from RGB to CMYK.
 
   ### Applying Swatches
 

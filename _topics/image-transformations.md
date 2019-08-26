@@ -7,7 +7,7 @@ appsused: psd
 title: "Image Transformations"
 level: cg4
 brightspace: 
-submission: "generic-zip-folder"
+submission: "zip-compressed-folder"
 links: |
   - 
 video: 

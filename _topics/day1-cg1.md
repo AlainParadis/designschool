@@ -9,8 +9,8 @@ level: cg1
 brightspace:
 submission:
 links: |
-  - <a href="setup-mac.html" title="macOS Setup">macOS Setup</a>
-  - <a href="setup-college-services.html" title="Set up your college online services">Setup College Services</a>
+  - <a href="/setups/mac.html" title="macOS Setup">macOS Setup</a>
+  - <a href="/setups/college-services.html" title="Set up your college online services">Setup College Services</a>
 video: 
 downloads:
 description: "Congratulations on being accepted into the Graphic Design program at Algonquin College. We have a number of topics to cover in our first Computer Graphics class."

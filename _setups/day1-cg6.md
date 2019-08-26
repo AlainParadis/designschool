@@ -9,8 +9,8 @@ level: cg6
 brightspace:
 submission:
 links: |
-  - <a href="setup-mac.html" title="macOS Setup">macOS Setup</a>
-  - <a href="setup-college-services.html" title="Set up your college online services">Setup College Services</a>
+  - <a href="/setups/mac.html" title="macOS Setup">macOS Setup</a>
+  - <a href="/setups/college-services.html" title="Set up your college online services">Setup College Services</a>
 video: 
 downloads:
 description: "As we start classes, it's important to get set up for the semester. Follow the instructions below."

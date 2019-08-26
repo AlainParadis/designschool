@@ -52,7 +52,6 @@ details: |
   - <a href="http://snapwiresnaps.tumblr.com" alt:="Stock Photography" target="_blank">Snapwire Snaps</a>
   - <a href="https://www.splitshire.com" alt:="Stock Photography" target="_blank">SplitShire</a>
   - <a href="http://startupstockphotos.com/" target="_blank">Startup Stock Photos</a>
-  - <a href="https://www.stockified.com/" title="a" target="_blank">Stockified</a>
   - <a href="https://www.stockio.com/" title="a" target="_blank">Stockio</a>
   - <a href="https://stocksnap.io/" title="a" target="_blank">StockSnap</a>
   - <a href="http://www.sitebuilderreport.com/stock-up" title="a" target="_blank">Stock Up</a>
@@ -62,7 +61,6 @@ details: |
   #### Food Photos
 
   - <a href="http://foodiesfeed.com" target="_blank">Foodie's Feed</a>
-  - <a href="http://foodshot.co/" title="a" target="_blank">Food Shot.co</a>
 
   #### Travel Photos
   - <a href="https://photos.bucketlistly.com" alt:="Stock Photography" target="_blank">BucketListly</a> - Travel Photos

@@ -443,7 +443,7 @@ assignment: |
   </figcaption>
   </figure>
 
-  Create a Drop Cap Paragraph Style. Use the font Proxima Nova Bold for your drop cap. If you need a reminder of the process, <a href="drop-caps.html" title="How to make a Drop Cap in InDesign">read this...</a>
+  Create a Drop Cap Paragraph Style. Use the font Proxima Nova Bold for your drop cap. If you need a reminder of the process, <a href="/information/drop-caps.html" title="How to make a Drop Cap in InDesign">read this...</a>
 
   ### Pull Quote
 

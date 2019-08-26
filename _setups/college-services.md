@@ -62,7 +62,7 @@ details: |
 
   * Login to Brightspace: <a href="https://brightspace.algonquincollege.com/d2l/home" alt:="Algonquin College Learning Management System" target="_blank">Brightspace</a>
   * Get software: [digitalresources.algonquincollege.com](https://plato.algonquincollege.com/DigitalResources/Default.aspx)
-  * Get <a href="https://algonquincollege.libanswers.com/faq/198048" title="Get Lynda.com" target="_blank">Lynda.com from here</a>.
+  * Get <a href="https://algonquincollege.libguides.com/LinkedIn-Learning/" title="Get LinkedIn Learning" target="_blank">LinkedIn Learning from here</a>.
 
   Before you install Adobe software, you'll want to uninstall previous versions. I'll give you instructions one-on-one in class. I want you to have only the latest software on your computer, and no older versions.
 
@@ -78,7 +78,7 @@ details: |
 
   As a student in a Bring Your Own Device (BYOD) program, you are entitled to a vast array of resources, including Adobe Creative Cloud software. You will receive a message at your <a href="https://liveac.algonquincollege.com" title="Check your college e-mail for instructions on setting up Adobe Apps." target="_blank">college e-mail account</a> with a link and instructions.
 
-  Now that you have all this great software, you can use <a href="https://algonquincollege.libanswers.com/faq/198048" title="Sign Into Lynda.com" target="_blank">Lynda.com</a> to access software tutorials beyond those I post on <a href="http://www.youtube.com/accomputergraphics" title="Visit my YouTube Channel" target="_blank">my YouTube channel</a>.
+  Now that you have all this great software, you can use <a href="https://algonquincollege.libguides.com/LinkedIn-Learning/" title="Sign Into LinkedIn Learning" target="_blank">LinkedIn Learning</a> to access software tutorials beyond those I post on <a href="http://www.youtube.com/accomputergraphics" title="Visit my YouTube Channel" target="_blank">my YouTube channel</a>.
 
   Creative Cloud is a large suite of creative applications and services offered by Adobe. We'll be principally using Illustrator, Photoshop and InDesign. They're installed through the Creative Cloud desktop app. You should also run updates with the app from your menu bar.
 

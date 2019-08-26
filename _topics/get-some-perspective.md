@@ -13,7 +13,7 @@ links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/perspective-grid.html" target="_blank" title="Define Perspective Grids">Define Perspective Grids</a>
   - Lynda: <a href="https://www.lynda.com/Illustrator-tutorials/Perspective-Drawing-Illustrator/186123-2.html" target="_blank" title="Drawing in Perspective">Drawing in Perspective</a>
 video: "https://www.youtube.com/embed/RVcfJ5IUecY?list=PL4qBMvigUSLD4VDB3I0iBnwrnfjnZiEjQ"
-downloads: "https://dl.dropboxusercontent.com/u/3084706/downloads/illustrator-drawing-in-perspective.zip"
+downloads: "https://www.dropbox.com/s/82vaphr0mohgux6/illustrator-drawing-in-perspective.zip?dl=1"
 description: "Drawing in perspective is really rewarding. In this unit, we'll explore the different types of perspective available to us."
 details: |
   In this lesson, we'll learn how to use the perspective drawing tools in Illustrator.
