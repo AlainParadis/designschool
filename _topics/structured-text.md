@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: summative
-sortorder: 6.9
+sortorder: 1.9
 appsused: indd
 title: "Structured Text"
 level: cg3

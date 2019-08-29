@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 3.0
+sortorder: 4.0
 appsused: psd
 title: "Brushes"
 level: cg3

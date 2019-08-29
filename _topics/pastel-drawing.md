@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: summative
-sortorder: 3.9
+sortorder: 4.9
 appsused: psd
 title: "Pastel Drawing"
 level: cg3

@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 6.3
+sortorder: 1.3
 appsused: indd
 title: "Next & Nested Styles"
 level: cg3

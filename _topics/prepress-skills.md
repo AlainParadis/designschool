@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: summative
-sortorder: 2.9
+sortorder: 3.9
 appsused: psd, ai, indd
 title: "Prepress Skills"
 level: cg3

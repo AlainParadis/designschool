@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 6.1
+sortorder: 1.1
 appsused: indd, psd
 title: "Text Variables"
 level: cg3

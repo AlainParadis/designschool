@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 2.0
+sortorder: 3.0
 appsused: sketching, ai, indd
 title: "Die Lines"
 level: cg3

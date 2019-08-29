@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 6.2
+sortorder: 1.2
 appsused: indd
 title: "Tables"
 level: cg3

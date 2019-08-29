@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 2.2
+sortorder: 3.2
 appsused: psd, indd
 title: "Spot Colour Channels"
 level: cg3

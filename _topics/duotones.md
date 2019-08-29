@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 2.1
+sortorder: 3.1
 appsused: psd, indd
 title: "Duotones"
 level: cg3

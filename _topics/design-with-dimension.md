@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: summative
-sortorder: 5.9
+sortorder: 6.9
 appsused: dn
 title: "Design with Dimension"
 level: cg3
