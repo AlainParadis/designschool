@@ -167,6 +167,15 @@ section.submission a.button:hover {
     border: solid 1px var(--orange100);
 }
 
+.download {
+    background: url('/images/svg/icon-download.svg');
+    background-repeat: no-repeat;
+    background-size: 2.0rem;
+    background-position: 10px center;
+    padding: .5rem .5rem .5rem 3rem;
+    border: solid 1px var(--limegreen100);
+}
+
 .reminder {
     background: url('/images/svg/icon-reminder.svg');
     background-repeat: no-repeat;
