@@ -6,7 +6,7 @@ sortorder: 4.9
 appsused: psd
 title: "Magazine Cover"
 level: cg1
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=84515&grpid=0&isprv=0&bp=0&ou=92671"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=157216&grpid=0&isprv=&bp=0&ou=193284"
 submission: "photoshop-document"
 links: |
   - <a href="https://www.brandsoftheworld.com" title="Brands of the World Vector Logos" target="_blank">Brands of the World</a>

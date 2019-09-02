@@ -7,7 +7,7 @@ appsused: indd
 submission: "indesign-package"
 title: "Our First Layout"
 level: cg1
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=84505&grpid=0&isprv=0&bp=0&ou=92671"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=157210&grpid=0&isprv=&bp=0&ou=193284"
 links: |
   - <a href="https://helpx.adobe.com/indesign/using/create-documents.html" target="_blank" title="Adobe: Create Documents">Adobe: Create Documents</a>
   - <a href="https://helpx.adobe.com/indesign/using/threading-text.html" target="_blank" title="Adobe: Threading Text Frames">Adobe: Threading Text Frames</a>

@@ -6,7 +6,7 @@ sortorder: 3.9
 appsused: indd, psd, pdf
 title: "VW Layout"
 level: cg1
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=84507&grpid=0&isprv=0&bp=0&ou=92671"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=157211&grpid=0&isprv=&bp=0&ou=193284"
 submission: "indesign-package"
 links: |
   - <a href="https://helpx.adobe.com/indesign/using/formatting-text.html#use_quick_apply" target="_blank">Adobe: Quick Apply</a>

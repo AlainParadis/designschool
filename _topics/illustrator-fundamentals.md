@@ -6,7 +6,7 @@ sortorder: 2.9
 appsused: ai
 title: "Illustrator Fundamentals"
 level: cg1
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=84504&grpid=0&isprv=0&bp=0&ou=92671"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=157209&grpid=0&isprv=&bp=0&ou=193284"
 submission: "illustrator-package"
 links:
 video:
