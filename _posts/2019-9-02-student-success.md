@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Student Success"
-date: 2019-08-10 07:50:46
+date: 2019-09-02 15:34:20
 deck: "There are many support services available to you at Algonquin. If you find yourself struggling in any way, please reach out to us. "
 categories:
 ---
