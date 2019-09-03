@@ -169,6 +169,14 @@
 		"selected_items":
 		[
 			[
+				"tim",
+				"Insert UTC Timestamp"
+			],
+			[
+				"times",
+				"Insert UTC Timestamp"
+			],
+			[
 				"packa",
 				"Package Control: Install Package"
 			],
@@ -238,6 +246,12 @@
 	},
 	"file_history":
 	[
+		"/Users/paradis/Sites/designschool/_posts/2019-9-02-welcome-new-students.md",
+		"/Users/paradis/Sites/designschool/_posts/2019-09-02-your-program-of-study.md",
+		"/Users/paradis/Sites/designschool/_posts/2019-9-02-student-success.md",
+		"/Users/paradis/Sites/designschool/_posts/2019-8-26-welcome-new-students.md",
+		"/Users/paradis/Sites/designschool/_posts/2019-08-31-your-program-of-study.md",
+		"/Users/paradis/Sites/designschool/css/elements.css",
 		"/Users/paradis/Sites/designschool/new-site/css/grid.css",
 		"/Users/paradis/Sites/designschool/new-site/grid.html",
 		"/Users/paradis/Sites/designschool/404.md",
@@ -359,17 +373,11 @@
 		"/Users/paradis/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/Users/paradis/Sites/designschool/_cg1/module4/05.md",
 		"/Users/paradis/Sites/designschool/_cg6/module2/index.md",
-		"/Users/paradis/Sites/designschool/_cg4/module3/2.md",
-		"/Users/paradis/Sites/designschool/_cg4/module3/3.md",
-		"/Users/paradis/Sites/designschool/_cg4/module3/4.md",
-		"/Users/paradis/Sites/designschool/_cg4/module3/5.md",
-		"/Users/paradis/Sites/designschool/_cg2/module6/18.md",
-		"/Users/paradis/Sites/designschool/_cg4/module7/01.md",
-		"/Users/paradis/Sites/designschool/_cg4/module5/01.md"
+		"/Users/paradis/Sites/designschool/_cg4/module3/2.md"
 	],
 	"find":
 	{
-		"height": 30.0
+		"height": 42.0
 	},
 	"find_in_files":
 	{
@@ -445,6 +453,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"elem",
+				"css/elements.css"
+			],
+			[
+				"study",
+				"_posts/2019-08-31-your-program-of-study.md"
+			],
 			[
 				"grid.css",
 				"new-site/css/grid.css"
