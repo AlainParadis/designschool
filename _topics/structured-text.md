@@ -6,11 +6,11 @@ sortorder: 1.9
 appsused: indd
 title: "Structured Text"
 level: cg3
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86415&grpid=0&isprv=0&bp=0&ou=92653"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=162710&grpid=0&isprv=&bp=0&ou=193261"
 submission: "indesign-package"
 links:
 video: 
-downloads:
+downloads: "https://www.dropbox.com/s/vzxs22a67827s2v/indesign-structured-text.zip?dl=1"
 description: "In this summative assignment, you'll use the provided files to build the layouts as directed."
 details: |
 assignment: |

@@ -4,9 +4,9 @@ type: assignment
 formsum: summative
 sortorder: 3.9
 appsused: psd, ai, indd
-title: "Prepress Skills"
+title: "Prepress Skillz"
 level: cg3
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86421&grpid=0&isprv=0&bp=0&ou=92653"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=162715&grpid=0&isprv=&bp=0&ou=193261"
 submission: "my-assignment-folder"
 links: |
   - <a href="dielines.html" target="_blank" title="x">Die Lines</a>

@@ -6,7 +6,7 @@ sortorder: 1.1
 appsused: indd, psd
 title: "Text Variables"
 level: cg3
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86414&grpid=0&isprv=0&bp=0&ou=92653"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=162709&grpid=0&isprv=0&bp=0&ou=193261"
 submission: "indesign-package"
 links: |
   - <a href="https://helpx.adobe.com/indesign/using/captions.html" target="_blank" title="Adobe: Using Captions">Adobe: Using Captions</a>
@@ -15,7 +15,7 @@ links: |
   - <a href="https://helpx.adobe.com/indesign/using/numbering-pages-chapters-sections.html#create_headers_and_footers" target="_blank" title="Adobe: Numbering Pages...">Adobe: Numbering Pages...</a>
   - <a href="https://helpx.adobe.com/indesign/using/cross-references.html#cross_references" target="_blank" title="Adobe: Cross References">Adobe: Cross References</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLAe_aVG7bNa4YGL8g7EAtWm"
-downloads:
+downloads: "https://www.dropbox.com/s/vwvemtzwmz17jum/indesign-text-variables.zip?dl=1"
 description: "Automatic page numbering, automatic story jumps, text variables; these are only some of the tools we'll use to create a publication in InDesign. They all allow us to have content that updates dynamically, which makes editing a breeze."
 details: |
   ### Document Setup

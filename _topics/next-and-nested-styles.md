@@ -6,14 +6,14 @@ sortorder: 1.3
 appsused: indd
 title: "Next & Nested Styles"
 level: cg3
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86413&grpid=0&isprv=0&bp=0&ou=92653"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=162705&grpid=0&isprv=&bp=0&ou=193261"
 submission: "indesign-package"
 links: |
   - <a href="https://helpx.adobe.com/indesign/using/paragraph-character-styles.html#apply_styles" target="_blank" title="Apply Sequential Styles">Apply Sequential Styles</a>
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/paragraph-character-styles.html#apply_styles" alt:="Adobe: Next Styles" target="_blank">Next Styles</a>
   - Adobe: <a href="https://helpx.adobe.com/indesign/how-to/indesign-creating-nested-styles.html" alt:="Adobe: Nested Styles video tutorial" target="_blank">Nested Styles</a>
 video: "https://www.youtube.com/embed/cjxejsIZtbQ?rel=0"
-downloads:
+downloads: "https://www.dropbox.com/s/5f9f18zsjl5yc7u/indesign-next-nested-styles.zip?dl=1"
 description: "Next and Nested styles are two different things in InDesign. When thy are combined, they really offer powerful tools to style text with only a few clicks."
 details: |
   Before we get started, we'll set up our panels. Hit <span class="command">Shift-Tab</span> to hide your panels. Go to the Type menu, then check <span class="command">Paragraph Styles</span> and <span class="command">Character Styles</span>. Stretch them so they're longer, then dock them to the edge of your screen.

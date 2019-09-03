@@ -17,7 +17,7 @@ links: |
   - <a href="https://helpx.adobe.com/dimension/using/render-export.html" title="Adobe Dimension Rendering" target="_blank">Render & Export</a>
   - <a href="https://www.turbosquid.com/Search/Index.cfm?keyword=&amp;media_typeid=2&amp;file_type=119&amp;=true&amp;max_price=0&amp;min_price=0" title="TurboSquid" target="_blank">TurboSquid</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLAm2vGv4DlgbVvuGVvIbr1F"
-downloads: "https://www.dropbox.com/s/qeknkr3uylmmg8n/dimension.zip?dl=1"
+downloads: "https://www.dropbox.com/s/2ew7hp22kdds056/dimension-practice-in-depth.zip?dl=1"
 description: "Create realistic comps for your product designs, branding, signage, packaging, and more. Create photo-realistic comps that combine 2D and 3D assets for an introduction to Adobe Dimension."
 details: |
   ### What is Dimension?
