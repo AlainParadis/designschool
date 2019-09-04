@@ -32,12 +32,16 @@ details: |
 
   #### Student Photos
 
-  - During our first class, we're going to take an individual photo of each of you for our faculty records.
+  During our first class, we're going to take an individual photo of each of you for our faculty records.
+
+  #### Academic Advising Questionnaire
+
+  I'm going to give you a link to complete a questionnaire to support our academic advising efforts. We'll take time in class to fill out the form.
 
   #### About Computer Graphics
 
   - Why a Mac?
-    - The minimum requirement for their computer is a <a href="https://www.apple.com/ca_edu_93120/shop/buy-mac/macbook-pro/15-inch" title="Apple.com: education pricing on the 15&quot; MacBook Pro" target="_blank">15” Retina MacBook Pro</a>.
+    - The minimum requirement for your computer is a <a href="https://www.apple.com/ca_edu_93120/shop/buy-mac/macbook-pro/15-inch" title="Apple.com: education pricing on the 15&quot; MacBook Pro" target="_blank">15” Retina MacBook Pro</a>.
     - You're encouraged to purchase AppleCare with your new laptop.
   - Why Creative Cloud?
     - InDesign for page layout.
@@ -56,12 +60,12 @@ details: |
 
   ### Get Set Up
 
-  - Set up macOS.
+  - <a href="/setups/mac.html" >Set up macOS</a>.
   - Back up your files.
-  - Connect to college online services.
+  - Connect to <a href="/setups/college-services.html">college online services</a>.
   - Use a mouse every class.
-  - <a href="https://www.apple.com/ca/shop/product/MMEL2AM/A/thunderbolt-3-usb-c-to-thunderbolt-2-adapter" title="Thunderbolt 3 USB-C to Thunderbolt 2 adaptor" target="_blank">Purchase this adaptor</a> to connect to displays.
-  - Bring a pair of earphones/headphones to listen to tutorials.
+  - Optional: If needed, <a href="https://www.apple.com/ca/shop/product/MMEL2AM/A/thunderbolt-3-usb-c-to-thunderbolt-2-adapter" title="Thunderbolt 3 USB-C to Thunderbolt 2 adaptor" target="_blank">purchase this adaptor</a> to connect to displays.
+  - Bring a pair of earphones/headphones to listen to video tutorials.
 
   #### Software installation
 

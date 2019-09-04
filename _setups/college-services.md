@@ -25,7 +25,7 @@ details: |
 
   Mike Stacey <a href="mailto:staceym@algonquincollege.com" title="E-Mail Mike Stacey">E-mail</a>
 
-  **Their offices are at N208E**. That's just down the hall, near the water fountain.
+  <span class="fw600">Their offices are at N208E.</span> That's just down the hall, near the water fountain.
 
   ### Your College Login
 
