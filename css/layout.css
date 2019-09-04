@@ -51,6 +51,7 @@ html {
 }
 
 body {
+    overflow-x: hidden;
     max-width: 90rem;
     margin-top: 0;
     padding: 0 .2rem;
