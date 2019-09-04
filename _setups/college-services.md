@@ -52,7 +52,7 @@ details: |
 
   ### E-Mail Forwarding
 
-  It's crucial that you receive messages sent to your College e-mail address in a timely fashion. The best solution is likely to forward your college e-mail messages to your personal address. To do so, log in to your account at <a href="http://liveac.algonquincollege.com/" title="Log in to your college e-mail account." target="_blank">liveac.algonquincollege.com</a>.
+  It's crucial that you receive messages sent to your College e-mail address in a timely fashion. The best solution is likely to forward your college e-mail messages to your personal address. To do so, log in to your account at <a href="http://liveac.algonquincollege.com/" title="Log in to your college e-mail account." class="fw600" target="_blank">liveac.algonquincollege.com</a>.
 
   <img class="size100" alt="forward-college-e-mail" src="/images/setup-college-services/forward-college-e-mail.jpg">
 
@@ -72,7 +72,7 @@ details: |
 
   ### College Printer Setup
 
-  You'll setup the school printers on your laptop so you can print in the classrooms, the Agency and the Print Shop. <a href="http://algonquincollege.freshdesk.com/support/solutions/articles/11000037912-how-to-install-student-printers-on-your-mac" title="Set up your Mac for printing in our classrooms." target="_blank">Go to this page for instructions</a> on how to set up printing
+  You'll setup the school printers on your laptop so you can print in the classrooms, the Agency and the Print Shop. <a href="http://algonquincollege.freshdesk.com/support/solutions/articles/11000016291-how-to-install-a-find-me-printer-on-your-mac" title="Set up your Mac for printing in our classrooms." target="_blank">Go to this page for instructions</a> on how to set up printing
 
   ### Adobe Creative Cloud Setup
 
