@@ -116,4 +116,4 @@ assignment: |
 
   <span class="fs12 limegreen">Have fun and good luck!</span>
 ---
-"https://www.dropbox.com/s/xitvp9rmv9znw75/photoshop-magazine-cover.zip?dl=1"
+"https://www.dropbox.com/s/g2tw15fl48u1dt1/illustrator-drawing-with-shapes.zip?dl=1"
