@@ -11,7 +11,7 @@ submission: "my-assignment-folder"
 links: |
   - <a href="https://helpx.adobe.com/photoshop/using/masking-layers.html" target="_blank" title="Adobe: Mask Layers">Adobe: Mask Layers</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDXxSkeR7f0X8DmBp0hlEaj"
-downloads: "https://www.dropbox.com/s/50uqa0oa0wiq2xp/photoshop-intro-to-layer-masks.zip?dl=1"
+downloads:
 description: "Layer Masks are arguably the most powerful, most frequently used tool in the whole Photoshop universe. We'll create pixel-based Layer Masks to achieve different results."
 details: |
   Layer Masks are used to:
@@ -132,3 +132,4 @@ assignment: |
 
   <img class="size100" alt="summative-replace-eyes" src="/images/photoshop-intro-to-layer-masks/summative-replace-eyes.jpg">
 ---
+"https://www.dropbox.com/s/50uqa0oa0wiq2xp/photoshop-intro-to-layer-masks.zip?dl=1"
