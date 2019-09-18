@@ -6,7 +6,7 @@ sortorder: 4.9
 appsused: ai
 title: "Skateboard Parks Cards"
 level: cg5
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86524&grpid=0&isprv=0&bp=0&ou=92682"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=167175&grpid=0&isprv=0&bp=0&ou=193296"
 submission: "my-assignment-folder"
 links: |
   -   Lynda: [Variable Data course](https://www.lynda.com/Illustrator-tutorials/Adobe-Illustrator-Variable-Data/450909-2.html)

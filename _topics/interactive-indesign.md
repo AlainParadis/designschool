@@ -6,7 +6,7 @@ sortorder: 5.0
 appsused: indd, pdf, cc
 title: "Interactive InDesign"
 level: cg5
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=86525&grpid=0&isprv=0&bp=0&ou=92682"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=167176&grpid=0&isprv=&bp=0&ou=193296"
 submission: "indesign-package"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/hyperlinks.html" target="_blank" title="Hyperlinks">Hyperlinks</a>
