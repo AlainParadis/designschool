@@ -12,7 +12,7 @@ links: |
   - <a href="https://helpx.adobe.com/illustrator/using/drawing-pen-curvature-or-pencil.html" target="_blank" title="Draw with the Pen Tool">Draw with the Pen Tool</a>
   - <a href="https://design.tutsplus.com/tutorials/illustrators-pen-tool-the-comprehensive-guide--vector-141" target="_blank" title="Tutsplus: Pen Tool Guide">Tutsplus: Pen Tool Guide</a>
 video: "https://www.youtube.com/embed/qFeLqHS83P4"
-downloads:
+downloads: "https://www.dropbox.com/s/44qwspj7v11vaw7/illustrator-pen-tool.zip?dl=1"
 description: "The Pen Tool is one of the trickiest tools in Illustrator. It's also one of the most fundamental to vector drawing. You need to do your time with the tool in order to tame it."
 details: |
   Before we start to use the Pen Tool, we want to make sure we have Precise Cusors turned on in <span class="command">Illustrator CC > Preferences... > General</span>. This will make our Pen Tool cursor a crosshair rather than a fountain pen icon.
@@ -69,4 +69,3 @@ assignment: |
 
   You can see from my examples above how the anchor points and handles are positioned. Do your best.
 ---
-"https://www.dropbox.com/s/44qwspj7v11vaw7/illustrator-pen-tool.zip?dl=1"
