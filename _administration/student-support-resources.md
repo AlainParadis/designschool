@@ -337,7 +337,7 @@ details: |
   </ul>
 
   ### Security
-  **Location:** T124<br>
+  **Location:** A149<br>
   **Website:** <a href="https://www.algonquincollege.com/safety-security-services/" title="Link to resource" target="_blank">www.algonquincollege.com/safety-security-services/</a><br>
   **Hours:** 24/7<br>
   **Phone:** 613-727-4723x.5010<br>
