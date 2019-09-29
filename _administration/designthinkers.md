@@ -56,17 +56,13 @@ details: |
   The main part of the conference is Wednesday and Thursday. We'll walk from the hotel to the conference centre.
 
   <div class="textcenter">
-    <a href="https://events.eply.com/DesignThinkersTO2018" title="Register for DesignThinkers here." target="_blank" class="fs15textcenter">Register for the conference here</a>
+    <a href="https://events.eply.com/DesignThinkersTO2019" title="Register for DesignThinkers here." target="_blank" class="fs15textcenter">Register for the conference here</a>
   </div> 
 
-  * Register with your Algonquin e-mail address as *Student RGD - 2 Days $195 (after Sept 28 $225)*.
-  * Use the discount code I sent you on Brightspace.
+  * Register with your Algonquin e-mail address.
+  * Use the discount code I sent you.
   * Choose the Student RGD - 2 Days option.
-  * Choose an option from each of the *DesignThinkers Toronto 2018 Studio Crawl*.
-
-  <!--- ## Portfolio Reviews
-
-  There are portfolio reviews during the conference. You'll be responsible for signing up and paying for them. <a href="https://www.designthinkers.com/Sessions/2017/Toronto/Portfolio-Reviews.aspx" title="DesignThinkers portfolio reviews" target="_blank">Read more about them here...</a> --->
+  * Choose an option from each of the *DesignThinkers Toronto 2019 Studio Crawl*.
 
   ### What happens to my classes?
 
