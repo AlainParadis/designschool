@@ -53,7 +53,7 @@ details: |
 
   ### Parts of the grid.
 
-  <a href="https://helpx.adobe.com/illustrator/using/perspective-grid.html" title="Adobe: Perspective Grid" target="_blank">This is Adobe's explanation</a> of the Perspective Grid. <a href="http://factore.ca/blog/215-perspective-grids-in-illustrator" title="Adobe: Perspective Grid" target="_blank">This one</a> is really good, too.
+  <a href="https://helpx.adobe.com/illustrator/using/perspective-grid.html" title="Adobe: Perspective Grid" target="_blank">This is Adobe's explanation</a> of the Perspective Grid.
 
   <img class="size100" alt="illustrator-perspective-grid" src="/images/illustrator-perspective/illustrator-perspective-grid.gif">
 
