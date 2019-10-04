@@ -45,4 +45,4 @@ assignment: |
 
   You'll need to activate the Acumin Wide family on <a href="https://fonts.adobe.com/fonts/acumin" title="Activate fonts on Adobe Fonts" target="_blank">Adobe Fonts</a>.
 ---
-"https://www.dropbox.com/s/xf5go2x4swhrty9/illustrator-setting-type.zip?dl=1"
+https://www.dropbox.com/s/xf5go2x4swhrty9/illustrator-setting-type.zip?dl=1
