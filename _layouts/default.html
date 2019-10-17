@@ -132,9 +132,7 @@
         </div>
         <div class="item item2">
             {{ page.details | markdownify }}
-            {% if page.level == 'thefeed' %}
-                {% include blog-post-list.html %}
-            {% elsif page.formsum == 'formative' or page.formsum == 'summative' %}
+            {% if page.formsum == 'formative' or page.formsum == 'summative' %}
             {% if page.formsum == 'formative' %}
                 <h2>Formative Activity</h2>
                 {% elsif page.formsum == 'summative' %}

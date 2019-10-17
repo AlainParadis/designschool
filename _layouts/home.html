@@ -14,22 +14,6 @@
 		<div class="item2"></div>
 	</div>
 </header>
-<section class="thefeed">
-	<div class="thefeed-title">
-		<h3><a href="{{ site.baseurl}}/thefeed/index.html" class="nounderline" target="_blank">The Feed</a></h3>
-	</div>
-	<div class="thefeed-items">
-	{% for thefeeditem in site.posts limit:4%}
-		<div class="thefeeditem">
-		<a href="{{ thefeeditem.url }}" title="{{ thefeeditem.title }}">
-		<h4 class="{% if thefeeditem.breaking == 'on' %}breaking{% endif %}">{{ thefeeditem.title }}</h4>
-		<div>{{ thefeeditem.deck | markdownify }}</div>
-		</a>
-	</div>
-	{% endfor %}
-</div>
-<p class="textalignright fs08"><a href="{{ site.baseurl}}/thefeed/index.html">See all stories...</a></p>
-</section>
 <section class="home-panels">
 	<div class="panel panel-cg1">
 		<h3><a href="{{ site.baseurl }}/cg1/index.html" title="Course Home" class="decoration-none">{{ site.data.stream.courses[0].coursetitle }}</a></h3>
