@@ -6,7 +6,7 @@ sortorder: 2.9
 appsused: ai, psd
 title: "Paint a Character"
 level: cg5
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=167170&grpid=0&isprv=&bp=0&ou=193296"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=167171&grpid=0&isprv=&bp=0&ou=193296"
 submission: "my-assignment-folder"
 links: |
   - Lynda: [Using a Tablet](https://www.lynda.com/Illustrator-tutorials/Using-Wacom-Tablets-Illustrator/374180-2.html)

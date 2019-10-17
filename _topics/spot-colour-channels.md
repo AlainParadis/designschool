@@ -5,7 +5,7 @@ formsum: formative
 sortorder: 3.2
 appsused: psd, indd
 title: "Spot Colour Channels"
-level: cg3
+level: undetermined
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=162713&grpid=0&isprv=&bp=0&ou=193261"
 submission: "indesign-package"
 links: |

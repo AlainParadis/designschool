@@ -7,7 +7,7 @@ appsused: ai
 title: "Use Some Perspective"
 level: cg3
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=163167&grpid=0&isprv=&bp=0&ou=193261"
-submission: "illustrator-document"
+submission: "illustrator-package"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/perspective-drawing.html" target="_blank" title="Perspective Drawing">Perspective Drawing</a>
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/perspective-grid.html" target="_blank" title="Define Perspective Grids">Define Perspective Grids</a>

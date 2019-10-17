@@ -5,7 +5,7 @@ formsum: formative
 sortorder: 2.4
 appsused: ai
 title: "Gradients & Blends"
-level: cg1
+level: undetermined
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission: "my-assignment-folder"
 links: |
