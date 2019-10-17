@@ -52,13 +52,13 @@ assignment: |
 
   <img class="size100" alt="Illustrator Type Summative" src="/images/illustrator-fundamentals/illustrator-type-summative.svg">
 
-  All the text is set in Proxima Nova font. Make a paragraph style for each:
+  All the text is set in <a href="https://fonts.adobe.com/fonts/proxima-nova" class="fw700" target="_blank">Proxima Nova font</a>. Make a paragraph style for each:
 
   * Title: 44pt, Extra Bold
   * Intro: 10pt, Bold
   * Text: 10pt, Regular
 
-  Set the slogan and URL manually:
+  Set the slogan and URL manually (no paragraph style):
 
   * URL: 24pt, Extra Bold & Regular
 
@@ -92,4 +92,3 @@ assignment: |
 
   Make sure to save your document where it is. Don't rename.
 ---
-"https://www.dropbox.com/s/xw72qepxxgr8s49/illustrator-fundamentals.zip?dl=1"
