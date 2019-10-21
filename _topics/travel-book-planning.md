@@ -54,4 +54,28 @@ assignment: |
   #### Publication Format
 
   The dimensions and binding type for your publication are important elements. For the dimensions, I suggest standard paper sizes. Build your 1/8" bleed and the amount of creep into your overall dimensions. *Best to build a mock-up*.
+
+  ### Deliverables
+  <p>You're going to get approval on a paper mock-up of your publication. Use the approximate number of pages you plan to have. Test the binding you intend to use on the final product.</p>
+  <p>Print a tabloid sheet with photo treatments.</p>
+  <p>Print a sheet with your type hierarchy. This should be set with your intended fonts</p>
+  
+  #### Paper Mock-up
+
+  A paper mock-up is the best way to visualize your publication. You can test dimensions, binding and paper stock. This is a fun hands-on paper-craft activity. Use imagination to create a mock-up with design elements that may refer to the content. Maybe a simple die-cut or creative binding could allude to the subject matter.
+
+  In industry, you would produce a mock-up that's clean enough to show your client. It should be well assembled and represent the final piece as closely as possible.
+
+  #### Typography
+
+  You should only use two type families in this project, unless you have a specific reason for using more. Choose families with a lot of variety; weight, italics, etc...
+
+  <div class="attentionbox achtung">You are only allowed Adobe Fonts for this project. No downloaded fonts allowed.</div>
+
+  
+
+  #### Photo Treatment
+
+  #### Illustration Samples
+
 ---
