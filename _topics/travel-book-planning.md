@@ -2,10 +2,10 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 1.1
+sortorder: 1.0
 appsused: indd ai psd
 title: "Travel Book Planning"
-level: undetermined
+level: cg6
 brightspace: 
 submission: "travel-book-planning"
 links:

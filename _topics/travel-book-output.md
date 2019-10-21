@@ -5,7 +5,7 @@ formsum: formative
 sortorder: 1.3
 appsused: indd ai psd pdf
 title: "Travel Book Output"
-level: undetermined
+level: cg6
 brightspace: 
 submission: "my-assignment-folder"
 links:

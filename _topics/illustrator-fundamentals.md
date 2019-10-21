@@ -7,11 +7,11 @@ appsused: ai
 title: "Illustrator Fundamentals"
 level: cg1
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=157209&grpid=0&isprv=&bp=0&ou=193284"
-submission: "illustrator-package"
+submission: "my-assignment-folder"
 links:
 video:
 downloads:
-description: "This is a summative assignment which includes all the Illustrator skills you've learned to date."
+description: "This is a summative assignment which includes all the Illustrator skills you've learned to date. Follow the instructions on this page carefully."
 details:
 assignment: |
   ### Drawing with Shapes
@@ -48,7 +48,9 @@ assignment: |
 
   ### Type in Illustrator
 
-  Set type on the provided document using point type and area type where appropriate.
+  Create a new Illustrator document with the specifications shown below. Use point type and area type where appropriate.
+
+  Save the file into the exercise folder named: <span class="fw500 darkgreen">03-illustrator-type-summative.ai</span>
 
   <img class="size100" alt="Illustrator Type Summative" src="/images/illustrator-fundamentals/illustrator-type-summative.svg">
 
@@ -62,7 +64,8 @@ assignment: |
 
   * URL: 24pt, Extra Bold & Regular
 
-  See the model above as a guide for where to use point type vs. area type. Make sure you use the <span class="command">Space After</span> setting in your paragraph style to create spacing between paragraphs, as shown. Once complete, ⌘-S, then ⌘-W.
+  See the model above as a guide for where to use point type vs. area type. Make sure you use the <span class="command">Indents & Spacing > Space After</span> setting at 4pt in your paragraph style to create spacing between paragraphs, as shown. Once complete, ⌘-S, then ⌘-W.
+
 
   ### Colour Swatches
 
@@ -92,3 +95,4 @@ assignment: |
 
   Make sure to save your document where it is. Don't rename.
 ---
+ "https://www.dropbox.com/s/xw72qepxxgr8s49/illustrator-fundamentals.zip?dl=1"

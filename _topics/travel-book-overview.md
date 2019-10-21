@@ -1,19 +1,23 @@
 ---
-layout: submission
+layout: default
 type: informational
 formsum:
 sortorder: 1.0
 appsused: sketching
 title: "Travel Book Overview"
-level: undetermined
+level: cg6
 brightspace: 
-submission: "my-assignment-folder"
+submission:
 links:
 video: 
 downloads: 
-description: "This is a semester-long, self-directed project with milestones. It will include publication design, photo manipulation and illustration. It is a software-skills culminating performance for the Computer Graphics courses."
+description: "This is a semester-long, self-directed project with milestones and deliverables. It will include publication design and production, photo manipulation and illustration. It is a software-skills culminating performance for the Computer Graphics courses."
 details: |
-  This assignment will include the software skills you have learned to date, brought together to create a travel book. There will be page layout, photo editing and illustration.
+  This assignment will include the software skills you have learned to date, brought together to create a travel book. There will be page layout, photo editing and illustration and production.
+
+  ### Goals
+
+  The stated goal of this assignment is for you to repeat and reinforce skills learned in the five past semesters of Computer Graphics. The hope is that  you will demonstrate that you have acquired mastery of these skills. This should also provide one more piece for your portfolio.
 
   ### Logistics
 
@@ -29,17 +33,13 @@ details: |
 
   You will start by project planning the heck out of this. This will include making an inventory of the provided content. You will read all the text. There will be body copy, information for the info-graphic and table data. Take note of the structure of the content. <a href="travel-book-planning.html" class="">Read more...</a>
 
-  #### Development
+  #### Production
 
   Once your planning has been approved, you can move on to production. 
   InDesign will be the hub in which we'll layout text, photography and illustrations. You will build the document in a way that avoids per-page construction using master pages, paragraph styles and more of the tools listed. <a href="travel-book-production.html" class="">Read more...</a>
 
   #### Output
 
-   We'll output your publication for multiple intents. You'll first output a package folder for access to the final native files. You'll create a PDF for a commercial printer. A PDF for download online will also be needed. Finally, you'll produce an ePUB version for tablet reading. <a href="travel-book-output.html" class="">Read more...</a>
-
-  ### Goals
-
-  The stated goal of this assignment is for you to repeat and reinforce skills learned in the five past semesters of Computer Graphics. The hope is that  you will demonstrate that you have acquired mastery of these skills.
+   We'll output your publication for multiple intents. You'll first output a package folder for access to the final native files. You'll create a PDF for a commercial printer. A PDF for download will also be needed. Finally, you'll produce an ePUB version for tablet reading. <a href="travel-book-output.html" class="">Read more...</a>
 
 ---
