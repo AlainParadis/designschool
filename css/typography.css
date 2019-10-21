@@ -96,8 +96,10 @@ h6
 h5
 {
 	font-size: .9rem;
-	line-height: 1.2rem;
+	line-height: 1.16rem;
 	font-weight: 700;
+	text-transform: uppercase;
+	color: gray;
 }
 
 h4
