@@ -293,7 +293,7 @@ section.content .item2 ul li { margin-left: 1rem; }
 section.content .item2 ul li:before { padding-right: .3rem ; }
 
 a.summative {
-	font-weight: 700;
+	font-weight: 600;
 }
 
 a.summative::after {
