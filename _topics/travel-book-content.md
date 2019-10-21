@@ -1,7 +1,7 @@
 ---
 layout: submission
 type: informational
-formsum:
+formsum: summative
 sortorder: 1.1
 appsused: cc, indd, psd, ai
 title: "Travel Book Content"
