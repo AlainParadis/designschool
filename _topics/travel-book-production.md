@@ -13,6 +13,7 @@ video:
 downloads: 
 description: "These are the main software instructions, which are really the bulk of the assessed skills."
 details: |
+assignment: |
   ### Software Skills
 
   #### General
@@ -23,8 +24,6 @@ details: |
     - File organization
   - Content strategy
     - Gather text
-      - will include recipes and complimentary text
-      - must be on-topic for the cook-book theme
       - remove all text formatting by saving each item in .txt formatting
     - Photography
       - Gather all needed photography from provided stock sites
@@ -32,8 +31,6 @@ details: |
       - Rename photo files contextually
       - Organize all photos in Finder by purpose/intent
     - Research & plan illustration style
-
-    
 
   #### InDesign
 
@@ -60,13 +57,13 @@ details: |
   - Good layer management
   - Apply colour consistent with the project artwork
   - Work in a print-ready workflow
-    - Save vector art for in CMYK
+    - Save vector art in CMYK for print.
   - Illustrations would be submitted as their own assignment
   - More to come...
 
   #### Photoshop
 
-  - Proper resolution for food photography
+  - Proper resolution for photography
   - At least 1 photo composition comprised of 5 photos
     - Name all layers contextually
     - Use Smart Objects
@@ -79,6 +76,6 @@ details: |
     - transparency allowed
   - Photo files would be submitted as a free-standing assignment
   - More to come...
-assignment: |
+
   
 ---
