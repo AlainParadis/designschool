@@ -10,10 +10,11 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="http://helpx.adobe.com/illustrator/using/data-driven-graphics-templates-variables.html" alt:="Adobe: Illustrator Variable Data" target="_blank">Variable Data</a>
-  - Lynda.com: [Variable Data course](https://www.lynda.com/Illustrator-tutorials/Adobe-Illustrator-Variable-Data/450909-2.html)
-video: "https://www.youtube.com/embed/KHqyC_3iep4"
+video:
+lyndalinks: |
+  - <a href="https://www.linkedin.com/learning/illustrator-cc-2018-new-features/simplified-use-of-variable-data-in-illustrator?u=2199673" class="" target="_blank">LinkedIn Tutorial: Variable Data</a>
 downloads: "https://www.dropbox.com/s/wb89tvla7ox6t5u/illustrator-variable-data.zip?dl=1"
-description: "Variable Data in Illustrator is a little-know feature that can save you hours of tedious, error-prone work."
+description: "Variable Data in Illustrator is a little-know feature that can save you hours of tedious, error-prone work. Using the Variables panel in Illustrator, you can easily create multiple variations of your artwork by merging a data source file (CSV or XML file) with an Illustrator document."
 details: | 
   Using Variable Data in Illustrator will save you a lot of time and avoid entry errors. It allows you to re-use the same artwork with different data in it. A good example would be to output business cards for a company for hundreds of different individuals.
 
