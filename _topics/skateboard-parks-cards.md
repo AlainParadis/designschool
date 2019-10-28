@@ -7,11 +7,11 @@ appsused: ai
 title: "Skateboard Parks Cards"
 level: cg5
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=167175&grpid=0&isprv=0&bp=0&ou=193296"
-submission: "my-assignment-folder"
+submission: "illustrator-variables-summative"
 links: |
   -   Lynda: [Variable Data course](https://www.lynda.com/Illustrator-tutorials/Adobe-Illustrator-Variable-Data/450909-2.html)
 video: 
-downloads:
+downloads: "https://www.dropbox.com/s/06868w69vd8uoje/illustrator-variable-data-summative.zip?dl=1"
 description: "Use the provided data to design and build a series of post cards for each of Ottawa's skateboard parks."
 details: | 
   
@@ -45,20 +45,5 @@ assignment: |
   Once all of your variables are imported, double-check that everything works properly.
 
   Use the Batch command to export the data sets as Press-Ready PDF files into the provided 'PDFs' folder. Save your Illustrator file in place in the 'Your Exercise' folder. The .csv file should be in that folder too.
-
-  ### Deliverables
-
-  Organize your submission files like this.
-
-  <img class="size100" alt="illustrator-variables-deliverables" src="/images/illustrator-variable-data/illustrator-variables-deliverables.gif">
-
-  It will contain your:
-
-  * Illustrator document
-  * An edited spreadsheet (Numbers, Excel or other)
-  * The exported .csv file
-  * No fonts, because you've used only Adobe Fonts.
-  * The PDFs folder full of PDFs.
-  * Your Practice folder with all its files.
 ---
 https://docs.google.com/a/algonquindesign.ca/spreadsheets/d/19S_r_LzZhPYa2Xv7GdzxFaW4qMRJ5APYc3mvnl8BMiU/edit?usp=sharing
