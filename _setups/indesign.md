@@ -1,6 +1,6 @@
 ---
 layout: default
-type: informational
+type: assignment
 formsum: 
 sortorder: 4
 appsused: indd cc
