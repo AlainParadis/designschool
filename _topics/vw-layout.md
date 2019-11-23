@@ -10,7 +10,7 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "indesign-package"
 links: |
   - <a href="https://helpx.adobe.com/indesign/using/formatting-text.html#use_quick_apply" target="_blank">Adobe: Quick Apply</a>
-downloads:
+downloads: "https://www.dropbox.com/s/h8vupzuloc7jysr/indesign-vw-layout.zip?dl=1"
 video:
 description: "Use the provided files to build the Volkswagen advertisement according to the included PDF design guide."
 details: |
@@ -26,7 +26,7 @@ assignment: |
   Make sure you save your document like this (with your own name):
   
   <div class="attentionbox filename">
-    Appleseed, Johnny, Group 1, VW.indd
+    Appleseed-Johnny-#-VW-layout.indd
   </div>
   
   This will make it that your folder will automatically be named properly once you're done.
@@ -35,7 +35,7 @@ assignment: |
   
   As soon as you've created your document, make sure you set your Basic Paragraph Style to Futura PT Book 9pt.
 
-  <img class="size33" alt="paragraph-styles-panel" src="/images/indesign-vw-layout/paragraph-styles-panel.jpg">
+  <img class="size50" alt="paragraph-styles-panel" src="/images/indesign-vw-layout/paragraph-styles-panel.jpg">
   
   Everything that's in Futura PT needs to be based on the Basic Paragraph Style.
 
@@ -57,4 +57,3 @@ assignment: |
   
   Place the photo of the car as wide as two columns. You'll use the <span class="command">File > Place...</span> command to import the photo. Once you have a loaded cursor, drag the photo into place.
 ---
-"https://www.dropbox.com/s/h8vupzuloc7jysr/indesign-vw-layout.zip?dl=1"

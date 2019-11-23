@@ -12,7 +12,7 @@ links: |
   - <a href="https://helpx.adobe.com/illustrator/using/using-creating-swatches.html" target="_blank" title="Adobe: Use & Create Swatches">Adobe: Use & Create Swatches</a>
   - <a href="https://www.youtube.com/watch?v=RW1HJdW5XLs" target="_blank" title="YouTube: The Printing Process">YouTube: The Printing Process</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLAXH87Oz_yimA4CSYwV0I1r"
-downloads: "https://www.dropbox.com/s/z9zudywgx019tid/illustrator-types-of-swatches.zip?dl=1"
+downloads: "https://www.dropbox.com/s/a5aw2ncvv85kzec/illustrator-types-of-swatches.zip?dl=1"
 description: "Illustrator is a go-to application for print design as well as design for the screen. Depending on your intent, you'll need to make decisions about colour. We'll learn to create and edit global, spot, RGB, CMYK colour swatches in Illustrator."
 details: |
   ### New Document Colour Options

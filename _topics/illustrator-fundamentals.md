@@ -10,7 +10,7 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "my-assignment-folder"
 links:
 video:
-downloads:
+downloads: "https://www.dropbox.com/s/xw72qepxxgr8s49/illustrator-fundamentals.zip?dl=1"
 description: "This is a summative assignment which includes all the Illustrator skills you've learned to date. Follow the instructions on this page carefully."
 details:
 assignment: |
@@ -95,4 +95,3 @@ assignment: |
 
   Make sure to save your document where it is. Don't rename.
 ---
- "https://www.dropbox.com/s/xw72qepxxgr8s49/illustrator-fundamentals.zip?dl=1"

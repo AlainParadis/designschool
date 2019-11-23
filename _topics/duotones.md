@@ -7,7 +7,7 @@ appsused: psd, indd
 title: "Duotones"
 level: cg3
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=162712&grpid=0&isprv=&bp=0&ou=193261"
-submission: "my-assignment-folder"
+submission: "indesign-package"
 links: |
   - Lynda: <a href="https://www.lynda.com/Photoshop-tutorials/Duotone/533301/582605-4.html" target="_blank" title="Lynda: Duotones">Duotones</a>
   - Behance: <a href="https://www.behance.net/search?search=duotone" target="_blank" title="Examples of Duotones">Examples of Duotones</a>
