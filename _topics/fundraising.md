@@ -9,12 +9,12 @@ level: fpp
 brightspace: 
 submission:
 links: |
-  - <a href="https://docs.google.com/spreadsheets/d/1noq8HVeam0ZL1bt-09dgbfORuokVsEv3xOC0LizX0CA/edit?usp=sharing" target="_blank" title="Activity Log Spreadsheet">Activity Log Spreadsheet</a>
+  - <a href="https://algonquinlivecom-my.sharepoint.com/:x:/g/personal/paradia_algonquincollege_com/Ea7gnU-aDaNBnluYTBTyCCMBGdH6Ai8EYDFGJHSdIuElqg?e=d3j5EJ" target="_blank" title="Activity Log Spreadsheet">Activity Log Spreadsheet</a>
   - <a href="http://www.algonquincollege.com/international/study-and-work-abroad-2018/placement-abroad/" target="_blank" title="Fieldwork Abroad?">Fieldwork Abroad?</a>
   - <a href="http://www.cic.gc.ca/english/study/work-coop.asp" target="_blank" title="Fieldwork Info for Employers">Internation Student Work Permit</a>
   - <a href="https://algonquindesign.ca/fieldwork/" title="Fieldwork Info for Employers" target="_blank">Fieldwork Info for Employers</a>
   - <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWFC-QM7-zoCXIVZZcprjPr9TaHt9B_ZlixE3Krz9-QVaxbA/viewform" title="Employers Fieldwork Request" target="_blank">Employers Fieldwork Request</a>
-  - <a href="https://forms.gle/WUHEyWHNqemd6Qv77" title="Form: I Got My Fieldwork!" target="_blank">I Got My Fieldwork!</a>
+  - <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=JNkb7GoKqUqqicmAMWwESfjne9J-c6VKlt4hDsO6Z5ZURUU5WFowU1MxVTdLQzNQVUc0NzVRTEpLWS4u" title="Form: I Got My Fieldwork!" target="_blank">I Got My Fieldwork!</a>
   - <a href="https://www.dropbox.com/s/plfn2c0o37p7kax/fieldwork-consent-form-2019.pdf.zip?dl=1" title="Fieldwork Consent Form">Fieldwork Consent Form PDF</a>
 video: 
 downloads: "https://www.dropbox.com/s/jp8m950e6g5k77i/fieldwork-gradshow-downloads.zip?dl=1"
@@ -22,8 +22,9 @@ description: "The funds you raise will pay for all costs to the Grad Show. Hopef
 details: |
   Fundraising activities included:
 
-  - Mobile Bakesales
-  - PubNights
+  - Mobile Bake Sales
+  - Pub Nights
+  - LinkedIn Head Shots
   - Poster sales
   - Card sales
   - Online Bidding for donated items

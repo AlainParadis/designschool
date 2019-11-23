@@ -9,12 +9,12 @@ level: fpp
 brightspace: 
 submission:
 links: |
-  - <a href="https://docs.google.com/spreadsheets/d/1noq8HVeam0ZL1bt-09dgbfORuokVsEv3xOC0LizX0CA/edit?usp=sharing" target="_blank" title="Activity Log Spreadsheet">Activity Log Spreadsheet</a>
+  - <a href="https://algonquinlivecom-my.sharepoint.com/:x:/g/personal/paradia_algonquincollege_com/Ea7gnU-aDaNBnluYTBTyCCMBGdH6Ai8EYDFGJHSdIuElqg?e=d3j5EJ" target="_blank" title="Activity Log Spreadsheet">Activity Log Spreadsheet</a>
   - <a href="http://www.algonquincollege.com/international/study-and-work-abroad-2018/placement-abroad/" target="_blank" title="Fieldwork Abroad?">Fieldwork Abroad?</a>
   - <a href="http://www.cic.gc.ca/english/study/work-coop.asp" target="_blank" title="Fieldwork Info for Employers">Internation Student Work Permit</a>
   - <a href="https://algonquindesign.ca/fieldwork/" title="Fieldwork Info for Employers" target="_blank">Fieldwork Info for Employers</a>
   - <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWFC-QM7-zoCXIVZZcprjPr9TaHt9B_ZlixE3Krz9-QVaxbA/viewform" title="Employers Fieldwork Request" target="_blank">Employers Fieldwork Request</a>
-  - <a href="https://forms.gle/WUHEyWHNqemd6Qv77" title="Form: I Got My Fieldwork!" target="_blank">I Got My Fieldwork!</a>
+  - <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=JNkb7GoKqUqqicmAMWwESfjne9J-c6VKlt4hDsO6Z5ZURUU5WFowU1MxVTdLQzNQVUc0NzVRTEpLWS4u" title="Form: I Got My Fieldwork!" target="_blank">I Got My Fieldwork!</a>
   - <a href="https://www.dropbox.com/s/plfn2c0o37p7kax/fieldwork-consent-form-2019.pdf.zip?dl=1" title="Fieldwork Consent Form">Fieldwork Consent Form PDF</a>
 video: 
 downloads: "https://www.dropbox.com/s/jp8m950e6g5k77i/fieldwork-gradshow-downloads.zip?dl=1"
@@ -23,6 +23,33 @@ details: |
   ### Recent Employers
 
   These are employers who took students in 2018 or in 2019.
+
+  Correctional Service Canada<br />
+  Sean Donohue<br />
+  Senior Learning Advisor<br />
+  sean.donohue@csc-scc.gc.ca<br />
+  Organization-Address: 340 Laurier Avenue, Ottawa, ON<br />
+  Organization-URL: search correction service canada online to get the web page<br />
+  Design graphics for e-Learning content<br />
+  Utilize COTS e-Learning tools to develop online courses<br />
+  Work with Learning Advisors in the development of e-Learning courses<br />
+  
+  Raised by Wolves<br />
+  Cal Green<br />
+  Creative Director<br />
+  cal@raisedbywolves.ca<br />
+  5148651950<br />
+  145 Spruce St., Unit 166B, Ottawa, ON K1R 6P1<br />
+  www.raisedbywolves.ca<br />
+  Graphics for screenprinted and embroidered apparel, social media flyers and e-comm product shot editing.<br />
+
+  Acart Communications<br />
+  Scott McMann<br />
+  Associate Creative Director<br />
+  smcmann@acart.com<br />
+  171 Nepean Street, Suite 600<br />
+  www.acart.com<br />
+  Overall a general design thing - we toggle from motion to strategy - from advertising to graphic design.<br />
 
   Alphabet Creative<br />
   Devon Kunkel<br />
@@ -40,6 +67,14 @@ details: |
   613-236-5444 x24<br />
   422 Sparks Ottawa ON K1R 0B2<br />
 
+  Canada Revenue Agency (CRA)<br>
+  Michael Basilico <br>
+  Assistant Director<br>
+  michael.basilico@cra-arc.gc.ca<br>
+  613-941-4664<br>
+  555 Mackenzie Ave Ottawa ON K1A 0L5<br>
+  cra@gc.ca<br>
+
   Canadian Blood Services<br />
   Nathaly Barnett<br />
   Advertising and Digital Operations Manager<br />
@@ -55,6 +90,14 @@ details: |
   chamber.ca<br />
   613.238.4000 (2247)<br />
   1700 – 275 rue Slater Street Ottawa ON K1P 5H9<br />
+
+  Canopy Growth Corporation<br>
+  Shiree Nowoselski<br>
+  Art Director<br>
+  shiree.nowoselski@canopygrowth.com<br>
+  613-485-2816<br>
+  1 Hershey Drive, Smith Falls Ontario  K7A 0A8<br />
+  www.canopygrowth.com<br>
 
   Downtown Rideau Business Improvement Area (DRBIA)<br />
   Kimberly McCarthy-Kearney<br />
@@ -102,6 +145,14 @@ details: |
   macadamian.com<br />
   179 Promenade du Portage 4th floor Gatineau QC J8X 2K5<br />
 
+  Pointer Creative  <br />
+  Chris Pointer<br />
+  Owner<br />
+  pointercreative.com<br />
+  chris@pointercreative.com<br />
+    Description: <br />
+  We're looking for people interested in UX, web design and occasional branding. My design team works mostly in sketch and InVision, but if they don't have experience its ok as it's not that different from illustrator.<br />
+
   Scouts Canada<br />
   Lisa Donnelly<br />
   Talent Advisor<br />
@@ -142,6 +193,17 @@ details: |
   613-722.6521<br />
   1145 Carling Ave Ottawa<br />
 
+  Simple Story Videos  <br />
+  Skyler Michaels<br />
+  Creative Director<br />
+  Skyler@simplestoryvideos.com <br />
+
+  Soshal.ca  <br />
+  Chad MacDonald<br />
+  Creative Director<br />
+  Soshal.ca<br />
+  chad.macdonald@soshal.ca<br />
+
   You.i TV<br />
   Claire Leroux<br />
   Technical Recruiter<br />
@@ -157,7 +219,63 @@ details: |
   613-898-7887<br />
   191 Laurier Avenue West Ottawa ON<br />
 
+  Cayenne Creative  <br />
+  Carl Poirier RGD<br />
+  Owner &amp; Creative Director<br />
+  carl@cayennecreative.ca <br />
+  +1-613-288-2121<br />
+  1343 Labrie Ave. Ottawa ON<br />
 
+  Blackiron Agency  <br />
+  Steve Bowker<br />
+  Creative Director<br />
+  steve@blackiron.agency<br />
+  613-236-5444 x24<br />
+  422 Sparks, Ottawa ON K1R 0B2<br />
+
+  Birddog Design  <br />
+  Lissa Constantine<br />
+  birddogdesign.com<br />
+  lissa@birddogdesign.com<br />
+  +1-819-777-7717<br />
+  146 Notre-Dame-de-l'&icirc;le, Gatineau - Old Hull (Qc) J8X 3T1<br />
+
+  Launchfire<br />
+  Justin McNally<br />
+  Lead Designer<br />
+  jmcnally@launchfire.com<br />
+  www.launchfire.com<br />
+  22 Hamilton Ave N, Ottawa, ON K1Y 1B6<br />
+  Description:<br />
+  Web Design : Launchfire is looking for a designer to assist us in creating graphics for our cool gamification programs, slick web-based training software, and important sales &amp; marketing team.</p>
+
+  Victory Arts Incorporated<br />
+  Tero Hollo<br />
+  President / Producer / Director<br />
+  tero@victoryarts.com<br />
+  613-276-6320<br />
+  1338 Wellington W. Street, Ottawa ON<br />
+  Description:<br />
+  Motion Graphics, Illustration, Design. Talent would work on an episode for TV Series. Credit will be given to completed work that is aired on TV.</p>
+
+  Spruce Creative Inc.<br />
+  Paul Marconi<br />
+  Owner, Creative Director<br />
+  paul@sprucecreative.ca<br />
+  613 482 0603 x.102<br />
+  145 Spruce Street, Suite 200<br />
+  www.sprucecreative.ca<br />
+  Description-of-Work: Design for print and web.<br />
+
+  Cyan Solutions<br />
+  Stephanie Chartrand<br />
+  Art Director<br />
+  stephanie@cyansolutions.com<br />
+  cyansolutions.com<br />
+  613-860-4444 ext. 301<br />
+  58 Arthur Street<br />
+  Description:<br />
+  We&rsquo;re a full service marketing firm so the type if work could vary &ndash; could be print, digital or web based.</p>
 
   ### Older Contacts
 
@@ -168,20 +286,6 @@ details: |
 
   The contacts on this list aren't in any order.
  
-  Organization: Coffee Booster<br>
-  Contact-Person: Chris Tester<br>
-  Contact-Job-Title: Founder<br>
-  Contact-Email: chris@coffeebooster.com<br>
-  Contact-Tel: 587-888-2685<br>
-  Organization-Address: 110-20 Bexley Place, Nepean, ON<br>
-  Organization-URL: www.coffeebooster.com<br>
-  Description-of-Work:<br>
-  The proposed nature of work will be a mix between:<br>
-  - Web design (Website, digital advertising)<br>
-  - Print design (Point of Sale materials, Sales collateral)<br>
-  - Packaging<br>
-  - Social Media content<br>
-
   Organization: Health Standards Organization<br>
   Contact-Person: Sabrina Hubley<br>
   Contact-Job-Title: HRBP<br>
@@ -195,46 +299,6 @@ details: |
   Upcoming Project Concepts – Year end e-book, Year in review <br>
   Corporate slides/info-graphics – update, create a library<br>
 
-  Organization: Canopy Growth Corporation<br>
-  Contact-Person: Shiree Nowoselski<br>
-  Contact-Job-Title: Art Director<br>
-  Contact-Email: shiree.nowoselski@canopygrowth.com<br>
-  Contact-Tel: 613-485-2816<br>
-  Organization-Address: Official Address is: 1 Hershey Drive, Smith Falls Ontario  K7A 0A8<br />
-  However, the student will work out of the Kanata, 555 Legget Drive<br>
-  Organization-URL: www.canopygrowth.com<br>
-  Description-of-Work: Possible projects could be designed for packaging, design for print or web design. <br>
-
-  Organization: Canada Revenue Agency (CRA)<br>
-  Contact-Person: Michael Basilico <br>
-  Contact-Job-Title: Assistant Director<br>
-  Contact-Email: michael.basilico@cra-arc.gc.ca<br>
-  Contact-Tel: 6139414664<br>
-  Organization-Address: 555 Mackenzie Ave<br>
-  Ottawa ON K1A 0L5<br>
-  Organization-URL: cra@gc.ca<br>
-  Description-of-Work:<br>
-  <p>
-  <em>This is a paid job. $17.31/Hr or more.</em>
-  </p>
-  <p>
-  Storytelling through graphics, images, and words. You are a creative thinker and visual designer who is looking for a new challenge and opportunity to showcase your expertise and portfolio on the national stage. Using graphic design software you will think creatively in developing new design concepts, graphics, and layouts presenting an overall visual brand for individual campaigns and corporate information products (see below). 
-  </p>
-  <p>
-  Your designs will be used for print (reports, brochures, books, pop-up banners and digital assets (social media platforms and web).
-  </p>
-  <p>
-  Learning about and understanding the organizational objectives, culture, initiatives and the clients’ needs  Developing and presenting design concepts and approaches Presenting options for design treatmentsUsing different media and approaches (stock photography, illustration, video) to communicate key messagesCollaborating with authors, Public Affairs Branch, etc. 
-  </p>
-  <p>
-  Graphic design and desktop publishing using Adobe InDesign, Photoshop, and Illustrator
-  </p>
-  <p>
-  Our information products:
-  </p>
-  <p>
-  Corporate Business Plan / Summary of Corporate Business Plan / Report on Plans and Priorities (RPP) Results-Based Management Strategies Performance Measurement Program System (PMPS) Service Standards Executive Cadre (EC) Performance Management Regime Treasury Board Secretariat of Canada Management Accountability Framework (MAF) Canada Revenue Agency’s Board of Management Oversight Framework (BoMOF) Sustainable development awareness campaigns  CRA’s service strategyCRA's environmental scan
-  </p>
 
   Organization: Karma Dharma<br>
   Contact-Person: Annik Daoust<br>
@@ -247,15 +311,6 @@ details: |
   <p>
   We are a newly established (2017 ) strategy and marketing agency. The intern would work with our Sr and Jr Graphic Designer on a very diversified client base, for multiple platforms (Traditional and non-traditional). The intern would work on real projects for real clients and would benefit from the knowledge of a 20+y experience graphic designer. Great opportunity to understand how to adapt to clients request, work on deadline and with a team.
   </p>
-
-  Organization: Spruce Creative Inc.<br />
-  Contact-Person: Paul Marconi<br />
-  Contact-Job-Title: Owner, Creative Director<br />
-  Contact-Email: paul@sprucecreative.ca<br />
-  Contact-Tel: 613 482 0603 x.102<br />
-  Organization-Address: 145 Spruce Street, Suite 200<br />
-  Organization-URL: www.sprucecreative.ca<br />
-  Description-of-Work: Design for print and web.<br />
 
   Organization: Savvy Company<br />
   Contact Person: Debbie Trenholm. <br />
@@ -372,41 +427,6 @@ details: |
   </ul>
   </p>
 
-
-  <p>Employer: Canada Post<br />
-
-  This could lead to full employment.<br />
-
-  <ol>
-    <li> Contribute to the development of philatelic material and corporate communication design.</li>
-    <li>  Produces and/or assists in the production of motion graphics, posters, philatelic pamphlets and brochures, internal and external campaigns as well as design solutions for internet, intranet and other multimedia applications.</li>
-    <li> Repurposes philatelic design-related material and content. This will involve converting content and imagery from one application to another for use by a wide audience of internal and external users.</li>
-    <li> Maintain and catalog internal Digital Asset Management tool.</li>
-    <li> Produces high quality design mock-ups. Uses these mock-ups to give presentations to clients of creative solutions.</li>
-  </ol>
-
-  More info to come...
-
-
-
-  <p>Employer: Launchfire<br />
-  Contact Person: Justin McNally<br />
-  Title: Lead Designer<br />
-  E-Mail: jmcnally@launchfire.com<br />
-  Web Site: www.launchfire.com<br />
-  Street Address: 22 Hamilton Ave N, Ottawa, ON K1Y 1B6<br />
-  Description:<br />
-  Web Design : Launchfire is looking for a designer to assist us in creating graphics for our cool gamification programs, slick web-based training software, and important sales &amp; marketing team.</p>
-
-  <p>Employer: Victory Arts Incorporated<br />
-  Contact Person: Tero Hollo<br />
-  Title: President / Producer / Director<br />
-  E-mail: tero@victoryarts.com<br />
-  Telephone: 613-276-6320<br />
-  Street Address: 1338 Wellington W. Street, Ottawa ON<br />
-  Description:<br />
-  Motion Graphics, Illustration, Design. Talent would work on an episode for TV Series. Credit will be given to completed work that is aired on TV.</p>
-
   <p>Employer Name: NyRAD Inc.<br />
   Contact Person: Leigha Cotton<br />
   Title: Partner<br />
@@ -426,16 +446,6 @@ details: |
   Street Address: 325 Delaware Avenue, Burlington, ON<br />
   Description:<br />
   The student will work on a variety of graphic design projects in support of Taste Canada Awards, including branding, web design, brochures, ads, posters. The role will report to Crave PR, Taste Canada's PR agency, which oversees Marketing and Communications for Taste Canada. Taste Canada is a not-for-profit org that celebrates Canada's cookbooks and culinary authors, and food culture. The intern will work closely with Crave PR and a web development agency to launch a new website. Student can work from Crave PR's office in Burlington, or in Guelph, Ontario, as well as some hours remotely, if required.</p>
-
-  <p>Employer: Cyan Solutions<br />
-  Contact Person: Stephanie Chartrand<br />
-  Title: Art Director<br />
-  E-Mail: stephanie@cyansolutions.com<br />
-  Web Site: cyansolutions.com<br />
-  Telephone: 613-860-4444 ext. 301<br />
-  Street Address: 58 Arthur Street<br />
-  Description:<br />
-  We&rsquo;re a full service marketing firm so the type if work could vary &ndash; could be print, digital or web based.</p>
 
   <p>Employer: InfoCraft Inc. Marketing Group<br />
   Contact Person: Jenn Hall<br />
@@ -554,13 +564,6 @@ details: |
   <li><span> </span>Some Photoshop work on stock photography</li>
   </ul>
 
-  <p>Employer: Canada Revenue Agency  <br />
-  Contact Person: Linda Watson<br />
-  Title: Manager, Creative Services<br />
-  E-mail: Linda.Watson@cra-arc.gc.ca<br />
-  Phone: <br />
-  Description:</p>
-
   <p> Employer: Victory Arts  <br />
   Contact Person: Tero Hollo<br />
   Title: <br />
@@ -577,15 +580,6 @@ details: |
   Web Site: www.rossvideo.com<br />
   E-mail: tlake@rossvideo.com<br />
   Phone: +1 (613) 228-1198 ext.4375<br />
-  Street Address: <br />
-  Description:</p>
-
-  <p> Employer: LIXAR IT  <br />
-  Contact Person: Anna Odeh<br />
-  Title: UX/UI Designer | Marketing Assistant<br />
-  Web Site: http://lixar.com<br />
-  E-mail: aodeh@lixar.com<br />
-  Phone: +1-613-899-1398<br />
   Street Address: <br />
   Description:</p>
 
@@ -606,17 +600,6 @@ details: |
   Phone: 613.591.1560&nbsp;x. 1387<br />
   Street Address: 120 Herzberg Road . Kanata . Ontario . Canada . K2K 3B7<br />
   Description:</p>
-
-  <p> Employer: Ottawa Public Health - City Of Ottawa  <br />
-  Contact Person: Elizabeth Ryan,&nbsp;RN, BScN | I.A., B.Sc.Inf.<br />
-  Title: Student Placement Coordinator<br />
-  Web Site: OttawaPublicHealth.ca<br />
-  E-mail: StudentPlacementCoordinator@ottawa.ca<br />
-  Phone: 613-580-6744&nbsp;ext 26204<br />
-  Street Address: 100 Constellation Dr., 8th floor East, Ottawa, ON&nbsp; K2G 6J8<br />
-  Description: <br />
-  Division -&nbsp;Sexual Health Care<br />
-  Project&nbsp;targeting youth between the ages of 15 to 29. Creating promotional materials, website.</p>
 
   <p> Employer: Ottawa Public Health - City Of Ottawa  <br />
   Contact Person: Elizabeth Ryan, RN, BScN | I.A., B.Sc.Inf.<br />
@@ -656,82 +639,8 @@ details: |
   Street Address: <br />
   Description:</p>
 
-  <p> Employer: Cayenne Creative  <br />
-  Contact Person: Carl Poirier RGD<br />
-  Title: Owner &amp; Creative Director<br />
-  Web Site: <br />
-  E-mail: design@cayennecreative.ca <br />
-  Phone: +1-613-288-2121<br />
-  Street Address: 1343 Labrie Ave. Ottawa ON<br />
-  Description: <br />
-  Looking for a co-op student with strong digital and web skills.</p>
-
-  <p> Employer: Blackiron Agency  <br />
-  Contact Person: Steve Bowker<br />
-  Title: Creative Director<br />
-  Web Site: <br />
-  E-mail: steve@blackiron.agency<br />
-  Phone: 613-236-5444 x24<br />
-  Street Address: 422 Sparks, Ottawa ON K1R 0B2<br />
-  Description:</p>
-
-  <p> Employer: Skyfall Blue  <br />
-  Contact Person: Fadi Ghaby<br />
-  Title: CEO<br />
-  Web Site: www.skyfallblue.com<br />
-  E-mail: fadi@skyfallblue.com<br />
-  Phone: <br />
-  Street Address: <br />
-  Description: <br />
-  About Us<br />
-  INSPIRED by an innovative and creative vision, SKYFALL BLUE is a multilingual, full-service public relations boutique agency specializing in strategic communications, social media, brand marketing, web development and creative production for clients in Ottawa and the rest of Canada. Our highly skilled and experienced team is comprised of award winning experts and business leaders, who are results-driven and have a proven track record for delivering widely successful campaigns for clients.</p>
-
-  <p> Employer: Birddog Design  <br />
-  Contact Person: Lissa Constantine<br />
-  Title: <br />
-  Web Site: birddogdesign.com<br />
-  E-mail: lissa@birddogdesign.com<br />
-  Phone: +1-819-777-7717<br />
-  Street Address: 146 Notre-Dame-de-l'&icirc;le, Gatineau - Old Hull (Qc) J8X 3T1<br />
-  Description: <br />
-  Looking for a go-getter who is in love with web and wants to design as well as program. Program well. Good possibility of being hired on full time after co-op for the right candidate.</p>
-
-  <p> Employer: Simple Story Videos  <br />
-  Contact Person: Skyler Michaels<br />
-  Title: Creative Director<br />
-  Web Site: <br />
-  E-mail: Skyler@simplestoryvideos.com <br />
-  Phone: <br />
-  Street Address: <br />
-  Description:</p>
-
-  <p> Employer: Soshal.ca  <br />
-  Contact Person: Chad MacDonald<br />
-  Title: Creative Director<br />
-  Web Site: Soshal.ca<br />
-  E-mail: chad.macdonald@soshal.ca<br />
-  Phone: <br />
-  Street Address: <br />
-  Description:</p>
-
   <p> Employer: Nesta  <br />
-  Contact Person: Ian Rapsey<br />
-  Title: Creative Director<br />
-  Web Site: <br />
-  E-mail: Ian@nesta.co<br />
-  Phone: <br />
-  Street Address: <br />
-  Description:</p>
-
-  <p> Employer: Pointer Creative  <br />
-  Contact Person: Chris Pointer<br />
-  Title: Owner<br />
-  Web Site: pointercreative.com<br />
-  E-mail: chris@pointercreative.com<br />
-  Phone: <br />
-  Street Address: <br />
-  Description: <br />
-  &ldquo;We're looking for people interested in UX, web design and occasional branding. My design team works mostly in sketch and InVision, but if they don't have experience its ok as it's not that different from illustrator.&rdquo;</p>
+  Web Site: https://nesta.co<br />
 
   <p> Employer: Synacor  <br />
   Contact Person: Ian Shaw<br />
@@ -742,15 +651,6 @@ details: |
   Street Address: <br />
   Description:</p>
 
-  <p> Employer: Scouts Canada  <br />
-  Contact Person: Lisa Donnelly<br />
-  Title: Talent Advisor &ndash; Human Resources<br />
-  Web Site: <br />
-  E-mail: lisa.donnelly@scouts.ca<br />
-  Phone: +1-613-224-5134 x249<br />
-  Street Address: <br />
-  Description: <br />
-  Production Artist Coop Ad (Scouter Manual).pdf</p>
 
   Employer: The Canadian Gas Association <br />
   Contact Person: Jessica Ibrahim<br />
