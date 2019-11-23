@@ -2,10 +2,10 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 4.1
+sortorder: 1.0
 appsused: indd, psd
 title: "Raster Image Fundamentals"
-level: cg1
+level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=157212&grpid=0&isprv=&bp=0&ou=193284"
 submission: "my-assignment-folder"
 links: |

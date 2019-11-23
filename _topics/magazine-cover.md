@@ -2,10 +2,10 @@
 layout: submission
 type: assignment
 formsum: summative
-sortorder: 4.9
+sortorder: 1.9
 appsused: psd
 title: "Magazine Cover"
-level: cg1
+level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=157216&grpid=0&isprv=&bp=0&ou=193284"
 submission: "photoshop-document"
 links: |

@@ -1,11 +1,11 @@
 ---
 layout: submission
 type: assignment
-formsum: formative
-sortorder: 3.0
+formsum: summative
+sortorder: 4.4
 appsused: indd
 title: "Build a Document"
-level: cg2
+level: cg1
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=128477&grpid=0&isprv=0&bp=0&ou=145550"
 submission: "indesign-package"
 links: |
@@ -14,7 +14,7 @@ links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/master-pages.html" title="Master Pages" target="_blank">Master Pages</a>
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/paragraph-character-styles.html" title="Paragraph & Character Styles" target="_blank">Paragraph & Character Styles</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLAM7iNFT5e-fXbxQn2nt7X7"
-downloads: "https://www.dropbox.com/s/3d0h80uw6hrrhb1/indesign-build-a-document.zip?dl=1"
+downloads:
 description: "In this assignment, we'll look at the foundations of building an InDesign document from scratch. We'll set up the document to for maximum flexibility when doing revisions. This is really how every InDesign document you make should be built."
 details: |
   ### Before We Start...
@@ -488,3 +488,4 @@ assignment: |
 
   Let's create the rest of the document based on the provided PDF design guide.
 ---
+"https://www.dropbox.com/s/3d0h80uw6hrrhb1/indesign-build-a-document.zip?dl=1"

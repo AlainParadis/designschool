@@ -2,10 +2,10 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 4.4
+sortorder: 1.2
 appsused: psd
 title: "Intro to Layer Masks"
-level: cg1
+level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=157214&grpid=0&isprv=&bp=0&ou=193284"
 submission: "my-assignment-folder"
 links: |

@@ -2,10 +2,10 @@
 layout: submission
 type: assignment
 formsum: summative
-sortorder: 3.9
+sortorder: 0.0
 appsused: indd
 title: "Build a Magazine"
-level: cg2
+level: uncategorized
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=130753&grpid=0&isprv=0&bp=0&ou=145550"
 submission: "indesign-package"
 links: |
@@ -14,7 +14,7 @@ links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/master-pages.html" title="Master Pages" target="_blank">Master Pages</a>
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/paragraph-character-styles.html" title="Paragraph & Character Styles" target="_blank">Paragraph & Character Styles</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLAM7iNFT5e-fXbxQn2nt7X7"
-downloads: "https://www.dropbox.com/s/9591y8wrq1tljdf/indesign-build-a-magazine.zip?dl=1"
+downloads:
 description: "As a follow up to our first document construction, you will build these magazine pages with the provided content, based on the provided model. "
 details: |
 
@@ -196,3 +196,4 @@ assignment: |
 
   Once you're done, package your files. Double-check the package folder to make sure the files are all there.
 ---
+"https://www.dropbox.com/s/9591y8wrq1tljdf/indesign-build-a-magazine.zip?dl=1"

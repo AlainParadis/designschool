@@ -2,18 +2,21 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 3.1
+sortorder: 4.2
 appsused: indd
 title: "Bullet & Number Lists"
-level: cg2
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=135906&grpid=0&isprv=0&bp=0&ou=145550"
+level: cg1
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=157212&grpid=0&isprv=0&bp=0&ou=193284"
 submission: "indesign-package"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/bullets-numbering.html" target="_blank" title="Bullets & Number Lists">Bullets & Number Lists</a>
 video: "https://www.youtube.com/embed/f7aEJeWDSAo"
-downloads: "https://www.dropbox.com/s/sidm2zs28sxpr3a/indesign-bullet-number-lists.zip?dl=1"
+downloads: "https://www.dropbox.com/s/ui60x9cuomgjxih/indesign-bullet-number-lists.zip?dl=1"
 description: "Whether they are bulleted or numbered, InDesign is very adept at creating lists. There are very granular, flexible controls to create the lists that fit your design."
 details: |
+
+  <div class="textcenter margin20"><a href="https://coursefeedback.algonquincollege.com/etw/ets/et.asp?nxappid=WCQ&nxmid=start&s=8" class="darkgreen fs20 fw700" target="_blank">Course Evaluations</a></div>
+  
   When you create lists in InDesign, each bulleted or numbered item is a paragraph. Numbered lists aren't only numbered; they include lists with arabic letters or roman numberals. Each item gets its bullet or number automatically. You can't select the bullets or numbers; nor can you search them. They're kind of *virtual*.
 
   The best practice is to create list from within a paragraph style. Creating them manually causes difficulty in editing. A list has text alignment, an amount of left indent, first line indent and a tab position.

@@ -2,10 +2,10 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 4.3
+sortorder: 1.1
 appsused: psd
 title: "Layers"
-level: cg1
+level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=157213&grpid=0&isprv=&bp=0&ou=193284"
 submission: "photoshop-document"
 links: |
