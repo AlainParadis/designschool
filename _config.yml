@@ -45,3 +45,5 @@ collections:
       output: true
   posts:
     output: true
+  guides:
+    output: true

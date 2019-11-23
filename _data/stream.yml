@@ -119,3 +119,13 @@ courses:
     prerequisites:
     logistic: |
         All students should review these setup instructions at the start of each semester to ensure their software is ready to use for school.
+
+  - coursetitle: Guides # Stream [8]
+    nickname: Guides
+    level: guides
+    shortname: guides
+    coursecode: None
+    instructor: None
+    description: "These pages contain guides and resources for teachers and coordinators."
+    prerequisites: None
+    logistic:
