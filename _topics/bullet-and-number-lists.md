@@ -11,7 +11,7 @@ submission: "indesign-package"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/bullets-numbering.html" target="_blank" title="Bullets & Number Lists">Bullets & Number Lists</a>
 video: "https://www.youtube.com/embed/f7aEJeWDSAo"
-downloads: "https://www.dropbox.com/s/ui60x9cuomgjxih/indesign-bullet-number-lists.zip?dl=1"
+downloads: "https://www.dropbox.com/s/piepbivcdvwe8jx/indesign-bullet-number-lists.zip?dl=1"
 description: "Whether they are bulleted or numbered, InDesign is very adept at creating lists. There are very granular, flexible controls to create the lists that fit your design."
 details: |
 
