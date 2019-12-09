@@ -24,13 +24,13 @@ details: |
 
   The Grad Show is held at the Horticulture Building at Lansdowne Park on Bank Street.
 
-  Reminder: Fieldwork ends April 26. The grad show will be on April 24th, starting at 5pm. You’ll need to make arrangements with your employer to be there in the late afternoon to set up.
+  Reminder: Fieldwork ends April 10. The Grad Show will be on April 9th, 2020, starting at 5pm. You’ll need to make arrangements with your employer to be there in the late afternoon to set up.
 
   <div class="attentionbox achtung">
     If we want to serve beer/wine at the event, we need to get a liquor license early on.
   </div>
 
-  Download the floorplan for the from the *Downloads* link.
+  Download the floor plan for the from the *Downloads* link.
 
   ### Team Descriptions
   
