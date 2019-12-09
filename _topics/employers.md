@@ -24,6 +24,14 @@ details: |
 
   These are employers who took students in 2018 or in 2019.
 
+  Organization: Canada Revenue Agency <br />
+  Contact-Person: Linda Watson <br />
+  Contact-Job-Title: Manager, Creative Services <br />
+  Contact-Email: linda.watson@cra-arc.gc.ca<br />
+  Organization-Address: 555 Mackenzie Ave. Ottawa, ON <br />
+  Organization-URL: canada.ca/taxes<br />
+  Description-of-Work: Design work including posters, infographics, placemats, report layout, visuals for social media, branding, etc. Designs are used primarily online but we do have some print material. <br />
+
   Correctional Service Canada<br />
   Sean Donohue<br />
   Senior Learning Advisor<br />
