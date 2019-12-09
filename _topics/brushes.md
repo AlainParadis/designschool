@@ -28,14 +28,15 @@ details: |
 
   ### Installing Custom Content
 
-  Before getting started, we need to install a custom workspace for paintint in Photoshop. We'll install three files:
+  Before getting started, we need to install a custom workspace for painting in Photoshop. We’ll install two files. One for Brushes, the other for Swatches.
 
-  * Edit > Presets > Export/Import Presets...
-  * Click on the Import Presets Tab and import everything in the provided folder.
-  * Restart Photoshop
-  * Go to the Workspaces menu and choose Pastels workspace.
-  * Tool Presets will be loaded with pastel brushes.
-  * There are also colour swatches loaded.
+  To install the Brushes:
+
+  - Brushes Panel > fly-out Menu > Import Brushes…
+ 
+  To Install the Swatches:
+
+  - Swatches Panel > fly-out menu > Import Swatches…
 
   If the import process doesn't work, you need to delete previous versions of settings files in your ~/Library folder. The only folder in which these files can go is:
 
