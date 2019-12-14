@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 1.0
+sortorder: 5.0
 appsused: indd, psd
 title: "Raster Image Fundamentals"
 level: cg2

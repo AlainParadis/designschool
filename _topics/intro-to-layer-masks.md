@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 1.2
+sortorder: 5.4
 appsused: psd
 title: "Intro to Layer Masks"
 level: cg2

@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 5.3
+sortorder: 5.5
 appsused: psd
 title: "Masking Hair"
 level: cg2
