@@ -5,7 +5,7 @@ formsum: summative
 sortorder: 1.0
 appsused: indd ai psd sketching
 title: "Travel Book Planning"
-level: cg6
+level: undetermined
 brightspace: 
 submission: "travel-book-planning"
 links: |
