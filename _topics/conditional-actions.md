@@ -5,8 +5,8 @@ formsum: formative
 sortorder: 6.1
 appsused: psd
 title: "Conditional Actions"
-level: cg4
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=123828&grpid=0&isprv=&bp=0&ou=145538"
+level: undetermined
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=189396&grpid=0&isprv=0&bp=0&ou=227625"
 submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/conditional-actions-creative-cloud.html" target="_blank" title="x">Conditional Actions</a>

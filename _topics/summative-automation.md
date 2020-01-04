@@ -5,7 +5,7 @@ formsum: summative
 sortorder: 6.9
 appsused: psd
 title: "Automation"
-level: cg4
+level: undetermined
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission: "my-assignment-folder"
 links:

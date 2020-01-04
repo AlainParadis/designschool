@@ -5,8 +5,8 @@ formsum: formative
 sortorder: 6.2
 appsused: psd
 title: "Data Driven Graphics"
-level: cg4
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=123829&grpid=0&isprv=&bp=0&ou=145538"
+level: undetermined
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=189397&grpid=0&isprv=0&bp=0&ou=227625"
 submission: "my-assignment-folder"
 links: |
   - <a href="http://goo.gl/vwbbmH" target="_blank">Photoshop: Data Driven Graphics</a>
