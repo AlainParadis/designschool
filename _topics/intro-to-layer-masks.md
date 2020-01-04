@@ -6,7 +6,7 @@ sortorder: 5.4
 appsused: psd
 title: "Intro to Layer Masks"
 level: cg2
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=157214&grpid=0&isprv=&bp=0&ou=193284"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=189264&grpid=0&isprv=0&bp=0&ou=227639"
 submission: "my-assignment-folder"
 links: |
   - <a href="https://helpx.adobe.com/photoshop/using/masking-layers.html" target="_blank" title="Adobe: Mask Layers">Adobe: Mask Layers</a>

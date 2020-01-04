@@ -6,7 +6,7 @@ sortorder: 2.0
 appsused: ai, macos
 title: "Pixels to Vectors"
 level: cg2
-brightspace:
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=190509&grpid=0&isprv=0&bp=0&ou=227639"
 submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/image-trace.html" title="Image Trace" target="_blank">Image Trace</a>

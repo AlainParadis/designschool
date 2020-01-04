@@ -6,7 +6,7 @@ sortorder: 3.0
 appsused: ai, indd
 title: "Graph Design"
 level: cg2
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=121203&grpid=0&isprv=0&bp=0&ou=145550"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=189253&grpid=0&isprv=0&bp=0&ou=227639"
 submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/graphs.html" title="Adobe: Graphs" target="_blank">Graphs</a>

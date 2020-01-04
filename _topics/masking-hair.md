@@ -6,7 +6,7 @@ sortorder: 5.5
 appsused: psd
 title: "Masking Hair"
 level: cg2
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=132035&grpid=0&isprv=0&bp=0&ou=145550"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=189262&grpid=0&isprv=0&bp=0&ou=227639"
 submission: "my-assignment-folder"
 links: |
   - Lynda: <a href="https://www.lynda.com/Photoshop-tutorials/Photoshop-Masking-Compositing-Hair/91589-2.html" target="_blank" title="Illustrator's Pen Tool is so old-school.">Masking Hair</a>
