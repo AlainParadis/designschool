@@ -6,7 +6,7 @@ sortorder: 3.0
 appsused: indd
 title: "Books"
 level: cg6
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=120807&grpid=0&isprv=0&bp=0&ou=145571"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=192174&grpid=0&isprv=0&bp=0&ou=227660"
 submission: "indd-book-package-plus-pdf"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/creating-book-files.html" title="Adobe: Help, Creating Books in InDesign" target="_blank">Creating Books</a>

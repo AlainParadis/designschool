@@ -6,7 +6,7 @@ sortorder: 1.0
 appsused: psd
 title: "Blending & Masking"
 level: cg6
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=120805&grpid=0&isprv=0&bp=0&ou=145571"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=192172&grpid=0&isprv=0&bp=0&ou=227660"
 submission: "my-assignment-folder"
 links: |
   Lynda.com: <a href="https://www.lynda.com/Illustrator-tutorials/Creating-double-exposure-effect-Photoshop/117542/441267-4.html">Double Exposure Effect</a>
