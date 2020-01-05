@@ -445,18 +445,5 @@ assignment: |
   </figcaption>
   </figure>
 
-  ## Package Your Book.
-
-  Save and close all of your book documents. Leave the Book panel open, and click the <span class="command">Save Book</span> button. Deselect all the documents in the Book panel. Go to the Book panel menu, then click on <span class="command">Package book for Print...</span>.
-
-  <figure>
-      <img class="size75" alt="indesign-books-formative-package" src="/images/indesign-books/indesign-books-formative-package.jpg">
-  <figcaption>
-    Use the Book panel's Package command to create a folder with all assets.
-  </figcaption>
-  </figure>
-
-  Go back to your Book panel's menu. Use <span class="command">Export book to PDF</span> to create a PDF file of your book. This will be your second submission on Brightspace.
-
   <span class="fs15right">InDesign books... <em>like a boss</em>.</span>
 ---
