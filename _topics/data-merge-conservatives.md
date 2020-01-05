@@ -10,7 +10,7 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "indesign-package"
 links:
 video:
-downloads: "https://www.dropbox.com/s/x6p6ro63xgt6yhs/indesign-data-merge-summative.zip?dl=1"
+downloads: "https://www.dropbox.com/s/73onfj0sw2oy91w/indesign-data-merge-conservatives.zip?dl=1"
 description: "The Conservative Party of Canada needs business cards for all of its members. Your job is to design a card, then output one card for each member, using InDesign's Data Merge functionality."
 details: |
 assignment: |

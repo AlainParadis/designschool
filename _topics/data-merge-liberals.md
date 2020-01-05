@@ -11,7 +11,7 @@ submission: "indesign-package"
 links: |
   - <a href="https://helpx.adobe.com/indesign/using/data-merge.html" title="x">InDesign Data Merge</a>
 video: "https://www.youtube.com/embed/627FyJcQomo"
-downloads: "https://www.dropbox.com/s/fy4zq8f2lzrrvi9/indesign-data-merge-formative.zip?dl=1"
+downloads: "https://www.dropbox.com/s/2161qtusfpwe2ol/indesign-data-merge-liberals.zip?dl=1"
 description: "We will produce business cards for a large number of individuals working for the same organization using data merge functionality in Adobe InDesign."
 details: |
   ### Why Use Data Merge?

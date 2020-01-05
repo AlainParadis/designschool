@@ -10,7 +10,7 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "illustrator-package"
 links: 
 video: "https://www.youtube.com/embed/uh3pZzyXmks"
-downloads: "https://www.dropbox.com/s/jiinsy3ddv64qxr/illustrator-gradient-mesh.zip?dl=1"
+downloads: "https://www.dropbox.com/s/o64gnq6ck3xffdp/illustrator-gradient-mesh.zip?dl=1"
 description: "Adobe -- A mesh object is a multi-coloured object on which colors can flow in different directions and transition smoothly from one point to another."
 details: | 
   A Gradient Mesh is a tool which allows you to add colours to your artwork in various directions and intensities. It's more versatile and more intricate than a regular gradient. You can see some pretty <a href="https://www.google.ca/search?q=gradient+mesh&amp;client=safari&amp;rls=en&amp;tbm=isch&amp;tbo=u&amp;source=univ&amp;sa=X&amp;ved=0ahUKEwj65bvw9NnOAhUJJR4KHVRDAmMQsAQIHA&amp;biw=1335&amp;bih=1290" title="Examples of Gradient Meshes in Illustrator." target="_blank">amazing examples here</a>.

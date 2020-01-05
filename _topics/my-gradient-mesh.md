@@ -10,7 +10,7 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "illustrator-package"
 links: 
 video: "https://www.youtube.com/embed/uh3pZzyXmks"
-downloads: "https://www.dropbox.com/s/jiinsy3ddv64qxr/illustrator-gradient-mesh.zip?dl=1"
+downloads: "https://www.dropbox.com/s/yo45qyxrh775ujv/illustrator-my-gradient-mesh.zip?dl=1"
 description: "Adobe -- A mesh object is a multi-coloured object on which colors can flow in different directions and transition smoothly from one point to another."
 details: | 
 
