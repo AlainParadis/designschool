@@ -37,13 +37,9 @@ details: |
 
   Last semester, you created a Semester 1 folder. It has all of your work in it. You should offload that onto a USB key for safe keeping. It's even a good idea to put it on two USB keys. Keep each at a different place, so you don't lose them.
 
-  #### Update all your Adobe apps.
+  #### Update all your Adobe Apps.
 
   Go to the Creative Cloud icon in your menu bar. Make sure to run any updates that are there.
-
-  #### Calendars
-
-  We've done something new this semester. You can now subscribe to the schedule for your courses online. Go here to <a href="calendars.html" title="Subscribe to Calendars">subscribe to Calendars</a>.
 
   #### Mouse & Adaptor
 

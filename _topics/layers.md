@@ -11,7 +11,7 @@ submission: "photoshop-document"
 links: |
   - <a href="https://helpx.adobe.com/photoshop/using/layer-basics.html" target="_blank" title="Layer Basics">Layer Basics</a>
   - <a href="https://helpx.adobe.com/photoshop/using/selecting-grouping-linking-layers.html" target="_blank" title="Select, Group & Link Layers">Select, Group & Link Layers</a>
-  - <a href="http://photoshopetiquette.com/" title="Photoshop Etiquette" target="_blank">Photoshop Etiquette</a>
+  - <a href="https://photoshopetiquette.com/" title="Photoshop Etiquette" target="_blank">Photoshop Etiquette</a>
 video: "https://www.youtube.com/embed/YxTD7iRe-UE"
 downloads:
 description: "Layers are among the fundamental features in Photoshop which aid editing. Superficially, they're simple, but the feature set goes deep. Photoshop features a number of kinds of layers. This is what we'll explore here."
@@ -22,7 +22,7 @@ details: |
 
   <img src="/images/photoshop-layers/photoshop-layers-panel.jpg" class="size75" alt="Photoshop Layers Panel">
 
-  Layer organization and stacking order is a whole other area to master. Naming layers is important for your own work and even more for collaboration. [This is a must-read](http://photoshopetiquette.com) if you want to respect industry-standard Photoshop etiquette.
+  Layer organization and stacking order is a whole other area to master. Naming layers is important for your own work and even more for collaboration. [This is a must-read](https://photoshopetiquette.com) if you want to respect industry-standard Photoshop etiquette.
 
   ### Filter Layers
 

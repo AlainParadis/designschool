@@ -11,7 +11,7 @@ submission: "my-assignment-folder"
 links: |
   - <a href="https://helpx.adobe.com/photoshop/how-to/image-resizing-basics.html" title="Change the image size" target="_blank">Adobe: Change the image size</a>
   - <a href="https://helpx.adobe.com/indesign/using/placing-graphics.html" target="_blank" title="Adobe: Placing Graphics">Adobe: Placing Graphics</a>
-  - <a href="http://sebastien-gabriel.com/designers-guide-to-dpi/" target="_blank" title="The definitive guide to DPI & PPI">The definitive guide to DPI & PPI</a>
+  - <a href="https://www.sebastien-gabriel.com/designers-guide-to-dpi" target="_blank" title="The definitive guide to DPI & PPI">The definitive guide to DPI & PPI</a>
   - <a href="https://medium.com/@pnowelldesign/pixel-density-demystified-a4db63ba2922#.bt7dkm5pp" target="_blank" title="Pixel Density Demystified">Pixel Density Demystified</a>.
   - <a href="https://helpx.adobe.com/photoshop/using/image-size-resolution.html" target="_blank" title="Adobe: Raster & Vector Graphics">Adobe: Raster & Vector Graphics</a>
   - <a href="http://webdav.tuebingen.mpg.de/pixel/enhancenet/" title="Enhance that photo!" target="_blank">Tech is catching up!</a>

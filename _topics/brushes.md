@@ -22,9 +22,9 @@ description: "You don't need to be a fine artist to create beautiful artwork wit
 details: |
   ### Drawing Tablet
 
-  <a href="http://www.wacom.com" title="Buy a Wacom tablet." target="_blank"><img alt="pastel-wacom-tablet" src="/images/photoshop-brushes/pastel-wacom-tablet.jpg"></a>
+  <a href="https://www.wacom.com/en-us" title="Buy a Wacom tablet." target="_blank"><img alt="pastel-wacom-tablet" src="/images/photoshop-brushes/pastel-wacom-tablet.jpg"></a>
 
-  If you own a drawing tablet or pen tablet, this would be the time to bring it to class. If you don't own one, you'll still do perfectly fine on this assignment. If you're interested in purchasing one, this is a great opportunity to be introduced to using one in Photoshop. So mozy on over to the <a href="http://www.wacom.com" title="Buy a Wacom tablet." target="_blank">Wacom web site</a> to shop for a tablet. They're also available at the <a href="https://www.bookstore.algonquincollege.com/Search?data=wacom" title="Shop for a pen tablet at the College's Connections Book Store." target="_blank">Connections store</a> at the college or <a href="https://www.amazon.ca/s/ref=bl_dp_s_web_2404990011?ie=UTF8&amp;node=2404990011&amp;field-brandtextbin=Wacom" title="Buy a Wacom tablet." target="_blank">elsewhere online</a>.
+  If you own a drawing tablet or pen tablet, this would be the time to bring it to class. If you don't own one, you'll still do perfectly fine on this assignment. If you're interested in purchasing one, this is a great opportunity to be introduced to using one in Photoshop. So mozy on over to the <a href="https://www.wacom.com/en-us" title="Buy a Wacom tablet." target="_blank">Wacom web site</a> to shop for a tablet. They're also available at the <a href="https://www.bookstore.algonquincollege.com/Search?data=wacom" title="Shop for a pen tablet at the College's Connections Book Store." target="_blank">Connections store</a> at the college or <a href="https://www.amazon.ca/s/ref=bl_dp_s_web_2404990011?ie=UTF8&amp;node=2404990011&amp;field-brandtextbin=Wacom" title="Buy a Wacom tablet." target="_blank">elsewhere online</a>.
 
   ### Installing Custom Content
 

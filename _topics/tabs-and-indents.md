@@ -15,9 +15,6 @@ video: "https://www.youtube.com/embed/oFx3WQh5HaA"
 downloads: "https://www.dropbox.com/s/fqrhk8g3ozrd1uw/indesign-tabs-and-indents.zip?dl=1"
 description: "The all-mighty tab character can do wonders in InDesign. We'll explore setting indented text and building grids with tabs and indents, too."
 details: |
-
-  <div class="textcenter margin20"><a href="https://coursefeedback.algonquincollege.com/etw/ets/et.asp?nxappid=WCQ&nxmid=start&s=8" class="darkgreen fs20 fw700" target="_blank">Course Evaluations</a></div>
-
   ### Tabs
 
   Tabs are flexible spaces used within blocks of text, not at their edges.

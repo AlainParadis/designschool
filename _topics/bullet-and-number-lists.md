@@ -13,10 +13,7 @@ links: |
 video: "https://www.youtube.com/embed/f7aEJeWDSAo"
 downloads: "https://www.dropbox.com/s/piepbivcdvwe8jx/indesign-bullet-number-lists.zip?dl=1"
 description: "Whether they are bulleted or numbered, InDesign is very adept at creating lists. There are very granular, flexible controls to create the lists that fit your design."
-details: |
-
-  <div class="textcenter margin20"><a href="https://coursefeedback.algonquincollege.com/etw/ets/et.asp?nxappid=WCQ&nxmid=start&s=8" class="darkgreen fs20 fw700" target="_blank">Course Evaluations</a></div>
-  
+details: |  
   When you create lists in InDesign, each bulleted or numbered item is a paragraph. Numbered lists aren't only numbered; they include lists with arabic letters or roman numberals. Each item gets its bullet or number automatically. You can't select the bullets or numbers; nor can you search them. They're kind of *virtual*.
 
   The best practice is to create list from within a paragraph style. Creating them manually causes difficulty in editing. A list has text alignment, an amount of left indent, first line indent and a tab position.

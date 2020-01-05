@@ -40,10 +40,6 @@ details: |
 
   Go to the Creative Cloud icon in your menu bar. Make sure to run any updates that are there.
 
-  #### Calendars
-
-  We've done something new this semester. You can now subscribe to the schedule for your courses online. Go here to <a href="calendars.html" title="Subscribe to Calendars">subscribe to Calendars</a>.
-
   #### Mouse & Adaptor
 
   Bring a mouse to every class. It's not efficient to work on your trackpad. Just keep the mouse in your bag. Optionally, you could <a href="https://www.apple.com/ca/shop/product/MMEL2AM/A/thunderbolt-3-usb-c-to-thunderbolt-2-adapter" title="Thunderbolt 3 USB-C to Thunderbolt 2 adaptor" target="_blank">purchase this adaptor</a> to connect to displays. Bring a pair of earphones/headphones to listen to tutorials.
