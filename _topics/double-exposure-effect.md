@@ -7,7 +7,7 @@ appsused: psd
 title: "Double Exposure Effect"
 level: cg6
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=192173&grpid=0&isprv=0&bp=0&ou=227660"
-submission: "my-assignment-folder"
+submission: "layered-psds-in-zipped-folder"
 links: 
 video: 
 downloads: 
@@ -29,7 +29,7 @@ assignment: |
 
   ### How to Get an "A"
 
-  You want to work in a non-destrcutive manner, so do stuff like:
+  You want to work in a non-destructive manner, so do stuff like:
 
     * Maintain all of your layers. Don't flatten.
     * Name all of your layers.
@@ -38,23 +38,5 @@ assignment: |
     * Convert regular layers to Smart Objects before re-sizing them.
 
   The aesthetics of your composition are pleasing. Take the time and care to choose two photos which will work well for this effect. Create a seamless effect. That is, the two photos blend seamlessly without obvious edges.
-
-  Name and submit your files as directed below.
-
-  ### Your Submission
-
-  Once you've completed your work, <mark>save your files as a layered native Photoshop (.psd) files</mark>. Flattening layers will destroy all the work you've done.
-
-  <div class="attentionbox filename">
-    Appleseed, Johnny, Group #, Double Exposure1.psd
-  </div>
-
-  <div class="attentionbox filename">
-    Appleseed, Johnny, Group #, Double Exposure2.psd
-  </div>
-
-  <div class="attentionbox filename">
-    Appleseed, Johnny, Group #, Double Exposure3.psd
-  </div>
 
 ---

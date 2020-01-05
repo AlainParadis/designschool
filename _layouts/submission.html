@@ -129,6 +129,39 @@ layout: default
     </div>
     </p>
 
+{% elsif page.submission == 'layered-psds-in-zipped-folder' %}
+
+  <p>Once you've completed your work, <mark>save your files as a layered native Photoshop (.psd) files</mark>. Flattening layers will destroy all the work you've done.</p>
+
+  <div class="filename">
+    Appleseed, Johnny, Group #, Double Exposure1.psd
+  </div>
+
+  <div class="filename">
+    Appleseed, Johnny, Group #, Double Exposure2.psd
+  </div>
+
+  <div class="filename">
+    Appleseed, Johnny, Group #, Double Exposure3.psd
+  </div>
+
+  <p>
+    Put the uncompressed Photoshop files into a folder. Name that folder like this:
+  </p>
+
+  <div class="foldername">
+    Appleseed-Johnny-#-{{ page.title }}
+  </div>
+
+  <p>
+    Zip-compress the folder. It will end up named as follows:
+  </p>
+
+  <div class="zipfile">
+    Appleseed-Johnny-#-{{ page.title }}.zip
+  </div>
+  <p>This is what you're to submit.</p>
+
 {% elsif page.submission == 'indd-book-package-plus-pdf' %}
 
   <h3>Package Your Book</h3>
