@@ -11,7 +11,7 @@ submission: "my-assignment-folder"
 links: |
   Lynda.com: <a href="https://www.lynda.com/Illustrator-tutorials/Creating-double-exposure-effect-Photoshop/117542/441267-4.html">Double Exposure Effect</a>
 video: 
-downloads: "https://www.dropbox.com/s/kni4vuo621s5fcz/photoshop-double-exposure-effect.zip?dl=1"
+downloads: "https://www.dropbox.com/s/i31969trkpddevj/photoshop-blending-and-masking.zip?dl=1"
 description: "This effect has been trendy for a while now. Notwithstanding the trend, the effect makes use of important features in Photoshop."
 details: | 
   ### The Double Exposure Effect
