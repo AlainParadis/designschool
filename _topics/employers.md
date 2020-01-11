@@ -24,19 +24,27 @@ details: |
 
   These are employers who took students in 2018 or in 2019.
 
-  Organization: Canada Revenue Agency <br />
-  Contact-Person: Linda Watson <br />
-  Contact-Job-Title: Manager, Creative Services <br />
-  Contact-Email: linda.watson@cra-arc.gc.ca<br />
-  Organization-Address: 555 Mackenzie Ave. Ottawa, ON <br />
-  Organization-URL: canada.ca/taxes<br />
+  Impact Hub Ottawa<br />
+  Katie Miller<br />
+  Managing Director<br />
+  katie@hubottawa.org<br />
+  123 Slater Street, 6th floor Ottawa ON K1P 5H2<br />
+  Hubottawa.org<br />
+  Description-of-Work: Web design and design for print. Reviewing website and paper marketing materials do refresh and align on communications.<br />
+
+  Canada Revenue Agency <br />
+  Linda Watson <br />
+  Manager, Creative Services <br />
+  linda.watson@cra-arc.gc.ca<br />
+  555 Mackenzie Ave. Ottawa, ON <br />
+  canada.ca/taxes<br />
   Description-of-Work: Design work including posters, infographics, placemats, report layout, visuals for social media, branding, etc. Designs are used primarily online but we do have some print material. <br />
 
   Correctional Service Canada<br />
   Sean Donohue<br />
   Senior Learning Advisor<br />
   sean.donohue@csc-scc.gc.ca<br />
-  Organization-Address: 340 Laurier Avenue, Ottawa, ON<br />
+  340 Laurier Avenue, Ottawa, ON<br />
   Organization-URL: search correction service canada online to get the web page<br />
   Design graphics for e-Learning content<br />
   Utilize COTS e-Learning tools to develop online courses<br />
