@@ -35,6 +35,33 @@ details: |
       <dd>People often use 'resolution' where I use 'pixel dimensions'. Pixel dimensions refers to the number of pixels for the height of the image and the width of the image.</dd>
   </dl>
 
+  ### About Bitmap Mode
+
+  The term bitmap has multiple definitions. Sometimes, it refers to a raster image. Sometimes it refers to a black & white image. The phrase *black & white* is also often misused, interchangeably with *greyscale*. This all just causes confusion.
+
+  <img class="size100" alt="raster-vs-bitmap-term" src="/images/photoshop-raster-image-fundamentals/raster-vs-bitmap-term.jpg">
+
+  It's best to use *raster* when refering to a pixel-based image. Use *greyscale* for grey images. Use *Bitmap* or *Bitmap mode* for pure black and white images.
+
+  #### Bit Depth
+
+  A raster image can go from a single bit image, in bitmap mode to an 8 bit image, in colour. Bit depth can go way higher, but such images are rarely used in graphic design.
+
+  <img class="size33 center" alt="bitmap vs greyscale" src="/images/photoshop-raster-image-fundamentals/bitmap-mode.svg">
+
+  Bitmap Mode: Each pixel can only either be black or white. It's like a light switch that's on or off. There are no other choices. It has only one channel. Bitmap mode is also called 1 bit colour because there's only one bit of information. A bit is the smallest increment of digital information. This means it has 2<sup>1</sup> colours. 2 x 1 colours, which are black and white. It's either ON or OFF.
+
+  <img class="size100" alt="greyscale" src="/images/photoshop-raster-image-fundamentals/greyscale-mode.svg">
+
+  Greyscale: A greyscale image's pixels can be one of 256 levels of grey. It has only one channel. That channel is itself a greyscale image. A regular greyscale image is called an 8 bit grey image. This means it has 2<sup>8</sup> greys. This is 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 = 256 levels of grey. That's 8 twos.
+
+  <img class="size100" alt="greyscale" src="/images/photoshop-raster-image-fundamentals/rgb-mode.svg">
+
+  RGB: In an RGB image, there are three channels: red, green and blue. Each one of those channels is a greyscale image that determines the intensity of its individual colour. The lighter the greys are on the channel, the more intense the red, green or blue will be. This is *additive colour*.
+
+  <img class="size100" alt="greyscale" src="/images/photoshop-raster-image-fundamentals/cmyk-mode.svg">
+
+  CMYK: A CMYK image has four channels: cyan, magenta, yellow and black. Black is the *key colour*, hence the K. Each channel has 256 levels of grey in an 8-bit image. The come together to make the full-colour image. The darker the grey on one channel, the more ink is put down on the page when printed. This is *subtractive colour*.
 
   ### Images for the Screen Vs Print
 
