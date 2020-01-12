@@ -35,7 +35,7 @@ details: |
       <dd>People often use 'resolution' where I use 'pixel dimensions'. Pixel dimensions refers to the number of pixels for the height of the image and the width of the image.</dd>
   </dl>
 
-  ### About Bitmap Mode
+  ### About Bit Depth
 
   The term bitmap has multiple definitions. Sometimes, it refers to a raster image. Sometimes it refers to a black & white image. The phrase *black & white* is also often misused, interchangeably with *greyscale*. This all just causes confusion.
 
