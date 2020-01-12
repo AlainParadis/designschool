@@ -17,7 +17,7 @@ details: |
 
   The term bitmap has multiple definitions. Sometimes, it refers to a raster image. Sometimes it refers to a black & white image. The phrase *black & white* is also often misused, interchangeably with *greyscale*. This all just causes confusion.
 
-  <img class="size100" alt="raster-vs-bitmap-term" src="/images/photoshop-line-art/raster-vs-bitmap-term.jpg">
+  <img class="size100" alt="raster-vs-bitmap-term" src="/images/photoshop-beautiful-line-art/raster-vs-bitmap-term.jpg">
 
   It's best to use *raster* when refering to a pixel-based image. Use *greyscale* for grey images. Use *Bitmap* or *Bitmap mode* for pure black and white images.
 
@@ -25,15 +25,15 @@ details: |
 
   A raster image can go from a single bit image, in bitmap mode to an 8 bit image, in colour. Bit depth can go way higher, but such images are rarely used in graphic design.
 
-  <img class="size15" alt="bitmap vs greyscale" src="/images/photoshop-line-art/bitmap-mode.svg">
+  <img class="size33 center" alt="bitmap vs greyscale" src="/images/photoshop-beautiful-line-art/bitmap-mode.svg">
 
   Bitmap Mode: Each pixel can only either be black or white. It's like a light switch that's on or off. There are no other choices. It has only one channel. Bitmap mode is also called 1 bit colour because there's only one bit of information. A bit is the smallest increment of digital information. This means it has 2<sup>1</sup> colours. 2 x 1 colours, which are black and white. It's either ON or OFF.
 
-  <img class="size75" alt="line-art-examples" src="/images/photoshop-line-art/greyscale-to-bitmap.svg">
+  <img class="size100 center" alt="line-art-examples" src="/images/photoshop-beautiful-line-art/greyscale-to-bitmap.svg">
 
   When creating a bitmap mode image from a greyscale image, you can actually create it at any resolution you want. Picture it this way. You have a hypothetic greyscale image made of 1" tiles. Upon converting it to bitmap mode, you can break those grey tiles into as many black or white tiles as you please.
 
-  <img class="size100" alt="bitmap vs greyscale" src="/images/photoshop-line-art/greyscale-mode.svg">
+  <img class="size100" alt="greyscale" src="/images/photoshop-beautiful-line-art/greyscale-mode.svg">
 
   Greyscale: A greyscale image's pixels can be one of 256 levels of grey. It has only one channel. That channel is itself a greyscale image. A regular greyscale image is called an 8bit grey image. This means it has 2<sup>8</sup> greys. This is 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 = 256 levels of grey. That's 8 twos.
 
@@ -41,7 +41,7 @@ details: |
 
   Now that we've cleared that up, we can look at the resulting artwork in bitmap mode.
 
-  <img class="size100" alt="line-art-examples" src="/images/photoshop-line-art/line-art-examples.jpg">
+  <img class="size100" alt="line-art-examples" src="/images/photoshop-beautiful-line-art/line-art-examples.jpg">
 
   As you can see from the image above, we started with a scan in greyscale mode. From there, we can obtain a variety of looks. The second and third images are actually in Bitmap mode. The third image is placed on a coloured background in InDesign. Where there are no black pixels, the image is transparent. The last image is not in bitmap mode. It's our layered Photoshop file that's been colourised.
 
@@ -49,11 +49,11 @@ details: |
 
   Today, we'll practice the skills needed to properly capture a line art image. You will use the technique to make them high-quality bitmap images. We want to avoid too many broken lines, clogged dark areas and excessively white light areas.
 
-  <img class="size75" alt="bitmap-levels-adj-layer" src="/images/photoshop-line-art/bitmap-levels-adj-layer.jpg">
+  <img class="size75" alt="bitmap-levels-adj-layer" src="/images/photoshop-beautiful-line-art/bitmap-levels-adj-layer.jpg">
 
   Start by using a Levels adjustment layer to increase the contrast. This will darken the blacks and whiten the paper texture. Be careful, Don't go too far with this.
 
-  <img class="size75" alt="bitmap-threshold-adj-layer" src="/images/photoshop-line-art/bitmap-threshold-adj-layer.jpg">
+  <img class="size75" alt="bitmap-threshold-adj-layer" src="/images/photoshop-beautiful-line-art/bitmap-threshold-adj-layer.jpg">
 
   Add a Threshold adjustment layer on top. This will make our image look like it's in bitmap mode, even if it's in greyscale.
 
@@ -63,7 +63,7 @@ details: |
 
   The adjustment layers caused some areas of the image to have lost details or to have become to clogged with black. These details still exist on our bottom-most layer, on our original image. We'll rescue them from that layer
 
-  <img class="size100" alt="bitmap-history-brush" src="/images/photoshop-line-art/bitmap-history-brush.jpg">
+  <img class="size100" alt="bitmap-history-brush" src="/images/photoshop-beautiful-line-art/bitmap-history-brush.jpg">
 
   #### Fix Broken Lines
 
@@ -75,7 +75,7 @@ details: |
 
   Once you have refined the image, make sure there are no excessive white areas around it — that the canvas is not too big for nothing. You can use <span class="command">Image > Trim</span> and check all the boxes. This should crop the image to its smallest practical size.
 
-  <img class="size50" alt="bitmap-save-as-psd" src="/images/photoshop-line-art/bitmap-save-as-psd.jpg">
+  <img class="size50" alt="bitmap-save-as-psd" src="/images/photoshop-beautiful-line-art/bitmap-save-as-psd.jpg">
 
   Save the resulting image as a ".PSD" file to preserve all its layers.
 
@@ -83,11 +83,11 @@ details: |
 
   At this point we have an image which looks like a good bitmap image, but it is still in grayscale mode. Simply go <span class="command">Image > Mode > Bitmap</span> to convert it to bitmap mode.
 
-  <img class="size50" alt="bitmap-convert to bitmap" src="/images/photoshop-line-art/bitmap-convert-to-bitmap.jpg">
+  <img class="size50" alt="bitmap-convert to bitmap" src="/images/photoshop-beautiful-line-art/bitmap-convert-to-bitmap.jpg">
 
   The resulting dialogue will allow you to change the resolution. This is where you can choose any resolution you need. You can go as high as you wish. Click OK.
 
-  <img class="size50" alt="bitmap-save-as-eps" src="/images/photoshop-line-art/bitmap-save-as-eps.jpg">
+  <img class="size50" alt="bitmap-save-as-eps" src="/images/photoshop-beautiful-line-art/bitmap-save-as-eps.jpg">
 
   The best way to save bitmap files is as an EPS, if you need to place it against a coloured background. The resulting dialog will give you the choice of making whites transparent.
 
@@ -103,7 +103,7 @@ details: |
 
   You can work on the layered Photoshop file to colourize it. Since it was scanned in greyscale, you'll need to convert it to RGB with <span class="command">Image > Mode > RGB Colour</span>. This will not be a bitmap image, but it will look like one. Feel free to add adjustment layers or fill layers to colourize your artwork. Once you're done, save the artwork as a native .psd file with the -colour added to the file name.
 
-  <img class="size50" alt="bitmap-colourized-psd" src="/images/photoshop-line-art/bitmap-colourized-psd.jpg">
+  <img class="size50" alt="bitmap-colourized-psd" src="/images/photoshop-beautiful-line-art/bitmap-colourized-psd.jpg">
 
   In the image above, there are two Hue/Saturation adjustment layers which colourize the body and the leaves of the pineapple. There's a fill layer that colourized the black pixels to green. Its blend mode is set to Screen.
 
