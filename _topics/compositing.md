@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: summative
-sortorder: 5.9
+sortorder: 2.9
 appsused: psd
 title: "Compositing"
 level: cg2

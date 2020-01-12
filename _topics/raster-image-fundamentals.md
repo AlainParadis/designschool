@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 5.0
+sortorder: 2.0
 appsused: indd, psd
 title: "Raster Image Fundamentals"
 level: cg2
@@ -16,7 +16,7 @@ links: |
   - <a href="https://helpx.adobe.com/photoshop/using/image-size-resolution.html" target="_blank" title="Adobe: Raster & Vector Graphics">Adobe: Raster & Vector Graphics</a>
   - <a href="http://webdav.tuebingen.mpg.de/pixel/enhancenet/" title="Enhance that photo!" target="_blank">Tech is catching up!</a>
 video: "https://www.youtube.com/embed/yi3UhMZqx58"
-downloads:
+downloads: "https://www.dropbox.com/s/60uworkcydjnyf4/photoshop-raster-image-fundamentals.zip?dl=1"
 description: "Understanding the properties of raster images is crucial to building efficient web sites, mobile apps and printed material. The concepts of pixel dimensions, resolution, colour space and more all play a role in creating graphics that save load times and print quickly."
 details: |
   As a graphic designer, you’ll be manipulating raster images for many different intents: high-end printing, app & web design, large format signage, etc… Being aware of the mechanics of what’s happening to the pixels in your images is crucial to successful reproduction.
@@ -251,4 +251,3 @@ assignment: |
 
   Open the provided icon in Illustrator, then use Save for Screens... to export it for Android OS. *Make sure to name the asset in the panel first!* Name it icon-soccer.
 ---
-"https://www.dropbox.com/s/60uworkcydjnyf4/photoshop-raster-image-fundamentals.zip?dl=1"
