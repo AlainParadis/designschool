@@ -2,10 +2,10 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 1.3
+sortorder: 2.3
 appsused: psd
 title: "Retouching Fundamentals"
-level: cg1
+level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=157215&grpid=0&isprv=&bp=0&ou=193284"
 submission: "my-assignment-folder"
 links: |
