@@ -1,6 +1,6 @@
 ---
 layout: default
-type: informational
+type: assignment
 formsum: 
 sortorder: 5
 appsused: psd, cc
