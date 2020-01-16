@@ -4,7 +4,7 @@ type: informational
 formsum:
 sortorder: 1.2
 appsused:
-title: "Gradshow"
+title: "Grad Show"
 level: fpp
 brightspace: 
 submission:
