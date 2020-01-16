@@ -17,6 +17,8 @@ details: |
 assignment: |
   Create a poster using your own double-exposure composition. Choose your favourite movie, game, tv show, book, etc  and create a poster that reflects the tone and story. Search online for hi-res images of actors, sceneries, objects, etc., or create your own.
 
+  Don't forget there's a lot of <a href="/administration/stock.html" class="" target="_blank">high resolution stock photography here</a>. You can use photos of people from here in place of a real actor if you wish.
+
   You can use any and all of the techniques learned in class to get a pleasing result in a non-destructive manner.
 
   These are some examples of movie posters that use the double exposure effect.
@@ -28,9 +30,9 @@ assignment: |
   Specifications
 
   - 12” x 18” Poster (Portrait Orientation)
-  - CMYK @ 300dpi
+  - RGB @ 300dpi
   - Use Photoshop to create your double exposure
-  - Use a mix of any programs to create your final poster and other assets (Indesign, Illustrator, etc...)
+  - Use a mix of any programs to create your final poster and other assets (InDesign, Illustrator, etc...)
 
   #### How to Get an “A”
 
