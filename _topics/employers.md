@@ -24,6 +24,12 @@ details: |
 
   These are employers who took students in 2018 or in 2019.
 
+  Simple Story Videos<br />
+  Alex Dorward<br />
+  Chief Operating Officer<br />
+  alex@simplestoryvideos.com<br />
+  simplestoryvideos.com<br />
+
   Impact Hub Ottawa<br />
   Katie Miller<br />
   Managing Director<br />
@@ -182,12 +188,6 @@ details: |
   UX / UI Designer<br />
   sara.berkes@clearwaterclinical.com<br />
   https://www.shoebox.md/we-are-shoebox-audiometry/<br />
-
-  Simple Story Videos<br />
-  Skyler Michaels<br />
-  Creative Director<br />
-  Skyler@simplestoryvideos.com<br />
-  simplestoryvideos.com<br />
 
   Spark Advocacy<br />
   Adrian Jean CGD<br />
