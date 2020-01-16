@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 1.0
+sortorder: 2.0
 appsused: psd
 title: "Blending & Masking"
 level: cg6
