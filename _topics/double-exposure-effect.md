@@ -2,8 +2,8 @@
 layout: submission
 type: assignment
 formsum: summative
-sortorder: 1.9
-appsused: psd
+sortorder: 2.9
+appsused: psd ai indd
 title: "Double Exposure Effect"
 level: cg6
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=192173&grpid=0&isprv=0&bp=0&ou=227660"
@@ -15,28 +15,37 @@ description: "This effect has been trendy for a while now. Notwithstanding the t
 details: | 
   
 assignment: |
-  Create three of your own double-exposure compositions. You are free to use the provided photos, or you can find your own. Make sure, if you search for your own, that the image size is close to the size of the original photo. All compositions should be larger than 1500 pixels on the long side.
+  Create a poster using your own double-exposure composition. Choose your favourite movie, game, tv show, book, etc  and create a poster that reflects the tone and story. Search online for hi-res images of actors, sceneries, objects, etc., or create your own.
 
-  <img class="size75" alt="photoshop-double-exposure-three-examples" src="/images/photoshop-double-exposure/photoshop-double-exposure-three-examples.jpg">
+  You can use any and all of the techniques learned in class to get a pleasing result in a non-destructive manner.
 
-  * One composition will have colour. <span style="font-size: .75rem;">[<a href="https://www.pinterest.com/pin/356206651748577960/" target="_blank" title="Examples of the double exposure effect.">source</a>]</span>
-  * One will crop the person. <span style="font-size: .75rem;">[<a href="http://illusion.scene360.com/wp-content/uploads/2014/11/Erkin-Demir-03.jpg" target="_blank" title="Examples of the double exposure effect.">source</a>]</span>
-  * Another will feature architecture. <span style="font-size: .75rem;">[<a href="http://cdn.designinstruct.com/wp-content/uploads/2014/12/image_01_paleari.jpg" target="_blank" title="Examples of the double exposure effect.">source</a>]</span>
+  These are some examples of movie posters that use the double exposure effect.
 
-  You can use any and all of the techniques learned in class. Use what you need to get a pleasing result in a non-destructive manner.
+  <img src="/images/photoshop-double-exposure/photoshop-double-exposure-examples.jpg" class="size100" alt="Double Exposure Examples">
 
-  You can look at <a href="https://duckduckgo.com/?q=double+exposure+photography&amp;t=osx&amp;iax=1&amp;ia=images" target="_blank" title="Examples of the double exposure effect.">these examples</a> for inspiration.
+  <a href="https://duckduckgo.com/?q=double+exposure+movie+poster&t=osx&iax=images&ia=images" class="" target="_blank">And some more here.</a>
 
-  ### How to Get an "A"
+  Specifications
+
+  - 12” x 18” Poster (Portrait Orientation)
+  - CMYK @ 300dpi
+  - Use Photoshop to create your double exposure
+  - Use a mix of any programs to create your final poster and other assets (Indesign, Illustrator, etc...)
+
+  #### How to Get an “A”
 
   You want to work in a non-destructive manner, so do stuff like:
 
-    * Maintain all of your layers. Don't flatten.
-    * Name all of your layers.
-    * Use Adjustment Layers.
-    * Use Clipping Masks.
-    * Convert regular layers to Smart Objects before re-sizing them.
+  - Maintain all of your layers. Don’t flatten.
+  - Name all of your layers.
+  - Use Adjustment Layers.
+  - Use Clipping Masks.
+  - Convert regular layers to Smart Objects before re-sizing them.
 
-  The aesthetics of your composition are pleasing. Take the time and care to choose two photos which will work well for this effect. Create a seamless effect. That is, the two photos blend seamlessly without obvious edges.
+  The aesthetics and composition of your poster should be pleasing and set the tone for the movie. Take the time and care to choose photos which will work well  and create a seamless effect.That is, the two photos blend seamlessly without obvious edges.
+
+
+
+
 
 ---
