@@ -19,6 +19,9 @@ video: "https://www.youtube.com/embed/yi3UhMZqx58"
 downloads: "https://www.dropbox.com/s/60uworkcydjnyf4/photoshop-raster-image-fundamentals.zip?dl=1"
 description: "Understanding the properties of raster images is crucial to building efficient web sites, mobile apps and printed material. The concepts of pixel dimensions, resolution, colour space and more all play a role in creating graphics that save load times and print quickly."
 details: |
+  <div class="button-wrapper">
+    <a href="/setups/photoshop.html" title="Let's set up Photoshop." class="button">Set Up Photoshop</a>
+  </div>
   As a graphic designer, you’ll be manipulating raster images for many different intents: high-end printing, app & web design, large format signage, etc… Being aware of the mechanics of what’s happening to the pixels in your images is crucial to successful reproduction.
 
   ### Defining Terms
