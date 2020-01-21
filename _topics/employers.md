@@ -555,7 +555,16 @@ details: |
   The student would be working on your normal design stuff, print, digital and motion as well as partaking in brainstorming meetings. The marketing manager is big on allowing everyone to pitch an idea, there are no egos here. They also might be taught how to use Hubspot for marketing purposes. The office has a real startup feel which is great because we get to wear different hats and learn new skillsets.</p>
   <p>They would also help with the further development of our AI. That would entail R&amp;D, coming up with solutions to problems, UX and UI work. This is the real fun stuff.</p>
 
-  <p>Employer Name: HostedBizz<br />
+    <p>Employer: Canadian Geographic Enterprises<br />
+  Contact: Mike Elston<br />
+  Title: Director of Operations<br />
+  E-mail: elston@canadiangeographic.ca<br />
+  Web Site: canadiangeographic.ca<br />
+  Tel: 613-745-4629<br />
+  Address: 1155 Lola St., Suite 200<br />
+  Description: Mix of design for print, web and digital publishing</p>
+
+    <p>Employer Name: HostedBizz<br />
   Contact Person:&nbsp;Andrea Wood<br />
   Title: Marketing Manager<br />
   E-mail: <a href="mailto:andrea.wood@hostedbizz.com">andrea.wood@hostedbizz.com</a><br />
