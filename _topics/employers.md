@@ -24,6 +24,15 @@ details: |
 
   These are employers who took students in 2018 or in 2019.
 
+  Canadian Geographic Enterprises<br />
+  Mike Elston<br />
+  Director of Operations<br />
+  elston@canadiangeographic.ca<br />
+  canadiangeographic.ca<br />
+  613-745-4629<br />
+  1155 Lola St., Suite 200<br />
+  Description: Mix of design for print, web and digital publishing<br />
+
   Simple Story Videos<br />
   Alex Dorward<br />
   Chief Operating Officer<br />
