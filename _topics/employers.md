@@ -24,6 +24,25 @@ details: |
 
   These are employers who took students in 2018 or in 2019.
 
+  Canadian Blood Services<br />
+  Nathaly Barnett<br />
+  Manager – Advertising & Digital Ops<br />
+  nathaly.barnett@blood.ca<br />
+  Organization-Address: 1800 Alta Vista Dr, Ottawa<br />
+  blood.ca<br />
+  Description-of-Work: Title: Summer Graphic Design Intern<br />
+   <br />
+  The marketing team at Canadian Blood Services is looking for a graphic design student who’s proficient in production work. We need someone:<br />
+   <br />
+  - who’s gifted around the Adobe and Microsoft Suites;<br />
+  - can think creatively and develop new design concepts, graphics and layouts;<br />
+  - can work simultaneously on 5+ projects based on current client workload;<br />
+  - has an eye for detail;<br />
+  - has a can-do attitude, and<br />
+  - has professional writing ability.<br />
+ 
+  Join our dynamic team in the Public Affairs department for a summer filled with opportunities to learn and gain valuable work experience, all while contributing to Canada’s Lifeline! So…are you ready to join Canada’s Lifeline?<br />
+
   Canadian Geographic Enterprises<br />
   Mike Elston<br />
   Director of Operations<br />
@@ -105,14 +124,6 @@ details: |
   613-941-4664<br>
   555 Mackenzie Ave Ottawa ON K1A 0L5<br>
   cra@gc.ca<br>
-
-  Canadian Blood Services<br />
-  Nathaly Barnett<br />
-  Advertising and Digital Operations Manager<br />
-  nathaly.barnett@blood.ca<br />
-  blood.ca<br />
-  613-260-4006<br />
-  1800 Alta Vista Dr Ottawa On<br />
 
   Canadian Chambre of Commerce<br />
   Graham Scott<br />
