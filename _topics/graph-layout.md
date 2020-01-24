@@ -5,7 +5,7 @@ formsum: summative
 sortorder: 3.9
 appsused: ai, indd
 title: "Graph Layout"
-level: cg2
+level: undetermined
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=121204&grpid=0&isprv=0&bp=0&ou=145550"
 submission: "graph-layout"
 links: |

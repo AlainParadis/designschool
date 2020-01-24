@@ -5,7 +5,7 @@ formsum: formative
 sortorder: 5.0
 appsused: ai
 title: "Appearance & Graphic Styles"
-level: undetermined
+level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=132037&grpid=0&isprv=0&bp=0&ou=145550"
 submission: "my-assignment-folder"
 links: |

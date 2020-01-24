@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: summative
-sortorder: 5.9
+sortorder: 4.9
 appsused: ai
 title: "Unleash Your Inner Vectors"
 level: cg2
