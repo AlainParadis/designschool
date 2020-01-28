@@ -24,12 +24,21 @@ details: |
 
   These are employers who took students in 2018 or in 2019.
 
+  Banfield Agency<br />
+  Timothy Jones<br />
+  President<br />
+  tjones@banfield.agency<br />
+  We are located in Hintonburg at 35 Armstrong St.<br />
+  <a href="https://banfield.agency/" target="_blank">banfield.agency/</a><br />
+  Description-of-Work:<br />
+  At Banfield, we do a wide range of work ranging from branding, national campaigns, printed brochures and posters, website design, and video. We are a full-service agency and the ideal student would be able to work on many different projects and while learning many different skills. The ideal student loves to work on all kinds of projects and isn't afraid of the unknown!<br />
+
   Canadian Blood Services<br />
   Nathaly Barnett<br />
   Manager – Advertising & Digital Ops<br />
   nathaly.barnett@blood.ca<br />
   Organization-Address: 1800 Alta Vista Dr, Ottawa<br />
-  blood.ca<br />
+  <a href="https://blood.ca/" target="_blank">blood.ca</a><br />
   Description-of-Work: Title: Summer Graphic Design Intern<br />
    <br />
   The marketing team at Canadian Blood Services is looking for a graphic design student who’s proficient in production work. We need someone:<br />
@@ -47,7 +56,7 @@ details: |
   Mike Elston<br />
   Director of Operations<br />
   elston@canadiangeographic.ca<br />
-  canadiangeographic.ca<br />
+  <a href="http://canadiangeographic.ca" target="_blank">canadiangeographic.ca</a><br />
   613-745-4629<br />
   1155 Lola St., Suite 200<br />
   Description: Mix of design for print, web and digital publishing<br />
@@ -56,14 +65,14 @@ details: |
   Alex Dorward<br />
   Chief Operating Officer<br />
   alex@simplestoryvideos.com<br />
-  simplestoryvideos.com<br />
+  <a href="http://www.simplestoryvideos.com" target="_blank">simplestoryvideos.com</a><br />
 
   Impact Hub Ottawa<br />
   Katie Miller<br />
   Managing Director<br />
   katie@hubottawa.org<br />
   123 Slater Street, 6th floor Ottawa ON K1P 5H2<br />
-  Hubottawa.org<br />
+  <a href="https://ottawa.impacthub.net" target="_blank">ottawa.impacthub.net</a><br />
   Description-of-Work: Web design and design for print. Reviewing website and paper marketing materials do refresh and align on communications.<br />
 
   Canada Revenue Agency <br />
@@ -71,7 +80,7 @@ details: |
   Manager, Creative Services <br />
   linda.watson@cra-arc.gc.ca<br />
   555 Mackenzie Ave. Ottawa, ON <br />
-  canada.ca/taxes<br />
+  <a href="https://www.canada.ca/en/services/taxes.html" target="_blank">canada.ca/taxes</a><br />
   Description-of-Work: Design work including posters, infographics, placemats, report layout, visuals for social media, branding, etc. Designs are used primarily online but we do have some print material. <br />
 
   Correctional Service Canada<br />
@@ -90,7 +99,7 @@ details: |
   cal@raisedbywolves.ca<br />
   5148651950<br />
   145 Spruce St., Unit 166B, Ottawa, ON K1R 6P1<br />
-  www.raisedbywolves.ca<br />
+  <a href="https://raisedbywolves.ca" target="_blank">www.raisedbywolves.ca</a><br />
   Graphics for screenprinted and embroidered apparel, social media flyers and e-comm product shot editing.<br />
 
   Acart Communications<br />
@@ -98,7 +107,7 @@ details: |
   Associate Creative Director<br />
   smcmann@acart.com<br />
   171 Nepean Street, Suite 600<br />
-  www.acart.com<br />
+  <a href="http://www.acart.com" target="_blank">Acart.com</a><br />
   Overall a general design thing - we toggle from motion to strategy - from advertising to graphic design.<br />
 
   Alphabet Creative<br />
@@ -139,20 +148,20 @@ details: |
   shiree.nowoselski@canopygrowth.com<br>
   613-485-2816<br>
   1 Hershey Drive, Smith Falls Ontario  K7A 0A8<br />
-  www.canopygrowth.com<br>
+  <a href="http://www.canopygrowth.com" target="_blank">www.canopygrowth.com</a><br>
 
   Downtown Rideau Business Improvement Area (DRBIA)<br />
   Kimberly McCarthy-Kearney<br />
   Member Services + Promotions Manager<br />
   marketing@downtownrideau.com<br />
-  www.downtownrideau.com<br />
+  <a href="http://www.downtownrideau.com" target="_blank">www.downtownrideau.com</a><br />
   1 Nicholas Street Ste 1105<br />
 
   Elite Printing & Design Inc.<br />
   Dean Guimaraes<br />
   Owner/ CEO/ Design<br />
   dean.eliteprinting@gmail.com<br />
-  www.eliteprintdesign.com<br />
+  <a href="http://www.eliteprintdesign.com" target="_blank">www.eliteprintdesign.com</a><br />
   613-260-9666<br />
   11 Huntwood Court Ottawa ON K1V 0R3<br />
 
@@ -160,7 +169,7 @@ details: |
   Tony Ricciuti<br />
   President<br />
   tony@gadar.ca<br />
-  gadar.ca<br />
+  <a href="http://gadar.ca" target="_blank">gadar.ca</a><br />
   613-736-8288 x224<br />
   1120 Morrison Drive Ottawa ON K2H 8M7<br />
 
@@ -168,7 +177,7 @@ details: |
   Brenna Bellhouse<br />
   Yogiprenuer<br />
   brenna@innerrevolution.ca<br />
-  www.innerrevolution.ca<br />
+  <a href="http://www.innerrevolution.ca" target="_blank">www.innerrevolution.ca</a><br />
   613-898-6678<br />
   700 March Road Ottawa<br />
 
@@ -176,7 +185,7 @@ details: |
   Bronwen Gagne<br />
   Office Manager<br />
   bgagne@launchfire.com<br />
-  www.launchfire.com<br />
+  <a href="http://www.launchfire.com" target="_blank">www.launchfire.com</a><br />
   613-728-5865 ext 243<br />
   22 Hamilton Ave North Ottawa ON K1Y 1B6<br />
 
@@ -199,7 +208,7 @@ details: |
   Lisa Donnelly<br />
   Talent Advisor<br />
   lisa.donnelly@scouts.ca<br />
-  www.scouts.ca<br />
+  <a href="http://www.scouts.ca" target="_blank">www.scouts.ca</a><br />
   613-224-5134<br />
   1345 Baseline Road Ottawa Canada<br />
 
@@ -207,7 +216,7 @@ details: |
   Sara Berkes<br />
   UX / UI Designer<br />
   sara.berkes@clearwaterclinical.com<br />
-  https://www.shoebox.md/we-are-shoebox-audiometry/<br />
+  <a href="http://https://www.shoebox.md/we-are-shoebox-audiometry/" target="_blank">Shoebox</a><br />
 
   Spark Advocacy<br />
   Adrian Jean CGD<br />
@@ -240,24 +249,26 @@ details: |
   Soshal.ca<br />
   chad.macdonald@soshal.ca<br />
 
-  You.i TV<br />
-  Claire Leroux<br />
-  Technical Recruiter<br />
-  claire.leroux@youi.tv<br />
-  https://www.youi.tv/<br />
+  <del>You.i TV</del><br />
+  Not taking anyone in 2020<br />
+  Isabela Landfeldt<br />
+  People Operations Specialist<br />
+  isabela.landfeldt@youi.tv<br />
+  <a href="https://www.youi.tv/" target="_blank">https://www.youi.tv/</a><br />
   307 Legget Drive<br />
 
   Youth Ottawa<br />
   Ian Bingeman<br />
   Executive Director<br />
   info@youthottawa.ca<br />
-  www.youthottawa.ca<br />
+  <a href="http://www.youthottawa.ca" target="_blank">www.youthottawa.ca</a><br />
   613-898-7887<br />
   191 Laurier Avenue West Ottawa ON<br />
 
   Cayenne Creative  <br />
   Carl Poirier RGD<br />
   Owner &amp; Creative Director<br />
+  <a href="http://cayennecreative.ca" target="_blank">cayennecreative.ca</a>
   carl@cayennecreative.ca <br />
   +1-613-288-2121<br />
   1343 Labrie Ave. Ottawa ON<br />
