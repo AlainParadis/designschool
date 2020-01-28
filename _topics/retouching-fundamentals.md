@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 2.3
+sortorder: 2.4
 appsused: psd
 title: "Retouching Fundamentals"
 level: cg2
