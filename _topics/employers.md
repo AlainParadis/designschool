@@ -15,14 +15,53 @@ links: |
   - <a href="https://algonquindesign.ca/fieldwork/" title="Fieldwork Info for Employers" target="_blank">Fieldwork Info for Employers</a>
   - <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWFC-QM7-zoCXIVZZcprjPr9TaHt9B_ZlixE3Krz9-QVaxbA/viewform" title="Employers Fieldwork Request" target="_blank">Employers Fieldwork Request</a>
   - <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=JNkb7GoKqUqqicmAMWwESfjne9J-c6VKlt4hDsO6Z5ZURUU5WFowU1MxVTdLQzNQVUc0NzVRTEpLWS4u" title="Form: I Got My Fieldwork!" target="_blank">I Got My Fieldwork!</a>
-  - <a href="https://www.dropbox.com/s/plfn2c0o37p7kax/fieldwork-consent-form-2019.pdf.zip?dl=1" title="Fieldwork Consent Form">Fieldwork Consent Form PDF</a>
+  - <a href="https://www.dropbox.com/s/ma8soppb3l6sxj6/fieldwork-consent-form-2020.pdf.zip?dl=1" title="Fieldwork Consent Form">Fieldwork Consent Form PDF</a>
 video: 
 downloads: "https://www.dropbox.com/s/jp8m950e6g5k77i/fieldwork-gradshow-downloads.zip?dl=1"
 description: "Below is a list of potential employers you can contact to do fieldwork."
 details: |
   ### Recent Employers
 
-  These are employers who took students in 2018 or in 2019.
+  The top of the list of employers have recently expressed interest in taking on a student.
+
+  McMillan<br />
+  Neal Billings<br />
+  Creative Director<br />
+  <a href="mailto:nbillings@mcmillan.com">nbillings@mcmillan.com</a><br />
+  135 Rideau st. Suite 305<br />
+  <a href="https://www.mcmillan.com/" target="_blank">https://www.mcmillan.com/</a><br />
+  Description-of-Work:<br />
+  All the above, with a strong Production capabilities. Brand identity, go-to-market campaigns, web design, banner ads and PPT decks.<br />
+
+  Canadian Institute for Health Information<br />
+  Yvonne Rosehart<br />
+  Manager, Case Mix<br />
+  yrosehart@cihi.ca<br />
+  613-694-6636<br />
+  495 Richmond Road, Suite 600, Ottawa, ON, K2A 4H6<br />
+  www.cihi.ca<br />
+  Description-of-Work:<br />
+  information design primarily.  We are a data-driven organization that uses information design to translate complex information into information that is digestible for the general public, health care  providers, health care planners and policy makers, etc.  This includes infographics, job aids that are a mix of text and visuals, visual elements for presentation decks and web-based education products. <br />
+
+  Fellow.app<br />
+  Joel Grenier<br />
+  Head Design Fellow<br />
+  joel@fellow.app<br />
+  <a href="https://www.fellow.app" target="_blank">Fellow.app</a><br />
+  613 898 4536<br />
+  111 Albert Street Ottawa, Ontario K1P 1A5, Suite 300<br />
+  Description:<br />
+  Student would participate in product design efforts. Visual design, Interaction design, prototyping, contributing to our DSM, potentially participating in research efforts.
+
+  INProduction Licensing - Greenre Eco Products<br />
+  Keith Loiselle<br />
+  Creative Director<br />
+  keith@intheproduction.com<br />
+  613-853-3582<br />
+  4006 Canyon Walk Drive<br />
+  http://online.fliphtml5.com/tbjhw/bykd<br />
+  Description-of-Work:<br />
+  Disney, Marvel, Lucas Films consumer product design and digital marketing design<br />
 
   Banfield Agency<br />
   Timothy Jones<br />
@@ -287,15 +326,6 @@ details: |
   +1-819-777-7717<br />
   146 Notre-Dame-de-l'&icirc;le, Gatineau - Old Hull (Qc) J8X 3T1<br />
 
-  Launchfire<br />
-  Justin McNally<br />
-  Lead Designer<br />
-  jmcnally@launchfire.com<br />
-  www.launchfire.com<br />
-  22 Hamilton Ave N, Ottawa, ON K1Y 1B6<br />
-  Description:<br />
-  Web Design : Launchfire is looking for a designer to assist us in creating graphics for our cool gamification programs, slick web-based training software, and important sales &amp; marketing team.</p>
-
   Victory Arts Incorporated<br />
   Tero Hollo<br />
   President / Producer / Director<br />
@@ -421,18 +451,7 @@ details: |
   We are seeking someone proficient in file management, Adobe Premiere Pro and Adobe After Effects to help is build out our organization’s video archive while taking the opportunity to showcase their video editing and storytelling skills. As well, we’d like someone comfortable with motion graphics to work with creative from our design team and add motion for digital and social publishing. 
   </p>
 
-  <p>Employer: Fellow.app<br />
-  Contact Person: Joel Grenier<br />
-  Title: Head Design Fellow<br />
-  Email: joel@fellow.app<br />
-  Web Site: Fellow.app<br />
-  Phone: 613 898 4536<br />
-  Street Address: 66 Slater Street 3rd floor<br />
-  Description:<br />
-  Student would participate in product design efforts. Visual design, Interaction design, prototyping, contributing to our DSM, potentially participating in research efforts.
-  </p>
-
-  <p>Employer: Fresh Air Educators<br />
+    <p>Employer: Fresh Air Educators<br />
   Contact Person: Lindsay White<br />
   Title: Design Lead<br />
   Email: lwhite@freshaireducators.com<br />
