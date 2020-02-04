@@ -55,6 +55,7 @@ section.content .button {
   margin-left: auto;
   margin-right: auto;
 }
+
 section.content a.button:hover {
     background-color: var(--limegreen33);
     color: var(--limegreen100);
