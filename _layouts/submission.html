@@ -78,19 +78,6 @@ layout: default
     <p><span class="orange">Failure to submit your files as directed will incur a proportional loss of points. If your file/folder is not named with your name, you will earn a zero. <a href="/administration/assessment.html#filenames" title="Why is file naming important?">Why?</a></span>
     </p>
 
-{% elsif page.submission == 'pdf+zipped-photoshop-file' %}
-    <p>You're going to upload to BrightSpace twice for this assignment.</p>
-    <h3>First Brightspace Upload</h3>
-    <p>Create a PDF of your final piece named
-    <div class="filename">Appleseed-Johnny-#-{{ page.title }}.pdf</div>
-    <p>Don't compress the PDF. Submit it as a PDF.</p>
-    <h3>Second Brightspace Upload</h3>
-    <p>Zip-compress your final piece. Name it:</p>
-    <div class="zipfile">Appleseed-Johnny-#-{{ page.title }}.psd.zip</div>
-    <p>Make a second submission with the resulting zip file.</p>
-    <p><span class="orange">Failure to submit your files as directed will incur a proportional loss of points. If your file/folder is not named with your name, you will earn a zero. <a href="/administration/assessment.html#filenames" title="Why is file naming important?">Why?</a></span>
-    </p>
-
 {% elsif page.submission == 'graph-layout' %}
   <p>This is what you're going to submit:</p>
   <img src="{{site.baseurl}}/images/illustrator-graphs/graph-submission.jpg" class="100 borderdarkgreen1" alt="graph submission folder structure">
