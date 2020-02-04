@@ -126,9 +126,15 @@ assignment: |
 
   <img class="size100" alt="summative-paste-onto-a-mask" src="/images/photoshop-intro-to-layer-masks/summative-paste-onto-a-mask.jpg">
 
-  ### Bonus Technique
+  ### Fix Combined Photos
 
   Using a layer mask, make the two woman's eyes work best for the photo.
 
   <img class="size100" alt="summative-replace-eyes" src="/images/photoshop-intro-to-layer-masks/summative-replace-eyes.jpg">
+
+  ### Select & Mask
+
+  Use the Select & Mask feature to select the guy and his hair. You won't get it 100% selected, but you can get most of it.
+
+    <img class="size100 borderdarkgrey1" alt="select & mask" src="/images/photoshop-intro-to-layer-masks/summative-select-and-mask.jpg">
 ---
