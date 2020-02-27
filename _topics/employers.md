@@ -24,6 +24,82 @@ details: |
 
   The top of the list of employers have recently expressed interest in taking on a student.
 
+  Cloud in the Sky Studios — **only for 2021**<br />
+  Skyler LaFreniere<br />
+  Animation Director<br />
+  skyler@cloudintheskystudios.com<br />
+  <a href="https://cloudintheskystudios.com" target="_blank">cloudintheskystudios.com</a><br />
+  613-296-0258<br />
+  384 Bank St #201, Ottawa, ON K2P 1Y4<br />
+  Motion Design<br />
+
+  Ottawa Senators<br />
+  Martin Gomez<br />
+  Creative Director<br />
+  gomezm@ottawasenators.com<br />
+  1000 Palladium Drive, Ottawa, ON K2V 1A5<br />
+  <a href="https://www.nhl.com/senators/" target="_blank">nhl.com/senators/</a><br />
+  Design for digital marketing materials, web banners, email graphics, creative design for events, promos and theme nights. Some print materials - posters, handouts, etc. <br />
+
+  NUSKU<br />
+  Jonathan Cruz<br />
+  Creative Director / Founder<br />
+  jonathan@nusku.ca<br />
+  613-510-0722<br />
+  88 Spadina Ave. Unit C, Ottawa, ON, K1Y2C1<br />
+  www.nusku.ca<br />
+  motion, apparel, brand, photography, web, ui/ux,<br />
+  From the client: <i>Im reaching out to you regarding internship students that need placement. We are a small studio here in the Hintonburg area and looking for interns. If you know any students that are looking for a spot please tell them to reach out to me directly. Our main client is the Government of Nunavut as a reference.</i><br />
+
+  B MEDIA SHOP<br />
+  John Bishop<br />
+  Co-Owner<br />
+  john@bmediashop.com<br />
+  613-237-5757 #11<br />
+  Full service marketing firm<br />
+  <a href="https://www.bmediashop.com" target="_blank">www.bmediashop.com</a><br />
+  Description of Work: Web coding and graphic design<br />
+  
+  United Way East Ontario<br />
+  Emily Whalen<br />
+  Manager, Design and Creative Development <br />
+  ewhalen@unitedwayeo.ca<br />
+  6132286761<br />
+  363 Coventry road<br />
+  Unitedwayeo.ca<br />
+  Description-of-Work:<br />
+  Responsible for designing and producing print and digital collaterals to help achieve the strategic objectives of the organization. The position works with the Marketing and Communications team and other stakeholders to interpret design and creative needs and to propose and execute creative solutions. <br />
+
+  Victory Arts Incorporated <br />
+  Tero Hollo<br />
+  Supervisor <br />
+  tero@victoryarts.com<br />
+  613-276-6320   <br />
+  1338 Wellington St. West, Suite 200, Ottawa, ON K1Y 3B7<br />
+  <a href="https://victoryarts.com" target="_blank">victoryarts.com</a><br />
+  Description-of-Work: The students will be working on  a series of shorts for a larger motion project. They will be required to finish at least one short while at co-op with the given script provided for them.<br />
+
+  Feather Company<br />
+  Dominic Coballe<br />
+  Chief Creative Offcier<br />
+  dom@feather.com<br />
+  613-261-9417<br />
+  408 Churchill Ave<br />
+  <a href="https://feather.com" target="_blank">feather.com</a><br />
+  Description-of-Work: <br />
+  Branding and motion graphics design for our 3 internal international brands. We’re a lifestyle brand that caters to the cannabis and CBD consumer in both medical and recreational markets. <br />
+
+  Great River Media<br />
+  Regan Van Dusen<br />
+  Digital Media Designer<br />
+  regan@greatriver.ca<br />
+  <a href="https://greatriver.ca" target="_blank">greatriver.ca</a><br />
+  Description:<br />
+  In this role, you will gain experience and exposure to the day-to-day realities of working as a graphic designer/digital media production professional at a marketing agency (GRM) and a media company (Ottawa Business Journal and obj.ca)<br />
+  You will have the opportunity to work at Great River Media’s boutique advertising agency--Great River Marketing--on integrated marketing campaigns in all stages of development and for multiple platforms.<br />
+  The selected student will also have the opportunity to play an important role in the launch of the Ottawa Business Journal’s new business publication business and media channels.<br />
+  Students who think creatively, excel in a fast, challenging environment, and are interested in a career in an advertising agency or media company (specifically in graphic design, video editing, web page design, will enjoy this opportunity).
+
   McMillan<br />
   Neal Billings<br />
   Creative Director<br />
@@ -325,15 +401,6 @@ details: |
   lissa@birddogdesign.com<br />
   +1-819-777-7717<br />
   146 Notre-Dame-de-l'&icirc;le, Gatineau - Old Hull (Qc) J8X 3T1<br />
-
-  Victory Arts Incorporated<br />
-  Tero Hollo<br />
-  President / Producer / Director<br />
-  tero@victoryarts.com<br />
-  613-276-6320<br />
-  1338 Wellington W. Street, Ottawa ON<br />
-  Description:<br />
-  Motion Graphics, Illustration, Design. Talent would work on an episode for TV Series. Credit will be given to completed work that is aired on TV.</p>
 
   Spruce Creative Inc.<br />
   Paul Marconi<br />
