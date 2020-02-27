@@ -6,14 +6,14 @@ sortorder: 5.0
 appsused: ai
 title: "Appearance & Graphic Styles"
 level: cg2
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=132037&grpid=0&isprv=0&bp=0&ou=145550"
-submission: "my-assignment-folder"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=202678&grpid=0&isprv=0&bp=0&ou=227639"
+submission: "illustrator-package"
 links: |
   - <a href="https://helpx.adobe.com/illustrator/how-to/illustrator-mastering-appearance-panel.html" target="_blank" title="Using the Appearance Panel">Using the Appearance Panel</a>
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/graphic-styles.html" target="_blank" title="Graphic Styles">Graphic Styles</a>
   - <a href="https://helpx.adobe.com/illustrator/using/patterns.html" target="_blank" title="How to create patterns manually in Illustrator">Make patterns manually</a>
 video: "https://www.youtube.com/embed/wVnUrRBT_s4"
-downloads:
+downloads: "https://www.dropbox.com/s/1wmotbk7m2zky7b/illustrator-appearance-and-graphic-styles.zip?dl=1"
 description: |
   The Appearance Panel contains each element of a graphic, including strokes, fills, effects and more. It should be on your screen at all times. Use it for all your stylin'.
 details: |
