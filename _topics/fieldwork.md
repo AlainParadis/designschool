@@ -45,7 +45,7 @@ details: |
 
   You need to fill out this form.
 
-  <div class="button-wrapper"><a href="https://www.dropbox.com/s/plfn2c0o37p7kax/fieldwork-consent-form-2019.pdf.zip?dl=1" title="Fieldwork Consent Form" target="_blank" class="button">Download Consent Form</a></div>
+  <div class="button-wrapper"><a href="https://www.dropbox.com/s/ma8soppb3l6sxj6/fieldwork-consent-form-2020.pdf.zip?dl=1" title="Fieldwork Consent Form" target="_blank" class="button">Download Consent Form</a></div>
 
   Return the PDF to me completed via <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#97;&#114;&#97;&#100;&#105;&#97;&#64;&#97;&#108;&#103;&#111;&#110;&#113;&#117;&#105;&#110;&#99;&#111;&#108;&#108;&#101;&#103;&#101;&#46;&#99;&#111;&#109;">e-mail</a>.
 
