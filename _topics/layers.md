@@ -13,7 +13,7 @@ links: |
   - <a href="https://helpx.adobe.com/photoshop/using/selecting-grouping-linking-layers.html" target="_blank" title="Select, Group & Link Layers">Select, Group & Link Layers</a>
   - <a href="https://photoshopetiquette.com/" title="Photoshop Etiquette" target="_blank">Photoshop Etiquette</a>
 video: "https://www.youtube.com/embed/YxTD7iRe-UE"
-downloads:
+downloads: "https://www.dropbox.com/s/wwvwc8gdnnb8hrl/photoshop-layers.zip?dl=1"
 description: "Layers are among the fundamental features in Photoshop which aid editing. Superficially, they're simple, but the feature set goes deep. Photoshop features a number of kinds of layers. This is what we'll explore here."
 details: |
   Photoshop layers are like sheets of stacked acetate. You can see through transparent areas of a layer to the layers below. You move a layer in the Layers panel stacking order to position the content on the layer, like sliding a sheet of acetate in a stack. You can also change the opacity of a layer to make content partially transparent.
@@ -143,4 +143,3 @@ assignment: |
 
   <img class="size100" alt="photoshop-layers-exercise" src="/images/photoshop-layers/photoshop-layers-exercise.jpg">
 ---
-"https://www.dropbox.com/s/wwvwc8gdnnb8hrl/photoshop-layers.zip?dl=1"
