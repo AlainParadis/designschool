@@ -8,8 +8,7 @@ title: "Image Transformations"
 level: cg4
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=192065&grpid=0&isprv=0&bp=0&ou=227625"
 submission: "my-assignment-folder"
-links: |
-  - 
+links:
 video: 
 downloads: "https://www.dropbox.com/s/f7zmzkommzl5i7n/photoshop-transforms-summative.zip?dl=1"
 description: "This summative assignment includes Photoshop skills you've used in the last few classes. Download the assignment files. Replicate the effects that are shown on the page." 
