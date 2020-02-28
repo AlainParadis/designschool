@@ -23,7 +23,7 @@ assignment: |
   On a duplicate layer, select the woman, then move her with the Content-Aware Move tool.
 
   <figure>
-    <img class="size100 borderdarkgrey1" alt="content-aware-move" src="/images/Photoshop-transforms-summative/content-aware-move.jpg">
+    <img class="size100 borderdarkgrey1" alt="content-aware-move" src="/images/photoshop-transforms-summative/content-aware-move.jpg">
   <figcaption>
     Move her up. Make sure you duplicate the layer!
   </figcaption>
