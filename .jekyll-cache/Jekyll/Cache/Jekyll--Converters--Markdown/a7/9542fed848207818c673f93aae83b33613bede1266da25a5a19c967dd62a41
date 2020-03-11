@@ -1,0 +1,86 @@
+I"�<p>Photoshop layers are like sheets of stacked acetate. You can see through transparent areas of a layer to the layers below. You move a layer in the Layers panel stacking order to position the content on the layer, like sliding a sheet of acetate in a stack. You can also change the opacity of a layer to make content partially transparent.</p>
+
+<p>The Layers panel is dense with buttons, sliders and other controls. We’ll explore these in class. Layers can be locked in five different ways, like locking transparency, locking position and more.</p>
+
+<p><img src="/images/photoshop-layers/photoshop-layers-panel.jpg" class="size75" alt="Photoshop Layers Panel" /></p>
+
+<p>Layer organization and stacking order is a whole other area to master. Naming layers is important for your own work and even more for collaboration. <a href="https://photoshopetiquette.com">This is a must-read</a> if you want to respect industry-standard Photoshop etiquette.</p>
+
+<h3 id="filter-layers">Filter Layers</h3>
+
+<figure>
+  <img class="size33" alt="photoshop-layers-filters" src="/images/photoshop-layers/photoshop-layers-filters.jpg" />
+<figcaption>
+  <ol>
+    <li>Pick a filter type</li>
+    <li>Filter for pixel layers</li>
+    <li>Filter for Adjustment Layers</li>
+    <li>Filter for type Layers</li>
+    <li>Filter for shape Layers</li>
+    <li>Filter for Smart Objects</li>
+    <li>Turn filtering on/off</li>
+  </ol>
+</figcaption>
+</figure>
+
+<p>These buttons are especially useful when you have a large number of layers in your Photoshop file. You can click one of them to see only that type of layer. As an example, you can vew only Adjustment Layers.</p>
+
+<p>This doesn’t turn on/off the visibility on the canvas. It only filters the layers in the panel.</p>
+
+<h3 id="blend-modes">Blend Modes</h3>
+
+<p><img class="size33" alt="photoshop-blend-modes-panel" src="/images/photoshop-layers/photoshop-blend-modes-panel.jpg" /></p>
+
+<p>Blend Modes determine how the pixels on a layer above mix with pixels on the layer below. They can also be used with an individual tool. So, you can brush in a specific blend mode. <a href="https://helpx.adobe.com/photoshop/using/blending-modes.html" title="Adobe's Blend Mode descriptions" target="_blank">This is Adobe’s detailed descriptions</a> of each Blend Mode.</p>
+
+<h3 id="locks">Locks</h3>
+
+<p><img class="size33" alt="photoshop-layers-locks" src="/images/photoshop-layers/photoshop-layers-locks.jpg" /></p>
+
+<ol>
+  <li>Lock transparent pixels: When you paint, only pixels get painted. Transparency isn’t affected.</li>
+  <li>Lock pixels: Where there are pixels, you can’t paint. You <em>can</em> move them.</li>
+  <li>Lock position: You can’t move things with the Move Tool. You <em>can</em> paint them.</li>
+  <li>Artboards: Prevent auto-nesting into and out of Artboards.</li>
+  <li>Lock everything: You can’t paint or move anything.</li>
+</ol>
+
+<p>These locks are different from the one at the bottom of the Layers panel. These lock the ability to move or paint a layer. The chain link at the bottom of the panel <em>link</em> layers together so them move together.</p>
+
+<h3 id="opacity--fill">Opacity &amp; Fill</h3>
+
+<p><img class="size33" alt="photoshop-layers-panel-opacity-fill" src="/images/photoshop-layers/photoshop-layers-panel-opacity-fill.jpg" /></p>
+
+<p>Opacity is transparency. Lower it and the contents of the whole layer become translucent or transparent.</p>
+
+<p>Fill mostly works exactly like the Opacity control. The major difference is that it doesn’t affect effects. So, if you have Fill set to 0, the photo will disappear, but its Drop Shadow will show.</p>
+
+<h2 id="bottom-of-the-panel">Bottom of the panel</h2>
+
+<figure>
+  <img class="size33" alt="photoshop-layers-panel-bottom" src="/images/photoshop-layers/photoshop-layers-panel-bottom.jpg" />
+<figcaption>
+  <ol>
+    <li>Lock layers so they move together with the move tool. This doesn't prevent them from being painted on.</li>
+    <li>Layer Effects, like *Drop Shadow*.</li>
+    <li>Add a Layer Mask.</li>
+    <li>Add Adjustment Layers.</li>
+    <li>Create Layer Groups. These are folders to organize your layers.</li>
+    <li>Create a new Layer. Option-click on it to name the layer on creation.</li>
+    <li>Delete a layer. You can also simply target the layer, then use the Delete key.</li>
+  </ol>
+</figcaption>
+</figure>
+
+<h3 id="lets-practice">Let’s Practice</h3>
+
+<p>Let’s use each one of these types of layers. Create a new document, then add guides on your canvas with <span class="command">View &gt; New Guide Layout..</span></p>
+
+<p><img class="size100" alt="layers-practice-new-document-setup" src="/images/photoshop-layers/layers-practice-new-document-setup.jpg" /></p>
+
+<p>Use the guide below to build the layout as shown. Start by dragging each of the provided photos from the Finder into your Photoshop canvas.</p>
+
+<p><img class="size100" alt="layers-practice-guide" src="/images/photoshop-layers/layers-practice-guide.jpg" /></p>
+
+<p>Save this file as Appleseed, Johnny, #, Layers Practice.psd</p>
+:ET

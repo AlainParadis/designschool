@@ -1,0 +1,83 @@
+I"�<h3 id="content-aware-features">Content-Aware Features</h3>
+
+<h4 id="content-aware-move">Content-Aware Move</h4>
+
+<p>On a duplicate layer, select the woman, then move her with the Content-Aware Move tool.</p>
+
+<figure>
+  <img class="size100 borderdarkgrey1" alt="content-aware-move" src="/images/photoshop-transforms-summative/content-aware-move.jpg" />
+<figcaption>
+  Move her up. Make sure you duplicate the layer!
+</figcaption>
+</figure>
+
+<h4 id="content-aware-scale">Content-Aware Scale</h4>
+
+<p>Duplicate the layer with the grass. Use the Content-Aware Scale feature to squeeze the grass so it’s narrower.The tool will do this so the grass still looks natural.</p>
+
+<figure>
+  <img class="size100 borderdarkgrey1" alt="content-aware-scale" src="/images/photoshop-transforms-summative/content-aware-scale.jpg" />
+<figcaption>
+  Squeeze the piece of grass.
+</figcaption>
+</figure>
+
+<h4 id="content-aware-crop">Content-Aware Crop</h4>
+
+<p>After duplicating the layer, use the Crop tool with Content-Aware Crop turned on to stretch the photo.</p>
+
+<figure>
+  <img class="size100 borderdarkgrey1" alt="content-aware-crop" src="/images/photoshop-transforms-summative/content-aware-crop.jpg" />
+<figcaption>
+  Stretch the photo of the dock as shown.
+</figcaption>
+</figure>
+
+<h3 id="colour-correction">Colour Correction</h3>
+
+<h4 id="set-black-point">Set Black Point</h4>
+
+<p>Set the black point using a Threshold adjustment layer. Then use a Levels adjustment layer.</p>
+
+<figure>
+  <img class="size100 borderdarkgrey1" alt="set-black-point" src="/images/photoshop-transforms-summative/set-black-point.jpg" />
+<figcaption>
+  Set the black point using a Threshold adjustment layer. Then use a Levels adjustment layer.
+</figcaption>
+</figure>
+
+<h4 id="sharpening">Sharpening</h4>
+
+<p>Sharpen the photo of the ram with the High Pass process.</p>
+
+<figure>
+  <img class="size100 borderdarkgrey1" alt="sharpen-with-high-pass" src="/images/photoshop-transforms-summative/sharpen-with-high-pass.jpg" />
+<figcaption>
+  Sharpen the photo of the ram with the High Pass process.
+</figcaption>
+</figure>
+
+<h3 id="image-transformation">Image Transformation</h3>
+
+<h4 id="vanishing-point-tool">Vanishing Point Tool</h4>
+
+<p>Use Photoshop’s Vanishing Point filter to map the illustration onto the wall as shown.</p>
+
+<figure>
+  <img class="size100 borderdarkgrey1" alt="vanishing-point" src="/images/photoshop-transforms-summative/vanishing-point.jpg" />
+<figcaption>
+  Add the illustration on the wall so it wraps around the corner.
+</figcaption>
+</figure>
+
+<h3 id="blurring">Blurring</h3>
+
+<p>Under <span class="command">Filter &gt; Blur Gallery</span> use Field Blur to create visual interest by blurring the photo at strategic locations. Make sure to convert the layer to a Smart Object first.</p>
+
+<figure>
+  <img class="size100 borderdarkgrey1" alt="field-blur" src="/images/photoshop-transforms-summative/field-blur.jpg" />
+<figcaption>
+  Use the Field Blur filter to create interesting blurs.
+</figcaption>
+</figure>
+:ET

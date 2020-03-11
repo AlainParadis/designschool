@@ -1,0 +1,33 @@
+I"‹
+<h3 id="basic-symbols">Basic Symbols</h3>
+
+<p>Draw your own original symbols on the provided map. You should have an icon for:</p>
+
+<ol>
+  <li>Camp grounds</li>
+  <li>Picnic grounds</li>
+  <li>A hospital</li>
+  <li>Bicycle paths</li>
+  <li>Walking paths</li>
+  <li>Location markers (a dot or geometric shape)</li>
+  <li>Mile marker (a triangular shape)</li>
+</ol>
+
+<p><img src="/images/illustrator-symbols/illustrator-symbols-map.jpg" class="size100 borderdarkgrey1" alt="Illustrator Symbols Map" /></p>
+
+<p>Make one of the icons a dynamic symbol. Change the colours of the instances. In my case, I changed the colour of the picnic grounds icons.</p>
+
+<h3 id="9-slice-scaling">9-Slice Scaling</h3>
+
+<p>In the second instance, the arrow art has already been drawn for you. What you need to do is make it a symbol with 9-slice scaling. You want to make only the wood shaft scale, as shown.</p>
+
+<p><img src="/images/illustrator-symbols/illustrator-symbols-arrow.jpg" class="size100 borderdarkgrey1" alt="Illustrator Symbols Arrow" /></p>
+
+<h3 id="symbol-sprayer">Symbol Sprayer</h3>
+
+<p>Create a symbol from the provided artwork. Use the Symbol Sprayer to spray instances on the page.</p>
+
+<p><img src="/images/illustrator-symbols/illustrator-symbols-sprayer.jpg" class="size100 borderdarkgrey1" alt="Illustrator Symbols Sprayer" /></p>
+
+<p>Use the Sprayer tools to create variations in their size, rotation, etcâ€¦</p>
+:ET

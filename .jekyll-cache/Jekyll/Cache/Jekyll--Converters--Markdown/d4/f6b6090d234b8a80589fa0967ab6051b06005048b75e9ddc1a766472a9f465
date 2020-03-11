@@ -1,0 +1,125 @@
+I"w<h3 id="scanning-strokes">Scanning Strokes</h3>
+
+<p>Use the Image Capture app to do your scans. It’s your best bet for all your scanning needs and it’s right in your Applications folder.</p>
+
+<p><img class="size50" alt="scanning-in-image-capture-app" src="/images/illustrator-custom-vector-brushes/scanning-in-image-capture-app.jpg" /></p>
+
+<p>Note: In this case the <em>Black &amp; White</em> setting really means <em>Greyscale</em>. Never use the bitmap scanning mode – ever. Scan in greyscale, then convert a copy of the file to bitmap mode in Photoshop.</p>
+
+<p>When we scan our painted stokes, there’s a lot of grey in them. We need to make this completely black. We’ll use Levels and Threshold Adjustment Layers to get there.</p>
+
+<p><img class="size75" alt="photoshop-adjustment-layers" src="/images/illustrator-custom-vector-brushes/photoshop-adjustment-layers.jpg" /></p>
+
+<p>Add a Levels Adjustment Layer first. Squeeze the sliders toward the center to increase the contrast. Once you’re satisfied with the result, you can add a Threshold Adjustment Layer to get rid of any remaining greys. You can use the slider to affect the black/white balance.</p>
+
+<p>The result will look pixelated, but this will be resolved when you use Image Trace in Illustrator. If ever you don’t like the traced result, go back to Photoshop to change the Adjustment Layer settings.</p>
+
+<p><img class="size50" alt="brush-stroke-art-black-brush-test" src="/images/illustrator-custom-vector-brushes/brush-stroke-art-black-brush-test.jpg" /></p>
+
+<p>Once the brush stroke is completely black, we’ll save it as a PSD file. Save the native file into your project folder as a .psd with all its layers, so you can come back to it to make changes if needed.</p>
+
+<h3 id="lets-make-vectors">Let’s Make Vectors</h3>
+
+<p>Create a new Illustrator document. The default letter size will do. Save it into your project folder.</p>
+
+<p>Go File &gt; Place… to import our brush Photoshop file. Select the image, then go Window &gt; Image Trace…</p>
+
+<p><img class="size25" alt="illustrator-image-trace" src="/images/illustrator-custom-vector-brushes/illustrator-image-trace.jpg" /></p>
+
+<p>We dial up Paths to have Illustrator trace every crumb of our black artwork. We reduce the Noise setting to actually increase the amount of noise.</p>
+
+<p>The final step is to click on the Expand button in the control bar to actually vectorize our artwork.</p>
+
+<p><img class="size50" alt="illustrator-expand-button" src="/images/illustrator-custom-vector-brushes/illustrator-expand-button.jpg" /></p>
+
+<p>It’s a good idea to make your brush stroke a Compound Path. This makes Illustrator treat the artwork as one chunk of vector despite the fact it’s made up of many pieces.</p>
+
+<p>Creating Brushes</p>
+
+<p>We will practice applying the brushes to artwork to experiment with stroke weight, colour, shapes, opacity and blending modes. The goal is to achieve a natural and organic look.</p>
+
+<p>We’ll create Illustrator brushes from vector artwork. We’ll create three different types of brushes.</p>
+
+<ol>
+  <li>Art Brushes</li>
+  <li>Pattern Brushes</li>
+  <li>Scatter Brushes</li>
+</ol>
+
+<h3 id="create-an-art-brush">Create an Art Brush</h3>
+
+<p>Drag our vector artwork into the Brushes Panel. Illustrator will ask which type of brush we want to make. In this case, it’s an Art Brush.</p>
+
+<p><img class="size25" alt="illustrator-brush-type-art-brush.jpg" src="/images/illustrator-custom-vector-brushes/illustrator-brush-type-art-brush.jpg" /></p>
+
+<p>We want to leave all but one setting in the Art Brush Options dialogue.</p>
+
+<p><img class="size50" alt="illustrator-art-brush-options" src="/images/illustrator-custom-vector-brushes/illustrator-art-brush-options.jpg" /></p>
+
+<p>Only change the colourization method to Tints, so we can edit the colour of the brush on the fly. If we don’t choose this, it will be an only-black brush.</p>
+
+<p>Now you can apply the brush to an existing stroke or brush with the Brush Tool to see what it looks like.</p>
+
+<p><img class="size50" alt="illustrator-my-first-brush-stroke" src="/images/illustrator-custom-vector-brushes/illustrator-my-first-brush-stroke.jpg" /></p>
+
+<p>You can get really interesting results once you start layering paint strokes with transparency and blend modes.</p>
+
+<h3 id="create-a-pattern-brush">Create a Pattern Brush</h3>
+
+<p>This brush is for line work. We’ll want a narrower brush to add a textured stroke to some of the shapes we draw. Sometimes the bigger Art Brush is too wide for this. A narrower brush stroke comes in handy.</p>
+
+<p><img class="size25" alt="illustrator-brush-type-pattern-brush" src="/images/illustrator-custom-vector-brushes/illustrator-brush-type-pattern-brush.jpg" /></p>
+
+<p>In the Pattern Brush Options dialogue, leave only the straight-away artwork. Set all the corner options to None.</p>
+
+<p>Remember to set Colourization Method to Tint so you can change the stroke colour of the brush.</p>
+
+<p><img class="size50" alt="illustrator-pattern-brush-options-dialogue" src="/images/illustrator-custom-vector-brushes/illustrator-pattern-brush-options-dialogue.jpg" /></p>
+
+<p>We’ll make our line-work brush a Pattern Brush so the artwork will repeat rather than stretch. The repetition won’t be apparent at all when you use it in your illustration.</p>
+
+<figure>
+  <img class="size100" alt="illustrator-pattern-brush-example" src="/images/illustrator-custom-vector-brushes/illustrator-pattern-brush-example.jpg" />
+<figcaption>
+  Pattern burshes repeat the stroke at you paint.
+</figcaption>
+</figure>
+
+<h3 id="create-a-scatter-brush">Create a Scatter Brush</h3>
+
+<p>A scatter brush is really fantastic for adding texture and shading to your painting in Illustrator.</p>
+
+<p><img class="size33" alt="brush-stroke-scatter-test-brush" src="/images/illustrator-custom-vector-brushes/brush-stroke-scatter-test-brush.jpg" /></p>
+
+<p>Go through the usual process:</p>
+
+<ol>
+  <li>Open the artwork in Photoshop.</li>
+  <li>Add Levels and Threshold Adjustment Layers to make the artwork black.</li>
+  <li>Save as a layered .psd file, then place it in Illustrator.</li>
+  <li>Image Trace the graphic with the previous settings.</li>
+  <li>Click the Expand button to vectorize the artwork.</li>
+</ol>
+
+<p>Drag the vectors into the Brushes Panel. Choose Scatter Brush as an option.</p>
+
+<p><img class="size33" alt="illustrator-scatter-brush-option" src="/images/illustrator-custom-vector-brushes/illustrator-scatter-brush-option.jpg" /></p>
+
+<p>We’ll need to edit the settings so the brush strokes overlap to make continuous spatter strokes. The best way to preview the result of the options is to create the brush with the default settings. Click OK. Apply the default brush to a stroke, then double-click on the brush again to open its settings. Turn on Preview.</p>
+
+<p><img class="size50" alt="illustrator-scatter-brush-settings" src="/images/illustrator-custom-vector-brushes/illustrator-scatter-brush-settings.jpg" /></p>
+
+<p>Name your brush. Edit the Size, Spacing, Scatter and Rotation settings to make the existing stroke look the way you want.</p>
+
+<p>Always make sure you change the Colourization Method to Tint to ensure you can change the stroke colour.</p>
+
+<h3 id="save-brush-libraries">Save Brush Libraries</h3>
+
+<p>Once you’ve created brushes, they’ll only be in the one Illustrator document. It’s best to export the brush library so you can load it into a new document.</p>
+
+<p><img class="size33" alt="illustrator-save-brush-library" src="/images/illustrator-custom-vector-brushes/illustrator-save-brush-library.jpg" /></p>
+
+<p>In the Brushes Panel menu, you can save and load brush libraries. It’s best to save your new custom brushes as a file on your computer so you can load them into any document.</p>
+
+<p>When you save the brushes file, it’s actually just an empty native .ai file. To load it into another document, simply go to the Brushes Panel menu, then choose <span class="command">Open Brush Library &gt; Other…</span></p>
+:ET

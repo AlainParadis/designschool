@@ -1,0 +1,54 @@
+I"1<p>A Gradient Mesh is a tool which allows you to add colours to your artwork in various directions and intensities. It’s more versatile and more intricate than a regular gradient. You can see some pretty <a href="https://www.google.ca/search?q=gradient+mesh&amp;client=safari&amp;rls=en&amp;tbm=isch&amp;tbo=u&amp;source=univ&amp;sa=X&amp;ved=0ahUKEwj65bvw9NnOAhUJJR4KHVRDAmMQsAQIHA&amp;biw=1335&amp;bih=1290" title="Examples of Gradient Meshes in Illustrator." target="_blank">amazing examples here</a>.</p>
+
+<p>If you’re starting out with Gradient Meshes, it’s best to use <span class="command">Object &gt; Gradien Mesh</span>. Then you can choose options. This makes your mesh structure a lot easier to control.</p>
+
+<p><img class="size75" alt="create-gradient-mesh-dialogue" src="/images/illustrator-gradient-mesh/create-gradient-mesh-dialogue.jpg" /></p>
+
+<p>The other way of creating a Mesh is to click with the Mesh Tool on a selected shape. This converts it to a Mesh Object. There’s a difference between clicking on the edge of the object’s shape and clicking on its surface with the Gradient Mesh Tool. Go ahead and give it a try.</p>
+
+<p><img alt="gradient-mesh-circle" src="/images/illustrator-gradient-mesh/gradient-mesh-circle.jpg" class="size50" /></p>
+
+<h3 id="drawing-meshes">Drawing Meshes</h3>
+
+<p>Drawing a sphere:</p>
+
+<ul>
+  <li>Draw a circle, then use <span class="command">Object &gt; Create Gradient Mesh</span>.</li>
+  <li>Use your Direct Selection tool to select one anchor point on the circle. Change its colour to make it look like a sphere.</li>
+  <li>You can also Shift-click with the Direct Selection tool in order to affect multiple Mesh Points.</li>
+</ul>
+
+<p>Drawing a square:</p>
+
+<ul>
+  <li>Create a square, then click on its edges with the Gradient Mesh tool to add Mesh Points.</li>
+  <li>Recolouring these points doesn’t really look good. You can see how Mesh Points can easily get out of control.</li>
+</ul>
+
+<p>We have the choice of applying colour to a whole Mesh Object, or you can use the Direct Selection tool to affect only selected anchor points.</p>
+
+<p>When you select an Anchor Point with the Direct Selection tool, the Control Handles which appear show you how far out the new colour will go. The longer the Control Handles, the larger the coloured area.</p>
+
+<p>You can affect Control Handles individually with the Convert Anchor Point tool.</p>
+
+<p>You can click with the Mesh Tool to add Control Points. You can Option-click on them to remove them.</p>
+
+<h3 id="meshes--irregular-shapes">Meshes &amp; Irregular Shapes</h3>
+
+<p>If you create irregular shapes like as shown below, the gradient mesh will be very difficult to control within that irregular shape. Better to create a simple shape, apply your mesh, then re-shape your object with something like Envelope Warp. All you need to do is expand it. So…</p>
+
+<ul>
+  <li>Draw a long rectangle.</li>
+  <li>Add a Gradient Mesh to it.</li>
+  <li>Use Envelope Distort to warp it.</li>
+  <li>Expand the shape.</li>
+</ul>
+
+<figure>
+    <img alt="gradient-mesh-irregular-shape" src="/images/illustrator-gradient-mesh/gradient-mesh-irregular-shape.jpg" style="size100" />
+<figcaption>
+  Irregular shapes can yeald irregular meshes, unless you use this technique.
+</figcaption>
+</figure>
+<p>Then your Gradient Mesh will better follow the profile of the shape.</p>
+:ET

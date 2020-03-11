@@ -1,0 +1,240 @@
+I",<h2 id="our-source-document">Our Source Document</h2>
+
+<p>Create a single InDesign document with 20 facing pages. Make sure to use all the settings shown below.</p>
+
+<figure>
+    <img class="size100" alt="indesign-books-formative-new-doc" src="/images/indesign-books/indesign-books-formative-new-doc.jpg" />
+<figcaption>
+  Save the document as Chapter-1 in a new folder called "InDesign-Books".
+</figcaption>
+</figure>
+
+<p>Let’s make some changes to our source document before we create a book. The first document we create is our master document. It’s going to be the model upon which all the other documents in the book are based. Do this:</p>
+
+<ol>
+  <li>Rename Layer 1 to ‘Text’. Create new layers ‘Images’ and ‘Folios’. Make sure ‘Text’ is above ‘Images’.</li>
+  <li>Change Basic Paragraph style to Minion Pro 9pt.</li>
+</ol>
+
+<h2 id="swatches">Swatches</h2>
+
+<p>Go to your Swatches panel. Select all unused swatches, then delete them. You should be left with only the basic None, Paper, Registration and Black.</p>
+
+<figure>
+    <img class="size100" alt="indesign-books-formative-swatches" src="/images/indesign-books/indesign-books-formative-swatches.jpg" />
+<figcaption>
+  Remove all unused swatches from the Swatches panel. Add custom CMYK colours throughout the Chapter 1 document. Make sure to give them a unique name.
+</figcaption>
+</figure>
+
+<p>Add the two Algonquin green swatches. The CMYK recipes are pictured above. Make sure you name them. This helps keep things in order when we sync our book file.</p>
+
+<h2 id="our-book-file">Our Book File</h2>
+
+<p>Now we can close the Chapter 1 InDesign document. Go to the folder in the Finder, duplicate the InDesign document using <span class="command">⌘-D</span>. Create seven documents in all. Name them:</p>
+
+<ul>
+  <li>FM.indd (for Front Matter)
+    <ul>
+      <li>This would be for our Table of Contents, dedication page, etc…</li>
+    </ul>
+  </li>
+  <li>Chapter-1.indd</li>
+  <li>Chapter-2.indd</li>
+  <li>Chapter-3.indd</li>
+  <li>Chapter-4.indd</li>
+  <li>Chapter-5.indd</li>
+  <li>EM.indd (for End Matter)
+    <ul>
+      <li>This document would have our index and anything else that goes at the end of the book.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Let’s create a new book file, then add the InDesign documents to it.</p>
+
+<figure>
+    <img class="size100" alt="indesign-books-formative-new-book" src="/images/indesign-books/indesign-books-formative-new-book.jpg" />
+<figcaption>
+  This is all our documents added to a Book file in order. Click to the left of Chapter 1 to make it the sync source.
+</figcaption>
+</figure>
+
+<div class="attentionbox achtung">
+  Leave all the InDesign documents open the whole time you're working on them. This will allow you to perform an <i>Undo</i> if you make a mistake.
+</div>
+
+<p>Make Chapter 1 our sync source, then open all the documents in the book. Open your Chapter 1 document.</p>
+
+<p>Now open the Front Matter and End Matter documents. Delete 16 pages from these documents so there are only 4 pages left in them. These are the pages for the table of contents, dedication page, index, etc… Note how the page numbering adjusts across all the doucuments in the book.</p>
+
+<p>You’ll need to Option-click on the Sync button ⇆, then turn on Master Pages.</p>
+
+<h2 id="master-pages">Master Pages</h2>
+
+<h3 id="pagination">Pagination</h3>
+
+<p>Create a new layer in the Layers panel called Folios. Add page numbers to A-Master master page on the Folios layer. Remember to set text alignment to Away from Spine in the paragraph style.</p>
+
+<figure>
+    <img class="size75" alt="indesign-books-formative-page-numbers" src="/images/indesign-books/indesign-books-formative-page-numbers.jpg" />
+<figcaption>
+  Add automatic page numbers on A-Master in Chapter 1 document.
+</figcaption>
+</figure>
+
+<div class="attentionbox tip">
+  Layers don't sync across book files unless you add artwork on layers on a master page. Then when master pages sync, the layers sync too.
+</div>
+
+<h2 id="lets-sync-some-content">Let’s Sync Some Content!</h2>
+
+<p>Each time you edit the Chapter 1 file, you can hit the sync button ⇆ to propagate the changes to the other files. Just make sure none of the documents are highlighted in the Book panel.</p>
+
+<figure>
+    <img class="size75" alt="indesign-books-formative-sync-book" src="/images/indesign-books/indesign-books-formative-sync-book.jpg" />
+<figcaption>
+  <ol>
+    <li>If a doc is targeted, only that one will sync.</li>
+    <li>In this case, they'll all sync.</li>
+  </ol>
+</figcaption>
+</figure>
+
+<p>If you highlight a document in the Book panel, only it will sync with the source file. It’s best to have no files targeted while syncing. I’ll remind you again, keep all documents open in InDesign so you can Undo a sync if you make a mistake.</p>
+
+<h3 id="page-decorations">Page Decorations</h3>
+
+<p>On the Folios layer and on the A-Master, add a 3p0 black bar across the top of the spread using the Rectangle tool. Make sure you reach the bleed line on three sides.</p>
+
+<figure>
+    <img class="size100" alt="indesign-books-formative-page-decoration" src="/images/indesign-books/indesign-books-formative-page-decoration.jpg" />
+<figcaption>
+  A black bar is placed along the tops of the spreads on A-Master, on a Folios layer.
+</figcaption>
+</figure>
+
+<div class="attentionbox tip">
+  Use ⌘ ~ to cycle between open InDesign documents.
+</div>
+
+<h2 id="chapters-titles">Chapters Titles</h2>
+
+<p>We’re going to create automatic chapter numbers across documents in our book. To do so, we need to make the Chapter 1 document the first chapter in the book, otherwise, it’s going to count our Front Matter document as the first chapter.</p>
+
+<figure>
+    <img class="size100" alt="indesign-books-formative-chapters" src="/images/indesign-books/indesign-books-formative-chapters.jpg" />
+<figcaption>
+  These are all the steps needed to create automatically updating chapter numbers for your book.
+</figcaption>
+</figure>
+
+<ol>
+  <li>Hold Option, then double-click on the page numbers for Chapter 1 in the Book panel. Set the numbering to start at 1.</li>
+  <li>Create a new Master Page called B-Chapter.</li>
+  <li>On the B-Chapter master page. Create a text frame on the ‘Text’ layer. Type ‘Chapter’. Style it. Insert the text variable as shown.</li>
+  <li>Type a chapter name in the same text frame in its own paragraph style. We’ll be using this for a Running Header.</li>
+</ol>
+
+<p>Once you’ve synced the chapter number and title info, you need to go to each document to apply the Chapter master page to the first page of each document.</p>
+
+<h3 id="running-headers">Running Headers</h3>
+
+<p>Running headers take text in a specific paragraph style, then repeat that text wherever you insert it. It’s great for repeating chapter titles at the bottom of each page.</p>
+
+<figure>
+    <img class="size100" alt="indesign-books-formative-runningheader" src="/images/indesign-books/indesign-books-formative-runningheader.jpg" />
+<figcaption>
+  Set your chapter titles in a specific paragraph style so running headers can pick them up.
+</figcaption>
+</figure>
+
+<p>Go to the A-Master master page. Add a running header in the same text frame as the page number. Simply put your cursor in the frame. Hit <span class="command">Shift-Tab</span> to type a right-aligned tab. Then…</p>
+
+<ol>
+  <li>Go <span class="command">Type &gt; Text Variables &gt; Define…</span></li>
+  <li>Click <span class="command">New</span></li>
+  <li>Name it ‘Chapter Titles’</li>
+  <li>Select Running Header (Paragraph Style)</li>
+  <li>Select the ‘Chapter Titles’. Click <span class="command">OK</span>.</li>
+  <li>Click <span class="command">Insert</span> from the Text Variables dialogue.</li>
+</ol>
+
+<p>You’ll see &lt;Chapter Titles&gt; appear in the text frame. This will reproduce the text that’s in Chapter Titles paragraph style. You’ll need to apply Master to the first page, then unlock the frame by <span class="command">Shift-⌘-clicking</span> on it.</p>
+
+<p>Now, go to each of your book documents to drag B-Chapter onto the first page’s icon in the Pages panel. Go to the first page, then type in a chapter title. It will automatically populate to all the pages. <em>Magic!</em></p>
+
+<div class="attentionbox tip">
+  You may need to go to the Book panel menu to hit 'Update all numbers'.
+</div>
+
+<h2 id="numbered-lists">Numbered Lists</h2>
+
+<p>Create a defined numbered list with the text below. Make it continue from document Chapter 1 to Chapter 4. Don’t worry, when you copy the text, it won’t grab the bullets.</p>
+
+<figure>
+    <img class="size50" alt="indesign-books-formative-list-style" src="/images/indesign-books/indesign-books-formative-list-style.jpg" />
+<figcaption>
+  This is the paragraph style which styles the defined numbered lists.
+</figcaption>
+</figure>
+
+<p>You need to start with the Numbered List paragraph style. Remember to make the Tab space big enough to accommodate a two-digit number. You can even create a Character Style which will style the numbers differently than the text.</p>
+
+<p>Copy the first part below, then paste it onto the Text layer on a page in the Chapter 1 document.</p>
+
+<h3 id="first-part-of-the-list">First part of the list</h3>
+
+<ul>
+  <li>This is the first list item.</li>
+  <li>This is number 2 in the list.</li>
+  <li>Never two without three.</li>
+  <li>Four’s a croud.</li>
+  <li>Five little piggies went to the market.</li>
+</ul>
+
+<p>Switch to the Chapter 4 document. Paste this second part of the list onto one of its pages.</p>
+
+<h3 id="second-part-of-the-list">Second part of the list</h3>
+
+<ul>
+  <li>This starts the second part of one list.</li>
+  <li>Lucky number seven.</li>
+  <li>Eight is enough.</li>
+  <li>Nine Inch Nails is a great band.</li>
+  <li>These have been the ten commandments of design.</li>
+</ul>
+
+<div class="attentionbox tip">
+  You may need to go to the Book panel menu to hit 'Update all numbers'.
+</div>
+
+<figure>
+    <img class="size100" alt="indesign-books-number-lists" src="/images/indesign-books/indesign-books-formative-lists.jpg" />
+<figcaption>
+  See how the list starts in document Chapter 2, then the numbers continue in document Chapter 4.
+</figcaption>
+</figure>
+
+<h2 id="table-of-contents">Table of Contents</h2>
+
+<p>Build a two-level Table of Contents on the first page of the FM document, including all the chapter numbers and chapter titles in the book file.</p>
+
+<figure>
+    <img class="size33" alt="indesign-books-formative-toc-example" src="/images/indesign-books/indesign-books-formative-toc-example.jpg" />
+<figcaption>
+  Your table of contents will have two levels. All text is styled with paragraph or character styles.
+</figcaption>
+</figure>
+
+<p>This will likely take a progressive edits. You can place your cursor in the text frame, make changes to the TOC settings. They’ll update automatically.</p>
+
+<figure>
+    <img class="size100" alt="indesign-books-formative-toc-settings" src="/images/indesign-books/indesign-books-formative-toc-settings.jpg" />
+<figcaption>
+  Carefully replicate all of these settings to build your book's table of contents.
+</figcaption>
+</figure>
+
+<p><span class="fs15right">InDesign books… <em>like a boss</em>.</span></p>
+:ET

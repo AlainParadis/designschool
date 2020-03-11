@@ -1,0 +1,33 @@
+I"�<p>Sometimes your InDesign page layout is rather complex. If you want a distraction-free, text-only view of your document, the Story Editor is the way to go. All you need to do is hit <span class="command">⌘-Y</span>.</p>
+
+<figure>
+  <img class="size100" alt="indesign-story-editor-overview" src="/images/indesign-story-editor/indesign-story-editor-overview.jpg" />
+<figcaption>
+  <ol>
+    <li>Paragraph Style</li>
+    <li>Measurement from top of frame</li>
+    <li>Selected text</li>
+    <li>Overset text</li>
+  </ol>
+</figcaption>
+</figure>
+
+<h3 id="edit-in-style">Edit in Style</h3>
+
+<p>You can taylor the appearance of the Story Editor to suit your taste. Hit <span class="command">⌘-K</span> to go to InDesign’s Preferences.</p>
+
+<figure>
+  <img class="size75" alt="indesign-story-editor-preferences" src="/images/indesign-story-editor/indesign-story-editor-preferences.jpg" />
+<figcaption class="width75">
+  This is InDesign's preferences for the Story Editor display. The settings you choose here are based on your personal preference.
+</figcaption>
+</figure>
+
+<h3 id="power-editing">Power Editing</h3>
+
+<p>If you really want to speed through a text stying job quickly, what you can do is set a keyboard shortcut for your style sheets. Open your story editor, select text, then hit the appropriate keyboard shortcuts to apply your styles.</p>
+
+<p><img class="size100" alt="indesign-paragraph-styles-shortcut" src="/images/indesign-story-editor/indesign-paragraph-styles-shortcut.jpg" /></p>
+
+<p>You can focus on the Story Editor window. Move your mouse with your keyboard’s arrow keys, then hit the desired style’s keyboard shortcut. Go back to layout view to check your work. You’ll blast through your document really quickly.</p>
+:ET

@@ -1,0 +1,36 @@
+I"�<p>Drop caps serve as a clear visual indicator of the start of an important story in a magazine, web site or other type of publication. They can also be used to indicate a change of topic within the story, though special attention to hierarchy needs to be paid.</p>
+
+<p><img class="size75" alt="indesign-drop-caps-style" src="/images/indesign-styling-drop-caps/indesign-drop-caps-style.jpg" /></p>
+
+<p>In InDesign, a drop cap is created with a Character Style within a Paragraph Style. This gives you the freedom of creating a drop cap with a different font than the body text. It can be set in a different colour too.</p>
+
+<p>It’s best to create a new paragraph style for your drop cap. In that new style’s options, go to <span class="command">Drop Caps &amp; Nested Styles</span>.</p>
+
+<p>Choose how many lines tall you want the drop cap to be. You can even specify more than one letter.</p>
+
+<p><img class="size75" alt="indesign-drop-caps-character-style" src="/images/indesign-styling-drop-caps/indesign-drop-caps-character-style.jpg" /></p>
+
+<p>Your third setting is to create a Character Style. When you do so, never specify the type size. Let the drop cap settings do that. Click <span class="command">OK</span>, the accept your Character Style settings and return to the Paragraph Style dialogue. Click <span class="command">OK</span> again and you’re done.</p>
+
+<p><img class="size75" alt="indesign-drop-cap-completed" src="/images/indesign-drop-caps/indesign-drop-cap-completed.jpg" /></p>
+
+<h3 id="custom-drop-caps">Custom Drop Caps</h3>
+
+<p>InDesign’s drop cap functionality is effective and easy to use. What if you want a more decorative drop cap? Well, Illustrator can help you out here. This process will be more time-consuming, but the result has much more impact.</p>
+
+<p>We’ll draw a custom letter in Illustrator, then place it as an image in InDesign.</p>
+
+<p><img class="size75" alt="indesign-drop-cap-custom-illustrator" src="/images/indesign-drop-caps/indesign-drop-cap-custom-illustrator.jpg" /></p>
+
+<p>Sidle on over to Illustrator to create a custom letter to start your feature story. Follow the steps shown above. Once you have a completed letter, simplify it as much as possible by using <span class="command">Object &gt; Expand…</span>.</p>
+
+<p><img class="size50" alt="indesign-drop-cap-save-a-copy" src="/images/indesign-drop-caps/indesign-drop-cap-save-a-copy.jpg" /></p>
+
+<p>Copy the artwork onto a separate artboard, then save a copy of it as a PDF to place in InDesign.</p>
+
+<p>In InDesign, place your cursor inside the first text frame, where you want the drop cap to be. You need to use <span class="command">File &gt; Place</span> to import your drop cap file.</p>
+
+<p><img alt="drop-cap-custom-placed-indesign" src="/images/indesign-drop-caps/drop-cap-custom-placed-indesign.jpg" /></p>
+
+<p>This will make the Illustrator file an anchored object in InDesign. This makes it that if you move the text frame, the drop cap will move with it.</p>
+:ET

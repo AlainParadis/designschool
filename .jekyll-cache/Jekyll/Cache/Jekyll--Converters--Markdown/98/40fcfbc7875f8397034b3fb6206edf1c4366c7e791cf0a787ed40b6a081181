@@ -1,0 +1,41 @@
+I"�
+<p>Let’s build the file below to get the hang of creating and managing different types of layers.</p>
+
+<p><img class="size100" alt="photoshop-layers-exercise" src="/images/photoshop-layers/photoshop-layers-exercise.jpg" /></p>
+
+<p>Start by creating a letter-sized landscape document.</p>
+
+<p><img class="size50" alt="photoshop-layers-document-setup" src="/images/photoshop-layers/photoshop-layers-document-setup.jpg" /></p>
+
+<p>We’ll drag the photos into our canvas so they become Smart Objects. This allows for non-destructive resizing.</p>
+
+<p>We need to create guides to line up all of our content in a structured layout. Go <span class="command">View &gt; New Guide Layout…</span></p>
+
+<p><img class="size50" alt="photoshop-new-guide-layout" src="/images/photoshop-layers/photoshop-new-guide-layout.jpg" /></p>
+
+<p>We’ll use the Free Transform command to resize photos to fit our grid. Make sure you import the provided title text. It’s an Illustrator document.</p>
+
+<p><img class="size100" alt="photoshop-exercise-fit-images" src="/images/photoshop-layers/photoshop-exercise-fit-images.jpg" /></p>
+
+<p>Use the vector rectangle tool to create a rectangle behind the four photos. We can use the fill controls in the Control Bar to choose a colour.</p>
+
+<p><img class="size100" alt="photohsop-exercise-shape-layer" src="/images/photoshop-layers/photohsop-exercise-shape-layer.jpg" /></p>
+
+<p>Next, we’ll apply a stroke effect to the four smaller photos. To do this, go to the Fx menu at the bottom of the Layers panel and choose Stroke.</p>
+
+<p><img class="size100" alt="photohsop-exercise-stroke-effect" src="/images/photoshop-layers/photohsop-exercise-stroke-effect.jpg" /></p>
+
+<p>Add an 8pt white stroke to the photos. We’ll apply the effect to the layer group so it applies to all the layers inside it.</p>
+
+<p><img class="size100" alt="photoshop-exercise-area-type" src="/images/photoshop-layers/photoshop-exercise-area-type.jpg" /></p>
+
+<p>To fill your frame with text, you can go to the Type menu: Type &gt; Paste Lorem Ipsum. You can change the colour of your type from the colour control in the Control Bar. Target your type tool and the type layer to do so.</p>
+
+<p>Lastly, we can make our title graphic stand out a bit more with Layer Effects. We can use a Colour Overlay and an Outer Glow or a Drop Shadow.</p>
+
+<p><img class="size100" alt="photoshop-exercise-layer-effects" src="/images/photoshop-layers/photoshop-exercise-layer-effects.jpg" /></p>
+
+<p>There we go. We’ve successfully used the Layers Panel to create a layout in Photoshop in a non-destructive workflow.</p>
+
+<p><img class="size100" alt="photoshop-layers-exercise" src="/images/photoshop-layers/photoshop-layers-exercise.jpg" /></p>
+:ET

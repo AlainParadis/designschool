@@ -1,0 +1,79 @@
+I"*<p>Adjustment Layers are our go-to tools for adjusting colours in a photo in a way which allows us to easily edit our changes. They’re a special type of layer which affects everything below them in the stacking order, unless it’s masked.</p>
+
+<p><img class="size75" alt="photohsop-adjustment-layers-panels" src="/images/photoshop-adjustment-layers/photoshop-adjustment-layers-panels.jpg" /></p>
+
+<p>You can add an Adjustment Layer on an image from the button at the bottom of the Layers panel, as shown above. The Adjustment Layer appears above the targeted layer in the stacking order. It affects all layers below it.</p>
+
+<h3 id="masking">Masking</h3>
+
+<p><img class="size33" alt="photoshop-adjustment-layers-mask" src="/images/photoshop-adjustment-layers/photoshop-adjustment-layers-mask.jpg" /></p>
+
+<p>All Adjustment Layers come with a mask. In the image above, the adjustments affects the layer below only where the mask is white.</p>
+
+<p>Adjustment Layers allow you to edit colours in photos without touching the photo’s original pixels. They’re overlays that sit above (or between) your layers to affect the layers below. It’s like looking through rose-coloured glasses. Adjustment Layers come with a Layer Mask built in. We’ll experiment colouring part of a photo.</p>
+
+<h3 id="properties">Properties</h3>
+
+<p><img class="size33" alt="photohsop-adjustment-layers-properties" src="/images/photoshop-adjustment-layers/photohsop-adjustment-layers-properties.jpg" /></p>
+
+<p>When you add an Adjustment Layer, the Properties panel appears to allow you to edit its settings. The Properties panel changes depending on the type of Adjustment Layer you’re using.</p>
+
+<h3 id="opacity--blend-modes">Opacity &amp; Blend Modes</h3>
+
+<p><img class="size33" alt="photohsop-adjustment-layers-opacity" src="/images/photoshop-adjustment-layers/photohsop-adjustment-layers-opacity.jpg" /></p>
+
+<p>You can also edit the opacity and the blend mode of an Adjustment Layer to affect how it interacts with the layers below.</p>
+
+<p>You can explore Adjustment Layers freely because they’re non-destructive. You can simply edit settings or delete the Adjustment Layer if things don’t work out. Keep in mind, that the stacking order in your Layers Panel counts.</p>
+
+<h3 id="examples">Examples</h3>
+
+<h4 id="colourizing">Colourizing</h4>
+
+<p>Let’s open the leaf photo to colourize the leaf itself.</p>
+
+<figure>
+    <img class="size100" alt="photoshop-adjustment-layers-leaf" src="/images/photoshop-adjustment-layers/photoshop-adjustment-layers-leaf.jpg" />
+<figcaption>
+  In only a few steps we can edit the colour in selected areas of a photo in a non-destructive workflow.
+</figcaption>
+</figure>
+
+<p>We’ll use <span class="command">Select &gt; Colour Range…</span> to create a marquee around the leaf since it has a unique colour in the photo to start with. Now we’re ready to add our Hue/Saturation Adjustment Layer. Once our mask is created, we need to brush with black and with white to clean it up. Adjust the colour of the leaf in the Properties panel.</p>
+
+<h3 id="correcting-colour">Correcting Colour</h3>
+
+<p>Let’s use Levels Adjustment Layers to increase the range of colour in this photo.</p>
+
+<figure>
+    <img class="size100" alt="photoshop-adjustment-layers-correction" src="/images/photoshop-adjustment-layers/photoshop-adjustment-layers-correction.jpg" />
+<figcaption>
+  See how much improved the photo is with a couple of quick non-destructive fixes.
+</figcaption>
+</figure>
+<p>We’ll also enhence the logo that’s painted on the building. Once you’re done, it’s best to proof the photo in its final intent ie: web, print…</p>
+
+<h3 id="blending-adjustment-layers">Blending Adjustment Layers</h3>
+
+<p>We’ll colourize some of the berries in this photo as seamlessly as possible.</p>
+
+<p>The Adjustment Layer is acting like a coloured acetate over our photo. The Hue Blend Mode helps the colour blend with the paint below.</p>
+
+<blockquote>
+  <p>[The Hue blend mode] creates a result colour with the luminance and saturation of the base colour and the hue of the blend colour.
+<cite><a href="https://helpx.adobe.com/photoshop/using/blending-modes.html" title="Adobe's notes on the Blending Modes." target="_blank">Adobe</a></cite></p>
+</blockquote>
+
+<p><img class="size100" alt="photoshop-adjustment-layers-berries" src="/images/photoshop-adjustment-layers/photoshop-adjustment-layers-berries.jpg" /></p>
+
+<p>These are the steps:</p>
+
+<ul>
+  <li>Add a Hue/Saturation adjustment layer.</li>
+  <li>Name your adjustment layer.</li>
+  <li>Click <span class="command">Colourize</span> in the Properties Panel</li>
+  <li>Fill the adjustment layer’s mask with black with <span class="command">Edit &gt; Fill &gt; Black</span>.</li>
+  <li>Paint berries with a very soft brush to change their colour.</li>
+  <li>Set the blend mode of your adjustment layer to Hue.</li>
+</ul>
+:ET

@@ -1,0 +1,135 @@
+I"�<p>Download the provided text. Create a new InDesign document with these settings. Pay attention to each field in this dialogue.</p>
+
+<figure>
+    <img class="size75" alt="indesign-new-document-dialogue" src="/images/indesign-build-a-document/indesign-new-document-dialogue.jpg" />
+<figcaption>
+  Carefully set up your document with these settings. This is what your pages panel should look like.
+</figcaption>
+</figure>
+
+<h3 id="layers">Layers</h3>
+
+<p>Rename Layer 1 to Text. Create a new layer. Call it Images.</p>
+
+<h3 id="master-pages">Master Pages</h3>
+
+<p>Let’s create our Master Pages based on our sketches. In the panel below, 2C &amp; 3C refer to how many columns wide our text frames are.</p>
+
+<p>Rename <em>A-Master</em> to <em>A-Grid-Folio</em>. Place guides on the page using <span class="command">Layout &gt; Create Guides…</span>, like this:</p>
+
+<figure>
+    <img class="size100 borderlimegreen1" alt="indesign-master-page-setup" src="/images/indesign-build-a-document/indesign-master-page-setup-create-guides.jpg" />
+<figcaption>
+  Set up your Master Pages like this. Note which masters are based on which.
+</figcaption>
+</figure>
+
+<p>Continue to create Master Pages named as they are above. They’ll all be blank as you create them.</p>
+
+<div class="attentionbox shortcut">
+  Use ⌘-; to show and hide guides.
+</div>
+
+<figure>
+    <img class="size100" alt="indesign-master-pages-layouts" src="/images/indesign-build-a-document/indesign-master-pages-layouts.jpg" />
+<figcaption>
+  Create text and image frames on your Master Pages as shown above.
+</figcaption>
+</figure>
+
+<p>Remember to place all image frames on the Images layer. Place the text frames on the Text layer.</p>
+
+<h3 id="styling-text">Styling Text</h3>
+
+<p>Start by activating the fonts we’re going to need for our layout.</p>
+
+<ul>
+  <li><a href="https://fonts.adobe.com/fonts/abril" title="Activate Abril Font" target="_blank">AbrilText-Italic</a></li>
+  <li>AbrilText-Regular</li>
+  <li><a href="https://fonts.adobe.com/fonts/proxima-nova" title="Activate Proxima Nova" target="_blank">ProximaNova-Bold</a></li>
+  <li>ProximaNova-Extrabld</li>
+  <li>ProximaNova-Regular</li>
+  <li>ProximaNova-RegularIt</li>
+  <li>ProximaNova-Medium</li>
+  <li>ProximaNova-Semibold</li>
+</ul>
+
+<p>Now, create these paragraph styles.</p>
+
+<figure>
+    <img class="size50" alt="indesign-paragraph-style-names" src="/images/indesign-build-a-document/indesign-paragraph-style-names.jpg" />
+<figcaption>
+  These are the descriptions for all the paragraph styles.
+</figcaption>
+</figure>
+
+<h3 id="apply-masters">Apply Masters</h3>
+
+<p>Let’s apply Master Pages to our document pages. Use the provided PDF as a guide. There may be some minor differences. It’s fine. Sometimes we riff off a Master Page.</p>
+
+<div class="attentionbox achtung">
+  We'll only format the first story. Once it's completely set up, we'll add more pages to our document, then format the rest.
+</div>
+
+<h3 id="automatic-page-numbers">Automatic Page Numbers</h3>
+
+<p>Add page numbers on A-Grid-Folios using <span class="command">Shift-⌥-⌘-N</span>. Give the numbers their own paragraph style named Folios. It’s a good idea to set the alignment of the page folios to Away from Spine or Center.</p>
+
+<h4 id="grep-style">GREP Style</h4>
+
+<p>In your body copy paragraph style, go to GREP Styles. Make it that each instance of the words <span style="color: red;">Supreme Court</span> is coloured red.</p>
+
+<h4 id="drop-cap">Drop Cap</h4>
+
+<figure>
+    <img class="size33 borderlimegreen1" alt="indesign-drop-cap-formatting" src="/images/indesign-build-a-document/indesign-drop-cap-formatting.jpg" />
+<figcaption>
+  Format your drop cap in a separate paragraph style.
+</figcaption>
+</figure>
+
+<p>Create a Drop Cap Paragraph Style. Use the font Proxima Nova Bold for your drop cap. If you need a reminder of the process, <a href="/information/drop-caps.html" title="How to make a Drop Cap in InDesign">read this…</a></p>
+
+<h3 id="pull-quote">Pull Quote</h3>
+
+<p>Use the provided text to create a pull quote as shown on the design guide.</p>
+
+<figure>
+    <img class="size100 borderlimegreen1" alt="indesign-pull-quote-formatting" src="/images/indesign-build-a-document/indesign-pull-quote-formatting.jpg" />
+<figcaption>
+  Format a pull-quote, then add it to the CC Libraries panel.
+</figcaption>
+</figure>
+
+<h3 id="sidebar-story">Sidebar Story</h3>
+
+<p>Use the provided text to create a sidebar story as shown on the design guide.</p>
+
+<figure>
+  <img class="size100 borderlimegreen1" alt="indesign-sidebar-story-formatting" src="/images/indesign-build-a-document/indesign-sidebar-story-formatting.jpg" />
+<figcaption>
+  Style the sidebar story as shown. Note how the box is slightly wider than the margins.
+</figcaption>
+</figure>
+
+<h3 id="story-ender">Story-Ender</h3>
+
+<p>Create a small green square. Paste it into a text frame. Insert a Non-Breaking Space character before it. Make sure the leading matches that of the Body Copy text.</p>
+
+<figure>
+    <img class="size75 borderlimegreen1" alt="indesign-story-ender" src="/images/indesign-build-a-document/indesign-story-ender.jpg" />
+<figcaption>
+  A story-ender indicates the story ends here.
+</figcaption>
+</figure>
+
+<h3 id="more-pages">More Pages…</h3>
+
+<p>Now that we have all our design elements set up, it’s simple to add pages to our InDesign document. Let’s increase it to 12 pages.</p>
+
+<div class="attentionbox reminder">
+  Reminder: A publication always needs to have a number of pages divisible by 4.
+</div>
+
+<p>Let’s create the rest of the document based on the provided PDF design guide.</p>
+:ET

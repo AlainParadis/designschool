@@ -1,0 +1,50 @@
+I"�<p>Before we get started, we’ll set up our panels. Hit <span class="command">Shift-Tab</span> to hide your panels. Go to the Type menu, then check <span class="command">Paragraph Styles</span> and <span class="command">Character Styles</span>. Stretch them so they’re longer, then dock them to the edge of your screen.</p>
+
+<h3 id="nested-styles">Nested Styles</h3>
+
+<p>Nested Styles are Character Styles which are applied from inside a Paragraph Style based on text delimeters. Nested styles apply Character Styles until they run into a delimeter you establish in the Paragraph Style’s settings.</p>
+
+<p><img class="size100" alt="indesign-nested-styles-example" src="/images/indesign-next-and-nested-styles/indesign-nested-styles-example.jpg" /></p>
+
+<p>To create Nested Styles, you first create a Paragraph Style. Go to the <span class="command">Drop Caps and Nested Styles</span> tab. Create a new Nested Style there. The key to nesting is using the text to delimit the styles. You can do something like:</p>
+
+<p>Apply Character Style x through the first sentence.</p>
+
+<p>In this case the style simply gets applied until the first period glyph or exclamation mark or question mark. Then, you could:</p>
+
+<p>Apply Character Style <em>None</em> up to 1 digit.</p>
+
+<p>This will make the style stop when it bumps into a number glyph.</p>
+
+<p>Apply style z through 1 forced line break</p>
+
+<p>This will apply the style until it encounters the end of the paragraph.</p>
+
+<p>Notice that you can choose to apply the style either <span class="command">Through</span> or <span class="command">Up To</span> the delimeter. This is pretty handy.</p>
+
+<p>All this is done inside the Paragraph Style. The Character Styles get applied according to the rules that are established in the Paragraph Style.</p>
+
+<p>If you don’t have a delimeter to use in your text already, you can add one manually. That’s what the <em>End Nested Style Character</em> is for.</p>
+
+<p><img class="size75" alt="nested-style-delimeters" src="/images/indesign-next-and-nested-styles/nested-style-delimeters.jpg" /></p>
+
+<p>For this to work, you need to enter the special character in your text. To do so, place your cursor where you want the character, then right-click.</p>
+
+<p><img class="size75" alt="indesign-end-nested-style-here" src="/images/indesign-next-and-nested-styles/indesign-end-nested-style-here.jpg" /></p>
+
+<p>The character itself doesn’t show. It doesn’t print. It doesn’t take any space in the text. Once it’s in the text, the Nested Style will stop at this character. InDesign really does have a solution for every problem you can through at it.</p>
+
+<h3 id="next-styles">Next Styles</h3>
+
+<p>Next Styles are set in the first pane of the Paragraph Styles panel. A Next Style is exactly what the name implies. When you create a Paragraph Style, you simply tell InDesign which style comes after the current one. Once you establish Next Styles, you can establish a pattern.</p>
+
+<p><img class="size100" alt="indesign-next-styles-sequence" src="/images/indesign-next-and-nested-styles/indesign-next-styles-sequence.jpg" /></p>
+
+<p>B is the Next Style in A. C is the Next Style in B. In C, you set the Next Style as B. This makes it that InDesign applies the styles in sequence: A, B, C, B, C, B, C, and so on.</p>
+
+<p>Once you have these styles established in sequence, you can apply them all at once. InDesign switches to the next style in the sequence at the start of a new paragraph.</p>
+
+<p><img class="size100" alt="indesign-next-styles-applied" src="/images/indesign-next-and-nested-styles/indesign-next-styles-applied.jpg" /></p>
+
+<p>All that was done to style this text was to select it, right-click on the style’s name, then click <span class="command">Apply “First” then Next Style</span>. This styles the whole thing in one go. Cool eh? That’s Next Styles in a nutshell. They’re most excellent for styling repetitive text like directories or listings.</p>
+:ET

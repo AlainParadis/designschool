@@ -1,0 +1,58 @@
+I"�<p>Let’s create this simple scene. It’s made up of a background photo from the Adobe Dimension Image assets library. We’ll use the coffee cup from the library, too. To finish it off, we’ll import the provided .obj file of the spoon.</p>
+
+<p><img class="size100" alt="formative-dimension-window" src="/images/dimension/formative-dimension-window.jpg" /></p>
+
+<h4 id="prepping-our-decal-art">Prepping Our Decal Art</h4>
+
+<p>We need to start in Photoshop. Create an 8” x 8” @ 300dpi canvas. Drag both logos from Finder into the canvas. Save your Photoshop file into the 01-appleseed, johnny, #, dimension exercise folder.</p>
+
+<p><img class="size75" alt="formative-psd-file" src="/images/dimension/formative-psd-file.jpg" /></p>
+
+<p>Make sure to delete the background layer in your Photoshop file. Save this as a .psd file. Now we’re ready to create our Dimension document. The default dimensions are fine, 1024px x 768px.</p>
+
+<p>Save your Adobe Dimension file into the 01-appleseed, johnny, #, dimension folder.</p>
+
+<h4 id="background-image">Background Image</h4>
+
+<p>Place the asset called Table in the scene, then click to match it to our scene. Dimension will offer to automatically create correct lighting, match sunlight and camera perspective. This will change our scene dimensions to match the photo’s size.</p>
+
+<div class="attentionbox achtung">
+  Keep an eye on scene dimensions while importing a background photo. It could make a dramatic change to your scene size based on a photo you import, making it too large or too small.
+</div>
+
+<p><img class="size100" alt="formative-background-import" src="/images/dimension/formative-background-import.jpg" /></p>
+
+<h4 id="position-the-ground-plane">Position the Ground Plane</h4>
+
+<p>Before we place object models in our scene, we need to ensure the ground plane is where we want it. To that end, we need to drag it down onto the surface of the table.</p>
+
+<p><img class="size100" alt="formative-move-horizon-line" src="/images/dimension/formative-move-horizon-line.jpg" /></p>
+
+<h4 id="our-first-object">Our First Object</h4>
+
+<p>Now, we’re ready to place the coffee cup on the table. Find it in the assets library, then click on it. It should position itself on the ground plane, which is matched to the table’s surface. It’s always a good idea to run <span class="command">Image &gt; Match Image…</span> after placing an object in a scene.</p>
+
+<p>Let’s adjust the lighting on the Coffee Cup object to make it brighter. We do this in the cup’s Sunlight settings.</p>
+
+<h4 id="place-a-decal">Place a Decal</h4>
+
+<p>In Adobe Dimension, Decals are artwork which are placed on surfaces of objects. In this case, we’ll place the Photoshop file we created earlier on the cup’s material. In the Scene pane, we need to specifically target the cup’s material to apply the decal. When you do, you’ll see the Decal button in the Actions pane.</p>
+
+<p><img class="size10" alt="formative-move-horizon-line" src="/images/dimension/dimension-decal-tool.svg" /></p>
+
+<p>Simply click the Decal button, then choose the Photoshop file in Finder. To edit the decal’s appearance, target it in the Scene pane, then adjust its settings in the Properties pane.</p>
+
+<p><img class="size100" alt="formative-second-cup" src="/images/dimension/formative-second-cup.jpg" /></p>
+
+<p>Let’s create a second cup (no pun intended) targeting the existing one, then typing <span class="command">⌘-D</span>. Position both cups in your scene using the Move tool.</p>
+
+<h4 id="import-the-spoon">Import the Spoon</h4>
+
+<p><img class="size100" alt="formative-spoon-properties" src="/images/dimension/formative-spoon-properties.jpg" /></p>
+
+<p>Let’s place the spoon .obj file in the scene using <span class="command">⌘-I</span>. Position it to lean on the cup, as shown above. Edit the surface properties to increase the spoon’s reflectiveness. Change its Base Colour, Roughness &amp; Metallic properties.</p>
+
+<h4 id="ready-to-render">Ready to Render</h4>
+
+<p>Make sure your file is saved. Switch to <span class="command">Render</span> mode by typing <span class="command">Control-Tab</span>. Save the Photoshop file into the 00-dimension-practice folder.</p>
+:ET

@@ -1,0 +1,42 @@
+I"�<p>Using all the skills we’ve practiced to date, you will build the layout shown in the provided design guide. You’ll be replicating the design in the guide. There may be very small differences, like different line endings. That’s ok.</p>
+
+<h4 id="document-creation">Document Creation</h4>
+
+<p>Create a single-page document with 2p0 margins all around. Make sure you adhere to all the settings shown below.</p>
+
+<p><img class="size33" alt="document-setup" src="/images/indesign-vw-layout/document-setup.jpg" /></p>
+
+<p>Make sure you save your document like this (with your own name):</p>
+
+<div class="attentionbox filename">
+  Appleseed-Johnny-#-VW-layout.indd
+</div>
+
+<p>This will make it that your folder will automatically be named properly once you’re done.</p>
+
+<h4 id="setting-base-paragraph-styles">Setting Base Paragraph Styles</h4>
+
+<p>As soon as you’ve created your document, make sure you set your Basic Paragraph Style to Futura PT Book 9pt.</p>
+
+<p><img class="size50" alt="paragraph-styles-panel" src="/images/indesign-vw-layout/paragraph-styles-panel.jpg" /></p>
+
+<p>Everything that’s in Futura PT needs to be based on the Basic Paragraph Style.</p>
+
+<div class="attentionbox tip">
+  Futura PT 9/12 means that it's 9 point type size and 12 point leading. It's expressed <i>nine over twelve</i>.
+</div>
+
+<h4 id="paragraph-styles">Paragraph Styles</h4>
+
+<p>Style all the text as directed on the provided design guide.</p>
+
+<p><img class="size100 borderlightgrey2" alt="design-guide" src="/images/indesign-vw-layout/design-guide.jpg" /></p>
+
+<h4 id="master-pages">Master Pages</h4>
+
+<p>You’ll be placing the VW logo and the blue frame on A-Master page. Make sure the blue frame extends all the way to the red bleed line.</p>
+
+<h4 id="placing-images">Placing Images</h4>
+
+<p>Place the photo of the car as wide as two columns. You’ll use the <span class="command">File &gt; Place…</span> command to import the photo. Once you have a loaded cursor, drag the photo into place.</p>
+:ET

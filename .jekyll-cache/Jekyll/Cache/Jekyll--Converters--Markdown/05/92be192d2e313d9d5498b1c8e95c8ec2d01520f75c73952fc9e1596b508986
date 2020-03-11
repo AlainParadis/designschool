@@ -1,0 +1,77 @@
+I"`<h3 id="why-interactivity-in-indesign">Why Interactivity in InDesign?</h3>
+
+<p>InDesign is the leader in page layout for print. Why would it have so many tools to author interactivity? The answer includes at least two file formats, ePUB and PDF. These two formats can contain hyperlinks, interactive tables of contents, audio, video and more. When we combine InDesign’s awesome powers for page layout with its interactive capabilites, you get a PDF &amp; ePUB producing powerhouse.</p>
+
+<h3 id="hyperlinks">Hyperlinks</h3>
+
+<p>Hyperlinks in InDesign serve the same purpose as one on the web. You have a source and a destination. In your PDF file, you can click on text or an object, then it will take you somewhere else in your document. Hyperlinks can even take you to a separate file on your computer. Imagine a link in a PDF that opens another PDF. Convenient.</p>
+
+<h4 id="hyperlink-to-a-url">Hyperlink to a URL</h4>
+
+<p><img class="size100" alt="indesign-create-hyperlinks" src="/images/indesign-interactive-indesign/indesign-create-hyperlinks.jpg" /></p>
+
+<p>It’s quite straighforward to create a link to a web page. You can link text or an object. Make a selection in InDesign. Create a new link in the Hyperlinks panel. Add a destination URL. InDesign will automatically create a character style named Hyperlink. You’re free to edit its appearance.</p>
+
+<h4 id="hyperlink-to-a-file">Hyperlink to a File</h4>
+
+<p>Hyperlinks can open files on your computer. This could be convenient if you have a large catalogue of InDesign files. One can link to another.</p>
+
+<p><img class="size100" alt="indesign-hyperlink-to-file" src="/images/indesign-interactive-indesign/indesign-hyperlink-to-file.jpg" /></p>
+
+<p>It’s important to organize all related files ahead of time. If you link to a file, then you move it to another location, the link will break.</p>
+
+<h4 id="to-a-text-anchor">…to a text anchor</h4>
+
+<p>Links to a an anchor allow you to target specific text or an object.</p>
+
+<p><img class="size100" alt="indesign-hyperlink-to-destination" src="/images/indesign-interactive-indesign/indesign-hyperlink-to-destination.jpg" /></p>
+
+<p>Establish the destination anchor first. Once that’s done, create a Text Anchor link to the destination.</p>
+
+<h3 id="bookmarks">Bookmarks</h3>
+
+<blockquote>
+  <p>A bookmark is a type of link with representative text that makes it easier to navigate documents exported as Adobe PDF. Bookmarks you create in the InDesign document appear in the Bookmarks tab on the left side of the Acrobat or Adobe Reader window. Each bookmark jumps to a text anchor or a page. <cite><a href="https://helpx.adobe.com/indesign/using/bookmarks.html" target="_blank" title="Citations">Adobe</a></cite></p>
+</blockquote>
+
+<p><img class="size100" alt="indesign-bookmarks" src="/images/indesign-interactive-indesign/indesign-bookmarks.jpg" /></p>
+
+<p>All you need to do is to highlight some text, them create a new bookmark in the Bookmarks panel. Nothing acutally appears in InDesign. It’s when you export to PDF that the bookmarks appear in Acrobat’s Bookmarks panel.</p>
+
+<h3 id="buttons">Buttons</h3>
+
+<p>Create a button in InDesign to perform an action such as printing, jump to a page, opening a web site or even changing the zoom factor. Buttons can act like a hyperlink, but they can do much more.</p>
+
+<p><img class="size75" alt="indesign-create-button" src="/images/indesign-interactive-indesign/indesign-create-button.jpg" /></p>
+
+<p>You can see all the actions a button can perform. You can also determine the button’s appearance for a hover state and a click state. Explore the options in the Buttons panel.</p>
+
+<h3 id="movies--sounds">Movies &amp; Sounds</h3>
+
+<p>InDesign has the ability to import audio and video files with the <span class="command">File &gt; Place…</span> command. The best format for video is h.264 encoded MP4. You can also import MP3 files.</p>
+
+<p><img class="size100" alt="indesign-media-video" src="/images/indesign-interactive-indesign/indesign-media-video.jpg" /></p>
+
+<p>There are a number of options for video playback in the Media panel. Most of them are self-explanatory.</p>
+
+<dl>
+  <dt>Poster</dt>
+  <dd>The poster frame is the image you see when the video is not playing. You can choose a custom image, which allows you to customize the appearance of the video on the page.</dd>
+  <dt>Controller</dt>
+  <dd>You can customize the appearance of the controller. If you don’t customize it a default controller allows the user to play, pause and skim the video.</dd>
+  <dt>Navigation Points</dt>
+  <dd>These allow you to play a video from a different point.</dd>
+</dl>
+
+<blockquote>
+  <p>Keep track of the media files you add to an InDesign document during the production cycle. If you move a linked media clip after adding it to the document, use the Links panel to relink it. If you send the InDesign document to another person, include any media files you add. <cite><a href="https://helpx.adobe.com/indesign/using/bookmarks.html" target="_blank" title="Citations">Adobe</a></cite></p>
+</blockquote>
+
+<h3 id="export-to-pdf">Export to PDF</h3>
+
+<p>To produce a PDF that will diplay all of these wonderful interactive elements, you need to choose the Interactive PDF format.</p>
+
+<p><img class="size100" alt="indesign-export-pdf-settings" src="/images/indesign-interactive-indesign/indesign-export-pdf-settings.jpg" /></p>
+
+<p>There are additional settings in the options dialogue.</p>
+:ET

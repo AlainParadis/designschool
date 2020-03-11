@@ -1,0 +1,19 @@
+I"R<ul>
+  <li>Create an Action to reset the grid to 1, 2 and 3 point perspectives.</li>
+  <li>You can see grid options in Define Perspective Grid.</li>
+  <li>Create a 1 Point Perspective. Draw rail road tracks.</li>
+  <li>Create a 2 Point Perspective. Draw a cube.
+    <ul>
+      <li>Put type on the cube. Edit type.</li>
+      <li>Create a Symbol for a window.</li>
+      <li>Edit the Symbol.</li>
+    </ul>
+  </li>
+  <li>Record an Action to reset grid to 2 Point Perspective.</li>
+  <li>Place a building to trace.
+    <ul>
+      <li>Edit grid to match the building.</li>
+    </ul>
+  </li>
+</ul>
+:ET

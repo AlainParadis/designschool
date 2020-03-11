@@ -1,0 +1,71 @@
+I"�<h3 id="marquee-tool">Marquee Tool</h3>
+
+<p>Use the Elliptical Marquee Tool on the clock image to select the clock face. Once you’ve selected it accurately, add a Brightness/Contrast adjustment layer to make the face brighter.</p>
+
+<p><img class="size100" alt="selecting-exercise-marquee-tool" src="/images/photoshop-selecting/selecting-exercise-marquee-tool.jpg" /></p>
+
+<p>Save an close the image.</p>
+
+<h3 id="lasso-tool">Lasso Tool</h3>
+
+<p>Use the Polygon Lasso Tool to select each of the device screens. Zoom in to start.</p>
+
+<p><img class="size100" alt="selecting-exercise-lasso" src="/images/photoshop-selecting/selecting-exercise-lasso.jpg" /></p>
+
+<p>You can use the Hand Tool with the Space Bar to pan around the image. ⌘-plus and ⌘-minus works while you’re selecting. Once you’ve made a selection for one of the screens, add a Layer Mask to the appropriate poster graphic as shown above.</p>
+
+<h3 id="quick-select">Quick Select</h3>
+
+<p>Use the Quick Select Tool to select her legs and her shoes. Once you have a clean, accurate selection, add Gradient Map adjustment layer to add a sepia tone to the photo.</p>
+
+<p><img class="size100" alt="selecting-exercise-quick-select" src="/images/photoshop-selecting/selecting-exercise-quick-select1.jpg" /></p>
+
+<p>In this photo, use the Quick Selection tool to select the leaf. Add a Hue/Saturation Adjustment Layer to change it’s colour.</p>
+
+<p><img class="size100" alt="selecting-exercise-quick-select" src="/images/photoshop-selecting/selecting-exercise-quick-select2.jpg" /></p>
+
+<h3 id="colour-range">Colour Range</h3>
+
+<p>Use <span class="command">Select &gt; Colour Range…</span> to select the orange part of the van. We want to make the orange turn to yellow.</p>
+
+<p><img class="size100" alt="secting-exercise-colour-range" src="/images/photoshop-selecting/secting-exercise-colour-range.jpg" /></p>
+
+<p>You’re not going to get it all with the Colour Range function. Add your Hue/Saturation Adjustment Layer to change the orange to yellow. Paint white or black on the mask to edit it. What’s white on the mask will become yellow.</p>
+
+<h3 id="select-focus-area">Select Focus Area</h3>
+
+<p>We’re going to mask the guy from the background using <span class="command">Select &gt; Focus Area…</span>. Once the preview looks good enough in the Focus Area dialogue, make sure Output is set to <span class="command">New Layer with Layer Mask</span>.</p>
+
+<p><img class="size100" alt="selecting-exercise-focus-area" src="/images/photoshop-selecting/selecting-exercise-focus-area.jpg" /></p>
+
+<p>You can use <span class="command">Select and Mask…</span> to refine the Mask.</p>
+
+<h3 id="quick-mask">Quick Mask</h3>
+
+<p>Start by using the Quick Selection Tool to select most of the bag. Once you have most of it done, switch to Quick Mask mode to select the rest.</p>
+
+<p><img class="size100" alt="selecting-exercise-quick-mask" src="/images/photoshop-selecting/selecting-exercise-quick-mask.jpg" /></p>
+
+<p>Use a softer brush to paint where the image is blurry. Once you have a good selection, add a Hue/Saturation Adjustment Layer and increase the saturation. It’ll make the leather look a bit more orange; more vibrant.</p>
+
+<h3 id="vector-mask">Vector Mask</h3>
+
+<p>Use the Pen Tool in <span class="command">Path</span> mode. Draw around the perimeter of the screen, making slightly rounded corners. Be accurate.</p>
+
+<p><img class="size100" alt="selecting-exercise-vector-mask" src="/images/photoshop-selecting/selecting-exercise-vector-mask.jpg" /></p>
+
+<p>Once your path is complete, turn on the top layer. Use <span class="command">Layer &gt; Vector Mask &gt; Current Path</span>. This will hide the excess content on the poster to make it fit the device screen. Hide the background layer’s visibility so we can see the masking.</p>
+
+<h3 id="clipping-path">Clipping Path</h3>
+
+<p>Create a path around the cheese. Don’t forget to draw the voide in the center.</p>
+
+<figure>
+    <img class="size75 borderlimegreen1" alt="selecting-clipping-path-cheese" src="/images/photoshop-selecting/selecting-clipping-path-cheese.jpg" />
+<figcaption>
+  Draw a path around the perimeter of the cheeze, then one in the inside void.
+</figcaption>
+</figure>
+
+<p>Make sure to name your path.</p>
+:ET

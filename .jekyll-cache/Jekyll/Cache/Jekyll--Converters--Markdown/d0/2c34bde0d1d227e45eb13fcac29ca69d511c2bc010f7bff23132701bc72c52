@@ -1,0 +1,18 @@
+I"�<p>Follow the instructions in the provided folder to process each photo.</p>
+
+<h3 id="manual-colour-correction">Manual Colour Correction</h3>
+
+<p>Do these manually. We’ll need to see Threshold layers in each of your files marking the black and/or white points. You’ll also have a Levels adjustment layer for the actual corrections.</p>
+
+<p><img class="size100" alt="formative-assignment-completed" src="/images/photoshop-colour-correction/formative-assignment-manual-completed.jpg" /></p>
+
+<h3 id="auto-colour-correction">Auto Colour Correction</h3>
+
+<p>Complete the provided images using the Auto command. In this case, you should finish with only one Adjustment Layer.</p>
+
+<p><img class="size100" alt="formative-assignment-auto-completed" src="/images/photoshop-colour-correction/formative-assignment-auto-completed.jpg" /></p>
+
+<h3 id="the-sharpening">The Sharpening</h3>
+
+<p>Sharpen the provided photos using the High Pass process.</p>
+:ET

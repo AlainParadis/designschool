@@ -1,0 +1,60 @@
+I"�<h3 id="roughing-in-our-pastel-sketch">Roughing In Our Pastel Sketch</h3>
+
+<p>Before we can start actually drawing with pastel bushes, we need to rough out the outlines of our drawing on its own layer. This will create the skeleton on which we’ll build colour.</p>
+
+<div class="attentionbox tip">
+To resize a cursor, hold Control+Option, and drag left or right. To change hardness, drag up or down.
+</div>
+
+<h4 id="roughing-in-our-sketch">Roughing In Our Sketch</h4>
+
+<p>The rough-in should be on its own layer. You may or may not keep this sketch once you’re done. This is a good stage to experiment.</p>
+
+<h4 id="tracing-on-or-next-to">Tracing On or Next To…</h4>
+
+<p>You have the choice of drawing on a layer on top of the photo or simply drawing in a separate file.</p>
+
+<p>If you’re drawing in a separate file, open your blank canvas file and the photo you’ll be drawing, then place your two files by going to Window &gt; Tile…</p>
+
+<p><a href="http://www.photoshop.com/spotlights/john-derry" title="John Derry's Web Site" target="_blank"><img alt="pastel-fruit_rough" src="/images/photoshop-brushes/pastel-fruit_rough.jpg" /></a></p>
+
+<p>We can attribute a colour to our background layer to mimick the paper colour. It could be very dark or very light.</p>
+
+<p>Use the Pastel Pencil brush to rough in the general shapes. This is a ‘skeleton’ of the artwork. It’s going to be your guide to fill in with colour.</p>
+
+<h3 id="blocking-in-pastel-colours">Blocking in Pastel Colours</h3>
+
+<p>This is the guts of this assignment. We’ll use brushes to draw our image. It will look astonishingly natural. It’s as if you actually drew it with pastels; textures and all. But your fingers will remain clean.</p>
+
+<p>Now we’re ready to start applying colour. It’s a good idea to move your Sketch layer to the top of the layer stack, then lock it. you’ll avoid drawing on it by accident. Make a Block-in layer below the Sketch layer.</p>
+
+<p>If you’re have your photo and your drawing in two separate files, we’ll want them to zoom synchronized. We want both windows to move along with us. So what we want to do is click on your Zoom tool, then click on the ‘Zoom all windows’ checkbox in the control bar. Do the same with the Move tool. Check ‘Scroll all windows’. Now everything moves in sync.</p>
+
+<p><a href="http://www.photoshop.com/spotlights/john-derry" title="John Derry's Web Site" target="_blank"><img alt="fruit_blocked" src="/images/photoshop-brushes/pastel-fruit-blocked.jpg" /></a></p>
+
+<p>To start applying colour, use your Brush tool, choose a colour from the Swatches panel. Adjust the Texture in the Brush panel. Block in the colours without blending. Get the key colours in place. This is the bottom most application of colour on the page.</p>
+
+<h3 id="blending-our-pastel-drawing">Blending Our Pastel Drawing</h3>
+
+<p>Once we’ve laid down colour, we can use the Mixer Brush we’ve previously learned about. This is where you can really make things look natural.</p>
+
+<h4 id="blending-colours">Blending Colours</h4>
+
+<p>The next stage is to blend our colours. We need to smooth things out. Create a new layer called ‘Blending’. Lock all other layers to avoid drawing on them. Use the brush called ‘Cotton Blender’. Brush over your drawing to smooth things out. Sample All Layers is turned on in your Control bar, so it will smudge all the content below and above.</p>
+
+<p><a href="http://www.photoshop.com/spotlights/john-derry" title="John Derry's Web Site" target="_blank"><img alt="pastel-fruit-blending" src="/images/photoshop-brushes/pastel-fruit-blending.jpg" /></a></p>
+
+<h3 id="adding-detail-to-a-pastel-drawing">Adding Detail to a Pastel Drawing</h3>
+
+<p>We could stop at this point and our drawing would look okay. But we want it to look better than okay. We’ll add detail which will give it the touch of excellence.</p>
+
+<p>Now we need to add detail. This is really the final touch that brings our drawing to life. Let’s create a new ‘Detail’ layer. Use our ‘Pastel Flat’ brush. Choose a colour from Swatches. Use a low value for depth in the Brush panel so you’re adding texture to your drawing. Add shadows and highlights.</p>
+
+<p>You can use an Adjustment Layer to affect the colour of your paper in the background in a non-destructive manner.</p>
+
+<p>To add texture to the background, create a new layer above the background. You can draw on it with a similar colour to the background to add realism. While you do this, you can turn off ‘Sample all layers’ in the Control Bar.</p>
+
+<p><a href="http://www.photoshop.com/spotlights/john-derry" title="John Derry's Web Site" target="_blank"><img alt="pastel-fruit-detail" src="/images/photoshop-brushes/pastel-fruit-detail.jpg" /></a></p>
+
+<p>Because this process is so personal, it’s a good idea to take some time away from it. When you come back to it after a while, you may decide to make changes. Because we worked non-destructively, this should be simple.</p>
+:ET

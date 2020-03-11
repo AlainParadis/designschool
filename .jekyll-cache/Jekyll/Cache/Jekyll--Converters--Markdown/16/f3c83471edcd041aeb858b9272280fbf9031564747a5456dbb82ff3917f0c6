@@ -1,0 +1,94 @@
+I"�<h3 id="about-bitmap-mode">About Bitmap Mode</h3>
+
+<p>The term bitmap has multiple definitions. Sometimes, it refers to a raster image. Sometimes it refers to a black &amp; white image. The phrase <em>black &amp; white</em> is also often misused, interchangeably with <em>greyscale</em>. This all just causes confusion.</p>
+
+<p><img class="size100" alt="raster-vs-bitmap-term" src="/images/photoshop-beautiful-line-art/raster-vs-bitmap-term.jpg" /></p>
+
+<p>It’s best to use <em>raster</em> when refering to a pixel-based image. Use <em>greyscale</em> for grey images. Use <em>Bitmap</em> or <em>Bitmap mode</em> for pure black and white images.</p>
+
+<h4 id="bit-depth">Bit Depth</h4>
+
+<p>A raster image can go from a single bit image, in bitmap mode to an 8 bit image, in colour. Bit depth can go way higher, but such images are rarely used in graphic design.</p>
+
+<p><img class="size33 center" alt="bitmap vs greyscale" src="/images/photoshop-beautiful-line-art/bitmap-mode.svg" /></p>
+
+<p>Bitmap Mode: Each pixel can only either be black or white. It’s like a light switch that’s on or off. There are no other choices. It has only one channel. Bitmap mode is also called 1 bit colour because there’s only one bit of information. A bit is the smallest increment of digital information. This means it has 2<sup>1</sup> colours. 2 x 1 colours, which are black and white. It’s either ON or OFF.</p>
+
+<p><img class="size100 center" alt="line-art-examples" src="/images/photoshop-beautiful-line-art/greyscale-to-bitmap.svg" /></p>
+
+<p>When creating a bitmap mode image from a greyscale image, you can actually create it at any resolution you want. Picture it this way. You have a hypothetic greyscale image made of 1” tiles. Upon converting it to bitmap mode, you can break those grey tiles into as many black or white tiles as you please.</p>
+
+<p><img class="size100" alt="greyscale" src="/images/photoshop-beautiful-line-art/greyscale-mode.svg" /></p>
+
+<p>Greyscale: A greyscale image’s pixels can be one of 256 levels of grey. It has only one channel. That channel is itself a greyscale image. A regular greyscale image is called an 8bit grey image. This means it has 2<sup>8</sup> greys. This is 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 = 256 levels of grey. That’s 8 twos.</p>
+
+<p>Greyscale images are not scalable. It is possible to create a 16 bit or even a 32 bit greyscale image, though you could barely tell the difference in quality.</p>
+
+<p>Now that we’ve cleared that up, we can look at the resulting artwork in bitmap mode.</p>
+
+<p><img class="size100" alt="line-art-examples" src="/images/photoshop-beautiful-line-art/line-art-examples.jpg" /></p>
+
+<p>As you can see from the image above, we started with a scan in greyscale mode. From there, we can obtain a variety of looks. The second and third images are actually in Bitmap mode. The third image is placed on a coloured background in InDesign. Where there are no black pixels, the image is transparent. The last image is not in bitmap mode. It’s our layered Photoshop file that’s been colourised.</p>
+
+<h3 id="getting-clean-pixels">Getting Clean Pixels</h3>
+
+<p>Today, we’ll practice the skills needed to properly capture a line art image. You will use the technique to make them high-quality bitmap images. We want to avoid too many broken lines, clogged dark areas and excessively white light areas.</p>
+
+<p><img class="size75" alt="bitmap-levels-adj-layer" src="/images/photoshop-beautiful-line-art/bitmap-levels-adj-layer.jpg" /></p>
+
+<p>Start by using a Levels adjustment layer to increase the contrast. This will darken the blacks and whiten the paper texture. Be careful, Don’t go too far with this.</p>
+
+<p><img class="size75" alt="bitmap-threshold-adj-layer" src="/images/photoshop-beautiful-line-art/bitmap-threshold-adj-layer.jpg" /></p>
+
+<p>Add a Threshold adjustment layer on top. This will make our image look like it’s in bitmap mode, even if it’s in greyscale.</p>
+
+<p>Now we have our image looking like a bitmap image. What we need to do is adjust any areas which either look clogged, have broken lines or have paper texture.</p>
+
+<h3 id="local-fixes">Local Fixes</h3>
+
+<p>The adjustment layers caused some areas of the image to have lost details or to have become to clogged with black. These details still exist on our bottom-most layer, on our original image. We’ll rescue them from that layer</p>
+
+<p><img class="size100" alt="bitmap-history-brush" src="/images/photoshop-beautiful-line-art/bitmap-history-brush.jpg" /></p>
+
+<h4 id="fix-broken-lines">Fix Broken Lines</h4>
+
+<p>Use the History Brush with the mode option set to Multiply or Darken to make the lines thicker. Lower the Opacity settings of the brush (not the layer) if the changes are too extreme. A really soft-edged brush is suggested.</p>
+
+<h4 id="reduce-line-thickness">Reduce line Thickness</h4>
+
+<p>Use the History Brush with the mode set to Screen or Lighten to make the lines thinner. Lower the Opacity settings if the changes are too extreme.</p>
+
+<p>Once you have refined the image, make sure there are no excessive white areas around it — that the canvas is not too big for nothing. You can use <span class="command">Image &gt; Trim</span> and check all the boxes. This should crop the image to its smallest practical size.</p>
+
+<p><img class="size50" alt="bitmap-save-as-psd" src="/images/photoshop-beautiful-line-art/bitmap-save-as-psd.jpg" /></p>
+
+<p>Save the resulting image as a “.PSD” file to preserve all its layers.</p>
+
+<h3 id="output-a-bitmap-image">Output a Bitmap Image</h3>
+
+<p>At this point we have an image which looks like a good bitmap image, but it is still in grayscale mode. Simply go <span class="command">Image &gt; Mode &gt; Bitmap</span> to convert it to bitmap mode.</p>
+
+<p><img class="size50" alt="bitmap-convert to bitmap" src="/images/photoshop-beautiful-line-art/bitmap-convert-to-bitmap.jpg" /></p>
+
+<p>The resulting dialogue will allow you to change the resolution. This is where you can choose any resolution you need. You can go as high as you wish. Click OK.</p>
+
+<p><img class="size50" alt="bitmap-save-as-eps" src="/images/photoshop-beautiful-line-art/bitmap-save-as-eps.jpg" /></p>
+
+<p>The best way to save bitmap files is as an EPS, if you need to place it against a coloured background. The resulting dialog will give you the choice of making whites transparent.</p>
+
+<p>Place the resulting EPS file in the provided InDesign document. Feel free to reduce the size of it. Hold Command + Option to scale the image and its box.</p>
+
+<h3 id="resolution--printing-line-art">Resolution &amp; Printing Line Art</h3>
+
+<p>If you are sending an image in bitmap mode to press as part of a layout, you would need to set the resolution of the image to the same resolution of the printer’s raster image processor (RIP). Current RIPs use a 2400dpi line-screen or higher. This would make quite a large file. 1000dpi is sufficient to capture the finest line.</p>
+
+<p>Here’s the low-down on printing line-art to various devices. Since line art contains only black and white pixels, we want to match up one image pixel to one device pixel to get the best clarity. Most of today’s monochrome laser printers print at 600 dpi. So if you’re printing to one, set the resolution of your image to 600 dpi at 100%.</p>
+
+<h3 id="faux-bitmap-effect">Faux Bitmap Effect</h3>
+
+<p>You can work on the layered Photoshop file to colourize it. Since it was scanned in greyscale, you’ll need to convert it to RGB with <span class="command">Image &gt; Mode &gt; RGB Colour</span>. This will not be a bitmap image, but it will look like one. Feel free to add adjustment layers or fill layers to colourize your artwork. Once you’re done, save the artwork as a native .psd file with the -colour added to the file name.</p>
+
+<p><img class="size50" alt="bitmap-colourized-psd" src="/images/photoshop-beautiful-line-art/bitmap-colourized-psd.jpg" /></p>
+
+<p>In the image above, there are two Hue/Saturation adjustment layers which colourize the body and the leaves of the pineapple. There’s a fill layer that colourized the black pixels to green. Its blend mode is set to Screen.</p>
+:ET

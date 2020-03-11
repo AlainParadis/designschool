@@ -1,0 +1,176 @@
+I"�1<p>This is what our final layout is going to look like. Note how everything in the layout lines up with grid we’ve established in the document setup.</p>
+
+<p><img class="size75 center" alt="indesign-mac-mini-sell-sheet" src="/images/indesign-our-first-layout/indesign-mac-mini-sell-sheet.jpg" /></p>
+
+<p>Go <span class="command">File &gt; New</span> in InDesign. We’ll create a single-page document with:</p>
+
+<ul>
+  <li>No facing pages</li>
+  <li>3 columns</li>
+  <li>9 point gutters (0p9)</li>
+  <li>21 point margins (1p9)</li>
+  <li>9 point bleeds (0p9)</li>
+</ul>
+
+<p>This is an explanation of point, picas and inches.</p>
+
+<p><img class="size50 center" alt="Units of measure Point, Picas and Inches" src="/images/svg/picas-points-and-inches.svg" /></p>
+
+<h3 id="using-fonts">Using Fonts</h3>
+
+<p>This document uses two typefaces: Myriad Pro for titles and Minion Pro for body copy.</p>
+
+<p><img class="size100" alt="Myriad and Minion Fonts" src="/images/indesign-our-first-layout/indesign-fonts-myriad-minion.svg" /></p>
+
+<p>Myriad Pro is a <em>sans-serif</em> typeface. It’s best used for headlines. Minion Pro is a <em>serif</em> typeface. It’s great for body copy. This is a good general rule: sans-serif fonts for titles and serif fonts for long lengths of text.</p>
+
+<p>We need to activate these two fonts on the <a href="https://fonts.adobe.com/" target="_blank" title="Adobe Fonts web site">Adobe Fonts web site</a>. You’ll need to be logged in with your Adobe ID.</p>
+
+<h3 id="the-what-why--how-of-style-sheets">The What, Why &amp; How of Style Sheets</h3>
+
+<p>Style sheets allow you to store the appearance settings of text in a central location called either a paragraph style or a character style.</p>
+
+<p>The greatest benefit of style sheets is that you can change their settings, then all the text that has that style applied changes automatically. The beauty of this is the speed that changes can be made. Also, the lack of manual, one-off edits makes for fewer user-errors and omissions.</p>
+
+<h4 id="paragraph-vs-character-styles">Paragraph Vs. Character Styles</h4>
+
+<p>Paragraph Styles are so called because they only apply to whole paragraphs of text. You cannot make one word <em>italic</em> with a Paragraph Style. That’s what Character Styles are for.</p>
+
+<p>The rule for deciding which to use is to default to Paragraph Styles until they can’t do what you want them to. Never use Character Styles unless you’re styling letters <em>within</em> a paragraph. Otherwise, forget they exist.</p>
+
+<p>Character Styles are only used to <span style="color: red;">style</span> elements <span style="color: red;">within</span> a block, not the whole block itself.</p>
+
+<p><img class="size100" alt="indesign-character-styles" src="/images/indesign-our-first-layout/indesign-character-styles.jpg" /></p>
+
+<p>Character styles are most often used from within paragraph styles. These are called nested styles. Character styles may be nested in different ways. There are InDesign’s actual Nested Styles, there are Grep Styles and others. We use these because applying Character Styles manually is very tedious.</p>
+
+<h3 id="paragraph-style-sheets">Paragraph Style Sheets</h3>
+
+<h4 id="what-is-a-paragraph">What is a Paragraph?</h4>
+
+<p>Most of the work we need to do to create this layout is simply creating paragraph styles, then applying them to the text.</p>
+
+<p><img class="size75" alt="what-is-a-paragraph-to-indesign" src="/images/indesign-our-first-layout/indesign-what-is-a-paragraph.jpg" /></p>
+
+<p>Paragraph styles can only style whatever is between to Pilcrow <span class="">¶</span> characters.</p>
+
+<p>To InDesign, what follows is a paragraph.<span class="">¶</span></p>
+
+<p><span class="">Z¶</span></p>
+
+<p>The letter Z above is a paragraph, according to InDesign, because there’s a Pilcrow before and after it.</p>
+
+<h3 id="setting-base-styles">Setting Base Styles</h3>
+
+<p>Formatting text in InDesign can either be a headache or a pleasure. We’ll give you the tools you need to make styling text quick and error-free.</p>
+
+<p>Before we can start formatting the document text, we need to create a few <em>base</em> paragraph styles.</p>
+
+<h4 id="edit-basic-paragraph">Edit Basic Paragraph</h4>
+
+<p><img alt="indesign-paragraph-styles-dialogue" src="/images/indesign-style-sheets/indesign-paragraph-styles-dialogue.jpg" class="size100" /></p>
+
+<p>In all InDesign documents, there’s a Basic Paragraph Style. It’s the default stylesheet that applies to all text as it’s brought into InDesign. It’s a good idea to change its font and size to the size of your planned Body Copy style.</p>
+
+<p>Paragraph Styles inherit properties from parent paragraph styles. We’re going to create underlying serif and sans-serif styles. Each will have only minimal styling, including the font selection and not much else. The base serif style is the Basic Paragraph Style. We’ll create a new stylesheet for the <em>Base Sans</em>.</p>
+
+<p><img alt="paragraph-styles-panel-based-on" src="/images/indesign-our-first-layout/paragraph-styles-panel-based-on.jpg" class="size33" /></p>
+
+<p>This makes it that you can change a font across a whole document by changing only this one stylesheet. As an example. If all of your titles are styled in Myriad Pro.</p>
+
+<p>You’ll base all of your sans-serif styles on your <em>Base Sans</em>. If your client (or your teacher) then asks you to change all titles to a different font, you only need to change the <em>Base Sans</em>. Because all others have it as a parent, they’ll all change.</p>
+
+<p>Make the most of this inheritance property for style sheets.</p>
+
+<h4 id="size-and-leading">Size and Leading</h4>
+
+<p>In your Paragraph Styles, you can define the size of the text and its leading. These settings are found in <em>Basic Character Formats</em> in your stylesheet’s settings. If you’re just starting out, it’s a good idea to leave the leading to <em>Auto</em>. This establishes a 120% value. So 10 point type will have a 12 point leading.</p>
+
+<p><img alt="indesign-simple-paragraph-style-example" class="size100" src="/images/indesign-style-sheets/indesign-simple-paragraph-style-example.jpg" /></p>
+
+<h4 id="paragraph-spacing">Paragraph Spacing</h4>
+
+<p>When reading text, it’s ideal to have a visual indication of the end of a paragraph and the start of the next. This is either achieved with a first line indent or a space after the paragraph — never both.</p>
+
+<p><img class="size100" alt="indesign-paragraph-spacing" src="/images/indesign-our-first-layout/indesign-paragraph-spacing.jpg" /></p>
+
+<p>You can see an example of a first line indent on the left of the above image. On the right, there’s a space after the paragraph. Choose one of the two treatments, not both. In this specific case, we’ll create space after paragraphs in our style sheet.</p>
+
+<h4 id="text-colour">Text Colour</h4>
+
+<p>In some instances, you want to change the colour of your text. You can do this in a stylesheet, along with all the other properties. It’s found under the <em>Character Colour</em> pane in your stylesheets settings.</p>
+
+<p><img alt="indesign-paragraph-style-character-colour" class="size100" src="/images/indesign-style-sheets/indesign-paragraph-style-character-colour.jpg" /></p>
+
+<p>There are many, many more properties in the Paragraph Styles Options dialogue. We’ll explore most of them over time.</p>
+
+<h3 id="columns-of-text">Columns of Text</h3>
+
+<p>The main text of our whole layout is in one three-column text frame.</p>
+
+<p><img class="size100" alt="indesign-column-break" src="/images/indesign-our-first-layout/indesign-column-break.jpg" /></p>
+
+<p>The proper method to get text to jump to the next column is to insert a column break. You can do this with a right-click or by typing <span class="command">Enter</span>, not <span class="command">Return</span>.</p>
+
+<p>Make sure you delete every last character at the end of the paragraph the <span style="color: #0096FF;">∨</span> glyph needs to be the last glyph in the column, right after the period glyph.</p>
+
+<h3 id="master-pages">Master Pages</h3>
+
+<p>In publications, some elements repeat themselves on multiple pages. Rather than manually placing items on each page of your document, we place them on master pages.</p>
+
+<p><img class="size33" alt="pages-panel" src="/images/indesign-our-first-layout/indesign-pages-panel.jpg" /></p>
+
+<p>You can see, in the image above, that the black bar with the  logo is on the Master Page. You can also see the letter A at the top of the document page. That means A-Master is applied to the document page. Anything on A-Master will appear on page one.</p>
+
+<h3 id="bleeds">Bleeds</h3>
+
+<p>The bleed area is the narrow space all around the exterior of the pages ending at the red line. It’s extra space to prevent unsightly white area in case of inaccurate cutting by the printer. It’s generally one eighth of an inch. That’s 0.125” or 9 points.</p>
+
+<p><img class="size100" alt="indesign-bleeds" src="/images/indesign-our-first-layout/indesign-bleeds.jpg" /></p>
+
+<p>If content touches the edge of the page, you need to extend it to the bleed line. Be precise with positioning at the bleed. Go no further.</p>
+
+<h3 id="placing-images">Placing Images</h3>
+
+<p>In Adobe-speak, importing an image is called <em>placing</em>. We’ll place the image of the Mac Mini on the page. When you place an image, it’s always inside a frame.</p>
+
+<p><img class="size100" alt="indesign-image-frame" src="/images/indesign-our-first-layout/indesign-image-frame.jpg" /></p>
+
+<p>In the image above, the photo has a brown frame around it. That’s our Photoshop file. The blue box is the InDesign frame. <a href="raster-image-fundamentals.html" title="See more about placing images here">See more about placing images here</a>.</p>
+
+<h3 id="preflight--package">Preflight &amp; Package</h3>
+
+<p>The nature of an InDesign document is that it depends on certain files being present on your computer or online. These inlclude photos, graphics and fonts. If these aren’t present, the document won’t display properly. An image may not appear at all. A font may be substituted for another, changing the look of your design.</p>
+
+<h4 id="font-usage">Font Usage</h4>
+
+<p>Once you’re done your layout, you want to double-check that your font and image usage is correct. Let’s check fonts first. Go <span class="command">Type &gt; Find Font…</span>. A dialogue opens which shows you which fonts have been used in your document.</p>
+
+<p><img class="size50" alt="find-font-dialogue" src="/images/indesign-our-first-layout/indesign-find-font-dialogue.jpg" /></p>
+
+<p>You can see in the Find Font dialogue that we only have the font we’ve actually used in our document.</p>
+
+<h4 id="image-usage">Image Usage</h4>
+
+<p>We need to ensure that the images we’ve place in our document are properly linked to our file. To do so, we can check our Links panel. Go <span class="command">Window &gt; Links</span>. This panel has a list of each object we’ve placed on our pages. It also displays the properties of those images and graphics.</p>
+
+<p><img class="size33" alt="links-panel" src="/images/indesign-our-first-layout/indesign-links-panel.jpg" /></p>
+
+<p>If there’s a problem with an image, there will either be a question mark or an exclamation mark next to it in the Links Panel. A qestion mark means that the image has been edited since you placed it in InDesign. An exclamation mark means InDesign doesn’t know where the image is on our computer.</p>
+
+<h3 id="packaging">Packaging</h3>
+
+<p>The Package command is under <span class="command">File &gt; Package…</span>. The packaging process gathers all files related to an InDesign document, then copies them into a new folder. This folder has your self-contained project in it, which you an hand off to a printer for production.</p>
+
+<p><img class="size100" alt="indesign-package-folder" src="/images/indesign-our-first-layout/indesign-package-folder.jpg" /></p>
+
+<p>The package folder includes your InDesign document with all its support files — images and fonts. It can include a PDF of layout. You can also produce an IDML file which is your layout file, openable in older versions of InDesign.</p>
+
+<p>The package folder automatically gets named with the document name. The whole folder is what you need to zip-compress to submit.</p>
+
+<div class="attentionbox achtung">
+  Handing in an InDesign document alone is completely useless and unusable. Doing so is handing in an incomplete project. You will earn a grade of 0 (F).
+</div>
+
+<p>To compress the folder, right-click on it, then choose <span class="command">Compress…</span> Submit that zip file.</p>
+:ET

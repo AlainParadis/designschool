@@ -1,0 +1,38 @@
+I"	<h3 id="die-lines">Die Lines</h3>
+
+<p>Create a die line based on the provided package. Create a new Illustrator document. Save it back into the die lines assignment folder.</p>
+
+<p><img class="size75" alt="die-line" src="/images/prepress-skillz/die-line.jpg" /></p>
+
+<p>Once you’re done, leave the image placed in Illustrator. Just turn off the visibility of its layer. Save and close your file.</p>
+
+<h3 id="duotones">Duotones</h3>
+
+<p>Convert the provided images to duotone mode with the provided colours.</p>
+
+<p><img class="size100" alt="duotones" src="/images/prepress-skillz/duotones.jpg" /></p>
+
+<p>Set the bike photo to a monotone with Pantone 286C. The mountain range photo needs to be a duotone with black and Pantone 348C. Save your images as native Photoshop (.psd)files.</p>
+
+<h3 id="spot-colour-channels">Spot Colour Channels</h3>
+
+<p>Convert the provided image for spot colour printing. You can see that I created selections for you in the Channels panel. All you need to do to load them is ⌘-click</p>
+
+<p><img class="size100" alt="spot-colour-channels" src="/images/prepress-skillz/spot-colour-channels.jpg" /></p>
+
+<p>You need to make the photo greyscale. We want to create a bump plate to make his shirt a more vibrant Pantone 185C. Create yet another channel with whichever spot colour you want. Rename it Varnish Plate. Fill in the whole dude in solid black on that plate.</p>
+
+<p>Fill the whole bottom part of the canvas with Pantone 185C. Fill the bar above it with 50% Pantone 185C.</p>
+
+<p>Use <span class="command">File &gt; Place Embedded…</span> to import the logo. Scale and position it. ⌘-click on its layer to select it. Punch it out of the Pantone 185C plate with white.</p>
+
+<p>Save the file as a native (.psd) Photoshop file. Place the ad in the provided InDesign document. Check your Separations Preview panel to make sure you got the colour break right. Save and close.</p>
+
+<h3 id="beautiful-line-art">Beautiful Line Art</h3>
+
+<p>Convert the provided images to bitmap mode using <a href="beautiful-line-art.html" target="_blank" title="the technique taught in class">the technique taught in class</a>.</p>
+
+<p><img class="size100" alt="beautiful-lineart" src="/images/prepress-skillz/beautiful-lineart.jpg" /></p>
+
+<p>Save the files as native (.psd) files, then close each.</p>
+:ET

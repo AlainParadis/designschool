@@ -1,0 +1,24 @@
+I"M<h3 id="resampling">Resampling</h3>
+
+<p><img class="size100" alt="exercise-resample" src="/images/photoshop-raster-image-fundamentals/exercise-resample.jpg" /></p>
+
+<p>Resample the first image to 9” wide by 6” tall.</p>
+
+<h3 id="resizing">Resizing</h3>
+
+<p><img class="size100" alt="exercise-resize" src="/images/photoshop-raster-image-fundamentals/exercise-resize.jpg" /></p>
+
+<p>Resize the image to be 300dpi.</p>
+
+<h3 id="place-at-100">Place at 100%</h3>
+
+<p><img class="size100" alt="exercise-100-percent" src="/images/photoshop-raster-image-fundamentals/exercise-100-percent.jpg" /></p>
+
+<p>Place the image in the provided InDesign document at 9” wide by 6” tall at 300dpi. That means at 100% in InDesign. Remember, you need to do this in two steps. Resize it to 300dpi first. Click OK. Check InDesign for the new percentage value. Go back to Photoshop to resample it to that percetage. Save in Photoshop. Go back to InDesign to check that it’s at 100%.</p>
+
+<h3 id="save-icon-for-app-design">Save Icon for App Design</h3>
+
+<p><img class="size100" alt="save-for-web-dialogue" src="/images/photoshop-raster-image-fundamentals/save-for-web-dialogue.jpg" /></p>
+
+<p>Open the provided icon in Illustrator, then use Save for Screens… to export it for Android OS. <em>Make sure to name the asset in the panel first!</em> Name it icon-soccer.</p>
+:ET

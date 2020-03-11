@@ -1,0 +1,64 @@
+I"+<h3 id="the-double-exposure-effect">The Double Exposure Effect</h3>
+
+<p>The double exposure effect has been very popular of late. The trend will most certainly fade, but the exercise of creating the effect has valuable techniques which can be applied in varied circumstances.</p>
+
+<p>This is how <a href="https://en.wikipedia.org/wiki/Multiple_exposure" title="Wikipedia's definition of the Double Exposure effect." target="_blank">Wikipedia</a> defines the effect:</p>
+
+<blockquote>
+  <p>In photography and cinematography, a multiple exposure is the superimposition of two or more exposures to create a single image, and double exposure has a corresponding meaning in respect of two images.”</p>
+</blockquote>
+
+<p>We’ll be using two images to create an original and creative composition.</p>
+
+<p>You can peruse some examples of <a href="https://duckduckgo.com/?q=double+exposure+photography&amp;t=osx&amp;iax=1&amp;ia=images" title="Double Exposure effect examples" target="_blank">the double exposure effect that’s become so popular here</a>.</p>
+
+<h3 id="source-images">Source Images</h3>
+
+<p>We need two types of photos. One portrait of an individual. It’s best to either have a white background on the portrait. The second is an outdoor scene. The source photos play a large role in the final effect. The more you practice with the effect, the more you’ll be able to predict the outcome.</p>
+
+<p><img class="size75" alt="photoshop-double-exposure-both-photos" src="/images/photoshop-double-exposure/photoshop-double-exposure-both-photos.jpg" /></p>
+
+<p>Once you’ve practiced the technique enough that you undestand the mechanics of it, you can experiment with different content, like architectural photos and others.</p>
+
+<h3 id="technique-1-paste-onto-a-mask">Technique #1: Paste Onto a Mask</h3>
+
+<p>The most basic method for achieving the double exposure effect is to simply paste the portrait onto the mask on the scene’s layer. Just <span class="command">⌘-A</span> select all to copy the portrait. Add a layer to the scenery layer. <span class="command">⌥-click</span> on the mask, then paste. Voilà. You have your most basic double exposure effect.</p>
+
+<p><img class="size75" alt="photoshop-double-exposure-1" src="/images/photoshop-double-exposure/photoshop-double-exposure-1.jpg" /></p>
+
+<p>This is the result of a simple copy/paste onto a mask. The photo’s colours were also inverted <span class="command">⌘-I</span>. We did this because the portrait has mostly dark content. On a mask, white pixels reveal, so invert the mask’s colours if needed.</p>
+
+<p>You can see that a new white layer was added as a background to the composition.</p>
+
+<p>You can make further selective enhancements by creating a duplicate of the portrait on top of the whole layer stack. Set its blend mode to Multiply. Add a mask to the portrait layer. Use a large soft brush to paint black gently on passive areas of the photo.</p>
+
+<p><img alt="photoshop-double-exposure-paint-on-mask" src="/images/photoshop-double-exposure/photoshop-double-exposure-paint-on-mask.jpg" /></p>
+
+<p>If needed, increase the contrast on the whole composition with a Levels adjustment layer.</p>
+
+<p><img alt="photoshop-double-exposure-gradient-map" src="/images/photoshop-double-exposure/photoshop-double-exposure-gradient-map.jpg" /></p>
+
+<p>Add Gradient Map adjustment layer to colour the composition.</p>
+
+<p>With some experimentation with various photos, you’ll see that you can achieve pretty great results.</p>
+
+<p>This technique may not give you the control you want. The following technique will.</p>
+
+<h3 id="technique-2-blend-modes">Technique #2: Blend Modes</h3>
+
+<p>This is by far the most versatile technique. It gives you the best control of each layer in your composition.</p>
+
+<p><img class="size100" alt="photoshop-double-exposure-technique-3" src="/images/photoshop-double-exposure/photoshop-double-exposure-technique-3.jpg" /></p>
+
+<p>Drag your landscape photo into the portrait from Finder, or use <span class="command">File &gt; Place Embedded…</span>. Either way, make sure you landscape is a Smart Object before you scale it.</p>
+
+<p>Create a Black &amp; White Adjustment Layer on top above the landscape in the layer stack. Clip this adjustment layer to the landscape photo.</p>
+
+<p>Change the blend mode of the landscape to <span class="command">Screen</span>. This will make the light areas tranparent, leaving only darker pixels behind.</p>
+
+<p>To increase the impact of the effect, you can add a Levels or Curves adjustment layer above everything, then clip it to the landscape layer too.</p>
+
+<p>To finish this off, you can optionally add a Gradient Map adjustment layer on top of the whole composition to give it a vintage look.</p>
+
+<p>If there are unwanted landscape elements, add a layer mask to the landscape and brush them out in black with a very large soft brush.</p>
+:ET

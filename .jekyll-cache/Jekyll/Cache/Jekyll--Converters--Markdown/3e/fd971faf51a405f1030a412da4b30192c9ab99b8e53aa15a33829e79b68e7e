@@ -1,0 +1,199 @@
+I"@5<h3 id="representations-of-selections">Representations of Selections</h3>
+
+<p>We usually visualize the marquee as a selection in Photoshop, but there are other representations of selections. These are them.</p>
+
+<h3 id="marquee-selections">Marquee Selections</h3>
+
+<p>Marquee selections are very temporary. They’re not saved in files when they’re closed. You can select all on your canvas with <span class="command">⌘-A</span>. Deselect everything with <span class="command">⌘-D</span>. <span class="command">⌘-clicking</span> on a transparent layer or a channel selects content.</p>
+
+<p><img class="size100" alt="photoshop-marquee-example" src="/images/photoshop-selecting/photoshop-marquee-example.jpg" /></p>
+
+<p>A.K.A. <em>marching ants</em>, the marquee is as old as Photoshop. It’s actually the poorest of all representations of selections because you cannot tell if the selection is feathered or not.</p>
+
+<p>Marquee tools are the ones that display a selection with a marquee. All marquee-based tools in Photoshop are:</p>
+
+<p><img class="size100" alt="photohsop-marquee-tools" src="/images/photoshop-selecting/photohsop-marquee-tools.jpg" /></p>
+
+<h3 id="marquee-tool">Marquee Tool</h3>
+
+<p>The Marquee Tool can be either rectangular or elliptical. These are some practical tips for dragging with the tool:</p>
+
+<ul>
+  <li>Hold Shift to constrain proportions.</li>
+  <li>Hold Option drag a marquee from the center.</li>
+  <li>Hold the Space Bar while dragging it to move it on the canvas.</li>
+  <li>While a marquee-based tool is active, you can drag the current selection around on the canvas.</li>
+  <li>Option-drag within a marquee selection to subtract from the selection.</li>
+  <li>Shift-drag outside of a marquee selection to add to it.</li>
+</ul>
+
+<p><img class="size75" alt="photoshop-transform-selections-watch" src="/images/photoshop-selecting/photoshop-transform-selections-watch.jpg" /></p>
+
+<p>While you have an active marquee, you can right-click, then choose <span class="command">Transform Selection…</span>. This will allow you to transform the selection with a bounding box. You can zoom while it’s active. Once you’re done, hit Return to accept your transformation.</p>
+
+<h3 id="transform-selections">Transform Selections</h3>
+
+<p>Once you have a marquee selection on your canvas, you can scale and move it.</p>
+
+<p><img class="size33" alt="photoshop-transform-selections" src="/images/photoshop-selecting/photoshop-transform-selections.jpg" /></p>
+
+<p>The quickest way is to right-click within selection with the Marquee Tool still active. You’ll have the option to <span class="command">Transform Selection…</span>. Just hit <span class="command">Return</span> once you’ve done your transformations.</p>
+
+<h3 id="lasso">Lasso</h3>
+
+<h4 id="lasso-tool">Lasso Tool</h4>
+
+<p>To use the Lasso Tool, you simply drag it around the canvas. When you drop your mouse, the selection closes itself. As with all the marquee tools, Shift adds and Option subtracts from the selection.</p>
+
+<h4 id="polygon-lasso-tool">Polygon Lasso Tool</h4>
+
+<p><img class="size100" alt="photoshop-selecting-lasso" src="/images/photoshop-selecting/photoshop-selecting-lasso.jpg" /></p>
+
+<p>This tool is very useful in selecting straight-edged areas on the canvas. You don’t drag with this tool; you just click from one spot to the next. Hitting the delete key removes the last click. Escape deselects while you’re drawing a selection.</p>
+
+<h2 id="important-keyboard-shortcuts">Important Keyboard Shortcuts</h2>
+
+<p>D: Set foreground &amp; background swatches to default colours, black &amp; white.</p>
+
+<p>X: Switch focus of foreground/background colours.</p>
+
+<p>⌘-Delete: Fill with background colour.</p>
+
+<p>Option-Delete: Fill with foreground colour.</p>
+
+<p>B: Brush Tool. Right-click with Brush tool for controls.</p>
+
+<p>[    or   ] : Make brush smaller or bigger.</p>
+
+<h3 id="quick-selection">Quick Selection</h3>
+
+<p>The Quick Selection tool has pretty much replaced the Magic Wand Tool. It pours a selection onto the image like water. The marquee stops when it detects contrast. The keyboard shortcut for the tool is <span class="command">w</span>.</p>
+
+<p><img class="size100" alt="photoshop-quick-selection-options" src="/images/photoshop-selecting/photoshop-quick-selection-options.jpg" /></p>
+
+<p>There are few options for this tool. You simply set it to one of three modes: <em>New Selection</em>, <em>Add to Selection</em> or <em>Subtract from Selection</em>. You can set the tool to add to the selection automatically, as shown above. This is the default I use. You can keep it in the default mode, then hold <span class="command">Shift</span> or <span class="command">Option</span> to respectively add or remove from the selection.</p>
+
+<p>You can change the size of the Quick Selection brush with the Options Bar, or with <span class="command">[</span> or <span class="command">]</span> keys.</p>
+
+<p><span class="command">Auto-Enhance</span> is fairly self-explanatory. Photoshop analyses the selection once you drop it and attempts to improve it. Sometimes this works. Sometimes it does more harm than good.</p>
+
+<p>As with other tools in Photoshop, you can save all tool presets with the Presets menu in the Control Bar.</p>
+
+<p><img class="size100" alt="photoshop-selecting-quick-select" src="/images/photoshop-selecting/photoshop-selecting-quick-select.jpg" /></p>
+
+<h3 id="select-colour-range">Select Colour Range</h3>
+
+<p>Go <span class="command">Select &gt; Colour Range…</span>. You have the choice of sampling colours on the canvas or choosing colours from the dropdown menu.</p>
+
+<p><img class="size50" alt="photoshop-select-colour-range" src="/images/photoshop-selecting/photoshop-select-colour-range.jpg" /></p>
+
+<p>The <span class="command">Fuzziness</span> slider determines the tolerance of the selection. That’s how little or how much different the colour can be.</p>
+
+<p><img class="size100" alt="photoshop-select-colour-range-2" src="/images/photoshop-selecting/photoshop-select-colour-range-2.jpg" /></p>
+
+<h3 id="select-focus-area">Select Focus Area</h3>
+
+<p>When you use <span class="command">Select &gt; Focus Area…</span> Photoshop examines the image for sharp and blurry areas. It can output the resulting selection to a mask on a new layer.</p>
+
+<p><img class="size100" alt="photoshop-selecting-focus-area" src="/images/photoshop-selecting/photoshop-selecting-focus-area.jpg" /></p>
+
+<p>The first part of the dialogue is simply the preview. Choose the setting you prefer. <span class="command">Parameters</span> allow you to include more or fewer pixels in your selection. <span class="command">Output</span> is what you get once you click <span class="command">OK</span>. The best choice is <span class="command">New Layer with Layer Mask</span>. It’s most editable.</p>
+
+<h3 id="quick-mask">Quick Mask</h3>
+
+<p>Quick Mask mode allows you to paint a selection. By default, what’s red is deselected. You can change this by double-clicking on the Quick Select button in the Tools panel to invert this.</p>
+
+<p><img class="size100" alt="photoshop-selecting-quick-mask-mode" src="/images/photoshop-selecting/photoshop-selecting-quick-mask-mode.jpg" /></p>
+
+<p>Use a any tool to paint black, white or grey while in Quick Selection Mode to select or deselect to varying degrees.</p>
+
+<h3 id="masking-tools">Masking Tools</h3>
+
+<h3 id="layer-mask">Layer Mask</h3>
+
+<p>A layer mask is a greyscale image which represents a selection. It’s saved in your file when you save and close, as long as the file format supports a mask. Your best bet is a .psd file.</p>
+
+<p>Whenever there’s an icon in the second column in the layers panel, it’s a layer mask. It’s usually a pixel-based mask, but it could be a vector mask.</p>
+
+<p><img class="size100" alt="photoshop-layer-mask-example" src="/images/photoshop-selecting/photoshop-layer-mask-example.jpg" /></p>
+
+<p>The lighter the pixels on your mask, the more the pixels are selected. So on a mask, black pixels are deselected. White pixels are selected. Grey pixels are partially selected, which creates transparency.</p>
+
+<p>You can paint in greyscale on a mask to hide or reveal content. Use as hard or as soft a brush as you want to get a sharp or a blurry edge as you want.</p>
+
+<p>In the example above, you can see how the white on the mask reveals the photo.</p>
+
+<h3 id="vector-mask">Vector Mask</h3>
+
+<p>A vector mask is delineated with a vector path rather than pixels. It cannot have a blurry edge. It’s perfect for masking a sharp-edged object on the canvas.</p>
+
+<p><img class="size100" alt="photoshop-slecting-vector-mask" src="/images/photoshop-selecting/photoshop-slecting-vector-mask.jpg" /></p>
+
+<p>You can add a vector mask with <span class="command">Layer &gt; Vector Mask &gt; Current Path</span>. And there’s an added benefit here.</p>
+
+<p><img class="size75" alt="photoshop-path-indesign" src="/images/photoshop-selecting/photoshop-path-indesign.jpg" /></p>
+
+<p>When you place such an image in InDesign, you can choose to use it as a clipping path to hide all content outside the path.</p>
+
+<h3 id="reversibility-of-selections">Reversibility of Selections</h3>
+
+<p><img class="size100" alt="photoshop-selection-reversability" src="/images/photoshop-selecting/photoshop-selection-reversability.jpg" /></p>
+
+<p>If you’re attempting to select a very detailed object on a rather flat background, it would likely be simpler to select the background, then invert the selection. That’s the nature of selections in Photoshop. They’re simple to invert.</p>
+
+<h4 id="save-a-selection">Save a Selection</h4>
+
+<p>No matter the selection you create, you can use <span class="command">Select &gt; Save Selection…</span> to create an <em>Alpha Channel</em>. This is simply a saved selection. It doesn’t show on the canvas. It only appears in the Channels panel. It’s saved in your document even after it’s closed.</p>
+
+<p>Any mask you create makes an Alpha Channel, which is saved in your Photoshop file. This includes the mask that comes with an Adjustment Layer.</p>
+
+<h3 id="clipping-path">Clipping Path</h3>
+
+<p>When you want to place an image of a hard-edged object in a page layout without its background, a clipping path is the way to go.</p>
+
+<p>The Pen Tool takes centre stage in this lesson. We’ll use it to draw around an object to hide its background when it’s placed in a page layout. The benefit of a clipping path is that it has a sharp edge. It will cut out the object with as clean an edge as possible. Clipping paths are appropriate when the object to be clipped has a hard edge. If your subject has curly hair, a clipping path is not the way to go.</p>
+
+<p>By the way, <mark>this process has nothing to do with layers</mark>. We’re going to draw a path around the object, then save it. We don’t delete the background pixels. They just get masked by the path once the image is placed in InDesign.</p>
+
+<h3 id="clip-the-clamp">Clip the Clamp</h3>
+
+<figure>
+    <img alt="photoshop-clipping-path" src="/images/photoshop-selecting/photoshop-clipping-path-clamp.jpg" class="size100" />
+<figcaption>
+  <ol>
+  <li>Use the Pen Tool</li>
+  <li>Set the mode to Path</li>
+  <li>Set Path Operations as needed</li>
+  <li>What's selected is white.</li>
+</ol>
+</figcaption>
+</figure>
+
+<p>Set the Pen Tool’s mode to Path and not Shape in the Control bar. Paths in Photoshop don’t print by default. It’s a path without a stroke. You can even turn on the Rubber Band effect like in Illustrator.</p>
+
+<p>When you draw your path, use the same Pen tool technique you’d use when drawing in Illustrator. When your object has a hollow centre, like the clamp, make sure the Path Operations is set to <span class="command">Exclude Overlapping Shapes</span>. This will make the paths panel look like the one above. The object needs to be white and the surrounding area grey in the panel.</p>
+
+<p>Once you’re done with drawing the path, save it by double-clicking on it. Then, give it a meaningful name.</p>
+
+<p>Save your image as a .psd file.</p>
+
+<h3 id="place-in-indesign">Place in InDesign</h3>
+
+<p>Once you get your image into InDesign, you can use its clipping path options to select which path to use in your document. The interoperability between Photoshop and InDesign really shines. Open the provided InDesign document, then go <span class="command">File &gt; Place</span>.</p>
+
+<p><img alt="photoshop-clipping-path-indesign" src="/images/photoshop-selecting/photoshop-clipping-path-indesign.jpg" class="size100" /></p>
+
+<p>Select your image on the page, then go <span class="command">Object &gt; Clipping Path Options…</span>. Choose Photoshop Path from the dropdown. Choose the path’s name from the second dropdown. If you check the <span class="command">Preview</span> checkbox, then you’ll see the background disappear on the page.</p>
+
+<h3 id="edit-your-path">Edit Your Path</h3>
+
+<p>Once you have the job all done in InDesign, you may notice you’ve either cut it too close or too far from the object. You need to round-trip it from Photoshop to InDesign to fix it. Edit the path in the image. Save it.</p>
+
+<div class="attentionbox tip">
+  You can Option-click on your image in InDesign to open it in Photoshop.
+</div>
+
+<p><img class="size33" alt="photoshop-clipping-path-panel" src="/images/photoshop-selecting/photoshop-clipping-path-panel.jpg" /></p>
+
+<p>Go back to InDesign. Check your Links panel to make sure you’re looking at the latest version. If you see an exclamation mark like this, simply double-click on it to update it.</p>
+:ET

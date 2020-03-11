@@ -1,0 +1,100 @@
+I"1	<h3 id="software-skills">Software Skills</h3>
+
+<h4 id="general">General</h4>
+
+<ul>
+  <li>Proper project file management
+    <ul>
+      <li>File naming</li>
+      <li>Versioning</li>
+      <li>File organization</li>
+    </ul>
+  </li>
+  <li>Content strategy
+    <ul>
+      <li>Gather text
+        <ul>
+          <li>remove all text formatting by saving each item in .txt formatting</li>
+        </ul>
+      </li>
+      <li>Photography
+        <ul>
+          <li>Gather all needed photography from provided stock sites</li>
+          <li>No Google images…</li>
+          <li>Rename photo files contextually</li>
+          <li>Organize all photos in Finder by purpose/intent</li>
+        </ul>
+      </li>
+      <li>Research &amp; plan illustration style</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="indesign">InDesign</h4>
+
+<ul>
+  <li>Master pages
+    <ul>
+      <li><em>Based-on</em> master pages</li>
+      <li>Primary text frames</li>
+      <li>Threaded text frames</li>
+    </ul>
+  </li>
+  <li>Style sheets
+    <ul>
+      <li>Paragraph styles</li>
+      <li>Character styles</li>
+      <li>GREP styles</li>
+      <li>Nested styles</li>
+    </ul>
+  </li>
+  <li>Lists
+    <ul>
+      <li>Bullet lists</li>
+      <li>Number lists</li>
+    </ul>
+  </li>
+  <li>InDesign table of contents</li>
+  <li>More to come…</li>
+</ul>
+
+<h4 id="illustrator">Illustrator</h4>
+
+<ul>
+  <li>Use basic drawing with shapes</li>
+  <li>Use the Pen Tool to draw paths</li>
+  <li>Good layer management</li>
+  <li>Apply colour consistent with the project artwork</li>
+  <li>Work in a print-ready workflow
+    <ul>
+      <li>Save vector art in CMYK for print.</li>
+    </ul>
+  </li>
+  <li>Illustrations would be submitted as their own assignment</li>
+  <li>More to come…</li>
+</ul>
+
+<h4 id="photoshop">Photoshop</h4>
+
+<ul>
+  <li>Proper resolution for photography</li>
+  <li>At least 1 photo composition comprised of 5 photos
+    <ul>
+      <li>Name all layers contextually</li>
+      <li>Use Smart Objects</li>
+      <li>Adjustment layers</li>
+      <li>etc…</li>
+    </ul>
+  </li>
+  <li>Photos need to be placed in InDesign
+    <ul>
+      <li>at 100%</li>
+      <li>in .psd format</li>
+      <li>with only one layer</li>
+      <li>transparency allowed</li>
+    </ul>
+  </li>
+  <li>Photo files would be submitted as a free-standing assignment</li>
+  <li>More to come…</li>
+</ul>
+:ET

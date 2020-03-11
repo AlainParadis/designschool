@@ -1,0 +1,76 @@
+I"�<h3 id="drawing-with-shapes">Drawing with Shapes</h3>
+
+<p>Replicate the objects using the shape tools in the provided document.</p>
+
+<p><img class="size100" alt="Dawing with Shapes Summative" src="/images/illustrator-fundamentals/drawing-with-shapes-summative.svg" /></p>
+
+<p>There may be more than one way to get to the same result. As long as you’re using shape tools, it’s fine. Once you’re done, save and close the document.</p>
+
+<h3 id="pen-tool">Pen Tool</h3>
+
+<p>Trace the provided image with the Pen Tool only. Use strokes only. Once you’re done, duplicate the illustration with strokes, then colour fill it, as shown below. The goal is to create the most accurate paths possible with the fewest anchor points.</p>
+
+<p><img class="size100 center" alt="pen-tool" src="/images/illustrator-fundamentals/pen-tool.jpg" /></p>
+
+<p>This is much like a real-life scenario, where you would draw something by hand, then trace it in Illustrator to create scalable vector artwork.</p>
+
+<p>Draw the sprinkles with the Pen Tool too.</p>
+
+<div class="attentionbox achtung">
+  All of your shapes need to be closed in order for them to fill with colour properly.
+</div>
+
+<p>Once you’re done, simply save and close the document.</p>
+
+<h3 id="type-in-illustrator">Type in Illustrator</h3>
+
+<p>Create a new Illustrator document with the specifications shown below. Use point type and area type where appropriate.</p>
+
+<p>Save the file into the exercise folder named: <span class="fw500 darkgreen">03-illustrator-type-summative.ai</span></p>
+
+<p><img class="size100" alt="Illustrator Type Summative" src="/images/illustrator-fundamentals/illustrator-type-summative.svg" /></p>
+
+<p>All the text is set in <a href="https://fonts.adobe.com/fonts/proxima-nova" class="fw700" target="_blank">Proxima Nova font</a>. Make a paragraph style for each:</p>
+
+<ul>
+  <li>Title: 44pt, Extra Bold</li>
+  <li>Intro: 10pt, Bold</li>
+  <li>Text: 10pt, Regular</li>
+</ul>
+
+<p>Set the slogan and URL manually (no paragraph style):</p>
+
+<ul>
+  <li>URL: 24pt, Extra Bold &amp; Regular</li>
+</ul>
+
+<p>See the model above as a guide for where to use point type vs. area type. Make sure you use the <span class="command">Indents &amp; Spacing &gt; Space After</span> setting at 4pt in your paragraph style to create spacing between paragraphs, as shown. Once complete, ⌘-S, then ⌘-W.</p>
+
+<h3 id="colour-swatches">Colour Swatches</h3>
+
+<p>Assign colours to the provided logo adhering to the guide images.</p>
+
+<figure>
+    <img class="size100 padbottom10" alt="illustrator-colour-swatches-summative" src="/images/illustrator-fundamentals/illustrator-colour-swatches-summative.svg" />
+<figcaption>
+  <ol>
+    <li>Pure black and white, no grey.</li>
+    <li>Only these two spot colours.</li>
+    <li>All CMYK. Round numbers.</li>
+    <li>No, there's no RGB logo.</li>
+  </ol>
+</figcaption>
+</figure>
+
+<figure>
+  <img alt="colour-swatches-panels-summative" src="/images/illustrator-fundamentals/colour-swatches-panels-summative.jpg" class="size75" />
+<figcaption>
+  <ol>
+  <li>Your Swatches panel should look like this when you're done.</li>
+  <li>Make sure to use your Separations Preview panel to check your work.</li>
+  </ol>
+</figcaption>
+</figure>
+
+<p>Make sure to save your document where it is. Don’t rename.</p>
+:ET

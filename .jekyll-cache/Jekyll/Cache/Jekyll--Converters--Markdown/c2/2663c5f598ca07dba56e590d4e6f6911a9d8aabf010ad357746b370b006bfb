@@ -1,0 +1,35 @@
+I"�<h3 id="gradients">Gradients</h3>
+
+<p>The Gradient Tool is a very powerful one. And with great power comes great responsibility. We’ll learn to wield it like a true Jedi Master. The danger here is to create muddy colour transitions between our gradient stops. We’ll build a drawing of a pencil using gradients in class. Once you’re done, you’ll possess secrets of the Gradient Tool.</p>
+
+<p><img class="size75" alt="gradients-panels" src="/images/illustrator-gradients-and-blends/gradients-panel.jpg" /></p>
+
+<p><img class="size100" src="/images/illustrator-gradients-and-blends/gradients-pencil.jpg" alt="gradients-pencil" /></p>
+
+<p>We’ll explore:</p>
+
+<ul>
+  <li>The Gradient Panel</li>
+  <li>The Gradient Tool</li>
+  <li>The Gradient Annotator</li>
+  <li>Linear gradients</li>
+  <li>Radial gradients</li>
+  <li>Freeform gradients</li>
+  <li>Gradients on a path</li>
+  <li>Selecting colours for tasteful gradients</li>
+  <li>Opacity in gradients</li>
+</ul>
+
+<h3 id="blends">Blends</h3>
+
+<p>The end-product of a blend can often look like a gradient, but they’re much more versatile.</p>
+
+<blockquote>
+  <p>You can blend objects to create and distribute shapes evenly between two objects. You can also blend between two open paths to create a smooth transition between objects, or you can combine blends of colors and objects to create color transitions in the shape of a particular object.
+<cite><a href="https://helpx.adobe.com/illustrator/using/blending-objects.html" target="_blank" title="Adobe: Blends">Adobe</a></cite></p>
+</blockquote>
+
+<p><img class="size50" alt="illustrator-blends-banner-practice" src="/images/illustrator-gradients-and-blends/illustrator-blends-banner-practice.jpg" /></p>
+
+<p>We’ll practice creating blends in class, starting with the basics, then move on to more advanced techniques. We’ll draw a banner like this one, which contains a number of blends. Some are masked. Some are not. They’re all stacked to create this wonderful graphic.</p>
+:ET

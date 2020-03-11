@@ -1,0 +1,188 @@
+I"�4<h3 id="the-acrobat-forms-workflow">The Acrobat Forms Workflow</h3>
+
+<p>We create forms from existing documents. Acrobat cannot create a form from scratch. You can use applications like Microsoft Word, Excel, or Adobe InDesign. These applications have functions to export a document as a PDF, which can then be converted to a fillable form. You’ll need to explore your application of choice to learn how to produce a PDF document from your native form document.</p>
+
+<p><img class="size50" alt="mac-os-PDF-print-dialogue" src="/images/acrobat-forms/mac-os-PDF-print-dialogue.jpg" /></p>
+
+<p>If you’re on a Mac, you can create a PDF document any application using the Print dialogue. There’s a menu at the bottom-right corner which includes a PDF creation option.</p>
+
+<p>You can even scan a paper form, then have Acrobat convert it to a PDF form quite efficiently. The key is to have a well designed form to start with.</p>
+
+<h3 id="form-content--design">Form Content &amp; Design</h3>
+
+<p>Acrobat can create your form automatically using the wizard. To ensure it guesses your intentions correctly, you’ll need to:</p>
+
+<ol>
+  <li>Design your form with clear, specific questions.</li>
+  <li>Draw clear field elements.</li>
+  <li>Draw circles where radio buttons go and squares where checkboxes go.</li>
+</ol>
+
+<p><img class="size75" alt="form-design-mine" src="/images/acrobat-forms/form-design-mine.jpg" /></p>
+
+<p>A well designed form consists of two major factors. The first is related to the text. It’s very important to ask specific questions. Be accurate with your words. As an example, don’t ask only for a person’s name. Ask for their first and their last names in separate fields.</p>
+
+<p>The second factor in good form design is the layout of the page. The visual relationship of the labels to the fields should be very clear. Here, alignment and proximity matter. White space is also important. Leave a lot of room between elements on the page.</p>
+
+<h3 id="acrobat-tools">Acrobat Tools</h3>
+
+<p>Before we create our PDF form in Acrobat, we’ll start by adding the Prepare Forms tool to our Tools panel. Click on the <span class="command">Tools</span> tab, then search for the Prepare Forms tool. Once you’ve found it, drag it to the panel on the right. Voilà! You’re done.</p>
+
+<p><img class="size100" alt="acrobat-tools-setup" src="/images/acrobat-forms/acrobat-tools-setup.jpg" /></p>
+
+<h3 id="the-wizard">The Wizard</h3>
+
+<p>Now we’re ready to convert our static form design to a fillable PDF form. If you’ve designed your form using clear, specific questions and form fields, it’s likely the wizard will do a large majority of the work for you. You need to have created visual clues for Acrobat to detect where you intend to have fields.</p>
+
+<p><img class="size25" alt="acrobat-forms-prepare-forms" src="/images/acrobat-forms/acrobat-forms-prepare-forms.jpg" /></p>
+
+<p>Click the <span class="command">Prepare Form</span> button in your tools panel. You’ll be given the choice of input. Do you want to prepare a form from:</p>
+
+<p><img class="size50" alt="acrobat-forms-wizard" src="/images/acrobat-forms/acrobat-forms-wizard.jpg" /></p>
+
+<ol>
+  <li>the document you have open?</li>
+  <li>choose another document?</li>
+  <li>scan a document to convert to a form?</li>
+</ol>
+
+<p>If you want Acrobat to create the form automatically, you’ll need to ensure <span class="command">Form field auto-detection</span> is set to <span class="command">ON</span>.</p>
+
+<p><img class="size75" alt="form-wizard-run" src="/images/acrobat-forms/form-wizard-run.jpg" /></p>
+
+<p>If you’ve designed your form well, it will even create the field labels for you. As you can see in the image above, we only have a bit of clean-up to do to complete our fillable form.</p>
+
+<h3 id="editing-acrobat-form-fields">Editing Acrobat Form Fields</h3>
+
+<p>You can draw new fields on a form manually using the field creation tools. These appear along the top edge of your document when you click on <em>Prepare Form</em> in your Tools panel.</p>
+
+<p><img class="size100" alt="acrobat-types-of-fields" src="/images/acrobat-forms/acrobat-types-of-input.svg" /></p>
+
+<p>Each field type comes with many options in the respective Properties dialogues. These are some important items to note:</p>
+
+<p>A series of check boxes allow for multiple selections, while radio buttons are meant for exclusive choices.</p>
+
+<p>A text field can be made to accept only one line of text or multiple lines of scrollable text.</p>
+
+<p>Avoid the <em>List of Choices</em> input. It’s a usability nighmare. Use a dropdown list instead.</p>
+
+<p>When you create radio buttons, you need to give them identical names. They get created as a <em>group</em>. In the button’s <span class="command">Properties &gt; Options</span> field, you can give an individual radio button its name.</p>
+
+<p>When there’s a finite list of options for a field, it’s best to use a dropdown list. They ensure the respondent is limited to the provided answers.</p>
+
+<p><img class="size75" alt="form-fields-list-pane" src="/images/acrobat-forms/form-fields-list-pane.jpg" /></p>
+
+<p>We need to make sure each form field is named and works the way we want. The Fields pane lists the fields in your form, with their types. In this case, most fields are text fields. The Food Preference item is a Radio button group. The <em>Walk on the beach</em> item is a checkbox.</p>
+
+<p><img class="size50" alt="form-field-properties-dialogue" src="/images/acrobat-forms/form-field-properties-dialogue.jpg" /></p>
+
+<p>You can edit each field by double-clicking on it to access its Properties dialogue. These are a few important options:</p>
+
+<ol>
+  <li>Name the field with a unique name without spaces nor special characters.</li>
+  <li>You can make the field a mandatory one, so the respondant has to fill it before the form can be sent.</li>
+  <li>Set the appearance of the responant’s text. You can optionally make the text scale to accomodate more text than the field can hold.</li>
+</ol>
+
+<p>It’s important to name fields with unique, meaningful names as you create them. Note that fields with the same name act together. This means that if you type in one field, the result will appear in all the fields with the same name.</p>
+
+<h4 id="text-field-restrictions">Text Field Restrictions</h4>
+
+<p>You can edit a form field to have it only accept a certain type of data. Double-click on a field, then go to the Format tab. It’s best to use minimal requirements here to not frustrate the responent.</p>
+
+<p><img class="size50" alt="field-formats" src="/images/acrobat-forms/field-formats.jpg" /></p>
+
+<p>Here, you could do something like ensure that respondents enter a date properly. In this case, a date needs to be typed in the dd-mmm-yy format.</p>
+
+<h4 id="creating-buttons">Creating Buttons</h4>
+
+<p>Buttons are used to perform an action like resetting the form or navigating to the next page.</p>
+
+<p><img class="size75" alt="forms-button" src="/images/acrobat-forms/forms-button.jpg" /></p>
+
+<p>You can set a button to show on screen but not print. It is, after all useless to have a button printed on a piece of paper.</p>
+
+<p>A form action is needed to make the button do something. Go to <span class="command">Properties &gt; Actions</span>. Make your button take action on <span class="command">Mouse up</span>. You can choose from the dropdown menu of actions, or you can choose <span class="command">Execute a Menu Item…</span>. This allows you to attribute any menu item to the button. Very powerful…</p>
+
+<h4 id="barcodes">Barcodes</h4>
+
+<p><img class="size33" alt="barcode-icon" src="/images/acrobat-forms/barcode-icon.jpg" /></p>
+
+<p>Barcodes are added to the form. Once the form is completed, the respondents’ data is stored in the barcode. The code can be scanned to collect all the data from a paper form. This requires specialized document scanners and software. This is of very limited use without a significant financial investment.</p>
+
+<h4 id="tab-order">Tab Order</h4>
+
+<p>You’ve probably already noticed that you can use the Tab key on your keyboard to move from one field to another in a form. As the author of the form, you can intentionally set the tab order.</p>
+
+<p><img class="size50" alt="forms-tab-order" src="/images/acrobat-forms/forms-tab-order.jpg" /></p>
+
+<p>To change the tab order, you can drag field names up and down the list in the tools panel on the right.</p>
+
+<h3 id="signing-acrobat-forms">Signing Acrobat Forms</h3>
+
+<p>Once the recipient has filled out the form, they can sign it digitally. They don’t even need paid software to do this. Signing functionality if free for all users.</p>
+
+<p>Signatures are useful to receive confirmations or approvals for the form. This really completed the paperless Acrobat workflow.</p>
+
+<h4 id="easily-sign-any-pdf-file">Easily Sign any PDF File</h4>
+
+<p>The first, most universal method of signing forms is to use the <em>Fill &amp; Sign</em> tool. This is available to any user who has Acrobat DC Pro or Acrobat DC Reader, so it’s a free solution. This option offers no tracking of documents.</p>
+
+<p>The workflow in this case is to e-mail the form to recipients. They’ll sign them, then send them back via e-mail. This is less convenient when you have large numbers of recipients.</p>
+
+<p><img class="size33" alt="acrobat-forms-fill-and-sign" src="/images/acrobat-forms/acrobat-forms-fill-and-sign.jpg" /></p>
+
+<p>This tool gives you the option to sign or initial the document. You have the choice of:</p>
+
+<ol>
+  <li>Typing your signature with one of the provided script fonts.</li>
+  <li>Drawing your signature with the mouse. Awkward!</li>
+  <li>Using an image. You’ll need to get an image of your signature.</li>
+</ol>
+
+<p><img class="size50" alt="signature-typed" src="/images/acrobat-forms/signature-typed.gif" /></p>
+
+<p>It’s a good idea to do a Save As… command to save a copy of your signed form. Once a form is signed, the responses can no longer be edited.</p>
+
+<p>You want to ensure that your PDFs are usable by all recipients. Some won’t have Adobe Acrobat software on their computers. As good practice, you can provide a link to <a href="https://get.adobe.com/reader" title="Get Adobe Acrobat Reader for free." target="_blank">https://get.adobe.com/reader</a> on your form or in an e-mail.</p>
+
+<p>If you’re not guaranteed that recipients will have the latest Adobe Acrobat software, you can enable this in most versions. Go File &gt; Save as Other &gt; Reader Extended PDF &gt; Enable More Tools … The resulting dialogue explains the details. Make sure you save a copy, because this new one is less editable.</p>
+
+<p><img class="size50" alt="enable-fill-and-save" src="/images/acrobat-forms/enable-fill-and-save.jpg" /></p>
+
+<h3 id="send-for-signature">Send for Signature</h3>
+
+<p>If you want to gather signatures in a more automated way, you can use <em>Send for Signature</em>. This allows you to send any PDF file, then even attach other documents along with it. The recipients don’t even need to have any Adobe software installed. They’ll receive an e-mail notification, then sign the form right from their browser.</p>
+
+<p><img class="size50" alt="send-for-signature" src="/images/acrobat-forms/send-for-signature.gif" /></p>
+
+<p>As the sender, you can track the form by clicking <em>Manage Form</em>. The rest of the work is done in a browser. All your managed PDF files stay at <a href="http://documents.adobe.com" title="Adobe PDF Forms Management" target="_blank">documents.adobe.com</a>.</p>
+
+<h4 id="digital-ids">Digital IDs</h4>
+
+<p>If you require more secure signatures, you can use a password protected one called a digital ID. To use this, you’ll create a field with the signature tool.</p>
+
+<p><img class="size50" alt="form-tools-panel-signature-tool" src="/images/acrobat-forms/form-tools-panel-signature-tool.gif" /></p>
+
+<p>When the field is clicked on by the user, a dialogue appears asking for a digital ID. The user will need to go through the process of creating an ID. Once this is done, they’ll be able to sign documents securely in the future.</p>
+
+<p><img class="size50" alt="signature-digital-id" src="/images/acrobat-forms/signature-digital-id.jpg" /></p>
+
+<p>Once this is done, you can create a signature image and sign forms in a very secure manner. As the signatory, make sure you create a strong password, then save it in a password manager application.</p>
+
+<h3 id="collecting-pdf-form-data">Collecting PDF Form Data</h3>
+
+<p>If you have a large group of recipients filling out forms, it’s possible to collect the data in a spreadsheet. Acrobat DC Pro and a spreadsheet application is all you need.</p>
+
+<p>The basic workflow for sending forms to be signed relies on the recipient to send it back to you via e-mail. This may not be completely reliable. There is a way to resolve this.</p>
+
+<p>You can add a Submit button to your form using the Button tool.</p>
+
+<p><img class="size75" alt="create-submit-button" src="/images/acrobat-forms/create-submit-button.jpg" /></p>
+
+<p>The form’s author will receive .fdf files which can be combined into a spreadsheet using Adobe Acrobat.</p>
+
+<p><img class="size50" alt="merge-data-files-into-spreadsheet" src="/images/acrobat-forms/merge-data-files-into-spreadsheet.jpg" /></p>
+
+<p>From here, it’s up to you, the author to use the received data as you see fit.</p>
+:ET

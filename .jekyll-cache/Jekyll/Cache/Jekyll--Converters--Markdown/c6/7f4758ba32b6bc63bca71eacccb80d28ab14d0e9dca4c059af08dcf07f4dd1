@@ -1,0 +1,162 @@
+I"�<p>During class, you’ll assemble the story of Pinocchio in a series of InDesign documents which will make up an InDesign book file. It will include a cover, front and end matter documents and the story content. All the features are:</p>
+
+<ol>
+  <li>Automatic page numbers</li>
+  <li>Custom colour swatches</li>
+  <li>Paragraph styles</li>
+  <li>Character Styles</li>
+  <li>Defined number lists</li>
+  <li>Chapter titles</li>
+  <li>Running headers</li>
+  <li>Table of contents</li>
+</ol>
+
+<p>Let’s start setting this up.</p>
+
+<h3 id="create-book-documents">Create Book Documents</h3>
+
+<p>Start by creating an InDesign document. This is the file which will serve as the master file from which all the other book files will be based. This is the format:</p>
+
+<figure>
+    <img class="size50" alt="new-document-setup" src="/images/indesign-books-pinocchio/new-document-setup.jpg" />
+<figcaption>
+  Create a single new InDesign document.
+</figcaption>
+</figure>
+
+<p>We’ll need to set up our master document before we duplicate it for each chapter. Remember, if you leave unwanted content in the panels in this document, it’ll be present in all your book files. We don’t want that. That’s why it’s important to plan ahead to build this document properly.</p>
+
+<h3 id="initial-document-setup">Initial Document Setup</h3>
+
+<h4 id="paragraph-styles">Paragraph Styles</h4>
+
+<p>Define the base serif in the Basic Paragraph style. Create a new style for the Base-Sans paragraph style. Create styles as shown below. Changing their appearance isn’t that important for now.</p>
+
+<p>We’re using <a href="https://fonts.adobe.com/fonts/adobe-caslon" title="Adobe Fonts: Adobe Caslon Pro" target="_blank">Adobe Caslon Pro</a> for body copy and <a href="https://fonts.adobe.com/fonts/futura-pt" title="Adobe Fonts: Futura PT" target="_blank">Futura PT</a> for titles. They’re both on Adobe Fonts.</p>
+
+<figure>
+    <img class="size100" alt="styles-setup" src="/images/indesign-books-pinocchio/styles-setup.jpg" />
+<figcaption>
+  Change your Basic style, then add a Base Sans and a Body Copy style.
+</figcaption>
+</figure>
+
+<p>For Futura, make sure you sync a bold instance. You’ll need it for titles and the TOC later on.</p>
+
+<h4 id="clean-out-the-swatches-panel">Clean out the Swatches panel</h4>
+
+<p>We want to remove all un-needed swatches from the Swatches panel. Remember that book sync is non-destructive. It only adds content across documents, it doesn’t remove any. That’s why this needs to be done at the outset.</p>
+
+<p>Delete all unused colours. Let’s add two colours to the panel.</p>
+
+<figure>
+    <img class="size100" alt="setup-colours" src="/images/indesign-books-pinocchio/setup-colours.jpg" />
+<figcaption>
+  We've added Pantone Cool Grey 10 in CMYK and Orange that's 60% magenta and 100% yellow.
+</figcaption>
+</figure>
+
+<h4 id="layers">Layers</h4>
+
+<p>Create layers for Folios, Images and Text. Make sure they’re in that order. Folios underneath, then images, and text on top of everything.</p>
+
+<figure>
+    <img class="size33" alt="setup-layers-panel" src="/images/indesign-books-pinocchio/setup-layers-panel.jpg" />
+<figcaption>
+  Set up your layers like this.
+</figcaption>
+</figure>
+
+<p>Remember, layers don’t sync across documents unless you have content on them on master pages. When the master pages sync, the layers get created.</p>
+
+<h4 id="text-frames">Text Frames</h4>
+
+<p>Create a primary text frame on your master pages. Make sure you have one on each master. Thread them together on the master. When you import your text in the next steps, hold the Shift key. That will make the text thread onto all the pages. Cool, eh?</p>
+
+<h3 id="book-documents">Book Documents</h3>
+
+<p>Once your InDesign master document is ready with all the basic settings, we can duplicate it to have a total of seven files. See the image below.</p>
+
+<div class="attentionbox shortcut">
+  Close all InDesign documents. Go to the Finder, then hit cmd-D to duplicate the file until you have seven of them.
+</div>
+
+<h4 id="cover-fm--em">Cover, FM &amp; EM</h4>
+
+<p>Rename files for your Cover, Front Matter and End Matter files. Delete pages from the files to match the image below. Once all your InDesign documents are created, make a new Book file. Add the documents to the book file.</p>
+
+<figure>
+    <img class="size100" alt="setup-book-pages" src="/images/indesign-books-pinocchio/setup-book-pages.jpg" />
+<figcaption>
+  You have a cover, two EM &amp; FM documents in addition to your main chapter documents, all in a book file.
+</figcaption>
+</figure>
+
+<p>Now we have all our documents set up, it’s time to add content to them. Remember to keep all book documents open <mark>except for the Cover and the End Matter file</mark>. We don’t want them to sync the page numbers. They don’t need them.</p>
+
+<p>Import each chapter’s text into the appropriate InDesign document. Apply the Body Copy paragraph style to the text. Style the chapter numbers and chapter titles, too.</p>
+
+<h3 id="pagination">Pagination</h3>
+
+<h4 id="set-up-numbering">Set Up Numbering</h4>
+
+<p>Set up page numbering on the documents. There will be no page numbers on the cover document, obviously. We want lower case roman numerals for the Front Matter document, ie: i, ii, iii, iv, etc… There’ll be regular arabic numerals for the chapter files of the document. ie: 1, 2, 3, 4, etc…</p>
+
+<figure>
+    <img class="size100" alt="setup-page-numbering" src="/images/indesign-books-pinocchio/setup-page-numbering.jpg" />
+<figcaption>
+  You can see the Book panel before and after page numbering has been adjusted.
+</figcaption>
+</figure>
+
+<div class="attentionbox achtung">
+  Remember to turn on Master Page synching in the Book sync settings. Option-click on the Sync button to do so.
+</div>
+
+<h4 id="folios">Folios</h4>
+
+<p>Let’s add page numbers to our master pages for the FM, EM and chapters. Make sure they’re on the Folio layer and on the Master Page. Create a paragraph style for them.</p>
+
+<figure>
+    <img class="size100" alt="folios" src="/images/indesign-books-pinocchio/folios.jpg" />
+<figcaption>
+  Set up text variables in the footer from the chapter numbers and chapter titles.
+</figcaption>
+</figure>
+
+<div class="attentionbox shortcut">
+  Shift-Tab creates a tab that alignes to the other end of the text frame. Use this in your folio text frame as shown.
+</div>
+
+<h3 id="number-list">Number List</h3>
+
+<p>Let’s make a number list across book files. Use the provided list of Pinocchio characters. You’ll need to create a defined list in Paragraph Styles.</p>
+
+<figure>
+  <img class="size100" alt="number-list" src="/images/indesign-books-pinocchio/number-list.jpg" />
+<figcaption>
+  For the list to continue across book files, you need to give it a name in its paragraph style.
+</figcaption>
+</figure>
+
+<p>If the numbers don’t update in the second part of the list, make sure you update them from the Book panel’s menu.</p>
+
+<h3 id="table-of-contents">Table of Contents</h3>
+
+<p>Build a two-level table of contents in your Front Matter file for your document, including all the necessary paragraph styles.</p>
+
+<figure>
+    <img class="size100" alt="TOC" src="/images/indesign-books-pinocchio/toc.jpg" />
+<figcaption>
+  This is a two-level table of contents. Note that there are no page numbers on the first level entries.
+</figcaption>
+</figure>
+
+<h3 id="cover-image">Cover Image</h3>
+
+<p>To wrap things up, place the provided image on the cover.</p>
+
+<p><img class="size75" alt="cover-image" src="/images/indesign-books-pinocchio/cover-image.jpg" /></p>
+
+<p>Remember to make sure you image extends to the bleed line.</p>
+:ET

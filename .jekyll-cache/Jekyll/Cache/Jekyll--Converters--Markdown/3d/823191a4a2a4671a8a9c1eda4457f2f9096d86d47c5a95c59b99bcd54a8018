@@ -1,0 +1,109 @@
+I"� <h3 id="why-image-trace">Why Image Trace?</h3>
+
+<p>The Image Trace feature is part of a workflow that also includes Live Paint and Recolour Artwork. With these three powerful tools, you can create hand-drawn artwork, then transform it into vector art. You can then paint it in colour with Live Paint. The final stage is to create multiple colour variations with Recolour Artwork.</p>
+
+<p>Together, these tools give you a practical real-world workflow from pencil to final vector artwork.</p>
+
+<h3 id="the-workflow">The Workflow</h3>
+
+<p>Once we’ve created a sketch of our artwork on paper, we need to scan it. The best scanning application is the one you already have on your Mac. It’s called Image Capture.</p>
+
+<p>Scan your image with the Black &amp; White setting, which should actually be called Greyscale. The resolution isn’t actually that important. Sometimes a lower resolution is actually better for tracing. You’ll need to experiment with this.</p>
+
+<figure>
+  <img class="size100" alt="image-trace-scan-image" src="/images/illustrator-pixels-to-vectors/image-trace-scan-image.jpg" />
+<figcaption>
+  Use the Image Capture app that's on your Mac to scan your illustration.
+</figcaption>
+</figure>
+
+<p>Once you’ve scanned your drawing, it’s a good idea to clean things up and increase the contrast in Photoshop.</p>
+
+<p><img class="size100" alt="image-trace-photoshop-prep" src="/images/illustrator-pixels-to-vectors/image-trace-photoshop-prep.jpg" /></p>
+
+<p>You can paint out any stains you may have made while drawing on paper. It’s also useful to increase the contrast to ensure the blacks are as dark as possible and the whites are as light as possible. A Levels Adjustment Layer is the best way to do so.</p>
+
+<p>Create a new letter document in Illustrator. In order to be able to trace our sketch, we need to place it in Illustrator with <span class="command">File &gt; Place</span>.</p>
+
+<figure>
+    <img class="size75" alt="image-trace-place-linked-image" src="/images/illustrator-pixels-to-vectors/image-trace-place-linked-image.jpg" />
+<figcaption>
+  Use the File &gt; Place command in a new Illustrator document to import the illustration.
+</figcaption>
+</figure>
+
+<div class="attentionbox tip">
+Never use the Open command from Illustrator to open a raster image. Use <span class="command">File &gt; Place</span> instead.
+</div>
+
+<p>Make sure that the Link check box is checked in the Place dialogue. This will ensure that there’s a link between your Illustrator document and the image file. So, the image should be linked and not embedded. Embedding images is largely frowned upon because it slows down Illustrator’s performance a lot.</p>
+
+<p>Select the image and click <span class="command">Place</span>, you will get a loaded cursor, where you see an icon attached to your cursor. Simply drag a rectangle to the size you want your image. Feel free to re-size your placed image at will. We have no concerns about it’s resolution for output. It will be deleted from your Illustrator document in the process of tracing it.</p>
+
+<h4 id="tracing-images">Tracing Images</h4>
+
+<p>Once our image has been placed on an Illustrator Artboard, we’ll be ready to Image Trace it.</p>
+
+<p><img class="size100" alt="image-trace-image-trace" src="/images/illustrator-pixels-to-vectors/image-trace-image-trace.jpg" /></p>
+
+<p>You can start by selecting your image, then clicking the tiny downward arrow next to the Image Trace button in the Control Panel. This will do an initial tracing of your image. We need to open the tracing options dialogue in order to refine our results.</p>
+
+<p>We’ll dive in to the Image Trace options to make sure we get the most of our image tracing. Keep in mind that what we’re seeing in Illustrator is not yet vectors. It’s a preview of what our tracing will look like once we’re done. If you take a gander at your Links panel, you’ll see that your scan is still placed on the page. That needs to be gone by the time we’re done.</p>
+
+<p>Once our tracing looks just right, we’ll hit the <span class="command">Expand</span> button in the Control Panel to finally vectorize our tracing.</p>
+
+<p><img class="size100" alt="image-trace-finishing" src="/images/illustrator-pixels-to-vectors/image-trace-finishing.jpg" /></p>
+
+<p>You can finish up by smoothing paths, if necessary. Select your vector art. Go <span class="command">Object &gt; Path &gt; Simplify…</span> Go easy. If you simplify too much, you’ll distort your illustration. The best plan is to work on a duplicate of your illustration.</p>
+
+<p>Keep this folder in order to submit it with the <a href="unleash-your-inner-vectors.html" title="This is the Live Paint and Recolour Artwork part of this assignment.">Live Paint</a> part of this project.</p>
+
+<h3 id="live-paint">Live Paint</h3>
+
+<p>The Live Paint function in Illustrator is a great example of how Adobe caters to designers’ workflow. They create tools that fit right into how we work. After we sketch a concept and Image Trace it, we want to quickly apply colour to the shapes. This is what Live Paint does.</p>
+
+<p>Using Live Paint is like pouring liquid paint into your vectors. It fills areas with colour until it encounters a boundary. We’ll use it to paint our traced artwork.</p>
+
+<p>Let’s move on to the illustration that we’ve image-traced. To get some colour into our vectors, we’ll select the whole sketch, then click on it with the Paint Bucket tool. This will make our vector art a Live Paint Group.</p>
+
+<p><img class="size75" alt="live-paint-make-live-paint-group" src="/images/illustrator-pixels-to-vectors/live-paint-make-live-paint-group.svg" /></p>
+
+<p>You can tell by the little asterisks in the bounding box anchor points.</p>
+
+<p>Let’s get a few different colour themes. We’ll open some from Illustrator’s libraries and download some from Adobe Colour.</p>
+
+<p><img class="size75" alt="live-paint-swatch-libraries" src="/images/illustrator-pixels-to-vectors/live-paint-swatch-libraries.jpg" /></p>
+
+<p>We’ll go to our Swatches panel and use the provided colours to paint our sketch. We’ll make the colour swatches Global Colours before we apply then in our Illustration. To do so, double-click on the swatch, then check <span class="command">Global Colour</span> in the options dialogue.</p>
+
+<p>First, we need to select the swatches, then click on the folder icon at the bottom of the panel. This will put them in a Colour Group, which will in turn, make them available with our Live Paint Bucket tool.</p>
+
+<p><img class="size75" alt="live-paint-piggie-v1" src="/images/illustrator-pixels-to-vectors/live-paint-piggie-v1.jpg" /></p>
+
+<p>Now you’re free to use these colours to paint your artwork. You can use the left/right arrows on the keyboard to choose colours while using the Paint Bucket tool. Click away!</p>
+
+<h4 id="gap-detection">Gap Detection</h4>
+
+<p>If there are gaps in your drawing that are making paint pour outside the shapes, you can use Illustrator’s Gap Detection settings to close them.</p>
+
+<figure>
+    <img class="size100" alt="live-paint-gap-detection" src="/images/illustrator-pixels-to-vectors/live-paint-gap-detection.jpg" />
+<figcaption>
+  Gap Detection creates an artificial barrier so paint doesn't leak out of open shapes.
+</figcaption>
+</figure>
+
+<p>Gap Detection has its limits. You may need to use the Direct Select tool to manually close gaps.</p>
+
+<h3 id="recolour-artwork">Recolour Artwork</h3>
+
+<p>Now that we’ve produced a vector version of our sketch with colour in it, we’ll want to show our client different colour themes. This is where Re-colour Artwork comes in.</p>
+
+<p><img class="size100" alt="live-paint-adobe-color-site" src="/images/illustrator-pixels-to-vectors/live-paint-adobe-color-site.jpg" /></p>
+
+<p>Use <a href="https://color.adobe.com" title="Visit colour.adobe.com" target="_blank">color.adobe.com</a> to either create or simply find different colour themes for your sketch. Sync them to Illustrator, then apply them to multiple instances or your original sketch the same way you applied colour the first time around.</p>
+
+<p>If you organize swatches in Colour Groups, they become accessible in the Edit Colours dialogue. We’ll use this to create colour variations for our artwork.</p>
+
+<p>This is an awesomely quick way to create multiple colour variations to present to your client.</p>
+:ET

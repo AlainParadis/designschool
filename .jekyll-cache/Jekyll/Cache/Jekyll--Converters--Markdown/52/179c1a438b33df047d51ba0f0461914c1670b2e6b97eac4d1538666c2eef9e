@@ -1,0 +1,28 @@
+I"¤<p>Mask the main subject in each of the provided images as accurately as you can.</p>
+
+<div class="attentionbox achtung">
+  Make sure to name all of your layers.
+</div>
+
+<h3 id="the-process">The Process</h3>
+
+<ol>
+  <li>Duplicate main layer</li>
+  <li>Run Levels</li>
+  <li>Duplicate contrast channel</li>
+  <li>Run Levels</li>
+  <li>Paint black (or white)</li>
+  <li>Load selection</li>
+  <li>Create layer mask</li>
+  <li>Optionally run Levels</li>
+</ol>
+
+<figure>
+    <img class="size100" alt="photoshop-masking-hair-completed" src="/images/photoshop-masking-hair/photoshop-masking-hair-exercise-completed.jpg" />
+<figcaption>
+  This shows my three attempts at masking the subjects in these photos.
+</figcaption>
+</figure>
+
+<p>For each image, create a new solid background layer. Choose a colour that works. Often, a dark colour brings out a halo effect in the hair of our subjects. This masking process does have its limits.</p>
+:ET

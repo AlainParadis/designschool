@@ -1,0 +1,17 @@
+I"™<p>Use the various Content-Aware tools on the provided photos.</p>
+
+<dl>
+  <dt>01-content-aware-fill.psd</dt>
+  <dd>Remove the wires from the sky on a duplicate of the original layer. Make sure to name all layers for all of these images.</dd>
+  <dt>02-content-aware-move.psd</dt>
+  <dd>Move the Cuba sign using the Content-Aware Move tool. Move it to the right side of the image.</dd>
+  <dt>03-content-aware-patch.psd</dt>
+  <dd>Get rid of the girl. Use the Patch Tool with Content-Aware turned on. You can use cloning tools after the fact to edit out any flowers that look like theyâ€™ve been repeated. Just make sure your edits are non-destructive.</dd>
+  <dt>04-content-aware-scale.psd</dt>
+  <dd>Use Content-Aware Scale to widen a duplicate of the layer with the dude on it. You can actually scale it quite a bit.</dd>
+  <dt>05-content-aware-crop.psd</dt>
+  <dd>Use Content-Aware cropping to extend the height of the sky and the grass. Be reasonable with the extension size. After a while, Photoshop will create a discernable pattern.</dd>
+  <dt>06-photomerge</dt>
+  <dd>Create a panorama with the Photomerge feature. Make sure you have Content-Aware turned on.</dd>
+</dl>
+:ET

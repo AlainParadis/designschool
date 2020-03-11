@@ -1,0 +1,34 @@
+I"4<p>Design a card for each of Ottawa’s skateboard parks. Use the provided files to output a PDF file for each record in the spreadsheet.</p>
+
+<p>Create a card for each skateboard park in the city. The dimensions are half letter, so 8.5” wide x 5.5” tall Make sure you <strong>use only Adobe Fonts</strong> fonts in your design, so submitting will be simpler.</p>
+
+<p>Each card must have:</p>
+
+<ul>
+  <li>The photo of the park.</li>
+  <li>The Facility ID in an inconspicuous location.</li>
+  <li>The name of the park.</li>
+  <li>The address of the park.</li>
+  <li>An indication of the facility type.</li>
+  <li>An indication of whether it’s access-controlled. You need to indicate a positive or negative status.</li>
+  <li>An indication whether it’s accessible. You need to indicate a positive or negative status.</li>
+</ul>
+
+<div class="attentionbox filename">
+  <a href="https://docs.google.com/spreadsheets/d/1bIP2U_x21fGEUqN9hUNMWlycAdyf-G7xcuvqf8Rl6As/edit?usp=sharing" title="Go to the Google Spreadsheet" target="_blank">Get the data from this Google spreadsheet.</a>
+</div>
+
+<p>You need to have each of the types of variables in your file:</p>
+
+<ul>
+  <li>Text variables</li>
+  <li>Image variables</li>
+  <li>Visibility variables</li>
+</ul>
+
+<p>You’ll need to edit this data file to make it do what you want: swap text, show/hide layers and swap photos. Once the spreadsheet is formatted as you want, export it as a .csv file. That’s the file you’ll import into Illustrator using the script.</p>
+
+<p>Once all of your variables are imported, double-check that everything works properly.</p>
+
+<p>Use the Batch command to export the data sets as Press-Ready PDF files into the provided ‘PDFs’ folder. Save your Illustrator file in place in the ‘Your Exercise’ folder. The .csv file should be in that folder too.</p>
+:ET

@@ -1,0 +1,31 @@
+I"$<h3 id="document-setup">Document Setup</h3>
+
+<p>Create a new Photoshop file that’s a minimum of 8” by 8” at 300 dpi in RGB. You can make it rectangular if that better suits your content and your theme. Landscape or portrait are both acceptable. These dimensions ensure that the file will be large enough to print for your portfolio. Choose one of these three formats:</p>
+
+<p><img class="size100" alt="Document Dimensions" src="/images/photoshop-compositing/document-dimensions.svg" /></p>
+
+<h3 id="content-restrictions">Content Restrictions</h3>
+
+<ul>
+  <li>You must have a minimum of 5 photos in your composition.</li>
+  <li>You can have vector content. This can be created right in Photoshop. It can also be placed as a Smart Object from Illustrator.</li>
+  <li>Leave your type live. Use only TypeKit fonts.</li>
+  <li>Image choice is restricted to your own photos.</li>
+</ul>
+
+<h3 id="source-images">Source Images</h3>
+
+<p>You can take your own photos. Use only your own images for this. It would really make your composition unique and your own.</p>
+
+<h3 id="your-submission">Your Submission</h3>
+
+<p><img class="size100" alt="submission-screen-grab" src="/images/photoshop-compositing/submission-finder-window.jpg" /></p>
+
+<p>Submit your composition as a native Photoshop (.psd) file. Name the file the usual way:</p>
+
+<div class="attentionbox filename">
+  appleseed-johnny-#-compositing.psd
+</div>
+
+<p>Create a folder in which you’ll include your original, untouched images. Name these contextually. An image of a bath tub should be called bathtub.psd.</p>
+:ET

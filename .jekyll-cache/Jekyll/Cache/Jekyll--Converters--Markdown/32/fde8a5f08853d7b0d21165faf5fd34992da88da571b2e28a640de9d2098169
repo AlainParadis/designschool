@@ -1,0 +1,32 @@
+I"�<p>Create a letter, portrait page.</p>
+
+<p>On it, you will draw an original sugar skull design using the tools we’ve learned in Illustrator to date. For those of you who don’t know what a Sugar Skull is, these are they:</p>
+
+<p><img class="size100" alt="sugar-skull-examples" src="/images/illustrator-draw-new-tools/sugar-skull-examples.jpg" /></p>
+
+<p>We’ll go beyond what we see here. We’ll want to make use of:</p>
+
+<ul>
+  <li>The Curvature Pen tool</li>
+  <li>The Shape Builder tool</li>
+  <li>The Shaper tool</li>
+  <li>The Blob Brush</li>
+  <li>The Pencil tool</li>
+  <li>Variable-Width paths</li>
+  <li>Appearance &amp; Graphic Styles</li>
+  <li>Patterns</li>
+  <li>Gradients or Blends</li>
+</ul>
+
+<p>In short, you’ll draw this freehand in Illustrator so it has a very organic look. Yours will be in colour. Note the symmetry they all share.</p>
+
+<p>Feel free to use the Appearance panel and transforms to create and maintain symmetry. Make sure to not expand effects.</p>
+
+<p>Usually, we want all paths to be closed. In this case, there are some circumstances when they won’t be.</p>
+
+<p><img class="size75" alt="open-path" src="/images/illustrator-draw-new-tools/open-path.jpg" /></p>
+
+<p>When you use the Pencil tool or the Curvature tool, you may leave paths open, then apply a variable-width stroke to create a shape.</p>
+
+<p>Once you’re done, make sure your document is properly named. If you have artwork on the pasteboard, make sure to save it on a hidden layer called Scraps.</p>
+:ET

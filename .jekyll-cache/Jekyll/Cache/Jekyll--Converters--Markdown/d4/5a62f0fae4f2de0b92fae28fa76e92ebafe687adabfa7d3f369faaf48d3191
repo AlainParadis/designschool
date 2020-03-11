@@ -1,0 +1,25 @@
+I"�<p>Go to <a href="https://unsplash.com" target="_blank" title="Find a photo for your layout.">Unsplash</a>. Find a photo with a strong theme to use as a background for a magazine cover. The choice of theme is up to you.</p>
+
+<p>To get your photo into the canvas, either drag the images’s icon into Photoshop from the Finder, or use <span class="command">File &gt; Place Embedded…</span>. Make sure to name <em>all</em> of your layers.</p>
+
+<p>Make your own original design, don’t create one that looks like the practice file.</p>
+
+<p>From there on in, the rest of the content must be vector. It needs to have:</p>
+
+<ul>
+  <li>A logo as a Vector Smart Object (pasted from Illustrator as a shape layer)</li>
+  <li>Regular vector shapes</li>
+  <li>At least one custom vector shape</li>
+  <li>Area Type &amp; Point Type (Adobe Fonts only!)</li>
+</ul>
+
+<p>This is the format for your exercise:</p>
+
+<p><img class="size75" alt="vectors-exercise-format" src="/images/photoshop-vector-shapes/vectors-exercise-format.jpg" /></p>
+
+<h3 id="notes">Notes</h3>
+
+<p>Combining solid vector shapes and photography can result in an overly heavy, bright, <em>coarse</em> design. Make sure you’re subtle with colours and type. Special attention to detail is in order here. Create a grid and stick to it. Once you’re done, without seeing actual guides, your grid should be apparent in your layout.</p>
+
+<p>As for type treatment, choose one sans-serif and one serif from <a href="https://fonts.adobe.com/fonts/" target="_blank" title="Choose fonts on Adobe Fonts.">Adobe Fonts</a>. Be conservative here. Better with a safe font selection than something too wild. Font families with multiple weights would come in handy.</p>
+:ET

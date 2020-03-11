@@ -1,0 +1,85 @@
+I"�<p>Let’s draw our first isometric objects. We’ll start with a simple cube. We’ll explore how lighting can affect objects in surprising ways.</p>
+
+<h3 id="isometric-transformations">Isometric Transformations</h3>
+
+<p>Open the provided practice file. There are practice steps on each layer in the file. We’ll do these together.</p>
+
+<h4 id="our-first-cube">Our First Cube</h4>
+
+<p>We’ll use three identical squares and the angles indicated above to draw our first cube.</p>
+
+<p><img alt="isometric transformations" src="/images/illustrator-isometric-illustration/iso-transformations.svg" /></p>
+
+<p>You can set an intial colour to the squares, then use the Colour Themes to create the lighting effects.</p>
+
+<h4 id="a-box">A Box</h4>
+
+<p>Let’s test out some lighting effects. Draw a cube, then we’ll make it look like it’s hollow with the help of a light source.</p>
+
+<p><img class="size50" alt="light-source" src="/images/illustrator-isometric-illustration/iso-light-source.svg" /></p>
+
+<p>It’s useful to place an orange circle off the page somewhere to remind me of my light source location. Once you’ve done so, select colours which will create the lighting on the box.</p>
+
+<h3 id="isometrics-actions">Isometrics: Actions</h3>
+
+<p>Rather than drawing each facet of each object manually, we’ll automate the process. Let’s create actions to move facets the an isometric projection. We’ll also create actions to make them flat again. An <em>undo</em> of sorts.</p>
+
+<h4 id="actions-setup-for-isometrics">Actions Setup for Isometrics</h4>
+
+<p>There are three facets on an isometric object. If we were to position each facet manually, we’d never finish a project. It would be much too tedious. Actions are the perfect solution to speed things up.</p>
+
+<figure>
+    <img alt="Isometric Transformations" src="/images/illustrator-isometric-illustration/iso-transformations.svg" />
+<figcaption>
+  These are the basic operations which put shapes in isometric view.
+</figcaption>
+</figure>
+
+<p>Create an Action for each of the transformations, then create an action with the exact reversed steps so we have an ‘undo’ function.</p>
+
+<figure>
+    <img class="size100" alt="Isometric transformations reversed." src="/images/illustrator-isometric-illustration/iso-transformations-reversed.svg" />
+<figcaption>
+  The inverse the shapes scaling from 86.602% back to 100%, you want to use 115.47%.
+</figcaption>
+</figure>
+
+<figure>
+    <img class="size75" alt="iso-actions-panel" src="/images/illustrator-isometric-illustration/iso-actions-panel.jpg" />
+<figcaption>
+  Switch your Actions panel to button mode once you're done recording all the actions.
+</figcaption>
+</figure>
+<p>This is my Actions panel in Button Mode and normal mode. Access Button Mode from the panel’s menu once you’re done recording all the actions.</p>
+
+<h3 id="isometrics-drawing-cylinders">Isometrics: Drawing Cylinders</h3>
+
+<p>Drawing an isometric cube fits right into the grid. A cube is a natural. But what about a cylinder? We’ll explore how to draw cylindrical shapes in an isometric view.</p>
+
+<h4 id="drawing-isometric-cylinders">Drawing Isometric Cylinders</h4>
+
+<p>We’ll practice drawing a cylindrical shape.</p>
+
+<figure>
+  <img class="size100" alt="iso-my-first-cylinder" src="/images/illustrator-isometric-illustration/iso-my-first-cylinder.svg" />
+<figcaption>
+  These are the steps used to create an isometric cylinder.
+</figcaption>
+</figure>
+
+<p>There are quite a few steps to draw a cylinder. It’ll be best if you repeat them often…</p>
+
+<h3 id="geometric-shapes">Geometric Shapes</h3>
+
+<p>There are more shapes than simple cubes. We’ll elaborate various different geometric shapes in isometric projection.</p>
+
+<h4 id="other-geometric-shapes">Other Geometric Shapes</h4>
+
+<p>We’ll create other geographic shapes with an isometric projection. We’ll create a pyramid, a cylinder, a cone, a pyramid and a hexagon and sphere. Child’s play.</p>
+
+<p><img class="size100" alt="iso-other-geometric-shapes" src="/images/illustrator-isometric-illustration/iso-other-geometric-shapes.svg" /></p>
+
+<h3 id="wrap-up">Wrap-up</h3>
+
+<p>Once we’ve completed the task on each layer of the provided Illustrator document, you’ll save it to submit on Brightspace.</p>
+:ET

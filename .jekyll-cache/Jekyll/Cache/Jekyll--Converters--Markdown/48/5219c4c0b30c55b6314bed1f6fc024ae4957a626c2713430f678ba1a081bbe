@@ -1,0 +1,122 @@
+I"�<p>In this lesson, we’ll learn how to use the perspective drawing tools in Illustrator.</p>
+
+<p><img class="size75" alt="illustrator-perspective" src="/images/illustrator-perspective/illustrator-perspective.jpg" /></p>
+
+<h3 id="types-of-perspective">Types of Perspective</h3>
+
+<p>Illustrator allows for the three types of perspective illustration. See the image below for a visual of one-point, two-point and three-point perspectives.</p>
+
+<p><img class="size100" alt="illustrator-perspective-types" src="/images/illustrator-perspective/illustrator-perspective-types.jpg" /></p>
+
+<h4 id="one-point-perspective">One Point Perspective</h4>
+
+<ul>
+  <li>1 ground plane</li>
+  <li>1 vertical plane</li>
+</ul>
+
+<p>One-point perspective is used when you’re point of view is straight-on the subject. Horizontal and Vertical guides are parallel. Depth lines go towards one vanishing point.</p>
+
+<h4 id="two-point-perspective">Two-point perspective</h4>
+
+<ul>
+  <li>1 ground plane</li>
+  <li>2 vertical planes</li>
+  <li>Vertical planes are parallel.</li>
+</ul>
+
+<p>Two-point perspective is used most commonly. It’s point of view is off at an angle. Vertical guides are parallel. Left and right plane guides each lead to a vanishing point on the horizon line.</p>
+
+<h4 id="three-point-perspective">Three-point Perspective</h4>
+
+<ul>
+  <li>1 ground plane</li>
+  <li>2 vertical planes</li>
+  <li>Vertical planes are not parallel.</li>
+</ul>
+
+<p>This is the same as a two-point perspective, except that the vertical planes are not parallel. This gives your constructions an added sense of <em>strength</em>.</p>
+
+<p>If you want to change type of perspective, go <span class="command">View &gt; Perspective Grid</span>. If you’ve already drawn art in one type of perspective, if you change perspective, the art won’t change.</p>
+
+<h3 id="parts-of-the-grid">Parts of the grid.</h3>
+
+<p><a href="https://helpx.adobe.com/illustrator/using/perspective-grid.html" title="Adobe: Perspective Grid" target="_blank">This is Adobe’s explanation</a> of the Perspective Grid.</p>
+
+<p><img class="size100" alt="illustrator-perspective-grid" src="/images/illustrator-perspective/illustrator-perspective-grid.gif" /></p>
+
+<div class="attentionbox tip">
+Editing the grid angles can be a finicky process. The Perspective grid presets are burried three menus deep, which is totally annoying. It's often necessary to reset it to a default position, then start editing again. To that end, we'll record an action to reset the grid.
+</div>
+
+<h3 id="adjusting-the-grid">Adjusting the Grid</h3>
+
+<p>The grid is central to drawing in perspective. We’ll deconstruct the grid and adjust it to suit our needs. Adjust the grid with the Perspective Grid Tool.</p>
+
+<ol>
+  <li>The first action to take is to center the grid origin to the bottom center of the shape.
+    <ul>
+      <li>The ground plane can be adjusted with three different widgets. The centre, left &amp; right.</li>
+    </ul>
+  </li>
+  <li>Step two is to adjust the height of the grid from the top-center.</li>
+  <li>Adjust the height of horizon.
+    <ul>
+      <li>The Horizon Line is adjustable with the widgets all the way at the ends of the Horizon Line.</li>
+    </ul>
+  </li>
+  <li>Lastly, widen the vanishing points so the left and right planes fit what you want.</li>
+</ol>
+
+<p>Once it’s adjusted, those parameters can be saved under <span class="command">View &gt; Perspective Grid &gt; Save Preset</span>.</p>
+
+<p>The Perspective Grid can be moved from one Artboard to another. Hover the Perspective Grid Tool over the Ground Plane widget, then drag.</p>
+
+<h3 id="actually-drawing">Actually Drawing</h3>
+
+<p>Drawing in perspective isn’t much different than normal drawing. As long as the one of the planes are targeted on the .</p>
+
+<h3 id="plane-switching-widget">Plane Switching widget.</h3>
+
+<p><img class="size33 center" alt="illustrator-perspective-grid" src="/images/illustrator-perspective/perspective-tools-icons.svg" /></p>
+
+<p>The Perspective Grid Tool allows you to manipulate the grid itself. The Perspective Selection Tool allows you to select and edit artwork in perspective.</p>
+
+<p><img class="size50 center" alt="illustrator-perspective-grid" src="/images/illustrator-perspective/perspective-widget.svg" /></p>
+
+<p>Click on one side of its cube to draw on that plane on the page. Click just outside of the cube in the widget to deactivate perspective drawing. When drawing on the various planes, Illustrator’s regular stacking order is respected.</p>
+
+<p>You can attach existing artwork to the perspective grid. Select the artwork, then go to <span class="command">Object &gt; Perspective &gt; Attach to Active Plane</span>. This can yield unexpected results. The better way to do it is to use the Perspective Selection Tool to simply drag artwork onto the active plane.</p>
+
+<p>Artwork can be released from the Perspective Grid. Use the regular Move Tool to move artwork in 2 dimensions. You can also go to <span class="command">Object &gt; Perspective &gt; Release with Perspective</span>.</p>
+
+<div class="attentionbox tip">
+Power Tip: You can also move or copy artwork perpendicular from its plane by holding the 5 key while draging. Hold Option-5 while dragging to copy.
+</div>
+
+<h3 id="first-practice-drawing">First Practice Drawing</h3>
+
+<p><img class="size75" alt="illustrator-perspective" src="/images/illustrator-perspective/illustrator-perspective.jpg" /></p>
+
+<p>Let’s practice drawing simple artwork in each type of perspective. 1, 2 and 3 point perspectives. Keep in mind that you can only display one grid system at a time. Create one Artboard, then draw your artwork. Create a second artboard. Choose a different perspective system, then draw on it. Do this a third time. When you return to the original artboard and turn on the Perspective Grid, it will be in the right configuration for that artwork.</p>
+
+<h3 id="symbols-in-perspective">Symbols in Perspective</h3>
+
+<p>Create an Artboard with a two-point perspective. Draw what looks like a simple building. We’ll create a Symbol to draw the windows on the building. We’ll only need to draw one initial shape, then we’ll be able to edit them all at once.</p>
+
+<h3 id="adding-type-in-perspective">Adding Type in Perspective</h3>
+
+<p><img class="size75" alt="illustrator-perspective" src="/images/illustrator-perspective/illustrator-perspective.jpg" /></p>
+
+<p>To add type in perspective, you need to first create it in 2D. Use Point Type – so just click with the Type tool and type. Don’t drag a box. Once you have some type, drag it onto the grid with the Perspective Selection Tool. To edit text which is in perspective, select it with the Perspective Selection Tool. Go to the Options Bar and click on <span class="command">Edit Text</span>. To move type in perspective, use the Perspective Selection Tool and drag.</p>
+
+<ul>
+  <li>To move perpendicular to the grid, hold the number 5 key while dragging.</li>
+  <li>To move artwork by a specific amount, select it, then double-click on the Perspective Plane Widget.</li>
+  <li>A temporary new plane grid can be displayed by Shift-clicking on an Anchor Point with the Perspective Grid Tool.</li>
+</ul>
+
+<p>Symbols can be used in perspective. As usual, double-click on the Symbol instance, edit, then hit Escape to get out of Isolation Mode. All Symbol instances will update.</p>
+
+<p>To move artwork along with the Perspective Grid, go <span class="command">View &gt; Perspective Grid &gt; Lock Station point</span>. Drag a Vanishing Point. The artwork will move with it, though some more complex details may not respect the move.</p>
+:ET

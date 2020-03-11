@@ -1,0 +1,42 @@
+I"�	<p>At first glance, Artboards seem to be pages. They’re actually more than that. They’re containers for artwork in Illustrator. They’re more versatile than a simple page. It’s possible to do fun stuff like have difference size Artboards and even nest one Artboard in another. We’ll explore the possibilities.</p>
+
+<p><img class="size50" alt="illustrator-artboards-panel" src="/images/illustrator-arboards/illustrator-artboards-panel-and-tool.jpg" /></p>
+
+<p>Artboards have a tool and a panel. You get the tool by typing <span class="command">shift-O</span>. Make sure you always name your artboards in the panel by double-clicking on their names, as you would a layer in Photoshop.</p>
+
+<p><img class="size100" alt="illustrator-artboards-options-bar" src="/images/illustrator-arboards/illustrator-artboards-options-bar.jpg" /></p>
+
+<p>You also have the Options Bar at your disposal while you use the Artboard tool.</p>
+
+<h3 id="organizing-artboards">Organizing Artboards</h3>
+
+<p>Once you’re using the Artboard tool, you can create artboards by dragging as you would with the rectangle tool. As an example, you can create artboards for a company. They could include:</p>
+
+<ul>
+  <li>Business card</li>
+  <li>Magazine advertisement</li>
+  <li>#10 business envelope</li>
+  <li>Logo</li>
+  <li>All-encompassing artboard</li>
+</ul>
+
+<p><img class="size100" alt="illustrator-artboards-example" src="/images/illustrator-arboards/illustrator-artboards-example.jpg" /></p>
+
+<p>Note the <em>all-encompassing artboard</em>. It’s a big artboard around all the others. This allows us to print or export that artboard.</p>
+
+<h2 id="artboard-options">Artboard Options</h2>
+
+<p><img class="size33" alt="illustrator-artboards-options" src="/images/illustrator-arboards/illustrator-artboards-options.jpg" /></p>
+
+<p>If you double-click on the icon in the Artboards panel, you get the options for that artboard. You can edit their sizes, change their orientation and much more.</p>
+
+<h2 id="save-as-or-print">Save as or Print</h2>
+
+<p><img class="size75" alt="illustrator-artboards-save-as-pdf" src="/images/illustrator-arboards/illustrator-artboards-save-as-pdf.jpg" /></p>
+
+<p>In the image above, the PDF would only contain the all-encompassing artboard with all the others within it.</p>
+
+<p><img class="size75" alt="illustrator-artboards-print-dialogue" src="/images/illustrator-arboards/illustrator-artboards-print-dialogue.jpg" /></p>
+
+<p>The same goes with printing. You can print individual or a range of artboards.</p>
+:ET

@@ -1,0 +1,30 @@
+I"¸<p>Youâ€™re going to convert each of the provided photos to a true duotone mode. Make a faux duotone with the second version of the photo.</p>
+
+<figure>
+<img class="size100" alt="01-duotone-real" src="/images/photoshop-duotones/01-duotone-real.jpg" />
+<figcaption>
+  This is a real duotone. It has a single channel. Choose the colour you want. Ajust the curves as you see fit.
+</figcaption>
+</figure>
+
+<figure>
+<img class="size100" alt="02-duotone-fake" src="/images/photoshop-duotones/02-duotone-fake.jpg" />
+<figcaption>
+  This is a faux duotone. It's still in RGB colour mode. Add a Black and White adjustment layer. Use the colour of your choice. Adjust the curves as you see fit.
+</figcaption>
+</figure>
+
+<figure>
+<img class="size100" alt="03-duotone-real" src="/images/photoshop-duotones/03-duotone-real.jpg" />
+<figcaption>
+  This is a real duotone. It has a single channel. Choose the colour you want.
+</figcaption>
+</figure>
+
+<figure>
+<img class="size100" alt="04-duotone-fake" src="/images/photoshop-duotones/04-duotone-fake.jpg" />
+<figcaption>
+  This is a faux duotone. It's still in RGB colour mode. Add a Black and White adjustment layer. Use the colour of your choice.
+</figcaption>
+</figure>
+:ET

@@ -1,0 +1,33 @@
+I"
+<h3 id="simple-mask">Simple Mask</h3>
+
+<p>Mask the background, with the help of the Select &amp; Mask feature, if needed.</p>
+
+<p><img class="size100" alt="layer-masks-simple-mask-summative" src="/images/photoshop-intro-to-layer-masks/summative-simple-mask-summative.jpg" /></p>
+
+<p>Don’t Save As… or rename the file. Just Save, then close it.</p>
+
+<h3 id="masking-to-blend-photos">Masking to Blend Photos</h3>
+
+<p>Use a gradient on a mask to blend the road into the forest.</p>
+
+<p><img class="size100" alt="summative-gradient-on-a-mask" src="/images/photoshop-intro-to-layer-masks/summative-gradient-on-a-mask.jpg" /></p>
+
+<h3 id="masking-with-a-photo">Masking with a Photo</h3>
+
+<p>Use the provided Ink Blot layer to mask the panorama. Remember that <span class="command">⌘-i</span> inverts colours.</p>
+
+<p><img class="size100" alt="summative-paste-onto-a-mask" src="/images/photoshop-intro-to-layer-masks/summative-paste-onto-a-mask.jpg" /></p>
+
+<h3 id="fix-combined-photos">Fix Combined Photos</h3>
+
+<p>Using a layer mask, make the two woman’s eyes work best for the photo.</p>
+
+<p><img class="size100" alt="summative-replace-eyes" src="/images/photoshop-intro-to-layer-masks/summative-replace-eyes.jpg" /></p>
+
+<h3 id="select--mask">Select &amp; Mask</h3>
+
+<p>Use the Select &amp; Mask feature to select the guy and his hair. You won’t get it 100% selected, but you can get most of it.</p>
+
+<p><img class="size100 borderdarkgrey1" alt="select &amp; mask" src="/images/photoshop-intro-to-layer-masks/summative-select-and-mask.jpg" /></p>
+:ET

@@ -1,0 +1,10 @@
+I"><p>Apply a watermark on the provided photos based on their orientation. Use the provided watermarks. We’ll have the conditional actions apply the portrait watermark to the portrait photos and the landscape watermarks to the landscape photos.</p>
+
+<p><img class="size100" alt="photoshop-conditional-actions-rulers" src="/images/photoshop-conditional-actions/photoshop-conditional-actions-rulers.jpg" /></p>
+
+<p>Remember to record your action with your rulers set to Percentage. This will make the watermarks scale to the same percentage of the canvas, making the size of your watermark more consistent.</p>
+
+<p><img class="size100" alt="watermarked-portrait-landscape" src="/images/photoshop-conditional-actions/watermarked-portrait-landscape.jpg" /></p>
+
+<p>Save them all into the provided folder called watermarked-images.</p>
+:ET

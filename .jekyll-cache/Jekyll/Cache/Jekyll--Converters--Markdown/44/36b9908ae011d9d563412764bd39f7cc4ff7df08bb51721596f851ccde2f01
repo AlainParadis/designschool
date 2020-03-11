@@ -1,0 +1,10 @@
+I"<h3 id="create-gradient-meshes">Create Gradient Meshes</h3>
+
+<p>We’ve practiced building basic shapes and applying Gradient Meshes to them. Now, let’s create more photo-realistic artwork with meshes. We’ll create meshes on the soccer ball to create detailed, realistic lighting effects.</p>
+
+<p><img alt="gradient-mesh-soccer-ball" src="/images/illustrator-gradient-mesh/gradient-mesh-soccer-ball.jpg" class="size100" /></p>
+
+<p>As you add gradient meshes on individual shapes, it will be useful to lock others, so you don’t affect them. Use <span class="command">⌘-2</span> to lock a selected object. Use <span class="command">Option-⌘-2</span> to unlock everything.</p>
+
+<p>Once you’re done, save and close the image. We’ll move on to your assignment.</p>
+:ET

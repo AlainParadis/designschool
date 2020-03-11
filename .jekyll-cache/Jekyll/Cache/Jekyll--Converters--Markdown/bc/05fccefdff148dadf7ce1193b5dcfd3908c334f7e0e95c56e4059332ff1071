@@ -1,0 +1,63 @@
+I"�<h3 id="updates-apply-them">Updates? Apply Them!</h3>
+
+<p>This page assumes you have Illustrator CC installed on your computer. The next step is to ensure it’s up to date. To do so, go to your Creative Cloude Desktop App icon in your Mac’s menu bar.</p>
+
+<p><img class="size50" alt="cc-updates" src="/images/setup-illustrator/illustrator-updates.jpg" /></p>
+
+<p>If one of the buttons is set to Update, then you have an update to apply.</p>
+
+<h3 id="default-document">Default Document</h3>
+
+<p>Before we even launch Illustrator, we’re going to put in place a better default document. Go to this folder on your Mac.</p>
+
+<p><img class="size100" alt="illustrator-default-document-path" src="/images/setup-illustrator/illustrator-default-document-path.jpg" /></p>
+
+<p>In the folder, there’s a document named Print.ai. Rename it Print-original.ai. Put the new one into this folder.</p>
+
+<h3 id="keyboard-shortcuts">Keyboard Shortcuts</h3>
+
+<p>Let’s install a better set of keyboard shortcuts. The .kys file is in the folder you’ve downloaded. Move them to this location on your Mac. Go to your Library folder from the Finder’s Go menu.</p>
+
+<p><img class="size100" alt="illustrator-keyboard-shortcuts" src="/images/setup-illustrator/illustrator-keyboard-shortcuts.jpg" /></p>
+
+<p>We’re never really done setting up Illustrator. I find myself constantly adjusting settings and creating new workspaces. It’s an ongoing process.</p>
+
+<h3 id="preferences">Preferences</h3>
+
+<p>Before we start to use Illustrator, we want to change a few settings in the application. Go to the Illustrator menu, then choose Preferences. Change Preferences to match what’s in the provided images.</p>
+
+<p><img alt="illustrator-preferences" src="/images/setup-illustrator/illustrator-preferences.jpg" class="size50" /></p>
+
+<p>Once you’ve made the changes, quit Illustrator so the new settings are written to your hard drive.</p>
+
+<h3 id="workspaces">Workspaces</h3>
+
+<p>By default, Illustrator uses the Application Frame. It’s a window that contains the whole application’s user interface. It’s very constraining. Let’s get rid of it from the outset. You’ll see, you’ll be better without it.</p>
+
+<div class="attentionbox tip">
+  Turn off Application Frame from the Window menu
+</div>
+
+<p>Illustrator has dozens of panels. Let’s set up so you can have the right panels where you expect them to speed up your work. The best plan is to start with the Essentials workspace.</p>
+
+<figure>
+  <img class="size100" alt="illustrator-basic-panels" src="/images/setup-illustrator/illustrator-panels.jpg" />
+<figcaption>
+Just a sample of Illustrator's plethora of panels.
+</figcaption>
+</figure>
+
+<p>Go <span class="command">Window &gt; Workspace &gt; New Workspace…</span> then name it with your name. Once you’ve done this, it will be your default set of panels.</p>
+
+<p>If you want to add or remove a panel from this set, all you do is make then change, then re-save a new set with the same name. This will over-write your old one.</p>
+
+<p>If you find yourself needing a whole different set of panels for a specific type of work, go ahead and make new a workspace.</p>
+
+<h3 id="guided-tour">Guided Tour</h3>
+
+<p>Now we’re ready to launch Illustrator. The first item on the menu is to take a quick tour of Illustrator’s user interface. We’ll look at the Control Panel, Tools and Panels setup. I’ll show you how you can easily switch between open documents and view them in full-screen mode.</p>
+
+<p><img class="size100" alt="illustrator-setup-panels" src="/images/setup-illustrator/illustrator-setup-panels.jpg" /></p>
+
+<p>With time, you’ll create an working environment in Illustator that’s all your own.</p>
+:ET

@@ -1,0 +1,134 @@
+I"�#<h3 id="how-otto-works">How Otto Works</h3>
+
+<p>You don’t have an employee on which you can hand off tedious tasks like renaming hundreds of files or resizing a folder full of images. Well, actually now you do have one. Otto will save time and he won’t make any mistakes.</p>
+
+<p><img class="size50" alt="automator-meet-otto" src="/images/macos-automator/automator-meet-otto.jpg" /></p>
+
+<p>The Automator app creates documents. Each time you go <span class="command">File &gt; New</span>, it will create a new document, then ask you what type of automation you wish to create. This is what this looks like.</p>
+
+<p><img class="size100" alt="automator-new-document" src="/images/macos-automator/automator-new-document.jpg" /></p>
+
+<ol>
+  <li>Library: These are the areas that Automator can automate.</li>
+  <li>Actions: These are all the actions Automator can do.</li>
+  <li>Types: These are the different types of automations.</li>
+  <li>Workflow: This is where you stack actions so that they run sequentially.</li>
+  <li>Description: This is where Automator describes the action you’ve targeted.</li>
+  <li>Log or Variables: This area displays a log of your workflow after it has run. It’s also the variables area.</li>
+</ol>
+
+<p>To create a workflow, drag one or more actions into the workflow pane. The order in which you stack them counts because one action feeds the next. If your workflow doesn’t work, there will be an error message in the Log pane at the bottom of the window.</p>
+
+<h4 id="types-of-automations">Types of Automations</h4>
+
+<dl>
+  <dt>Workflows:</dt>
+  <dd>These are the simplest types of automation. Simply drag actions into the workflow pane, then click the <span class="command">Run</span> button.</dd>
+  <dt>Application:</dt>
+  <dd>This creates a macOS application from your workflow. You double-click on its icon like any other app and your workflow will run.</dd>
+  <dt>Service:</dt>
+  <dd>This makes your workflow accessible from a right-click menu in Finder.</dd>
+  <dt>Print Plugin:</dt>
+  <dd>Workflows created from here are accessible from within the Print dialogue.</dd>
+  <dt>Folder Action:</dt>
+  <dd>These workflows are attached to a folder so that it’s run when you add something to the folder.</dd>
+  <dt>Calendar Alarm:</dt>
+  <dd>These are scheduled workflows. Create the workflow, then schedule it in Apple’s Calendar app. So, they can be recurring.</dd>
+  <dt>Image Capture Plugin:</dt>
+  <dd>Workflows are applied to images from within the Image Capture application.</dd>
+  <dt>Dictation Command:</dt>
+  <dd>This makes your automation workflows triggerable with speech commands.</dd>
+</dl>
+
+<div class="attentionbox tip">
+If you discover that you've chosen the wrong type of automation, you can always change it after the fact by going <span class="command">File &gt; Convert To...</span>, then choose the type you want.
+</div>
+
+<h3 id="a-simple-workflow">A Simple Workflow</h3>
+
+<p>Let’s rename a large number of files using a simple workflow. Launch Automator, then choose to create a new workflow. Save it into the provided <span class="command">01-simple-workflow</span> folder named <em>Rename Finder Items.workflow</em>.</p>
+
+<p><img class="size15" alt="automator-workflow-icon" src="/images/macos-automator/automator-workflow-icon.jpg" /></p>
+
+<p>All you need to do is drag all the provided files into the workflow pane for Automator to act only on these files. It will add its own <span class="command">Get Specified Items</span> action.</p>
+
+<p><img class="size100" alt="automator-workflow-rename-finder-items" src="/images/macos-automator/automator-workflow-rename-finder-items.jpg" /></p>
+
+<p>Do a search for <em>rename</em>. Drag the <span class="command">Rename Finder Items</span> action into your workflow. Set it up as shown above. This means you’ll drag it in a few times. You can see that we’re going to make the file names lower case. We’ll replace all spaces and underscores with hyphens.</p>
+
+<p>So, this</p>
+
+<p>Text File 31.txt</p>
+
+<p>will become this</p>
+
+<p>text-file-31.txt.</p>
+
+<p>Do you see how this could be useful for web design? All your web site pages and images should be named without spaces and all lower case. Now you don’t need to do this manually anymore. Otto can act on many files at once for you.</p>
+
+<p>Save this workflow file into the <span class="command">01-simple-workflow</span> folder named <em>Rename Finder Items.workflow</em>.</p>
+
+<h3 id="a-finder-service">A Finder Service</h3>
+
+<p><img class="size15" alt="automator-finder-service-icon" src="/images/macos-automator/automator-finder-service-icon.jpg" /></p>
+
+<p>The above workflow is all well and good, but it’s quite a bit of work to create such a workflow each time you want to rename files and folders. To this end, we’ll create a <em>Finder Service</em>.</p>
+
+<p>Let’s create a Finder Service which we can envoke with a right-click in Finder. We’ll make it a workflow that we can have rename files and folders however we want.</p>
+
+<p><img class="size100" alt="automator-finder-service" src="/images/macos-automator/automator-finder-service.jpg" /></p>
+
+<p>Save this file as <span class="command">Rename Finder Items</span>. You don’t choose the location where it’s saved. All Finder Services are stored in <span class="command">Home Directory &gt; Library &gt; Services</span>. If you need to edit your service, you can find it there, then open to edit.</p>
+
+<p><img class="size100" alt="automator-finder-services-finder-menu" src="/images/macos-automator/automator-finder-services-finder-menu.jpg" /></p>
+
+<p>To envoke the action, simply right-click on files and/or folders in Finder. Go <span class="command">Services &gt; Rename Finder Items</span>. The beauty of this is that the action asks you how you want to rename the selected files. The action asks because you’ve checked <span class="command">Show this action when the workflow runs</span> when you created the service.</p>
+
+<h3 id="make-web-friendly-service">Make Web Friendly Service</h3>
+
+<p>Let’s make a <em>Make Web-Friendly</em> service so you can quickly renamed batches of files for your web dev projects. Create a new Automator document. Add these actions:</p>
+
+<ol>
+  <li>Rename Finder Items: Replace a Space character with a hyphen.</li>
+  <li>Rename Finder Items: Replace and Underscore character with a hyphen.</li>
+  <li>Rename Finder Items: Make the whole file name lower case.</li>
+</ol>
+
+<p>Save the Automator document as Make Web-Friendly. Now, when you need to rename a batch of files or folders, you can do it with a right-click.</p>
+
+<h3 id="a-folder-action">A Folder Action</h3>
+
+<p><img class="size15" alt="automator-folder-action-icon" src="/images/macos-automator/automator-folder-action-icon.jpg" /></p>
+
+<p>You can create an Automator workflow, then attach it to a specific folder. When you add files to the folder, the action does its thing.</p>
+
+<div class="attentionbox tip">
+Folder Actions are stored here: <span class="command">/Users/*username*/Library/Workflows/Applications/</span>
+</div>
+
+<p>Let’s create an workflow which will resize images. The workflow is meant for really large image files which you want to make smaller to post online or send via e-mail.</p>
+
+<p><img class="size100" alt="automator-folder-action-resize-images" src="/images/macos-automator/automator-folder-action-resize-images.jpg" /></p>
+
+<p><mark>Note that this workflow is destructive.</mark> It’s going to resize the originals of any images you put in the folder. Point the action to the provided 02-images-to-1500px folder. Copy the provided images into that folder, then watch the magic happen. All images copied into this folder will be resized to 1500 pixels wide. <em>-1550px</em> will be appended to the file names, then they get moved to the 03-processed-images folder.</p>
+
+<p>You can edit a Folder Action after the fact by right-clicking on the folder itself.</p>
+
+<p><img class="size75" alt="automator-edit-folder-action" src="/images/macos-automator/automator-edit-folder-action.jpg" /></p>
+
+<p>On the left is a list of folders on your computer which have actions attached to them. On the right is a list of all the folder actions you’ve created.</p>
+
+<h3 id="a-calendar-action">A Calendar Action</h3>
+
+<p><img class="size15" alt="automator-calendar-action-icon" src="/images/macos-automator/automator-calendar-action-icon.jpg" /></p>
+
+<p>You can create a workflow, then have it triggered by a calendar event. Let’s set up a backup schedule for a specific folder. This workflow will copy a folder from one place to another daily.</p>
+
+<div class="attentionbox tip">
+Calendar Actions are stored here: <span class="command">/Users/*username*/Library/Workflows/Applications/</span>
+</div>
+
+<p><img class="size100" alt="automator-calendar-action" src="/images/macos-automator/automator-calendar-action.jpg" /></p>
+
+<p>As you can see, the workflow copies the files from the original location to the folder called <span class="command">03-backup-destination</span>. Once you save the workflow, the Apple Calendar app launches. It allows you to enter the time and frequency of the backup action.</p>
+:ET

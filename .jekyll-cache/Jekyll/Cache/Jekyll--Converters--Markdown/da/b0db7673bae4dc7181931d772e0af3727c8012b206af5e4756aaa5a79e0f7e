@@ -1,0 +1,84 @@
+I"�<h3 id="new-document-colour-options">New Document Colour Options</h3>
+
+<p>You need to make decisions about colour when you first create your Illustrator documents. For example, you can see that when you choose Web from the <span class="command">Profile</span> drop-down menu, you automatically get a document in RGB mode. You would use only RGB colours in this document. If you were to choose RGB colours with the CMYK sliders, you risk that they’ll be outside of gammut. That means that they won’t display accurately.</p>
+
+<p><img class="size100" alt="illustrator-new-document-dialogue" src="/images/illustrator-types-of-swatches/illustrator-new-document-dialogue.jpg" /></p>
+
+<p>The same goes for design for print. You need to build all your colours with the CMYK colour space for four colour process output.</p>
+
+<h3 id="types-of-swatches">Types of Swatches</h3>
+
+<p>Illustrator has a number of different types of swatches. We’ll create some of each of the solid colour swatches and apply them to the provided logo artwork. This is important to us because of how offset printing (or lithography) works.</p>
+
+<p><img class="size50" alt="illustrator-colour-swatches" src="/images/illustrator-types-of-swatches/illustrator-types-of-swatches.svg" /></p>
+
+<h3 id="regular-swatches">Regular Swatches</h3>
+
+<p>A regular swatch has a plain icon in the panel. It can be in RGB or in CMYK. These are meant for use in four colour process printing (CMYK) or design for the screen (RGB).</p>
+
+<p><img class="size50" alt="Illustrator regular swatches" src="/images/illustrator-types-of-swatches/illustrator-swatches-regular.svg" /></p>
+
+<p>Greyscale swatches print only on the black plate on a printing press. CMYK swatches are produced across all cyan, magenta, yellow and black plates in four colour process offset printing. RGB swatches are used for design for the screen. If you apply a regular swatch’s colour to some artwork, then change the swatch colour, the artwork isn’t affected.</p>
+
+<h3 id="global-swatches">Global Swatches</h3>
+
+<p>The real magic happens when you create Global Swatches. Global swatches can be in CMYK or RGB.</p>
+
+<p><img class="size50" alt="Illustrator global swatches" src="/images/illustrator-types-of-swatches/illustrator-swatches-global.svg" /></p>
+
+<p>They are particularly useful when doing work which will undergo many revisions. When Global swatch colours change, the artwork with those colours change too. Notice that spot colour swatches are also global swatches. All swatches that have a triangular corner on them are global.</p>
+
+<p>Illustrator creates Global Swatches by default. Apply the colours to your art. If you need to change colours, you can double-click on the corresponding swatch to edit it. Once you accept the change, all artwork with that swatch gets the new colour. Like I said, magic.</p>
+
+<h3 id="spot-colour-swatches">Spot Colour Swatches</h3>
+
+<p>Spot colour swatches are based on colours from Pantone colour books. Each colour is meant to print on one colour plate on an offset press.</p>
+
+<p><img class="size50" alt="Illustrator spot swatches" src="/images/illustrator-types-of-swatches/illustrator-swatches-spot.svg" /></p>
+
+<p>We will start by finding spot colours from a Pantone library. We’ll add them to our document’s Swatches panel, then apply them to our logo art.</p>
+
+<h3 id="useful-panels">Useful Panels</h3>
+
+<p>Before we get to work, let’s hide all of our panels with <span class="command">Shift-Tab</span>, then open only three of them:</p>
+
+<p><img class="size100" alt="illustrator-panels" src="/images/illustrator-types-of-swatches/illustrator-panels.jpg" /></p>
+
+<p>We can also delete all the swatches we don’t need from the swatches panel from the panel’s menu.</p>
+
+<p><img class="size75" alt="illustrator-delete-unused-swatches" src="/images/illustrator-types-of-swatches/illustrator-delete-unused-swatches.jpg" /></p>
+
+<h3 id="colour-spaces">Colour Spaces</h3>
+
+<dl>
+  <dt>Greyscale</dt>
+  <dd>The first logo would appear on a single colour plate if printed to press.</dd>
+  <dt>Spot Colours</dt>
+  <dd>This logo would separate onto two spot colour plates for two-colour printing.</dd>
+  <dt>CMYK Colours</dt>
+  <dd>Process colours are cyan, magenta, yellow and black. These colours combine on press to produce all printable colours.</dd>
+  <dt>RGB Colours</dt>
+  <dd>RGB colours are used for displaying on-screen. Any screen. In fact, any colour that’s produced with light.</dd>
+</dl>
+
+<p>There are more colours in the RGB colour space than in CMYK. Almost all CMYK colours convert precisely to RGB; not so the other way around. The fact that the CMYK space is so much smaller than the RGB space is the reason why colours change when you switch from RGB to CMYK.</p>
+
+<h3 id="applying-swatches">Applying Swatches</h3>
+
+<p>Depending on the type of production you need, you’ll use different types of swatches.</p>
+
+<figure>
+    <img class="size100" alt="Illustrator Types of Swatches" src="/images/illustrator-types-of-swatches/types-of-swatches-practice.svg" />
+<figcaption>
+  Apply the indicated type of swatches to each logo.
+</figcaption>
+</figure>
+
+<p>Select elements of each logo to apply the proper colours. There’s a guide in the provided document.</p>
+
+<div class="attentionbox tip">
+  Don't ungroup the artwork. Use Isolation Mode instead.
+</div>
+
+<p>When it comes to the RGB graphics, you need to create a new document that’s in RGB colour mode. Paste the graphic into this new document and save it as <span class="darkgreen">rgb.ai</span> in our working folder.</p>
+:ET

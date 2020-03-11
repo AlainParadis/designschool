@@ -1,0 +1,38 @@
+I"�<h3 id="why-conditional-actions">Why Conditional Actions</h3>
+
+<p>Imagine that you have hundreds of varied images. Then imagine that you’re tasked with editing only the ones which have a certain characteristic. Finding only those images would be very tedious. You could also overlook some images. Well, Conditional Actions let you build workflows that choose what to do based on one of several available conditions. This means you could target only the desired images based on that given characteristic.</p>
+
+<h3 id="how-they-work">How They Work</h3>
+
+<p>How hypothetical situation has us converting only RGB images to CMYK for production. We’ll feed Photoshop a folder of photos that are a mix of colour modes. The action will convert the colour mode of only the RGB images to CMYK. The others will be left un-touched. Greyscale images can be placed in a document for print, so we can leave them alone too.</p>
+
+<p>To use Conditional Actions, you need to first record the workflow you want to use on the images. In our case, we’ll record a <em>Convert to CMYK</em> workflow.</p>
+
+<p><img class="size50" alt="photoshop-conditional-actions-new-action" src="/images/photoshop-conditional-actions/photoshop-conditional-actions-new-action.jpg" /></p>
+
+<p>All we need to do is go <span class="command">Image &gt; Mode &gt; CMYK</span>, then save and close. <mark>Don't forget to stop recording.</mark> Now we have an action to run with conditions in the next step.</p>
+
+<h3 id="convert-colour-if">Convert Colour if…</h3>
+
+<p>To apply the workflow to only RGB images, we record a new action. Let’s call it <em>IF RGB Convert to CMYK</em>. Click <span class="command">OK</span>. Choose Insert Conditional from the Actions panel menu.</p>
+
+<p><img class="size50" alt="photoshop-conditional-actions-add" src="/images/photoshop-conditional-actions/photoshop-conditional-actions-add.jpg" /></p>
+
+<p>In the Conditional Action dialog box, choose a condition from the If Current menu. Choose actions from the Then Play Action menu and the Else Play Action menu, and then, click OK.</p>
+
+<p><img class="size50" alt="photoshop-conditional-actions-options" src="/images/photoshop-conditional-actions/photoshop-conditional-actions-options.jpg" /></p>
+
+<p>You can also choose None in one of the menus, but not both. You can run an action only if a particular condition is false by choosing None as the Then Play Action and choosing the desired action as the Else Play Action.</p>
+
+<p>In this case, only images which are in RGB mode will be affected.</p>
+
+<p>Now we need to feed Photoshop our folder of photos. To do so, we’ll use <span class="command">File &gt; Automate &gt; Batch…</span></p>
+
+<h4 id="testing-the-opposite-of-whats-in-the-condition">Testing the opposite of what’s in the condition</h4>
+
+<p>There might be instances when you want to test the opposite of what’s in a condition.</p>
+
+<p>For example, suppose you want “Action 1” to play when when the frontmost document is non-square. You would specify the conditional: “If Current Document is Square, Then Play Action None, Else Play Action “Action 1.”</p>
+
+<p>To test for the opposite of a particular condition, swap the “Then” and “Else” actions.</p>
+:ET

@@ -1,0 +1,15 @@
+I"3<p>Use blend modes in the provided photos to execute each of the tasks described above.</p>
+
+<dl>
+  <dt>01-photoshop-tonal-corrections-with-blend-modes.psd</dt>
+  <dd>Lighten the foreground and darken the background using blend modes (and masks).</dd>
+  <dt>02-photoshop-lens-flare.psd</dt>
+  <dd>Create a lens flare where the sun is shining behind the man.</dd>
+  <dt>03-photoshop-sharpen-with-high-pass.psd</dt>
+  <dd>Use the sharpen with High Pass method to gently sharpen the photo of chipmunks.</dd>
+  <dt>04-photoshop-smooth-skin-with-high-pass.psd</dt>
+  <dd>Use the High Pass technique to smooth the woman’s skin.</dd>
+  <dt>05-photoshop-blend-if-full-moon.psd</dt>
+  <dd>Use Blend If to blend the black around the moon. Also, make the moon appear as though it’s behind the grass using Blend If.</dd>
+</dl>
+:ET

@@ -1,0 +1,31 @@
+I"È<h3 id="lets-build-some-tables">Letâ€™s Build Some Tables</h3>
+
+<p>Your assignment is to use the provided content to build and style tables as shown.</p>
+
+<h3 id="convert-a-list-to-a-table">Convert a list to a table.</h3>
+
+<figure>
+  <img class="size100" alt="indesign-table-from-list" src="/images/indesign-tables/indesign-table-from-list.jpg" />
+<figcaption>
+  Use Convert Text to Table... to  convert the list into a table, then style it.
+</figcaption>
+</figure>
+
+<h4 id="convert-tabbed-text-to-a-table">Convert tabbed text to a table.</h4>
+
+<figure>
+  <img class="size100" alt="indesign-tabs-to-table" src="/images/indesign-tables/indesign-tabs-to-table.jpg" />
+<figcaption>
+  Use Convert Text to Table... to  convert the tabbed text into a table, then style it.
+</figcaption>
+</figure>
+
+<h4 id="style-a-table-with-table-cell-paragraph--character-styles">Style a table with Table, Cell, Paragraph &amp; Character Styles.</h4>
+
+<figure>
+  <img class="size100" alt="indesign-tables-graphic-cells" src="/images/indesign-tables/indesign-tables-with-graphics.svg" />
+<figcaption>
+  Create this table and style it using table, cell and paragraph styles. Create graphics cells to hold th flag graphics.
+</figcaption>
+</figure>
+:ET
