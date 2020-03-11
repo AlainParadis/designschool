@@ -4,3 +4,9 @@ CNAME
 size-for-news.app
 newsitem-images.psd
 
+.jekyll-cache
+.DS_Store
+*.bbprojectsettings
+*.bbprojectdata
+cg.bbprojectd/Scratchpad.txt
+cg.bbprojectd/Unix Worksheet.worksheet
