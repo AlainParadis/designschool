@@ -16,15 +16,16 @@ description: "Boring graphs can really put the kibosh on a great design. As a de
 details: |
   
 assignment: |
-    
+
   ### How To Do This Assignment
   
-  1. Download the assignment files.
-  2. Read the whole page.
-  3. Watch the video tutorial again, if necessary.
-  4. Submit the assignment following the posted instructions.
+  1. Read the whole page.
+  2. Watch the video tutorial again, if necessary.
+  3. Submit the assignment following the posted instructions.
 
   If you need assistance, please reach out on Slack [<a href="https://join.slack.com/t/2022graphicde-wu69873/shared_invite/zt-crlvp4tc-olmVUudBP3iCKBOEleiYSA" title="Link to Slack Workspace" target="_blank">Link to Slack workspace</a>]. Everyone must be on Slack!
+
+    <span class="orange fw700">Due Date:</span> As soon as possible. The actual date is April 10, 2020
 
   <hr />
 
@@ -74,6 +75,5 @@ assignment: |
   Once the outlined graph is placed on the page in InDesign, you can do the rest of the layout there. Avoid placing a whole Illustrator layout in InDesign. <em>Only import the outlined graph.</em>
 
   Make sure to only use Adobe Fonts in your project. Keep track of font usage under <span class="command">Type > Find Fonts...</span>. The only fonts in the list should be the ones you're using in your design.
-  
-      <div class=""></div>
+
 ---
