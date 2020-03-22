@@ -2,10 +2,10 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 2.4
+sortorder: 7.0
 appsused: ai
 title: "Gradients & Blends"
-level: undetermined
+level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission: "my-assignment-folder"
 links: |
@@ -13,16 +13,35 @@ links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/blending-objects.html" target="_blank" title="Blend Objects">Blend Objects</a>
   - Video Tutorial: <a href="https://www.youtube.com/watch?v=8SFiVoZbIW8" target="_blank" title="Gradients on a Stroke">Gradients on a Stroke</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLCH0nGq1ZceFuwNCRRUxB3E"
-downloads:
+downloads: "https://www.dropbox.com/s/ljr92euv3ejafqs/illustrator-gradients-and-blends.zip?dl=1"
 description: "Create, edit and apply gradients to strokes and fills in Adobe Illustrator."
 details: |
+  ### How To Do This Assignment
+  
+  1. Download the assignment files.
+  2. Read the whole page.
+  3. Watch the video tutorials.
+  4. Work through the practice files to learn the tool.
+  5. Do the formative assignment.
+  6. Submit the formative assignment following the posted instructions.
+
+  If you need assistance, please reach out on Slack [<a href="https://join.slack.com/t/2022graphicde-wu69873/shared_invite/zt-crlvp4tc-olmVUudBP3iCKBOEleiYSA" title="Link to Slack Workspace" target="_blank">Link to Slack workspace</a>]. Everyone must be on Slack!
+
+  <hr />
+
   ### Gradients
 
   The Gradient Tool is a very powerful one. And with great power comes great responsibility. We'll learn to wield it like a true Jedi Master. The danger here is to create muddy colour transitions between our gradient stops. We'll build a drawing of a pencil using gradients in class. Once you're done, you'll possess secrets of the Gradient Tool.
 
   <img class="size75" alt="gradients-panels" src="/images/illustrator-gradients-and-blends/gradients-panel.jpg">
 
-  <img class="size100" src="/images/illustrator-gradients-and-blends/gradients-pencil.jpg" alt="gradients-pencil">
+    <figure>
+    <img class="size100" src="/images/illustrator-gradients-and-blends/gradients-pencil.jpg" alt="gradients-pencil">
+  <figcaption>
+    This pencil gets its shading with the graient tool. There are linear and freeform gradients.
+  </figcaption>
+  </figure>
+
 
   We'll explore:
 
@@ -43,7 +62,13 @@ details: |
   > You can blend objects to create and distribute shapes evenly between two objects. You can also blend between two open paths to create a smooth transition between objects, or you can combine blends of colors and objects to create color transitions in the shape of a particular object.
   <cite><a href="https://helpx.adobe.com/illustrator/using/blending-objects.html" target="_blank" title="Adobe: Blends">Adobe</a></cite>
 
-  <img class="size50" alt="illustrator-blends-banner-practice" src="/images/illustrator-gradients-and-blends/illustrator-blends-banner-practice.jpg">
+    <figure>
+    <img class="size50" alt="illustrator-blends-banner-practice" src="/images/illustrator-gradients-and-blends/illustrator-blends-banner-practice.jpg">
+  <figcaption>
+    This banner is created with blends.
+  </figcaption>
+  </figure>
+
 
   We'll practice creating blends in class, starting with the basics, then move on to more advanced techniques. We'll draw a banner like this one, which contains a number of blends. Some are masked. Some are not. They're all stacked to create this wonderful graphic.
 
@@ -54,14 +79,27 @@ assignment: |
 
   Use gradients to add colour to the ping-pong paddle and ball.
 
-  <img class="size100" alt="illustrator-gradients-exercise" src="/images/illustrator-gradients-and-blends/illustrator-gradients-exercise.jpg">
+    <figure>
+    <img class="size100" alt="illustrator-gradients-exercise" src="/images/illustrator-gradients-and-blends/illustrator-gradients-exercise.jpg">
+  <figcaption>
+    There are linear, radial and free-form gradients here.
+  </figcaption>
+  </figure>
 
-  Note that the shading on the ball is created with a blend.
+  Feel free to use colour swatches from Illustrator's swatch libraries to get the wood colours. Add them to your Swatches panel
+
 
   ### Blends
 
   Draw a colouring pencil like the one shown below. You choose the colour of the pencil. These are the steps.
 
-  <img class="size100" alt="illustrator-blends-draw-a-pencil" src="/images/illustrator-gradients-and-blends/illustrator-blends-draw-a-pencil.jpg">
+    <figure>
+    <img class="size100" alt="illustrator-blends-draw-a-pencil" src="/images/illustrator-gradients-and-blends/illustrator-blends-draw-a-pencil.jpg">
+  <figcaption>
+    You can leave copies of artwork as you go to show the steps as I have done above.
+  </figcaption>
+  </figure>
+
+  
 ---
   * [My Gradients on a Stroke Tutorial on YouTube](https://www.youtube.com/watch?v=8SFiVoZbIW8)
