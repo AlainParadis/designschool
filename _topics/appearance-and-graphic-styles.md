@@ -104,34 +104,6 @@ details: |
 
   If settings are at 72 dpi, a given drop shadow would be big. If settings are at 300&nbsp;dpi, the same drop shadow will look smaller, or sharper.
 
-  ### How Patterns Work
-
-  A reapeating pattern is based on a transparent tile behind your artwork. It can be square or rectangular. If you want some of the art to span across two tiles, it needs to appear partially in the first, then proportionally on the opposite side of the tile. This is the process for making a tile manually.
-
-  <figure>
-      <img class="size100" alt="patterns-manual-process" src="/images/illustrator-appearance-graphic-styles/illustrator-patterns-manual-process.jpg">
-  <figcaption>
-    Illustrator creates patterns automatically. If you were to create one manually, this is how it would be done.
-  </figcaption>
-  </figure>
-
-  Once you've created your final tile, make sure the square in the background has no fill and no stroke. It also needs to be behind all the pattern artwork. Drag the whole thing into the Swatches panel. You can then apply the pattern to your artwork. I prefer to do it via the Appearance panel.
-
-  <figure>
-      <img class="size100" alt="patterns-background-colour" src="/images/illustrator-appearance-graphic-styles/illustrator-patterns-background-colour.jpg">
-  <figcaption>
-    If you make a pattern, avoid including a background colour. Add it in the Appearance panel instead.
-  </figcaption>
-  </figure>
-
-  Rather than creating a background colour as you create your pattern tile, do it in the Appearance panel. Create your initial pattern with no background. Once you apply the pattern to an object, create a new fill behind it in the Appearance panel.
-
-  Patterns we create live in the Swatches panel. But the Swatches panel contains other types of swatches, too: process colours, spot colours, gradients and colour groups. If we're working exclusively on patterns, we can filter the content of the panel Swatch Kinds button in the panel.
-
-  <img class="size33" alt="patterns-filter-swatches" src="/images/illustrator-appearance-graphic-styles/illustrator-patterns-filter-swatches.jpg">
-
-  If you choose Show Pattern Swatches, that's all that will show in the panel.
-
   ## Object > Pattern > Make
 
   Illustrator has a built-in tool for creating a pattern. There's a whole panel devoted to it. This is dead-simple to use. Create the artwork for one tile of your pattern. Drag it to the Swatches panel. This will automatically create a pattern swatch.
@@ -257,6 +229,8 @@ assignment: |
   In my example above, you can see that I left progressive versions as I worked. What you need to do is keep your wordmark with all its properties in the Appearance Panel. In the end, the wordmark needed to be expanded to achieve the final look. You can do this too. Do it only at the end and only if necessary.
 
   In your file, you may end up with only one piece of artwork, if expanding isn't necessary. If it becomes necessary, keep a live copy and an expanded copy.
+
+  <div class="attentionbox achtung">Make sure to NOT expand your original artwork. Make a copy, then expand the copy, if necessary.</div>
 ---
   <a href="https://helpx.adobe.com/illustrator/using/appearance-attributes.html" title="Submit a zip-compressed file to this page." target="_blank">This is a good reference</a> for my notes.
 
