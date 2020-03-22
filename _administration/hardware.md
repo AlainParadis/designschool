@@ -7,13 +7,13 @@ title: "Hardware Requirements"
 level: admin
 brightspace: 
 links: |
-  - <a href="https://www.apple.com/ca/retail/rideau/" alt:="Apple Store Rideau" target="_blank">Apple Store Rideau</a>
-  - <a href="https://www.apple.com/ca/retail/bayshoreshoppingcentre/" alt:="Apple Store Bayshore" target="_blank">Apple Store Bayshore</a>
-  - <a href="https://www.apple.com/ca_edu_93120/shop/buy-mac/macbook-pro/15-inch" alt:="Apple Store for Education" target="_blank">Apple’s Online Education Store</a>
-  - <a href="https://www.apple.com/ca_edu_93120/shop/browse/home/specialdeals" alt:="Refurbished Apple Store for Education" target="_blank">Apple Refurbished Store</a>
-  - <a href="https://www.apple.com/ca/support/products/mac.html" class="" target="_blank">AppleCare Canada</a>
-  - <a href="https://www.bestbuy.ca/en-ca/brand/apple" class="" target="_blank">Macs @ BestBuy Canada</a>
-  - <a href="http://www.backblaze.com" alt:="BackBlaze computer cloud backup." target="_blank">Backblaze</a>
+  - <a href="https://www.apple.com/ca/retail/rideau/" target="_blank">Apple Store Rideau</a>
+  - <a href="https://www.apple.com/ca/retail/bayshoreshoppingcentre/" target="_blank">Apple Store Bayshore</a>
+  - <a href="https://www.apple.com/ca_edu_93120/shop/buy-mac/macbook-pro/15-inch" target="_blank">Apple’s Online Education Store</a>
+  - <a href="https://www.apple.com/ca_edu_93120/shop/browse/home/specialdeals" target="_blank">Apple Refurbished Store</a>
+  - <a href="https://www.apple.com/ca/support/products/mac.html" target="_blank">AppleCare Canada</a>
+  - <a href="https://www.bestbuy.ca/en-ca/brand/apple" target="_blank">Macs @ BestBuy Canada</a>
+  - <a href="http://www.backblaze.com" target="_blank">Backblaze</a>
 video: 
 downloads: 
 description: "As students in a Bring Your Own Device (BYOD) program, you'll need to come to class with approved hardware. This is what you'll need and when."
@@ -44,7 +44,7 @@ details: |
 
   It will be useful to bring earphones or headphones to class so you can listen to video tutorials, if needed. Keep them in your bag.
 
-  Please allot $50 per year for an online backup service. <a href="http://www.backblaze.com" alt:="BackBlaze computer cloud backup." target="_blank">BackBlaze</a> is a good one.  Alternatively, you can purchase an external desktop hard drive at approximately $100. Any USB 3 unit at 2TB or above is sufficient. One of the two choices is mandatory.
+  Please allot $50 per year for an online backup service. <a href="http://www.backblaze.com"  target="_blank">BackBlaze</a> is a good one.  Alternatively, you can purchase an external desktop hard drive at approximately $100. Any USB 3 unit at 2TB or above is sufficient. One of the two choices is mandatory.
 
   A basic Wacom drawing tablet (or equivalent) is also a suggested purchase, but not required. Approximate cost is $100.
 
@@ -53,13 +53,13 @@ details: |
   ### Where to Buy
 
   Apple Retail Stores
-  : Computers can be purchased either at an Apple Retail store (<a href="https://www.apple.com/ca/retail/rideau/" alt:="Apple Store Rideau" target="_blank">Rideau Centre</a> or <a href="https://www.apple.com/ca/retail/bayshoreshoppingcentre/" alt:="Apple Store Bayshore" target="_blank">Bayshore</a>) to take advantage of their educational discount of 6 to 10 percent.
+  : Computers can be purchased either at an Apple Retail store (<a href="https://www.apple.com/ca/retail/rideau/" target="_blank">Rideau Centre</a> or <a href="https://www.apple.com/ca/retail/bayshoreshoppingcentre/" target="_blank">Bayshore</a>) to take advantage of their educational discount of 6 to 10 percent.
 
   Apple Online Store for Education
-  : You can get the same discount by buying online at <a href="https://www.apple.com/ca_edu_93120/shop/buy-mac/macbook-pro" alt:="Apple Store for Education" target="_blank">Apple’s online education store</a>
+  : You can get the same discount by buying online at <a href="https://www.apple.com/ca_edu_93120/shop/buy-mac/macbook-pro" target="_blank">Apple’s online education store</a>
 
   Apple Refurbished Online Store
-  : You can also purchase a refurbished MacBook Pro from the <a href="https://www.apple.com/ca_edu_93120/shop/browse/home/specialdeals" alt:="Refurbished Apple Store for Education" target="_blank">Apple online store</a>. These aren't *used* machines. Most of them came off the production lines with a flaw. Apple repaired & inspected them. You get a warranty.
+  : You can also purchase a refurbished MacBook Pro from the <a href="https://www.apple.com/ca_edu_93120/shop/browse/home/specialdeals" target="_blank">Apple online store</a>. These aren't *used* machines. Most of them came off the production lines with a flaw. Apple repaired & inspected them. You get a warranty.
 
   Best Buy
   : They're an authorized Apple reseller. They offer an in-store warranty that seems pretty good.
