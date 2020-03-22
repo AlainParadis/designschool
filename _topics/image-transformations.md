@@ -10,7 +10,7 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "my-assignment-folder"
 links:
 video: 
-downloads: "https://www.dropbox.com/s/f7zmzkommzl5i7n/photoshop-transforms-summative.zip?dl=1"
+downloads: "https://www.dropbox.com/s/sl41dvd5ob876iv/photoshop-transforms-summative.zip?dl=1"
 description: "This summative assignment includes Photoshop skills you've used in the last few classes. Download the assignment files. Replicate the effects that are shown on the page." 
 details: |
   
