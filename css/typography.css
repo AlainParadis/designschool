@@ -189,6 +189,25 @@ a.decoration-none {
 	text-transform: uppercase;
 }
 
+ol {
+    list-style-type: decimal;
+    counter-reset: LIST-ITEMS;
+    padding-left: 0;
+    margin-top: 1rem;
+}
+
+ol li {
+    display: block;
+    margin-right: 0.5rem;
+    padding-left: 0;
+}
+
+ol li:before {
+    content: counter(LIST-ITEMS) ".";
+    counter-increment: LIST-ITEMS;
+    padding-right: 0.25em;
+    color: var(--orange100);
+}
 figcaption {
     font-size: 0.8rem;
     color: var(--mediumgray);
