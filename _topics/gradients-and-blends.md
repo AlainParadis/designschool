@@ -6,7 +6,7 @@ sortorder: 7.0
 appsused: ai
 title: "Gradients & Blends"
 level: cg2
-brightspace: "https://brightspace.algonquincollege.com/d2l/home"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=208059&grpid=0&isprv=0&bp=0&ou=227639"
 submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/gradients.html" target="_blank" title="Apply & Edit Gradients">Apply & Edit Gradients</a>
