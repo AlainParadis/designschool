@@ -63,7 +63,7 @@ assignment: |
   When you place your graph in InDesign, you should place a native Illustrator (.ai) document.
 
   <div class="attentionbox achtung">
-  It's important that the graph you place in InDesign is fully outlined. Before you place your graph, make sure you duplicate your document. Outline all fonts in the graph. Also, select this duplicate graph, then expand it using <span class="command">Object > Expand...</span>. Click <span class="command">OK</span>.
+  It's important that the graph you place in InDesign is fully outlined. Before you place your graph, make sure you duplicate your document. Ungroup your graph. Click <span class="command">OK</span>. Also, select this duplicate graph, then expand it using <span class="command">Object > Expand...</span>. Click <span class="command">OK</span>.
   </div>
 
   Save your a duplicate of the Illustrator document as:
