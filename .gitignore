@@ -4,3 +4,5 @@ CNAME
 .DS_Store
 .jekyll-cache/
 cg.bbprojectd
+*-cache/
+.jekyll-metadata
