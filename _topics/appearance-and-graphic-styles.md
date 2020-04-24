@@ -230,7 +230,9 @@ assignment: |
 
   In your file, you may end up with only one piece of artwork, if expanding isn't necessary. If it becomes necessary, keep a live copy and an expanded copy.
 
-  <div class="attentionbox achtung">Make sure to NOT expand your original artwork. Make a copy, then expand the copy, if necessary.</div>
+  ### Expand a Copy of Your Art
+
+  Once you are done, option-drag your artwork on the page to make a duplicate. Select that art, and go <span class="command">Object > Expand Appearance</span>. This will outline your work. This way, when I grade, I won't have to load all the fonts you've used unless necessary.
 ---
   <a href="https://helpx.adobe.com/illustrator/using/appearance-attributes.html" title="Submit a zip-compressed file to this page." target="_blank">This is a good reference</a> for my notes.
 
