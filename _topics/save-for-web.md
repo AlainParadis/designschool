@@ -17,9 +17,14 @@ details: |
 
   ### Photos
 
+  We'll take large, high resolution photos and reduce them to take as little disc space as possible.
+
   ### Raster with Flat Colour
 
   ### Vectors from Illustrator
+  You'll save as svg.
+  Run your files through SpriteBot
+  
 
 assignment: |
 
