@@ -15,7 +15,7 @@ details: |
 
   This page assumes you have Illustrator CC installed on your computer. The next step is to ensure it's up to date. To do so, go to your Creative Cloude Desktop App icon in your Mac's menu bar.
 
-  <img class="size50" alt="cc-updates" src="/images/setup-illustrator/illustrator-updates.jpg">
+  <img class="size100 borderdarkgrey1" alt="cc-updates" src="/images/setup-illustrator/illustrator-updates.jpg">
 
   If one of the buttons is set to Update, then you have an update to apply.
 

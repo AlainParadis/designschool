@@ -19,7 +19,7 @@ description: "Our first steps are to get you logged in to various online service
 details: | 
   ### Your Tech Support Team
 
-  If you need software or hardware support, you can always contact me via <a href="mailto:paradia@algonquincollege.com" title="E-Mail Alain Paradis">e-mail</a>. You should be able to resolve most common support issues by referring to [our FreshDesk site](http://algonquincollege.freshdesk.com) We also have two excellent tech support people who are there to help you. They are:
+  If you need software or hardware support, you can always contact me via <a href="mailto:paradia@algonquincollege.com" title="E-Mail Alain Paradis">e-mail</a>. You should be able to resolve most common support issues by referring to <a href="http://algonquincollege.freshdesk.com" title="Our support site" target="_blank">our FreshDesk site</a> We also have two excellent tech support people who are there to help you. They are:
 
   Brad St-Jean <a href="mailto:stjeanb@algonquincollege.com" title="E-Mail Brad St-Jean">E-mail</a>
 
@@ -60,15 +60,10 @@ details: |
 
   ### Other Important Services
 
-  * Login to Brightspace: <a href="https://brightspace.algonquincollege.com/d2l/home" alt:="Algonquin College Learning Management System" target="_blank">Brightspace</a>
-  * Get software: [digitalresources.algonquincollege.com](https://plato.algonquincollege.com/DigitalResources/Default.aspx)
-  * Get <a href="https://algonquincollege.libguides.com/LinkedIn-Learning/" title="Get LinkedIn Learning" target="_blank">LinkedIn Learning from here</a>.
+  * Login to Brightspace: <a href="https://brightspace.algonquincollege.com/d2l/home" target="_blank">Brightspace</a>
+  * Get software: <a href="https://plato.algonquincollege.com/DigitalResources/Default.aspx" title="Get Software" target="_blank">digitalresources.algonquincollege.com</a>
 
   Before you install Adobe software, you'll want to uninstall previous versions. I'll give you instructions one-on-one in class. I want you to have only the latest software on your computer, and no older versions.
-
-  ### Connect to Our File Server
-
-  To connect to the Graphic Design file server, [follow these instructions](http://algonquincollege.freshdesk.com/support/solutions/articles/11000009593-how-to-connect-to-the-college-dropbox-server-from-your-mac "Connect to the Graphic Design file server").
 
   ### College Printer Setup
 
@@ -78,11 +73,11 @@ details: |
 
   As a student in a Bring Your Own Device (BYOD) program, you are entitled to a vast array of resources, including Adobe Creative Cloud software. You will receive a message at your <a href="https://liveac.algonquincollege.com" title="Check your college e-mail for instructions on setting up Adobe Apps." target="_blank">college e-mail account</a> with a link and instructions.
 
-  Now that you have all this great software, you can use <a href="https://algonquincollege.libguides.com/LinkedIn-Learning/" title="Sign Into LinkedIn Learning" target="_blank">LinkedIn Learning</a> to access software tutorials beyond those I post on <a href="http://www.youtube.com/accomputergraphics" title="Visit my YouTube Channel" target="_blank">my YouTube channel</a>.
+  Now that you have all this great software, you can also use videos I post on <a href="http://www.youtube.com/accomputergraphics" title="Visit my YouTube Channel" target="_blank">my YouTube channel</a>.
 
   Creative Cloud is a large suite of creative applications and services offered by Adobe. We'll be principally using Illustrator, Photoshop and InDesign. They're installed through the Creative Cloud desktop app. You should also run updates with the app from your menu bar.
 
-  <img class="size33" alt="creative-cloud-setup" src="/images/mac-setup/creative-cloud-setup.jpg">
+  <img class="size100 borderlightgrey1" alt="creative-cloud-setup" src="/images/mac-setup/creative-cloud-setup.jpg">
 
   <a href="https://fonts.adobe.com/fonts/" title="Adobe Fonts: All the fonts you'll ever need." target="_blank">Adobe Fonts</a> is a cloud service which offers a large number of fonts. Creative Cloud also allows us to store files and libraries of artwork on their servers to sync them between computers or users.
 
