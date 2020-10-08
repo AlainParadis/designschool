@@ -2,7 +2,7 @@
   "name": "cg",
   "private": true,
   "scripts": {
-    "build-site": "jekyll build",
+    "build-site": "bundle exec jekyll build",
     "build": "npm run build-site",
     "deploy:site": "rsync --recursive --checksum --delete --delete-excluded --verbose --compress --chmod=D2755,F644 ./_site/ keycdn:cg/",
     "deploy": "npm run deploy:site",
