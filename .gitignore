@@ -1,8 +1,10 @@
 _site/
 cg.sublime.workspace
+cg.bbprojectd/paradia.bbprojectsettings
+cg.bbprojectd
 CNAME
 .DS_Store
 .jekyll-cache/
-cg.bbprojectd
-*-cache/
 .jekyll-metadata
+*-cache/
+*.lock
