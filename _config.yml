@@ -9,8 +9,6 @@ baseurl: ""
 twitter: "@alainparadis"
 sms: "+1 (613) 618-2138"
 office: "N200"
-# Build settings
-markdown: kramdown
 
 collections:
   topics:
