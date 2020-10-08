@@ -8,8 +8,7 @@ title: "Blending & Masking"
 level: cg6
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=192172&grpid=0&isprv=0&bp=0&ou=227660"
 submission: "my-assignment-folder"
-links: |
-  Lynda.com: <a href="https://www.lynda.com/Illustrator-tutorials/Creating-double-exposure-effect-Photoshop/117542/441267-4.html">Double Exposure Effect</a>
+links:
 video: 
 downloads: "https://www.dropbox.com/s/i31969trkpddevj/photoshop-blending-and-masking.zip?dl=1"
 description: "This effect has been trendy for a while now. Notwithstanding the trend, the effect makes use of important features in Photoshop."

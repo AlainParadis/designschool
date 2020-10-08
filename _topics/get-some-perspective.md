@@ -6,12 +6,11 @@ sortorder: 2.0
 appsused: ai
 title: "Get Some Perspective"
 level: cg3
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=163166&grpid=0&isprv=&bp=0&ou=193261"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236887&grpid=0&isprv=0&bp=0&ou=279810"
 submission: "illustrator-package"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/perspective-drawing.html" target="_blank" title="Perspective Drawing">Perspective Drawing</a>
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/perspective-grid.html" target="_blank" title="Define Perspective Grids">Define Perspective Grids</a>
-  - Lynda: <a href="https://www.lynda.com/Illustrator-tutorials/Perspective-Drawing-Illustrator/186123-2.html" target="_blank" title="Drawing in Perspective">Drawing in Perspective</a>
 video: "https://www.youtube.com/embed/RVcfJ5IUecY?list=PL4qBMvigUSLD4VDB3I0iBnwrnfjnZiEjQ"
 downloads: "https://www.dropbox.com/s/82vaphr0mohgux6/illustrator-drawing-in-perspective.zip?dl=1"
 description: "Drawing in perspective is really rewarding. In this unit, we'll explore the different types of perspective available to us."

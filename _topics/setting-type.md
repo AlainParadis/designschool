@@ -6,7 +6,7 @@ sortorder: 2.2
 appsused: ai
 title: "Setting Type"
 level: cg1
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=157207&grpid=0&isprv=&bp=0&ou=193284"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=233308&grpid=0&isprv=0&bp=0&ou=279825"
 submission: "my-assignment-folder"
 links: |
   - <a href="https://helpx.adobe.com/illustrator/using/creating-text.html" target="_blank" title="Create Type in Illustrator">Adobe: Create Type</a>
@@ -20,11 +20,29 @@ details: |
 
   <img alt="adobe-ad-design" src="/images/illustrator-setting-type/adobe-ad-design.jpg">
 
-  We'll need to activate the Myriad Pro Condensed font family on the Adobe Fonts web site.
+  We'll use fonts you already have on your computer. They're part of the **Myriad Variable Concept Condensed**.
 
-  <div class="textcenter">
-    <a href="https://fonts.adobe.com/fonts/myriad" title="Activate fonts on Adobe Fonts" target="_blank" class="fs16limegreen borderlimegreen1 pad05 nounderline">Go to Adobe Fonts</a>
-  </div>
+  ### Document Setup
+
+    <figure>
+    <img src="/images/illustrator-setting-type/setting-type-page-layout.jpg" alt="Setting Type Page Setup" class="size100">
+  <figcaption>
+    These are the dimensions for your document.
+  </figcaption>
+  </figure>
+
+  The document is half a letter page horizontally. There are three columns that have 1/8" gutters. The margins are a quarter inch all around. InDesign can do all this for you. In Illustrator, we draw our grid with stroked boxes, then convert them to guides.
+
+  ### How Bleeds Work
+
+  <figure>
+      <img class="size100 borderlightgrey1" alt="How bleeds work" src="/images/illustrator-setting-type/indesign-bleeds.jpg">
+  <figcaption>
+    This is how bleeds work. Either to the margin or to the bleed line. Nothing in between.
+  </figcaption>
+  </figure>
+
+  If any artwork on the page is going to touch the edge of the page, we need to extend it to the bleed line. **Bleeds are always 1/8" or 0.125".** Be precise.
 
   ### Paragraph Styles
 
@@ -43,5 +61,5 @@ assignment: |
 
   <img class="size100" alt="ford-ad-design" src="/images/illustrator-setting-type/ford-ad-design.jpg">
 
-  You'll need to activate the Acumin Wide family on <a href="https://fonts.adobe.com/fonts/acumin" title="Activate fonts on Adobe Fonts" target="_blank">Adobe Fonts</a>.
+  We'll use fonts you already have on your computer. They're part of the **Acumin Variable Concept Wide**.
 ---

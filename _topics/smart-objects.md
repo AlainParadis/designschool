@@ -6,7 +6,7 @@ sortorder: 3.0
 appsused: psd
 title: "Smart Objects"
 level: cg5
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=167172&grpid=0&isprv=&bp=0&ou=193296"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236851&grpid=0&isprv=0&bp=0&ou=279828"
 submission: "my-assignment-folder"
 links: |
   - <a href="https://blogs.adobe.com/jkost/2017/12/working-with-smart-objects-in-photoshop-cc.html?utm_source=dlvr.it&utm_medium=twitter" class="" target="_blank">15 Tips for Smart Objects</a>

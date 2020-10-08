@@ -30,7 +30,10 @@ details: |
 
   You also have the option of purchasing only one of the books for $192.10, taxes and shipping included.
 
+  <!--
   ### Count Me In!
 
   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeXm4nTp8oXL4XA6gt1OigsO15ThGhG4jzkDN3_gn3jarq06g/viewform?embedded=true" width="760" height="1250" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+  -->
+  
 ---

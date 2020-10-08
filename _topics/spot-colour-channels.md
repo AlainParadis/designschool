@@ -6,7 +6,7 @@ sortorder: 3.2
 appsused: psd, indd
 title: "Spot Colour Channels"
 level: undetermined
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=162713&grpid=0&isprv=&bp=0&ou=193261"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236882&grpid=0&isprv=0&bp=0&ou=279810"
 submission: "indesign-package"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/printing-spot-colors.html" target="_blank" title="Spot Colour Channels">Spot Colour Channels</a>

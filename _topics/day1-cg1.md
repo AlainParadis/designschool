@@ -9,39 +9,50 @@ level: cg1
 brightspace:
 submission:
 links: |
+  - <a href="https://www.dropbox.com/s/1dtbltaftyubvrk/Graphic-Design-Program-of-Study-2020.pdf?dl=1" title="Download your Program of Study">Download your Program of Study (PDF)</a>
   - <a href="/setups/mac.html" title="macOS Setup">macOS Setup</a>
   - <a href="/setups/college-services.html" title="Set up your college online services">Setup College Services</a>
 video: 
 downloads:
 description: "Congratulations on being accepted into the Graphic Design program at Algonquin College. We have a number of topics to cover in our first Computer Graphics class."
 details: |
-  ### Welcome!
+  ### Welcome. Let's Dive In!
 
-  #### Our Present & Future
-
-  - A bit of history.
   - Where could this program lead you?
 
-  ### Let's Dive In!
+  #### First, Some Housekeeping
 
-  #### Classroom Management
+  - You must be on Zoom on time. I will not repeat instructions you may have missed if you come in late.
+  <!--   - The door will be locked once class starts. If you're late, wait for a break before coming in. -->
+  - No phone use during class, unless on a break.
+  - Want to provide anonymous feedback? Use this <a href="/administration/feedback.html" title="Submit anonymous feedback" target="_blank">anonymous feedback form</a>. The link is in the footer on every page of this site.
 
-  - The door will be locked once class starts. If you're late, wait for a break before coming in.
-  - No phone use in class, unless on a break.
-  - Want to provide anonymous feedback? Use the feedback form in the footer.
+  #### Your Program of Study
 
-  #### Student Photos
+  We're review your Program of Study. These are the courses which you must successfully complete in order to graduate. Keep this PDF handy during your stay in the program. It's your responsibility to ensure you've progressed through all of these courses.
 
-  During our first class, we're going to take an individual photo of each of you for our faculty records.
+  <!--  #### Student Photos
+  <span class="command"></span><span class="command"></span>
+  I'd like you to take a head shot of yourself for your teachers to better learn your names. The photos will only be shared with your teachers and go nowhere else.
+
+  This should be a clear photo of yourself, full frame, against a wall or another flat, untextured surface. A passport type photo will do the trick.
+
+  Name your photo like this:
+
+  <div class="textcenter fs12">last-name-first-name.jpg</div>
+
+  <div class="button-wrapper"><a href="https://www.dropbox.com/request/R0bV8U6vZ1wvPjP2Zz3P" title="Submit a photo of yourself." target="_blank" class="button">Submit Your Photo</a></div> -->
 
   #### Academic Advising Questionnaire
 
-  I'm going to give you a link to complete a questionnaire to support our academic advising efforts. We'll take time in class to fill out the form.
+  We'd like to know a bit about you in an effort to be aware of any challenges you may be facing which could get in the way of your academic success. To that end, we'd appreciate if you filled out our Academic Advising Questionnaire.
+
+  <div class="button-wrapper"><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=JNkb7GoKqUqqicmAMWwESfjne9J-c6VKlt4hDsO6Z5ZUME9MTVAyS1BUSzgxUU4wNDJFWUlHRThMVy4u" title="Fill out the Academic Advising form." target="_blank" class="button">Complete the Questionnaire</a></div>
 
   #### About Computer Graphics
 
   - Why a Mac?
-    - The minimum requirement for your computer is a <a href="https://www.apple.com/ca_edu_93120/shop/buy-mac/macbook-pro/15-inch" target="_blank">15” Retina MacBook Pro</a>.
+    - The minimum requirement for your computer is a <a href="https://www.apple.com/ca_edu_93120/shop/buy-mac/macbook-pro/15-inch" target="_blank">15” or 16" Retina MacBook Pro</a>.
     - You're encouraged to purchase AppleCare with your new laptop.
   - Why Creative Cloud?
     - InDesign for page layout.
@@ -59,7 +70,7 @@ details: |
     - Summative assignments: evaluate your mastery of software skills.
 
   ### Get Set Up
-
+  - <a href="https://join.slack.com/t/2023graphicdesign/shared_invite/zt-gn5br9x1-ZHbKCoh_f0NIoZhyseH26A" title="Join the Grads of '23 Slack workspace" target="_blank">Join the Grads of '23 Slack workspace</a>.
   - <a href="/setups/mac.html" >Set up macOS</a>.
   - Back up your files.
   - Connect to <a href="/setups/college-services.html">college online services</a>.

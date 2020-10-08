@@ -6,7 +6,7 @@ sortorder: 1.9
 appsused: ai
 title: "Isometric Illustration"
 level: cg5
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=167169&grpid=0&isprv=0&bp=0&ou=193296"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236848&grpid=0&isprv=0&bp=0&ou=279828"
 submission: "illustrator-package"
 links: 
 video: 
@@ -84,7 +84,3 @@ assignment: |
   * Unlock all layers.
   * Hide optional 'scraps' artwork on their own layer.
 ---
-
-  [Up and Running with Astute Graphics](https://www.lynda.com/Illustrator-tutorials/Up-Running-Astute-Graphics-Illustrator/151484-2.html)
-
-  Lynda.com: [Isometric Illustration](https://www.lynda.com/Illustrator-tutorials/Drawing-Vector-Graphics-Isometric-Illustration/373329-2.html) by Von Glitschka

@@ -6,11 +6,11 @@ sortorder: 3.9
 appsused: indd, psd, pdf
 title: "VW Layout"
 level: cg1
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=157211&grpid=0&isprv=&bp=0&ou=193284"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=233312&grpid=0&isprv=0&bp=0&ou=279825"
 submission: "indesign-package"
 links: |
   - <a href="https://helpx.adobe.com/indesign/using/formatting-text.html#use_quick_apply" target="_blank">Adobe: Quick Apply</a>
-downloads: "https://www.dropbox.com/s/h8vupzuloc7jysr/indesign-vw-layout.zip?dl=1"
+downloads:
 video:
 description: "Use the provided files to build the Volkswagen advertisement according to the included PDF design guide."
 details: |
@@ -57,3 +57,4 @@ assignment: |
   
   Place the photo of the car as wide as two columns. You'll use the <span class="command">File > Place...</span> command to import the photo. Once you have a loaded cursor, drag the photo into place.
 ---
+"https://www.dropbox.com/s/h8vupzuloc7jysr/indesign-vw-layout.zip?dl=1"

@@ -8,8 +8,7 @@ title: "Skateboard Parks Cards"
 level: cg5
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=167175&grpid=0&isprv=0&bp=0&ou=193296"
 submission: "illustrator-variables-summative"
-links: |
-  -   Lynda: [Variable Data course](https://www.lynda.com/Illustrator-tutorials/Adobe-Illustrator-Variable-Data/450909-2.html)
+links:
 video: 
 downloads: "https://www.dropbox.com/s/06868w69vd8uoje/illustrator-variable-data-summative.zip?dl=1"
 description: "Use the provided data to design and build a series of post cards for each of Ottawa's skateboard parks."

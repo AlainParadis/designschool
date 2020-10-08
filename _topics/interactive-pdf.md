@@ -6,7 +6,7 @@ sortorder: 5.9
 appsused: psd, indd, ai, pdf
 title: "Interactive PDF"
 level: cg5
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=167177&grpid=0&isprv=&bp=0&ou=193296"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236856&grpid=0&isprv=0&bp=0&ou=279828"
 submission: "indesign-package"
 links: 
 video: 

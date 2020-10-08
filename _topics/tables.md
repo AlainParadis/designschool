@@ -6,11 +6,10 @@ sortorder: 1.3
 appsused: indd
 title: "Tables"
 level: cg3
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=162707&grpid=0&isprv=&bp=0&ou=193261"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236878&grpid=0&isprv=0&bp=0&ou=279810"
 submission: "indesign-package"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/creating-tables.html" target="_blank" title="Adobe: Tables">Tables</a>
-  - Lynda: <a href="https://www.lynda.com/InDesign-tutorials/InDesign-Tables-Depth/178945-2.html" target="_blank" title="Lynda.com: Tables">Tables</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDQSMVBZMxW-sp44u3Kbiup"
 downloads: "https://www.dropbox.com/s/yqcbxgb11zt57ih/indesign-tables.zip?dl=1"
 description: "The potential usefulness of Tables in InDesign is virtually limitless. We'll start with the basics, then progress to blow-your-mind tables that you can't even tell are tables. You'll see. It'll blow your mind."

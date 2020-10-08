@@ -155,6 +155,3 @@ assignment: |
 
   Once you're done, save and close.
 ---
-https://www.lynda.com/Photoshop-tutorials/Photoshop-CC-2015-One-One-Fundamentals/373100-2.html
-
-https://www.lynda.com/Photoshop-tutorials/Photoshop-CC-2017-Essential-Training-Design/518165-2.html

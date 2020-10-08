@@ -24,7 +24,16 @@ details: |
 
   The top of the list of employers have recently expressed interest in taking on a student.
 
-  Cloud in the Sky Studios — **only for 2021**<br />
+
+  Redbox + Makejoy<br />
+  Amy Czettisch<br />
+  Creative Director<br />
+  amy@redboxcreative.com<br />
+  Toronto (working remotely)<br />
+  www.redboxcreative.com and www.makejoy.co<br />
+  research, design if they are good. on set at shoots, help with production of shoots. web dev on shopify is possible. Mailchimp designs.<br />
+
+  Cloud in the Sky Studios<br />
   Skyler LaFreniere<br />
   Animation Director<br />
   skyler@cloudintheskystudios.com<br />
@@ -331,7 +340,7 @@ details: |
   Sara Berkes<br />
   UX / UI Designer<br />
   sara.berkes@clearwaterclinical.com<br />
-  <a href="http://https://www.shoebox.md/we-are-shoebox-audiometry/" target="_blank">Shoebox</a><br />
+  <a href="https://www.shoebox.md/we-are-shoebox-audiometry/" target="_blank">Shoebox</a><br />
 
   Spark Advocacy<br />
   Adrian Jean CGD<br />
@@ -680,22 +689,6 @@ details: |
   Tel: 613-745-4629<br />
   Address: 1155 Lola St., Suite 200<br />
   Description: Mix of design for print, web and digital publishing</p>
-
-    <p>Employer Name: HostedBizz<br />
-  Contact Person:&nbsp;Andrea Wood<br />
-  Title: Marketing Manager<br />
-  E-mail: <a href="mailto:andrea.wood@hostedbizz.com">andrea.wood@hostedbizz.com</a><br />
-  Web Site: <a href="http://hostedbizz.com/">hostedbizz.com</a><br />
-  Phone: 613-897-1441<br />
-  Street Address:1050 Morrison Dr, Suite 204, Ottawa K2H 8K7 Description:<br />
-  HostedBizz provides enterprise-grade cloud IT infrastructure and services for Canadian small to medium businesses.<br />
-  Description:</p>
-  <ul>
-  <li><span> </span>Creating/modifying InDesign templates</li>
-  <li><span> </span>Populating templates with existing content</li>
-  <li><span> </span>Creating graphics with Illustrator for print/web media</li>
-  <li><span> </span>Some Photoshop work on stock photography</li>
-  </ul>
 
   <p> Employer: Victory Arts  <br />
   Contact Person: Tero Hollo<br />

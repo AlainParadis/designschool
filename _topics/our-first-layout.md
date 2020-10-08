@@ -7,7 +7,7 @@ appsused: indd
 submission: "indesign-package"
 title: "Our First Layout"
 level: cg1
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=157210&grpid=0&isprv=&bp=0&ou=193284"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=233311&grpid=0&isprv=0&bp=0&ou=279825"
 links: |
   - <a href="https://helpx.adobe.com/indesign/using/create-documents.html" target="_blank" title="Adobe: Create Documents">Adobe: Create Documents</a>
   - <a href="https://helpx.adobe.com/indesign/using/threading-text.html" target="_blank" title="Adobe: Threading Text Frames">Adobe: Threading Text Frames</a>
@@ -16,7 +16,7 @@ links: |
   - <a href="https://helpx.adobe.com/indesign/using/text-wrap.html" target="_blank" title="Adobe: Text Wrap">Adobe: Text Wrap</a>
   - <a href="https://helpx.adobe.com/indesign/using/formatting-text.html#use_quick_apply" target="_blank">Adobe: Quick Apply</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDjkXfBZub8komrk3Bj3RyO"
-downloads: "https://www.dropbox.com/s/9ymsw3yk3qkmayf/indesign-our-first-layout.zip?dl=1"
+downloads:
 description: "In our introduction to page layout in InDesign, we'll build a single page layout promoting Apple's Mac Mini desktop computer."
 details: |
   This is what our final layout is going to look like. Note how everything in the layout lines up with grid we've established in the document setup.
@@ -196,3 +196,4 @@ details: |
 assignment: |
   Your summative InDesign assignment is <a href="vw-layout.html" title="Your summative InDesign assignment." target="_blank">on the next page</a>.
 ---
+"https://www.dropbox.com/s/9ymsw3yk3qkmayf/indesign-our-first-layout.zip?dl=1"

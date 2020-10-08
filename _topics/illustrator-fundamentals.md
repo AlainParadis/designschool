@@ -6,11 +6,11 @@ sortorder: 2.9
 appsused: ai
 title: "Illustrator Fundamentals"
 level: cg1
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=157209&grpid=0&isprv=&bp=0&ou=193284"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=233310&grpid=0&isprv=0&bp=0&ou=279825"
 submission: "my-assignment-folder"
 links:
 video:
-downloads: "https://www.dropbox.com/s/xw72qepxxgr8s49/illustrator-fundamentals.zip?dl=1"
+downloads:
 description: "This is a summative assignment which includes all the Illustrator skills you've learned to date. Follow the instructions on this page carefully."
 details:
 assignment: |
@@ -95,3 +95,4 @@ assignment: |
 
   Make sure to save your document where it is. Don't rename.
 ---
+"https://www.dropbox.com/s/xw72qepxxgr8s49/illustrator-fundamentals.zip?dl=1"

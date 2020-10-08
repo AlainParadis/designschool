@@ -6,7 +6,7 @@ sortorder: 3.0
 appsused: sketching, ai, indd
 title: "Die Lines"
 level: cg3
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=162711&grpid=0&isprv=&bp=0&ou=193261"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236880&grpid=0&isprv=0&bp=0&ou=279810"
 submission: "indesign-package"
 links: |
   - <a href="http://media2.fwpublications.com/DESIGN/Digital-Downloads/handmade-packaging-creating-a-dieline.pdf" target="_blank" title="How to make a die line">Make a die line</a>
@@ -128,4 +128,3 @@ assignment: |
 ---
 http://media2.fwpublications.com/DESIGN/Digital-Downloads/handmade-packaging-creating-a-dieline.pdf
 http://blog.jakprints.com/die-line-tutorial/how-to-create-a-dieline
-https://www.lynda.com/Illustrator-tutorials/Package-Design-Illustrator/148421-2.html

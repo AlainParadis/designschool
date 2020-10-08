@@ -6,15 +6,10 @@ sortorder: 4.9
 appsused: psd
 title: "Pastel Drawing"
 level: cg3
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=162717&grpid=0&isprv=&bp=0&ou=193261"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236886&grpid=0&isprv=0&bp=0&ou=279810"
 submission: "photoshop-document"
 links:
 video:
-lyndalinks: |
-  - <a href="https://www.lynda.com/Photoshop-tutorials/Designing-captured-brush-tip/461843/495305-4.html?org=algonquincollege.com" target="_blank">Design a Captured Brush tip</a>
-  - <a href="https://www.lynda.com/Photoshop-tutorials/Mimicking-brush-Bristle-tip/461843/495307-4.html?org=algonquincollege.com" class="">Mimic a Brush Bristle Tip</a>
-  - <a href="https://www.lynda.com/Photoshop-tutorials/Replicating-chalk-Erodible-tips/461843/495309-4.html?org=algonquincollege.com" target="_blank">Replicating Chalk with Erodible Tips</a>
-  - <a href="https://www.lynda.com/Photoshop-tutorials/Simulating-spray-Airbrush-tips/461843/495311-4.html?org=algonquincollege.com" target="_blank">Simulating Spray with Airbrush Tips</a> 
 downloads:
 description: "In this unit, we'll set up Photoshop for Pastel drawing, including installing a workspace file, swatches and more. By the end of this module, you'll be able to produce artwork that looks like it was made with real pastels."
 details: | 

@@ -4,10 +4,10 @@ type: assignment
 formsum: formative
 sortorder: 2.1
 appsused: ai
+submission: "my-assignment-folder"
 title: "Pen Tool"
 level: cg1
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=157206&grpid=0&isprv=0&bp=0&ou=193284"
-submission: "my-assignment-folder"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=233307&grpid=0&isprv=0&bp=0&ou=279825"
 links: |
   - <a href="https://helpx.adobe.com/illustrator/using/drawing-pen-curvature-or-pencil.html" target="_blank" title="Draw with the Pen Tool">Draw with the Pen Tool</a>
   - <a href="https://design.tutsplus.com/tutorials/illustrators-pen-tool-the-comprehensive-guide--vector-141" target="_blank" title="Tutsplus: Pen Tool Guide">Tutsplus: Pen Tool Guide</a>

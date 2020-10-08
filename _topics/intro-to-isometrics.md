@@ -6,7 +6,7 @@ sortorder: 1.0
 appsused: ai
 title: "Intro to Isometrics"
 level: cg5
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=167168&grpid=0&isprv=0&bp=0&ou=193296"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236847&grpid=0&isprv=0&bp=0&ou=279828"
 submission: "my-assignment-folder"
 links: |
  - <a href="http://www.glitschkastudios.com" title="Von Glitschka" target="_blank">Von Glitschka's site</a>
@@ -229,7 +229,3 @@ assignment: |
 
   Once we've completed the task on each layer of the provided Illustrator document, you'll save it to submit on Brightspace.
 ---
-
-  [Up and Running with Astute Graphics](https://www.lynda.com/Illustrator-tutorials/Up-Running-Astute-Graphics-Illustrator/151484-2.html)
-
-  Lynda.com: [Isometric Illustration](https://www.lynda.com/Illustrator-tutorials/Drawing-Vector-Graphics-Isometric-Illustration/373329-2.html) by Von Glitschka

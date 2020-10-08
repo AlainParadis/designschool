@@ -6,12 +6,12 @@ sortorder: 1.1
 appsused: indd
 title: "Next & Nested Styles"
 level: cg3
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=162705&grpid=0&isprv=&bp=0&ou=193261"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236876&grpid=0&isprv=0&bp=0&ou=279810"
 submission: "indesign-package"
 links: |
   - <a href="https://helpx.adobe.com/indesign/using/paragraph-character-styles.html#apply_styles" target="_blank" title="Apply Sequential Styles">Apply Sequential Styles</a>
-  - Adobe: <a href="https://helpx.adobe.com/indesign/using/paragraph-character-styles.html#apply_styles" alt:="Adobe: Next Styles" target="_blank">Next Styles</a>
-  - Adobe: <a href="https://helpx.adobe.com/indesign/how-to/indesign-creating-nested-styles.html" alt:="Adobe: Nested Styles video tutorial" target="_blank">Nested Styles</a>
+  - Adobe: <a href="https://helpx.adobe.com/indesign/using/paragraph-character-styles.html#apply_styles" title="Adobe: Next Styles" target="_blank">Next Styles</a>
+  - Adobe: <a href="https://helpx.adobe.com/indesign/how-to/indesign-creating-nested-styles.html" title="Adobe: Nested Styles video tutorial" target="_blank">Nested Styles</a>
 video: "https://www.youtube.com/embed/cjxejsIZtbQ?rel=0"
 downloads: "https://www.dropbox.com/s/5f9f18zsjl5yc7u/indesign-next-nested-styles.zip?dl=1"
 description: "Next and Nested styles are two different things in InDesign. When thy are combined, they really offer powerful tools to style text with only a few clicks."

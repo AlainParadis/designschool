@@ -8,8 +8,7 @@ title: "Masking Hair"
 level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=189262&grpid=0&isprv=0&bp=0&ou=227639"
 submission: "my-assignment-folder"
-links: |
-  - Lynda: <a href="https://www.lynda.com/Photoshop-tutorials/Photoshop-Masking-Compositing-Hair/91589-2.html" target="_blank" title="Illustrator's Pen Tool is so old-school.">Masking Hair</a>
+links:
 video: "https://www.youtube.com/embed/zbLqGf6JCZc?rel=0"
 downloads: "https://www.dropbox.com/s/7nxmvy8dr3quswt/photoshop-masking-hair.zip?dl=1"
 description: "Before you can correct, you must select. This is a time-tested saying amongst Photoshop pros. Learning to make accurate selections of complex and detailed objects in Photoshop is a life-long learning process. We'll continue that here."
@@ -143,15 +142,6 @@ assignment: |
 
 Advanced Masking
 http://bit.ly/2h6nOlr
-
-https://www.lynda.com/Photoshop-tutorials/Photoshop-Masking-Compositing-Hair/91589-2.html
-
-Mastering Selections
-https://www.lynda.com/Photoshop-tutorials/Mastering-Selections-Photoshop-CC/417079-2.html
-
-Make sure we apply a keyboard shortcut to the Add Layer Mask button in Photoshop.
-
-https://www.lynda.com/Photoshop-tutorials/Refine-mask/471668/494406-4.html
 
   ## Using Calculations
 

@@ -21,15 +21,15 @@ downloads:
 description: "The fieldwork program is proud to partner with creative agencies in Canada's National Capital Region and around the world. The goal of our fieldwork program is to initiate our students to the professional practice of graphic design in a safe, stimulating and productive workplace."
 details: |
 
-  <div class="button-wrapper"><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=JNkb7GoKqUqqicmAMWwESfjne9J-c6VKlt4hDsO6Z5ZURUU5WFowU1MxVTdLQzNQVUc0NzVRTEpLWS4u" title="I Got My Fieldwork" target="_blank" class="button">I Got My Fieldwork</a></div>
+  <div class="button-wrapper"><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=JNkb7GoKqUqqicmAMWwESfjne9J-c6VKlt4hDsO6Z5ZURE9IRExJVFZaWFJSUUJZM09XQTdRUEJVMC4u" title="I Got My Fieldwork" target="_blank" class="button">I Got My Fieldwork</a></div>
 
   ### Assessment
 
   This is a pass/fail course. It must be successfully completed to graduate from the Graphic Design program.
 
-  The fieldwork placement runs from March 2 until April 10, 2020. You need to complete 180hrs during the 6 week period (30hrs/week). Students are expected to work the same hours as other employees.
+  The fieldwork placement runs from **January 18 to February 26, 2021**. You need to complete 180hrs during the 6 week period (30hrs/week). Students are expected to work the same hours as other employees.
 
-  You can not work from home for your internship. You must be on site at your employer's place of business and be supervised.
+  <!---You can not work from home for your internship. You must be on site at your employer's place of business and be supervised.--->
 
   As an acting employee, you will have access to personal or confidential information about the firms and clients they are working with. You must recognize the importance of maintaining confidentiality. Failure to do so constitutes a serious breach of ethics which may result in expulsion from the placement. This would incur an 'incomplete' grade, which would mean you would need to repeat this course the next year.
 

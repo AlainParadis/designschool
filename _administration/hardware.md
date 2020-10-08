@@ -20,11 +20,11 @@ description: "As students in a Bring Your Own Device (BYOD) program, you'll need
 details: |
   ### What's Required
 
-  The Graphic Design Program is part of the College’s BYOD program, as such a Macintosh laptop is mandatory equipment. The base model 15” MacBook Pro is the minimum required equipment.
+  The Graphic Design Program is part of the College’s BYOD program, as such a Macintosh laptop is mandatory equipment. The base model 15” or 16" MacBook Pro is the minimum required equipment.
 
   ### Why Do I Need to Buy This?
 
-  A 15" MacBook Pro is an industry-standard laptop for graphic designers. Your faculty does their best to prepare you for work in industry. As such, we want you to start using that equipment as soon as possible.
+  A MacBook Pro is an industry-standard laptop for graphic designers. Your faculty does their best to prepare you for work in industry. As such, we want you to start using that equipment as soon as possible.
 
   Another reason for this is standardization. It's much cleaner to teach a group who's all using the same equipment. While teaching, we can point to a feature knowing it will be at the same place for all students. There are no operating system variants, such as Windows 7, Windows 8, Windows 10, etc...
 
@@ -39,6 +39,8 @@ details: |
   If you are purchasing a new Mac, avoid the 13" MacBook Pro. It's a great all-around machine, but its screen is too small for professional design work.
 
   ### Peripherals & More...
+
+  Since we're holding remote classes this semester, you'll need a web cam. If you have a Mac, you already have one. Otherwise, please make sure you have one before the first week of class.
 
   You need to come to each class equipped with a mouse and a mouse pad of your choice. If you purchase a new MacBook Pro, Apple’s AppleCare warranty is a good idea, though not mandatory.
 

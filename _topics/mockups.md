@@ -6,7 +6,7 @@ sortorder: 3.9
 appsused: psd
 title: "Mockups"
 level: cg5
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=167173&grpid=0&isprv=&bp=0&ou=193296"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236852&grpid=0&isprv=0&bp=0&ou=279828"
 submission: "my-assignment-folder"
 links: 
 video:

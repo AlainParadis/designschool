@@ -14,7 +14,7 @@ video:
 downloads: 
 description: 
 details: |
-  Create an example with two different street addresses, <a href="https://www.lynda.com/InDesign-tutorials/Exploring-conditional-text/114324/127144-4.html" title="Adobe: Conditional Text" target="_blank">like this</a>.
+  Create an example with two different street addresses, 
 assignment: |
   
 ---
