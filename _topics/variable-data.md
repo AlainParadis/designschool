@@ -6,7 +6,7 @@ sortorder: 4.0
 appsused: ai
 title: "Variable Data"
 level: cg5
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=167174&grpid=0&isprv=&bp=0&ou=193296"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236853&grpid=0&isprv=0&bp=0&ou=279828"
 submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="http://helpx.adobe.com/illustrator/using/data-driven-graphics-templates-variables.html" title="Adobe: Illustrator Variable Data" target="_blank">Variable Data</a>
