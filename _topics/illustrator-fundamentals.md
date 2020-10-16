@@ -95,4 +95,4 @@ assignment: |
 
   Make sure to save your document where it is. Don't rename.
 ---
-"https://www.dropbox.com/s/xw72qepxxgr8s49/illustrator-fundamentals.zip?dl=1"
+"https://www.dropbox.com/s/gexixg456zz3hhy/illustrator-fundamentals.zip?dl=1"
