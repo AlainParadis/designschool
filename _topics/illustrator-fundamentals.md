@@ -67,7 +67,7 @@ assignment: |
   See the model above as a guide for where to use point type vs. area type. Make sure you use the <span class="command">Indents & Spacing > Space After</span> setting at 4pt in your paragraph style to create spacing between paragraphs, as shown. Once complete, ⌘-S, then ⌘-W.
 
 
-  ### Colour Swatches
+  ### Colour Spaces
 
   Assign colours to the provided logo adhering to the guide images.
 
