@@ -17,7 +17,7 @@ links: |
   - <a href="https://helpx.adobe.com/indesign/using/formatting-text.html#use_quick_apply" target="_blank">Adobe: Quick Apply</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDjkXfBZub8komrk3Bj3RyO"
 downloads: "https://www.dropbox.com/s/9ymsw3yk3qkmayf/indesign-our-first-layout.zip?dl=1"
-description: "In our introduction to page layout in InDesign, we'll build a single page layout promoting Apple's Mac Mini desktop computer."
+description: "In our introduction to page layout in InDesign, we'll build a single-page layout promoting Apple's Mac Mini desktop computer. We'll build this as a template so that it's easy to update for future products."
 details: |
   This is going to be our first foray into page layout in InDesign. We'll build a single-page sell sheet for Apple's Mac Mini. The goal here is to build it as a bit of template, so we can swap out the content for a different product in the future. All the tools below help us create this layout with that goal in mind.
 
