@@ -16,7 +16,7 @@ links: |
   - <a href="https://helpx.adobe.com/indesign/using/text-wrap.html" target="_blank" title="Adobe: Text Wrap">Adobe: Text Wrap</a>
   - <a href="https://helpx.adobe.com/indesign/using/formatting-text.html#use_quick_apply" target="_blank">Adobe: Quick Apply</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDjkXfBZub8komrk3Bj3RyO"
-downloads: "https://www.dropbox.com/s/9ymsw3yk3qkmayf/indesign-our-first-layout.zip?dl=1"
+downloads:
 description: "In our introduction to page layout in InDesign, we'll build a single-page layout promoting Apple's Mac Mini desktop computer. We'll build this as a template so that it's easy to update for future products."
 details: |
   This is going to be our first foray into page layout in InDesign. We'll build a single-page sell sheet for Apple's Mac Mini. The goal here is to build it as a bit of template, so we can swap out the content for a different product in the future. All the tools below help us create this layout with that goal in mind.
@@ -247,7 +247,13 @@ details: |
 assignment: |
   This is what our final layout is going to look like. Note how everything in the layout lines up with grid we've established in the document setup.
 
-  <img class="size75 center" alt="indesign-mac-mini-sell-sheet" src="/images/indesign-our-first-layout/indesign-mac-mini-sell-sheet.jpg">
+    <figure>
+    <img class="size75" alt="indesign-mac-mini-sell-sheet" src="/images/indesign-our-first-layout/indesign-mac-mini-sell-sheet.jpg">
+  <figcaption>
+    This is what the completed layout looks like.
+  </figcaption>
+  </figure>
+
 
   Go <span class="command">File > New</span> in InDesign. We'll create a single-page document with:
   * No facing pages
@@ -255,6 +261,18 @@ assignment: |
   * 0p9 point gutters
   * 2p0 point margins
   * 0p9 point bleeds
+
+  #### Type Specimen
+
+  We'll be using Acumin Variable Concept and Minion Pro Variable Concept in this layout.
+
+    <figure>
+    <img src="/images/indesign-our-first-layout/type-specimen.jpg" class="size75 borderlightgrey1" alt="type-specimen">
+  <figcaption>
+    This is a type specimen for the document.
+  </figcaption>
+  </figure>
+
 
   #### Save the File
 
@@ -265,3 +283,4 @@ assignment: |
   into the folder you downloaded.
 
 ---
+"https://www.dropbox.com/s/9ymsw3yk3qkmayf/indesign-our-first-layout.zip?dl=1"
