@@ -307,8 +307,8 @@ section.content .item1 ul li {  }
 section.content .item1 ul li a { margin-left: .4rem; }
 
 section.content .item2 ul { margin: 0 0 1rem 0; }
-section.content .item2 ul li { margin-left: 1rem; }
-section.content .item2 ul li:before { padding-right: .3rem ; }
+section.content .item2 ul li { margin-left: 0rem; }
+section.content .item2 ul li:before { padding-right: .5rem ; }
 
 a.summative {
 	font-weight: 600;
