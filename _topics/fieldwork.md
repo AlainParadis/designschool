@@ -30,7 +30,7 @@ details: |
   The fieldwork placement runs from **January 18 to February 26, 2021**. You need to complete a minimum of 120 hours during the 6 week period. Students are expected to work the same hours as other employees.
 
   <div class="attentionbox achtung">
-  Due to the COVID-19 pandemic, we are adapting the course to allow for a reduced number of 120 hours for Fieldwork. You can also do freelance work, which was not normally an option.
+  Due to the COVID-19 pandemic, we are adapting the course to allow for a reduced number of 120 hours for Fieldwork. Remote work is permitted and encouraged, where appropriate for health reasons. You can also do freelance work, which was not normally an option.
   </div>
 
   <!---You can not work from home for your internship. You must be on site at your employer's place of business and be supervised.--->
