@@ -25,14 +25,18 @@ details: |
   
   #### For Students
 
-  The mentors below have offered their time to help you. First off, **please respect their time**. They're available for questions via e-mail and for portfolio development coaching. Some ground rules:
+  The mentors below have offered their time to help you. First off, **please respect their time**. They're available for questions via e-mail and for portfolio development coaching.
+  
+  Choose a mentor that seems to match the skillset you're looking for. Contact them via e-mail with your questions. If your draft portfolio is ready, ask them if you can send them a PDF as an attachment.
+
+  ##### Some ground rules
   
   - Do not spam many people at once.
-  - Avoid sending large attachments. Use a cloud service, then send a link.
+  - Avoid sending large attachments. Use a cloud service, then send a link. Ask before sending.
   - Be prepared before contacting a mentor. Gather multiple questions rather than peppering them many times.
   - These are potential employers! Be professional in all of your communications with them.
 
-  Some mentors may have multiple requests. They're free to decline your request. If they do, move on to someone else.
+  Some mentors may have multiple requests. They're free to decline your request. If they do, move on to someone else courteously.
 
   #### For Mentors
 
