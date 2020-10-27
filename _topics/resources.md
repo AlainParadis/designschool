@@ -2,7 +2,7 @@
 layout: default
 type: informational
 formsum:
-sortorder: 1.3
+sortorder: 1.2
 appsused:
 title: "Resources"
 level: fpp
