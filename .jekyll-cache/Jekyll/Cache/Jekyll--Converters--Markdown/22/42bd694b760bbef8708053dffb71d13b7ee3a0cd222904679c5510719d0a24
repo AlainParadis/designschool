@@ -1,8 +1,0 @@
-I"Í<p><img class="size50" alt="indesign-align-to-baseline-grid" src="/images/indesign-align-to-baseline/indesign-align-to-baseline-grid.jpg" /></p>
-
-<p>Aligning the text to the baseline is a common practice for multi-column page designs, like magazines. It makes the text baselines align across columns. So, if you put a ruler on the page at the baseline, they would all line up across columns. This makes for a much cleaner look.</p>
-
-<p><img class="size100" alt="indesign-align-to-baseline" src="/images/indesign-align-to-baseline/indesign-align-to-baseline.jpg" /></p>
-
-<p>You need to know your leading size to start with. Go to <span class="command">Preferences &gt; Grids</span>, then change the <span class="command">Increment Every</span> number to match your leading value. Once thatâ€™s done, go to <span class="command">Indents and Spacing</span> in your paragraph style. Set <span class="command">Align to Grid</span> to <span class="command">All Lines</span>.</p>
-:ET

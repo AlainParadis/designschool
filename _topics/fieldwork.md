@@ -2,7 +2,7 @@
 layout: default
 type: informational
 formsum:
-sortorder: 1.1
+sortorder: 1.0
 appsused:
 title: "Fieldwork"
 level: fpp
@@ -27,7 +27,11 @@ details: |
 
   This is a pass/fail course. It must be successfully completed to graduate from the Graphic Design program.
 
-  The fieldwork placement runs from **January 18 to February 26, 2021**. You need to complete 180hrs during the 6 week period (30hrs/week). Students are expected to work the same hours as other employees.
+  The fieldwork placement runs from **January 18 to February 26, 2021**. You need to complete a minimum of 120 hours during the 6 week period. Students are expected to work the same hours as other employees.
+
+  <div class="attentionbox achtung">
+  Due to the COVID-19 pandemic, we are adapting the course to allow for a reduced number of 120 hours for Fieldwork. You can also do freelance work, which was not normally an option.
+  </div>
 
   <!---You can not work from home for your internship. You must be on site at your employer's place of business and be supervised.--->
 
@@ -41,13 +45,13 @@ details: |
   - Completion of fieldwork
   - Completion of a fieldwork journal
 
-  ### Consent Form
+  <!--- ### Consent Form
 
   You need to fill out this form.
 
   <div class="button-wrapper"><a href="https://www.dropbox.com/s/ma8soppb3l6sxj6/fieldwork-consent-form-2020.pdf.zip?dl=1" title="Fieldwork Consent Form" target="_blank" class="button">Download Consent Form</a></div>
 
-  Return the PDF to me completed via <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#97;&#114;&#97;&#100;&#105;&#97;&#64;&#97;&#108;&#103;&#111;&#110;&#113;&#117;&#105;&#110;&#99;&#111;&#108;&#108;&#101;&#103;&#101;&#46;&#99;&#111;&#109;">e-mail</a>.
+  Return the PDF to me completed via <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#97;&#114;&#97;&#100;&#105;&#97;&#64;&#97;&#108;&#103;&#111;&#110;&#113;&#117;&#105;&#110;&#99;&#111;&#108;&#108;&#101;&#103;&#101;&#46;&#99;&#111;&#109;">e-mail</a>. --->
 
   ### Fieldwork Journal
 

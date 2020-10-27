@@ -2,7 +2,7 @@
 layout: submission
 type: informational
 formsum:
-sortorder: 1.4
+sortorder: 1.3
 appsused:
 title: "Employers"
 level: fpp
@@ -18,7 +18,7 @@ links: |
   - <a href="https://www.dropbox.com/s/ma8soppb3l6sxj6/fieldwork-consent-form-2020.pdf.zip?dl=1" title="Fieldwork Consent Form">Fieldwork Consent Form PDF</a>
 video: 
 downloads: "https://www.dropbox.com/s/jp8m950e6g5k77i/fieldwork-gradshow-downloads.zip?dl=1"
-description: "Below is a list of potential employers you can contact to do fieldwork."
+description: "This page contains a list of potential employers you can contact to do fieldwork. They've taken students for fieldwork before."
 details: |
   ### Recent Employers
 
