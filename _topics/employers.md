@@ -138,15 +138,15 @@ details: |
   Description:<br />
   Student would participate in product design efforts. Visual design, Interaction design, prototyping, contributing to our DSM, potentially participating in research efforts.
 
-  INProduction Licensing - Greenre Eco Products<br />
+  Greenre Brand<br />
   Keith Loiselle<br />
   Creative Director<br />
-  keith@intheproduction.com<br />
+  <a href="mailto:keith@greenre.ca">keith@greenre.ca</a><br />
   613-853-3582<br />
-  4006 Canyon Walk Drive<br />
-  http://online.fliphtml5.com/tbjhw/bykd<br />
+  46 Antares Drive<br />
+  <a href="http://greenre.ca/">http://greenre.ca/</a><br />
   Description-of-Work:<br />
-  Disney, Marvel, Lucas Films consumer product design and digital marketing design<br />
+  Disney, Marvel, Lucas Films eco-consumer product design and digital marketing design<br />
 
   Banfield Agency<br />
   Timothy Jones<br />
@@ -218,6 +218,7 @@ details: |
   Work with Learning Advisors in the development of e-Learning courses<br />
   
   Raised by Wolves<br />
+  Not taking anyone for Jan '21<br />
   Cal Green<br />
   Creative Director<br />
   cal@raisedbywolves.ca<br />
@@ -329,6 +330,7 @@ details: |
   We're looking for people interested in UX, web design and occasional branding. My design team works mostly in sketch and InVision, but if they don't have experience its ok as it's not that different from illustrator.<br />
 
   Scouts Canada<br />
+  Not taking anyone for Jan '21<br />
   Lisa Donnelly<br />
   Talent Advisor<br />
   lisa.donnelly@scouts.ca<br />
@@ -365,16 +367,15 @@ details: |
   Simple Story Videos  <br />
   Skyler Michaels<br />
   Creative Director<br />
-  Skyler@simplestoryvideos.com <br />
+  Skyler@simplestoryvideos.com<br />
 
-  Soshal.ca  <br />
+  Soshal.ca<br />
   Chad MacDonald<br />
   Creative Director<br />
   Soshal.ca<br />
   chad.macdonald@soshal.ca<br />
 
-  <del>You.i TV</del><br />
-  Not taking anyone in 2020<br />
+  You.i TV<br />
   Isabela Landfeldt<br />
   People Operations Specialist<br />
   isabela.landfeldt@youi.tv<br />
