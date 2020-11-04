@@ -16,6 +16,7 @@ details: |
 
   - <a href="https://iconmonstr.com/" title="Icon Monstr" target="_blank">IconMonstr</a>
   - <a href="https://openmoji.org/" title="OpenMoji" target="_blank">OpenMoji</a>
+  - <a href="http://greenre.ca/" title="Phosphor Icons" target="_blank">Phosphor Icons</a>
   - <a href="https://simpleicons.org/" title="Simple Icons" target="_blank">Simple Icons</a>
   - <a href="https://thenounproject.com/" title="The Noun Project" target="_blank">The Noun Project</a>
   - <a href="https://github.com/edent/SuperTinyIcons" title="Super Tiny Icons" target="_blank">Super Tiny Icons</a>
