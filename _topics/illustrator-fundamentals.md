@@ -10,7 +10,7 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "my-assignment-folder"
 links:
 video:
-downloads:
+downloads: "https://www.dropbox.com/s/1yrs6w2qxj6qtxd/illustrator-fundamentals.zip?dl=1"
 description: "This is a summative assignment which includes all the Illustrator skills you've learned to date. Follow the instructions on this page carefully."
 details:
 assignment: |
@@ -38,14 +38,6 @@ assignment: |
 
   Once you're done, simply save and close the document.
 
-  [//]: ## Artboards
-
-  [//]: Create artboards for the following items.
-
-  [//]: <img class="size100" alt="illustrator-artboards-summative" src="/images/illustrator-fundamentals/illustrator-artboards-summative.jpg">
-
-  [//]: Name each artboard, Logo Alone, Business Card, Post Card, Web Page Mockup & All Encompassign. Done? Save & close.
-
   ### Type in Illustrator
 
   Create a new Illustrator document with the specifications shown below. Use point type and area type where appropriate.
@@ -54,17 +46,17 @@ assignment: |
 
   <img class="size100" alt="Illustrator Type Summative" src="/images/illustrator-fundamentals/illustrator-type-summative.svg">
 
-  All the text is set in <a href="https://fonts.adobe.com/fonts/proxima-nova" class="fw700" target="_blank">Proxima Nova font</a>. Make a paragraph style for each:
+  All the text is set in <a href="https://fonts.adobe.com/fonts/proxima-nova" class="fw700" target="_blank">Proxima Nova font</a>:
 
   * Title: 44pt, Extra Bold
   * Intro: 10pt, Bold
   * Text: 10pt, Regular
 
-  Set the slogan and URL manually (no paragraph style):
+  Set the slogan and URL:
 
   * URL: 24pt, Extra Bold & Regular
 
-  See the model above as a guide for where to use point type vs. area type. Make sure you use the <span class="command">Indents & Spacing > Space After</span> setting at 4pt in your paragraph style to create spacing between paragraphs, as shown. Once complete, ⌘-S, then ⌘-W.
+  <!--  See the model above as a guide for where to use point type vs. area type. Make sure you use the <span class="command">Indents & Spacing > Space After</span> setting at 4pt in your paragraph style to create spacing between paragraphs, as shown. Once complete, ⌘-S, then ⌘-W. -->
 
 
   ### Colour Spaces
@@ -95,4 +87,3 @@ assignment: |
 
   Make sure to save your document where it is. Don't rename.
 ---
-"https://www.dropbox.com/s/gexixg456zz3hhy/illustrator-fundamentals.zip?dl=1"
