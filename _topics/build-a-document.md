@@ -1,8 +1,8 @@
 ---
 layout: submission
 type: assignment
-formsum: formative
-sortorder: 4.4
+formsum: summative
+sortorder: 4.9
 appsused: indd
 title: "Build a Document"
 level: cg1
