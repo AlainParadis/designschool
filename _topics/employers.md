@@ -110,6 +110,7 @@ details: |
   Students who think creatively, excel in a fast, challenging environment, and are interested in a career in an advertising agency or media company (specifically in graphic design, video editing, web page design, will enjoy this opportunity).
 
   McMillan<br />
+  Not taking anyone for Jan '21<br />
   Neal Billings<br />
   Creative Director<br />
   <a href="mailto:nbillings@mcmillan.com">nbillings@mcmillan.com</a><br />
