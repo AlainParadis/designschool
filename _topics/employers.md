@@ -20,10 +20,50 @@ video:
 downloads: "https://www.dropbox.com/s/jp8m950e6g5k77i/fieldwork-gradshow-downloads.zip?dl=1"
 description: "This page contains a list of potential employers you can contact to do fieldwork. Most have taken students for fieldwork before."
 details: |
+
   ### Recent Employers
 
   The top of the list of employers have recently expressed interest in taking on a student.
 
+  Organization: You.i TV<br />
+  Contact-Person: Meghan Jervis<br />
+  Contact-Job-Title: People Operations Specialist<br />
+  Contact-Email: meghan.jervis@youi.tv<br />
+  Contact-Tel: Organization-Address: 307 Legget Drive<br />
+  Ottawa, ON<br />
+  Canada K2K 3C8<br />
+  Organization-URL: https://www.youi.tv/<br />
+  Description-of-Work:<br />
+  <p>As a Top 25 Great Place to Work® recipient and a fastest-growing tech company in North America according to Deloitte, You.i TV is changing the way users experience TV across mobile, tablet, and connected devices. Interested in building the future of TV? Our team is seeking a Design Intern for a contract term.</p>
+  <p>To thrive in this role, you’ll have a strong understanding of design fundamentals. You can adapt to new challenges like a pro, take direction, and apply feedback. You have an innate sense of how to use layout, colour, space, iconography and typography to tie together design decisions cohesively. You have a solid understanding of usability best practices, user experience principles, and user-centred thinking. Our approach to design requires collaboration, adaptability, and a vested interest in helping others. You’ll stay busy ideating, designing, and possibly animating across a variety of internal projects.</p>
+  What you'll do:
+  
+  - Ideate, wireframe, prototype and evaluate user interface designs. Understand user, business, and technical requirements to define optimal design solutions.
+  - Own the visual and/or interaction design of a digital product across multiple form factors, and be an advocate for functional, usable, user-centred design at all project touchpoints.
+  - Assist in requirements gathering, discovery, and generate design deliverables that address unique project needs.
+  - Be part of the creative process from initial concepts to design delivery, including; participating in brainstorms, user testing, receiving and applying feedback during design reviews.
+  - Work in parallel with developers, project managers and designers to deliver on milestones throughout the project timeline.
+  - Apply your design thinking and execution skills throughout the entire product lifecycle, keeping a keen eye on opportunities to step in and step up.
+  - Collaborate and support your team to execute pixel-perfect mockups that are consistent with the app’s look and feel and any other additional visual assets.
+  
+  What you bring:
+  
+  - A positive attitude coupled with the ability to work in a fast-paced environment.
+  - Demonstrated understanding of UX fundamentals, best practices, and common design tools (Photoshop, After Effects). You have experience creating responsive designs for mobile and tablet devices, bonus for experience designing for TV interfaces.
+  - A portfolio that reflects your strengths in both UX and visual design skills.
+  - Strong communication skills with the ability to deliver design rationales to validate your decisions.
+  - Motivated by feedback, and by the opportunity to improve in your role in the work, and in how you work together as a team.
+  - UX/UI Design capabilities
+  - It would be awesome if you had experience or interest in some of the other tools we use: Sketch, Figma, Adobe XD, Abstract, InVision, Illustrator, Zeppelin, Optimal Workshop, Principle, Axure, Framer X or other high fidelity prototyping tools (we’re not picky)
+ 
+  What we can offer you:
+  
+  - Opportunity to work with Top Tier media brands and household names
+  - Opportunity to work on cutting-edge technology in one of the fastest moving industries
+  - An environment where we care about the "whole" self demonstrated through our various health and wellness programs
+  
+  <p>The TV industry is changing at a rapid pace, with streaming video, multiple screens and over-the-top video offerings becoming the new normal, fast. That's why companies like WarnerMedia, Twitch, NBA, and A&E are turning to You.i TV to get the velocity, flexibility and reach they need in today's market</p>
+  <p>We encourage applications from all backgrounds, communities and industries, and are committed to having a team that is made up of diverse skills, experiences and abilities. Accommodations are available on request for candidates taking part in all aspects of the selection process.</p>
 
   Redbox + Makejoy<br />
   Amy Czettisch<br />
@@ -34,6 +74,7 @@ details: |
   research, design if they are good. on set at shoots, help with production of shoots. web dev on shopify is possible. Mailchimp designs.<br />
 
   Cloud in the Sky Studios<br />
+  Not taking anyone for Jan '21<br />
   Skyler LaFreniere<br />
   Animation Director<br />
   skyler@cloudintheskystudios.com<br />
@@ -375,13 +416,6 @@ details: |
   Creative Director<br />
   Soshal.ca<br />
   chad.macdonald@soshal.ca<br />
-
-  You.i TV<br />
-  Isabela Landfeldt<br />
-  People Operations Specialist<br />
-  isabela.landfeldt@youi.tv<br />
-  <a href="https://www.youi.tv/" target="_blank">https://www.youi.tv/</a><br />
-  307 Legget Drive<br />
 
   Youth Ottawa<br />
   Ian Bingeman<br />

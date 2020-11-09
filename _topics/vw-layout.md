@@ -10,9 +10,9 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "indesign-package"
 links: |
   - <a href="https://helpx.adobe.com/indesign/using/formatting-text.html#use_quick_apply" target="_blank">Adobe: Quick Apply</a>
-downloads:
-video:
-description: "Use the provided files to build the Volkswagen advertisement according to the included PDF design guide."
+downloads: 
+video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDjkXfBZub8komrk3Bj3RyO"
+description: "Use the provided files to build the Volkswagen advertisement according to the included PDF design guide. Again, we're building an InDesign document in a way which will make it easy to edit."
 details: |
 assignment: |
   Using all the skills we've practiced to date, you will build the layout shown in the provided design guide. You'll be replicating the design in the guide. There may be very small differences, like different line endings. That's ok.
@@ -20,8 +20,12 @@ assignment: |
   #### Document Creation
   
   Create a single-page document with 2p0 margins all around. Make sure you adhere to all the settings shown below.
-  
-  <img class="size33" alt="document-setup" src="/images/indesign-vw-layout/document-setup.jpg">
+    <figure>
+  <img class="size50" alt="document-setup" src="/images/indesign-vw-layout/document-setup.jpg">  
+  <figcaption>
+    Document setup. Don't forget to turn off Facing Pages.
+  </figcaption>
+  </figure>
   
   Make sure you save your document like this (with your own name):
   
@@ -33,9 +37,14 @@ assignment: |
   
   #### Setting Base Paragraph Styles
   
-  As soon as you've created your document, make sure you set your Basic Paragraph Style to Futura PT Book 9pt.
+  As soon as you've created your document, make sure you set your Basic Paragraph Style to <a href="https://fonts.adobe.com/fonts/futura-pt" title="Turn on Futura PT on Adobe Fonts" target="_blank" class="fw700">Futura PT Book</a> 9pt.
 
-  <img class="size50" alt="paragraph-styles-panel" src="/images/indesign-vw-layout/paragraph-styles-panel.jpg">
+    <figure>
+    <img class="size50" alt="paragraph-styles-panel" src="/images/indesign-vw-layout/paragraph-styles-panel.jpg">
+  <figcaption>
+    Base ALL paragraph styles on Basic Paragraph
+  </figcaption>
+  </figure>
   
   Everything that's in Futura PT needs to be based on the Basic Paragraph Style.
 
@@ -57,4 +66,4 @@ assignment: |
   
   Place the photo of the car as wide as two columns. You'll use the <span class="command">File > Place...</span> command to import the photo. Once you have a loaded cursor, drag the photo into place.
 ---
-"https://www.dropbox.com/s/h8vupzuloc7jysr/indesign-vw-layout.zip?dl=1"
+"https://www.dropbox.com/s/yu3c6ds802xzcwi/indesign-vw-layout.zip?dl=1"
