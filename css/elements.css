@@ -41,7 +41,7 @@ input {
 }
 section.content .button-wrapper {
     text-align: center;
-    margin: 1rem 0;
+    margin: 1rem 0 2rem 0;
 }
 section.content .button {
   background-color: var(--white);
