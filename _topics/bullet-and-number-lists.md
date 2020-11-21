@@ -2,10 +2,10 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 4.2
+sortorder: 2.1
 appsused: indd
 title: "Bullet & Number Lists"
-level: cg1
+level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=233313&grpid=0&isprv=0&bp=0&ou=279825"
 submission: "indesign-package"
 links: |

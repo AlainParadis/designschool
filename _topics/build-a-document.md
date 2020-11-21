@@ -2,10 +2,10 @@
 layout: submission
 type: assignment
 formsum: summative
-sortorder: 4.9
+sortorder: 2.9
 appsused: indd
 title: "Build a Document"
-level: cg1
+level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=233315&grpid=0&isprv=0&bp=0&ou=279825"
 submission: "indesign-package"
 links: |

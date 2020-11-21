@@ -2,17 +2,17 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 2.4
+sortorder: 4.4
 appsused: psd
 title: "Retouching Fundamentals"
-level: cg2
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=197437&grpid=0&isprv=0&bp=0&ou=227639"
+level: cg1
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=266069&grpid=0&isprv=0&bp=0&ou=279825"
 submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html" target="_blank" title="Adobe: Retouch & Repair Photos">Retouch & Repair Photos</a>
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/content-aware-patch-move.html" title="Adobe: Content-Aware Patch and Move" target="_blank">Content-Aware Patch and Move</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDkwOG1w_wxTWQLU3tf88Bi"
-downloads: "https://www.dropbox.com/s/asfayz12esp7mu8/photoshop-retouching-fundamentals.zip?dl=1"
+downloads:
 description: "We'll use the Clone Stamp Tool, the Healing Brush and Content Aware tools to remove blemishes from a photograph."
 details: |
   Whether they're blemishes on skin or stains on a surface, Photoshop has a tool to remove them quite easily. Our focus here will be on working non-destructively. That means that we don't want to paint on the original photo at all. The added advantage working this way is that our painting will be accessible on their own layers.
@@ -159,3 +159,4 @@ assignment: |
 
   Save, then close the document.
 ---
+ "https://www.dropbox.com/s/asfayz12esp7mu8/photoshop-retouching-fundamentals.zip?dl=1"

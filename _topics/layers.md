@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 2.6
+sortorder: 1.0
 appsused: psd
 title: "Layers"
 level: cg2

@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 2.7
+sortorder: 1.3
 appsused: psd
 title: "Blend Modes"
 level: cg2
