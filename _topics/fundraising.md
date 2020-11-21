@@ -9,7 +9,7 @@ level:
 brightspace: 
 submission:
 links: |
-  - <a href="https://algonquinlivecom-my.sharepoint.com/:x:/g/personal/paradia_algonquincollege_com/Ea7gnU-aDaNBnluYTBTyCCMBGdH6Ai8EYDFGJHSdIuElqg?e=d3j5EJ" target="_blank" title="Activity Log Spreadsheet">Activity Log Spreadsheet</a>
+  - <a href="https://algonquinlivecom-my.sharepoint.com/:x:/g/personal/paradia_algonquincollege_com/EXHtI3FYf2hPoVLloOpmSBwB9X_yMloIb7awnJl13WR6dA?e=GUMXJ2" target="_blank" title="Activity Log Spreadsheet">Activity Log Spreadsheet</a>
   - <a href="http://www.algonquincollege.com/international/study-and-work-abroad-2018/placement-abroad/" target="_blank" title="Fieldwork Abroad?">Fieldwork Abroad?</a>
   - <a href="http://www.cic.gc.ca/english/study/work-coop.asp" target="_blank" title="Fieldwork Info for Employers">Internation Student Work Permit</a>
   - <a href="https://algonquindesign.ca/fieldwork/" title="Fieldwork Info for Employers" target="_blank">Fieldwork Info for Employers</a>
