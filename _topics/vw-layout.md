@@ -10,7 +10,7 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "indesign-package"
 links: |
   - <a href="https://helpx.adobe.com/indesign/using/formatting-text.html#use_quick_apply" target="_blank">Adobe: Quick Apply</a>
-downloads: 
+downloads: "https://www.dropbox.com/s/yu3c6ds802xzcwi/indesign-vw-layout.zip?dl=1"
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDjkXfBZub8komrk3Bj3RyO"
 description: "Use the provided files to build the Volkswagen advertisement according to the included PDF design guide. Again, we're building an InDesign document in a way which will make it easy to edit."
 details: |
@@ -66,4 +66,3 @@ assignment: |
   
   Place the photo of the car as wide as two columns. You'll use the <span class="command">File > Place...</span> command to import the photo. Once you have a loaded cursor, drag the photo into place.
 ---
-"https://www.dropbox.com/s/yu3c6ds802xzcwi/indesign-vw-layout.zip?dl=1"
