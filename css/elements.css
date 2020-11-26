@@ -34,6 +34,18 @@
     min-height: 100%;
 }
 
+/* This works with my audio bbedit text clipping */
+audio {
+	width: 80%;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+controls {
+	color: var(--limegreen100);
+}
+/* END */
+
 input {
     display: block;
     width: 90%;
