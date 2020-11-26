@@ -11,7 +11,7 @@ submission: "my-assignment-folder"
 links: |
   - <a href="https://helpx.adobe.com/photoshop/using/masking-layers.html" target="_blank" title="Adobe: Mask Layers">Adobe: Mask Layers</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDXxSkeR7f0X8DmBp0hlEaj"
-downloads:
+downloads: "https://www.dropbox.com/s/j67xx5h5g6jxjes/photoshop-intro-to-layer-masks.zip?dl=1"
 description: "Layer Masks are arguably the most powerful, most frequently used tool in the whole Photoshop universe. We'll create pixel-based Layer Masks to achieve different results."
 details: |
   Layer Masks are used to:
@@ -32,6 +32,15 @@ details: |
   <div class="attentionbox tip">
     The benefit of using a mask is that it's part of a non-destructive workflow in Photoshop. The alternative would be to erase pixels, rather than hiding (or masking) them, which is never advisable.
   </div>
+
+  ### Change This Setting
+
+  <figure>
+      <img class="size100 borderlightgrey1" alt="photoshop-double-click-select-and-mask" src="/images/photoshop-intro-to-layer-masks/photoshop-double-click-select-and-mask.jpg">
+  <figcaption>
+  Go Photoshop menu > Preferences > Tools. Check the box indicated above.
+  </figcaption>
+  </figure>
 
   ### Important Keyboard Commands
 
@@ -65,7 +74,13 @@ details: |
 
   Lets start with replacing the background on a photo by hiding the original one to reveal the one on the layer below. In this case, we'll change the background to a beach scene.
 
-  <img class="size100" alt="photoshop-layer-masks-simple-mask" src="/images/photoshop-intro-to-layer-masks/photoshop-layer-masks-simple-mask.jpg">
+    <figure>
+    <img class="size100 borderlightgrey1" alt="photoshop-layer-masks-simple-mask" src="/images/photoshop-intro-to-layer-masks/photoshop-layer-masks-simple-mask.jpg">
+  <figcaption>
+    In the Properties panel, click on Remove Background. Voilà!
+  </figcaption>
+  </figure>
+
 
   You can use Select & Mask to refine your mask's edge. Simply double-click on the mask's icon in the Layers panel to access it.
 
@@ -108,9 +123,14 @@ assignment: |
 
   ### Simple Mask
 
-  Mask the background, with the help of the Select & Mask feature, if needed.
+  Mask the background.
 
-  <img class="size100" alt="layer-masks-simple-mask-summative" src="/images/photoshop-intro-to-layer-masks/summative-simple-mask-summative.jpg">
+  <figure>
+      <img class="size100" alt="layer-masks-simple-mask-summative" src="/images/photoshop-intro-to-layer-masks/summative-simple-mask-summative.jpg">
+  <figcaption>
+  Mask the background. Make sure his hair is well masked.    
+  </figcaption>
+  </figure>
 
   Don't Save As... or rename the file. Just Save, then close it.
 
@@ -118,24 +138,44 @@ assignment: |
 
   Use a gradient on a mask to blend the road into the forest.
 
-  <img class="size100" alt="summative-gradient-on-a-mask" src="/images/photoshop-intro-to-layer-masks/summative-gradient-on-a-mask.jpg">
+  <figure>
+      <img class="size100" alt="summative-gradient-on-a-mask" src="/images/photoshop-intro-to-layer-masks/summative-gradient-on-a-mask.jpg">
+  <figcaption>
+  The gradient on the mask makes the top photo fade gradually.
+  </figcaption>
+  </figure>
 
   ### Masking with a Photo
 
-  Use the provided Ink Blot layer to mask the panorama. Remember that <span class="command">⌘-i</span> inverts colours.
+  Use the provided leather texture layer to mask the photo. Remember that <span class="command">⌘-i</span> inverts colours.
 
-  <img class="size100" alt="summative-paste-onto-a-mask" src="/images/photoshop-intro-to-layer-masks/summative-paste-onto-a-mask.jpg">
+  <figure>
+      <img class="size100" alt="summative-paste-onto-a-mask" src="/images/photoshop-intro-to-layer-masks/summative-paste-onto-a-mask.jpg">
+  <figcaption>
+  Paste the leather texture onto a mask to create a texture on the photo.  
+  </figcaption>
+  </figure>
 
   ### Fix Combined Photos
 
   Using a layer mask, make the two woman's eyes work best for the photo.
 
-  <img class="size100" alt="summative-replace-eyes" src="/images/photoshop-intro-to-layer-masks/summative-replace-eyes.jpg">
+  <figure>
+      <img class="size100" alt="summative-replace-eyes" src="/images/photoshop-intro-to-layer-masks/summative-replace-eyes.jpg">
+  <figcaption>
+  Mask the top photo to reveal the open eyes in the photo below.  
+  </figcaption>
+  </figure>
 
   ### Select & Mask
 
-  Use the Select & Mask feature to select the guy and his hair. You won't get it 100% selected, but you can get most of it.
+  Mask the background. Use the Select & Mask feature to refine the mask.
 
-    <img class="size100 borderdarkgrey1" alt="select & mask" src="/images/photoshop-intro-to-layer-masks/summative-select-and-mask.jpg">
+  <figure>
+        <img class="size100 borderdarkgrey1" alt="select & mask" src="/images/photoshop-intro-to-layer-masks/summative-select-and-mask.jpg">
+  <figcaption>
+  Mask the background, then use Select & Mask to refine your mask.
+  </figcaption>
+  </figure>
+
 ---
- "https://www.dropbox.com/s/50uqa0oa0wiq2xp/photoshop-intro-to-layer-masks.zip?dl=1"
