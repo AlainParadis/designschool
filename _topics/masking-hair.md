@@ -10,7 +10,7 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "my-assignment-folder"
 links:
 video: "https://www.youtube.com/embed/zbLqGf6JCZc?rel=0"
-downloads: "https://www.dropbox.com/s/7nxmvy8dr3quswt/photoshop-masking-hair.zip?dl=1"
+downloads: 
 description: "Before you can correct, you must select. This is a time-tested saying amongst Photoshop pros. Learning to make accurate selections of complex and detailed objects in Photoshop is a life-long learning process. We'll continue that here."
 details: | 
   The goal of this assignment is to cut an object or person out of a photograph, despite very fine detail. A clipping path would be unmanageable and painting with the brush tool is plain 'ol ugly.
@@ -136,7 +136,7 @@ assignment: |
   For each image, create a new solid background layer. Choose a colour that works. Often, a dark colour brings out a halo effect in the hair of our subjects. This masking process does have its limits.
 
 ---
-
+"https://www.dropbox.com/s/7nxmvy8dr3quswt/photoshop-masking-hair.zip?dl=1"
 
 1. Select, mask, Refine
 2. Paint on a mask
