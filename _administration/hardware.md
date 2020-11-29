@@ -28,7 +28,7 @@ details: |
 
   Another reason for this is standardization. It's much cleaner to teach a group who's all using the same equipment. While teaching, we can point to a feature knowing it will be at the same place for all students. There are no operating system variants, such as Windows 7, Windows 8, Windows 10, etc...
 
-  ### Bring What You Got
+  ### Bring What You Have
 
   Some students have a recently purchased laptop. Come to class with what you have, whether it's a Windows or a macOS model. You'll transition to the Mac as soon as it's you can.
 
@@ -51,6 +51,10 @@ details: |
   A basic Wacom drawing tablet (or equivalent) is also a suggested purchase, but not required. Approximate cost is $100.
 
   No printer or scanner is required.
+
+  <div class="attentionbox achtung">
+    You do not need to purchase any software for the Graphic Design Program. All software is provided by the college at no additional cost to you.
+  </div>
 
   ### Where to Buy
 
