@@ -10,7 +10,7 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "my-assignment-folder"
 links:
 video: "https://www.youtube.com/embed/zbLqGf6JCZc?rel=0"
-downloads: 
+downloads: "https://www.dropbox.com/s/7nxmvy8dr3quswt/photoshop-masking-hair.zip?dl=1"
 description: "Before you can correct, you must select. This is a time-tested saying amongst Photoshop pros. Learning to make accurate selections of complex and detailed objects in Photoshop is a life-long learning process. We'll continue that here."
 details: | 
   The goal of this assignment is to cut an object or person out of a photograph, despite very fine detail. A clipping path would be unmanageable and painting with the brush tool is plain 'ol ugly.
@@ -25,7 +25,7 @@ details: |
 
   ### Your Workspace
 
-  For this exercise, it's best to clear the panels and only show the ones we want. To that end, hit <span class="command">Shift-Tab</span>. All panels disappear except for the Options bar and tools. Now go to the Window menu, then select the Layers, Channels.
+  For this exercise, it's best to clear the panels and only show the ones we want. To that end, hit <span class="command">Shift-Tab</span>. All panels disappear except for the Options bar and tools. Now go to the Window menu, then select the Layers and Channels only.
 
   Now go <span class="command">Window > Workspace</span> to save the workspace. Name it Masking. Now every time you wish to do this type of work, simply select this workspace.
 
@@ -39,6 +39,19 @@ details: |
     If you hold Control-Option as you hold down the Brush Tool, you'll get this handy heads up display of your brush tip.
   </figcaption>
   </figure>
+
+  ### Manual Vs. One-Click Methods.
+
+  Considering that Adobe is automating many of these challenging tasks, we always want to compare what we can do manually versus what Photoshop can do automatically. We want to gauge whether it's still worth going the long way, or just clicking a button in Photoshop.
+
+    <figure>
+    <img class="size100 borderlightgrey1" alt="photoshop-masking-hair-manual-vs-one-click" src="/images/photoshop-masking-hair/photoshop-masking-hair-manual-vs-one-click.jpg">
+  <figcaption>
+    On the left, you see the manual method of masking hair. On the right, I used Photoshop's <em>Remove Background</em> function.
+  </figcaption>
+  </figure>
+
+  The above image proves that the automated method still has a way to go before it reaches the quality of a manual selection.
 
   ### Layers
 
@@ -136,7 +149,7 @@ assignment: |
   For each image, create a new solid background layer. Choose a colour that works. Often, a dark colour brings out a halo effect in the hair of our subjects. This masking process does have its limits.
 
 ---
-"https://www.dropbox.com/s/7nxmvy8dr3quswt/photoshop-masking-hair.zip?dl=1"
+
 
 1. Select, mask, Refine
 2. Paint on a mask
