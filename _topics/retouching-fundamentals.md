@@ -12,7 +12,7 @@ links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html" target="_blank" title="Adobe: Retouch & Repair Photos">Retouch & Repair Photos</a>
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/content-aware-patch-move.html" title="Adobe: Content-Aware Patch and Move" target="_blank">Content-Aware Patch and Move</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDkwOG1w_wxTWQLU3tf88Bi"
-downloads:
+downloads: "https://www.dropbox.com/s/o068h1i5uku7102/photoshop-retouching-fundamentals.zip?dl=1"
 description: "We'll use the Clone Stamp Tool, the Healing Brush and Content Aware tools to remove blemishes from a photograph."
 details: |
   Whether they're blemishes on skin or stains on a surface, Photoshop has a tool to remove them quite easily. Our focus here will be on working non-destructively. That means that we don't want to paint on the original photo at all. The added advantage working this way is that our painting will be accessible on their own layers.
@@ -89,24 +89,35 @@ details: |
 
   <img class="size15" alt="Photoshop's Retouching Tools" src="/images/photoshop-retouching-fundamentals/tool-icon-red-eye.svg">
 
+  <span class="orange fw500">Let's avoid using this tool.</span> We'll use a Hue/Saturation adjustment layer instead.
 
-  We've all seen the red eye effect in photos. Few know that it comes from light from your flash bouncing off the blood vessels at the back of the eye to return to your camera. Happily, there's a dedicated tool to fix this in Photoshop.
+  We've all seen the red eye effect in photos. Few know that it comes from light from your flash bouncing off the blood vessels at the back of the eye to return to your camera.
 
-  <img class="size100" alt="repairing-blemishes-removing-red-eye" src="/images/photoshop-retouching-fundamentals/repairing-blemishes-removing-red-eye.jpg">
+    <figure>
+    <img class="size100 borderdarkgrey1" alt="repairing-blemishes-removing-red-eye" src="/images/photoshop-retouching-fundamentals/repairing-blemishes-removing-red-eye.jpg">
+  <figcaption>
+    Use an Adjustmet Layer to desaturate the red from the eyes. This preserves the detail in the pupils.
+  </figcaption>
+  </figure>
 
-  All you need to do is use the Red Eye tool to click in the red eye. If you are not satisfied with the result, undo the correction, set one or more of the following options in the options bar, and click the red eye again:
 
-  ### Red Eye Settings
-
-  <dl>
-    <dt>Pupil Size</dt>
-      <dd>Increases or decreases the area affected by the Red Eye tool.</dd>
-    <dt>Darken Amount</dt>
-      <dd>Sets the darkness of the correction.</dd>
-  </dl>
+  Create a Hue/Saturation Adjustment Layer. Turn the Saturation down to -100. Invert your mask to make it black. Then pain the red eyes with a very soft white brush.
 
   > A reflection of the camera flash in the subject’s retina causes red eye. You’ll see it more often when taking pictures in a darkened room because the subject’s iris is wide open. To avoid red eye, use the camera’s red eye reduction feature. Or, better yet, use a separate flash unit that you can mount on the camera farther away from the camera’s lens.
   <cite><a href="https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html" title="Adobe's notes on the Red Eye Tool." target="_blank">From: Adobe</a></cite>
+
+  ### Skin Smoothing
+
+  We'll explore the best process for smoothing skin. It's documented in the video tutorial in the playlist above. These are the steps:
+
+  1. Duplicate the subject's layer
+  1. Convert it to a Smart Object
+  1. Go Filter > Other > High Pass, 24
+  1. Go Filter > Blur > Gaussian blur, 8
+  1. ⌘-I to invert
+  1. Set Bend Mode to Linear Light
+  1. Set Blending options
+  1. Mask out unwanted areas
 
   ### The Final Product
 
@@ -114,7 +125,7 @@ details: |
 
   <figure>
       <img class="size100" alt="retouching-before-after" src="/images/photoshop-retouching-fundamentals/retouching-before-after.jpg">
-  <figcaption>This shows you a before and after of our retouched photo. Note that all the edits are on separate layers.
+  <figcaption>This shows the final retouched photo. Note that all the edits are on separate layers.
   </figcaption>
   </figure>
 
@@ -134,7 +145,7 @@ details: |
   If you're zoomed in really closely, you can hold h, then click-hold with your mouse to zoom out and choose another zoom location. Go ahead; give it a whirl.
   </div>
 assignment: |
-  Fix blemishes on the provided photo with any of the tools above, as needed. Feel free to use an <a href="adjustment-layers.html" target="_blank" title="a"><a href="adjustment-layers.html" title="adjustment layer">adjustment layer</a></a>. You'll likely need them to colour her lips and maybe her eyes. Subtlely.
+  Fix blemishes on the provided photo with any of the tools above, as needed. Feel free to use an <a href="adjustment-layers.html" target="_blank" title="a"><a href="adjustment-layers.html" title="adjustment layer">adjustment layer</a></a>. You'll likely need them to colour her lips and maybe her eyes. You can run the skin smoothing technique. Gently.
   
   <img class="size100" alt="photoshop-retouching-fundamentals-exercise" src="/images/photoshop-retouching-fundamentals/photoshop-retouching-fundamentals-exercise.jpg">
   
@@ -145,9 +156,9 @@ assignment: |
 
    You can create layers as needed. I usually create a layer for each separate task. Remember to name all of your layers with a meaningful name.
 
-  ### Whitening Teeth
+  ### Blemishes & Teeth Whitening
 
-  All you need to do in this photo is whiten the man's teeth using the technique we practiced in class. Make sure it doesn't look over-done.
+  All you need to do in this photo is remove the blemishes, then whiten the man's teeth using the technique we practiced in class. Make sure it doesn't look over-done.
 
   <img class="size100 borderdarkgrey1" alt="summative-teeth-whitening" src="/images/photoshop-retouching-fundamentals/summative-teeth-whitening.jpg">
 
@@ -159,4 +170,3 @@ assignment: |
 
   Save, then close the document.
 ---
- "https://www.dropbox.com/s/asfayz12esp7mu8/photoshop-retouching-fundamentals.zip?dl=1"
