@@ -13,7 +13,7 @@ links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/blending-objects.html" target="_blank" title="Blend Objects">Blend Objects</a>
   - Video Tutorial: <a href="https://www.youtube.com/watch?v=8SFiVoZbIW8" target="_blank" title="Gradients on a Stroke">Gradients on a Stroke</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLCH0nGq1ZceFuwNCRRUxB3E"
-downloads: "https://www.dropbox.com/s/ljr92euv3ejafqs/illustrator-gradients-and-blends.zip?dl=1"
+downloads:
 description: "Create, edit and apply gradients to strokes and fills in Adobe Illustrator."
 details: |
   ### How To Do This Assignment
@@ -106,3 +106,4 @@ assignment: |
   
 ---
   * [My Gradients on a Stroke Tutorial on YouTube](https://www.youtube.com/watch?v=8SFiVoZbIW8)
+ "https://www.dropbox.com/s/ljr92euv3ejafqs/illustrator-gradients-and-blends.zip?dl=1"

@@ -11,7 +11,7 @@ submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/blending-modes.html" target="_blank" title="Blending Modes">Blending Modes</a>
 video:
-downloads: "https://www.dropbox.com/s/ufziabhdlq7tl4c/photoshop-blend-modes.zip?dl=1"
+downloads:
 description: "Blend Modes are used like paints being mixed. You have your base colour which you blend to obtain your blended result."
 details: |
   Believe it or not, Photoshop blend modes are pretty cool. Just take a look at this.
@@ -172,3 +172,4 @@ assignment: |
   05-photoshop-blend-if-full-moon.psd
   : Use Blend If to blend the black around the moon. Also, make the moon appear as though it's behind the grass using Blend If.
 ---
+ "https://www.dropbox.com/s/ufziabhdlq7tl4c/photoshop-blend-modes.zip?dl=1"

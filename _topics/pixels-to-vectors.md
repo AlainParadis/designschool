@@ -12,7 +12,7 @@ links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/image-trace.html" title="Image Trace" target="_blank">Image Trace</a>
   - Adobe: <a href="https://helpx.adobe.com/illustrator/atv/cs6-tutorials/new-image-trace.html" title="Image Trace Video" target="_blank">Image Trace Video</a>
 video: "https://www.youtube.com/embed/myOzR2TQWQY?list=PL4qBMvigUSLDGk988g2BxIS96BJT6ZDO_"
-downloads: "https://www.dropbox.com/s/7l2202wtjvzivxc/illustrator-pixels-to-vectors.zip?dl=1"
+downloads:
 description: "Adobe have designed a wonderful workflow for getting a sketch off paper into vectors in Illustrator. You can even create multiple colour versions in a matter of seconds. Let's give it a go."
 details: |
   ### Why Image Trace?
@@ -130,3 +130,4 @@ assignment: |
 
   You'll end up with the first image-traced graphic. Aside from that, you'll create three other versions, each with their own colour schemes.
 ---
+ "https://www.dropbox.com/s/7l2202wtjvzivxc/illustrator-pixels-to-vectors.zip?dl=1"

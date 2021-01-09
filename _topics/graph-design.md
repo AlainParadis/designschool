@@ -11,7 +11,7 @@ submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/graphs.html" title="Adobe: Graphs" target="_blank">Graphs</a>
 video: "https://www.youtube.com/embed/K_vENVmUluM"
-downloads: "https://www.dropbox.com/s/hn7vuywxeyczywo/illustrator-graph-design.zip?dl=1"
+downloads: 
 description: "Boring graphs can really put the kibosh on a great design. As a designer, one of the most difficult and rewarding jobs is to transform boring data into exciting, engaging visuals. The challenge is to present so many numbers in a compelling way."
 details: |
 
@@ -144,3 +144,4 @@ assignment: |
 
     <div class="reminder">Remember: <span class="command">Go Type > Find Font</span> to see which fonts are in use in your document. Use the Change function to switch them all to Adobe Fonts.</div>
 ---
+"https://www.dropbox.com/s/hn7vuywxeyczywo/illustrator-graph-design.zip?dl=1"

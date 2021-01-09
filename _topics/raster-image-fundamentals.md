@@ -6,7 +6,7 @@ sortorder: 4.0
 appsused: indd, psd
 title: "Raster Image Fundamentals"
 level: cg1
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=266064&grpid=0&isprv=0&bp=0&ou=279825"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=289056&grpid=0&isprv=0&bp=0&ou=314355"
 submission: "my-assignment-folder"
 links: |
   - <a href="https://helpx.adobe.com/photoshop/how-to/image-resizing-basics.html" title="Change the image size" target="_blank">Adobe: Change the image size</a>
