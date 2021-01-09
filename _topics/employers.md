@@ -24,6 +24,16 @@ details: |
 
   The top of the list of employers have recently expressed interest in taking on a student.
 
+  <p>Employer: Ross Video, Production Technology Experts<br />
+   Contact Person: Brian Laperle<br />
+  Title: Creative Director<br />
+  Web Site: www.rossvideo.com<br />
+  E-mail: blaperle@rossvideo.com<br />
+  Phone: +1 (613) 228-1198 ext.4375<br />
+  Street Address: 62 Auriga Drive, Ottawa, Ontario, Canada, K2E 7W6<br />
+  Description: Graphic and Motion Design for a broad range of digital media. Design and Creative Team daily graphic tasks as required to meet requests.
+  </p>
+
   Organization: You.i TV<br />
   Contact-Person: Meghan Jervis<br />
   Contact-Job-Title: People Operations Specialist<br />
@@ -734,15 +744,6 @@ details: |
   Street Address: <br />
   Description: <br />
   Looking for strong vector illustrator skills and people who are strong with motion graphics and possible front-end interactive experience.</p>
-
-  <p> Employer: Ross Video, Production Technology Experts<br />
-   Contact Person: Terry Lake<br />
-  Title Recruiter<br />
-  Web Site: www.rossvideo.com<br />
-  E-mail: tlake@rossvideo.com<br />
-  Phone: +1 (613) 228-1198 ext.4375<br />
-  Street Address: <br />
-  Description:</p>
 
   <p> Employer: Colleges And Institutes Canada  <br />
   Contact Person: Michelle Dupras<br />
