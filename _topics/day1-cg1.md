@@ -23,6 +23,8 @@ details: |
   #### First, Some Housekeeping
 
   - You must be on Zoom on time. I will not repeat instructions you may have missed if you come in late.
+  - Add a clear headshot as your avatar on Zoom.
+  - Turn on video. It's better for classroom morale all 'round.
   <!--   - The door will be locked once class starts. If you're late, wait for a break before coming in. -->
   - No phone use during class, unless on a break.
   - Want to provide anonymous feedback? Use this <a href="/administration/feedback.html" title="Submit anonymous feedback" target="_blank">anonymous feedback form</a>. The link is in the footer on every page of this site.
@@ -70,7 +72,7 @@ details: |
     - Summative assignments: evaluate your mastery of software skills.
 
   ### Get Set Up
-  - <a href="https://join.slack.com/t/2023graphicdesign/shared_invite/zt-gn5br9x1-ZHbKCoh_f0NIoZhyseH26A" title="Join the Grads of '23 Slack workspace" target="_blank">Join the Grads of '23 Slack workspace</a>.
+  - <a href="https://join.slack.com/t/fall2023algon-xjm1286/shared_invite/zt-kicvofrr-RUpEcqUqGn8fvoUKKZ2WOQ" title="Join the Grads of 'F23 Slack workspace" target="_blank">Join the Grads of 'F23 Slack workspace</a>.
   - <a href="/setups/mac.html" >Set up macOS</a>.
   - Back up your files.
   - Connect to <a href="/setups/college-services.html">college online services</a>.
