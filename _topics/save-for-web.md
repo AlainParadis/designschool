@@ -5,7 +5,7 @@ formsum: formative
 sortorder: 8.0
 appsused: psd ai
 title: "Save for Web"
-level: cg2
+level:
 brightspace: 
 submission: "my-assignment-folder"
 links: |
