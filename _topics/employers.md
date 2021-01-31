@@ -14,7 +14,7 @@ links: |
   - <a href="https://algonquindesign.ca/fieldwork/" title="Fieldwork Info for Employers" target="_blank">Fieldwork Info for Employers</a>
   - <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWFC-QM7-zoCXIVZZcprjPr9TaHt9B_ZlixE3Krz9-QVaxbA/viewform" title="Employers Fieldwork Request" target="_blank">Employers Fieldwork Request</a>
   - <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=JNkb7GoKqUqqicmAMWwESfjne9J-c6VKlt4hDsO6Z5ZURUU5WFowU1MxVTdLQzNQVUc0NzVRTEpLWS4u" title="Form: I Got My Fieldwork!" target="_blank">I Got My Fieldwork!</a>
-  - <a href="https://www.dropbox.com/s/a8t0whxqm9gsgyk/fieldwork-consent-form-2021.pdf.zip?dl=1" title="Fieldwork Consent Form">Fieldwork Consent Form PDF</a>
+  - <a href="https://www.dropbox.com/s/tjqodow0x06ohfe/fieldwork-consent-form-2021.pdf?dl=1" title="Fieldwork Consent Form">Fieldwork Consent Form PDF</a>
 video: 
 downloads: "https://www.dropbox.com/s/jp8m950e6g5k77i/fieldwork-gradshow-downloads.zip?dl=1"
 description: "This page contains a list of potential employers you can contact to do fieldwork. Most have taken students for fieldwork before."
@@ -23,6 +23,39 @@ details: |
   ### Recent Employers
 
   The top of the list of employers have recently expressed interest in taking on a student.
+
+  <p>Organization: Youth Ottawa<br />
+  Contact-Person: Stefania Marino <br />
+  Contact-Job-Title: Marketing and Communications Coordinator <br />
+  Contact-Email: stefania.marino@youthottawa.ca<br />
+  Contact-Tel: 613 879 7572 <br />
+  Organization-Address: 123 Slater Street, Ottawa, ON, K1P 5H2<br />
+  * Working remotely at the moment *<br />
+  Organization-URL: www.youthottawa.ca<br />
+  Description-of-Work: Students will work on web design, design for print as well as communication pieces such as motion graphics, videos that can be used to communicate Youth Ottawa's programs and work within the community. </p>
+  
+  <p>Organization: Victory Arts<br />
+  Contact-Person: Tero Hollo<br />
+  Contact-Job-Title: Producer / Creative Director<br />
+  Contact-Email: tero@victoryarts.com<br />
+  Organization-Address: Due to Covid-19. The team all work from home. This has not stopped us from creating and collaborating remotely.<br />
+  Organization-URL: <a href="https://www.victoryarts.com" target="_blank">www.victoryarts.com</a><br />
+  Description-of-Work:<br />
+  Working with Victory Arts for Fieldwork Placement allows you to work on one or more full projects from start to finish. You'll be required to conceptualize based on initial concepts, design and illustrate characters and environments and animate via motion graphics.</p>
+
+
+  <p>Organization: The Canadian Electricity Association<br />
+  Contact-Person: Patrick Farley<br />
+  Contact-Email: simplelittlestudio@gmail.com<br />
+  Contact-Tel: 613-355-7505<br />
+  Organization-Address: 275 Slater Street, Ottawa, ON<br />
+  Organization-URL: www.electricity.ca<br />
+  Description-of-Work:<br />
+    - Social Media Graphics<br />
+    - Production Work (Re-Format Reports)<br />
+    - Cover Page Designs<br />
+    - Publication Styling <br />
+  </p>
 
   <p>Employer: Ross Video, Production Technology Experts<br />
    Contact Person: Brian Laperle<br />
@@ -128,15 +161,6 @@ details: |
   Unitedwayeo.ca<br />
   Description-of-Work:<br />
   Responsible for designing and producing print and digital collaterals to help achieve the strategic objectives of the organization. The position works with the Marketing and Communications team and other stakeholders to interpret design and creative needs and to propose and execute creative solutions. <br />
-
-  Victory Arts Incorporated <br />
-  Tero Hollo<br />
-  Supervisor <br />
-  tero@victoryarts.com<br />
-  613-276-6320   <br />
-  1338 Wellington St. West, Suite 200, Ottawa, ON K1Y 3B7<br />
-  <a href="https://victoryarts.com" target="_blank">victoryarts.com</a><br />
-  Description-of-Work: The students will be working on  a series of shorts for a larger motion project. They will be required to finish at least one short while at co-op with the given script provided for them.<br />
 
   Feather Company<br />
   Dominic Coballe<br />
@@ -425,14 +449,6 @@ details: |
   Creative Director<br />
   Soshal.ca<br />
   chad.macdonald@soshal.ca<br />
-
-  Youth Ottawa<br />
-  Ian Bingeman<br />
-  Executive Director<br />
-  info@youthottawa.ca<br />
-  <a href="http://www.youthottawa.ca" target="_blank">www.youthottawa.ca</a><br />
-  613-898-7887<br />
-  191 Laurier Avenue West Ottawa ON<br />
 
   Cayenne Creative  <br />
   Carl Poirier RGD<br />
@@ -734,16 +750,6 @@ details: |
   Tel: 613-745-4629<br />
   Address: 1155 Lola St., Suite 200<br />
   Description: Mix of design for print, web and digital publishing</p>
-
-  <p> Employer: Victory Arts  <br />
-  Contact Person: Tero Hollo<br />
-  Title: <br />
-  Web Site: www.victoryarts.com<br />
-  E-mail: terohollo@gmail.com<br />
-  Phone: <br />
-  Street Address: <br />
-  Description: <br />
-  Looking for strong vector illustrator skills and people who are strong with motion graphics and possible front-end interactive experience.</p>
 
   <p> Employer: Colleges And Institutes Canada  <br />
   Contact Person: Michelle Dupras<br />

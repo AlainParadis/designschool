@@ -6,7 +6,7 @@ sortorder: 1.9
 appsused: dn
 title: "Design with Dimension"
 level: cg6
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=192171&grpid=0&isprv=0&bp=0&ou=227660"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=291687&grpid=0&isprv=0&bp=0&ou=314375"
 submission: "pdf+zipped-folder"
 links: |
   - <a href="http://www.brandsoftheworld.com" title="Source for vector logos." target="_blank">Brands of the World</a>
@@ -20,7 +20,7 @@ assignment: |
   Your assignment is to create a scene of your own containing objects with decals applied. The assets you'll need are:
 
   <ol>
-    <li>a background photo that contains a flat surface</li>
+    <li>a background photo</li>
       <ul>
         <li>You're encouraged to take your own photo to use in your scene, or</li>
         <li>See <a href="/administration/stock.html" target="_blank">the stock photo library</a> for source photos.</li>

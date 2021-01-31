@@ -6,7 +6,7 @@ sortorder: 3.0
 appsused: psd
 title: "Content Aware"
 level: cg4
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=189388&grpid=0&isprv=0&bp=0&ou=227625"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=292872&grpid=0&isprv=0&bp=0&ou=314350"
 submission: "my-assignment-folder"
 links: |
   - <a href="https://helpx.adobe.com/photoshop/using/content-aware-patch-move.html" target="_blank" title="x">Content-Aware Patch & Move</a>

@@ -6,7 +6,7 @@ sortorder: 1.9
 appsused: ai
 title: "Symbols Summative"
 level: cg4
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=192063&grpid=0&isprv=0&bp=0&ou=227625"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=292869&grpid=0&isprv=0&bp=0&ou=314350"
 submission: "illustrator-package"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/symbols.html#use_9_slice_scaling" title="Symbols" target="_blank">Symbols</a>

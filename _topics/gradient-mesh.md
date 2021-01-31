@@ -6,7 +6,7 @@ sortorder: 2.0
 appsused: ai
 title: "Gradient Mesh"
 level: cg4
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=189387&grpid=0&isprv=0&bp=0&ou=227625"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=292871&grpid=0&isprv=0&bp=0&ou=314350"
 submission: "illustrator-package"
 links: 
 video: "https://www.youtube.com/embed/uh3pZzyXmks"
