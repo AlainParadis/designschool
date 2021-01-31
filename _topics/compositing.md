@@ -6,8 +6,8 @@ sortorder: 1.9
 appsused: psd
 title: "Compositing"
 level: cg2
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=131920&grpid=0&isprv=0&bp=0&ou=145550"
-submission: "my-assignment-folder"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=289088&grpid=0&isprv=0&bp=0&ou=314364"
+submission: "photoshop-document"
 links:
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDYEZv4e0l-keh7KdmzkjcN"
 downloads:
@@ -124,16 +124,4 @@ assignment: |
   ### Source Images
 
   You can take your own photos. Use only your own images for this. It would really make your composition unique and your own.
-
-  ### Your Submission
-
-  <img class="size100" alt="submission-screen-grab" src="/images/photoshop-compositing/submission-finder-window.jpg">
-
-  Submit your composition as a native Photoshop (.psd) file. Name the file the usual way:
-
-  <div class="attentionbox filename">
-    appleseed-johnny-#-compositing.psd
-  </div>
-
-  Create a folder in which you'll include your original, untouched images. Name these contextually. An image of a bath tub should be called bathtub.psd.
 ---
