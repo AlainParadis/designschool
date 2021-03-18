@@ -10,7 +10,7 @@ links: |
   - <a href="https://www.apple.com/ca/retail/rideau/" target="_blank">Apple Store Rideau</a>
   - <a href="https://www.apple.com/ca/retail/bayshoreshoppingcentre/" target="_blank">Apple Store Bayshore</a>
   - <a href="https://www.apple.com/ca_edu_93120/shop/buy-mac/macbook-pro/15-inch" target="_blank">Apple’s Online Education Store</a>
-  - <a href="https://www.apple.com/ca_edu_93120/shop/browse/home/specialdeals" target="_blank">Apple Refurbished Store</a>
+  - <a href="https://www.apple.com/ca/shop/refurbished/mac/macbook-pro" target="_blank">Apple Refurbished Store</a>
   - <a href="https://www.apple.com/ca/support/products/mac.html" target="_blank">AppleCare Canada</a>
   - <a href="https://www.bestbuy.ca/en-ca/brand/apple" target="_blank">Macs @ BestBuy Canada</a>
   - <a href="http://www.backblaze.com" target="_blank">Backblaze</a>
