@@ -12,7 +12,7 @@ links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/tabs-indents.html" target="_blank" title="Tabs & Indents">Tabs & Indents</a>
   - TutsPlus: <a href="https://design.tutsplus.com/tutorials/quick-tip-indesign-working-with-tabs--vector-4612" target="_blank" title="Working with Tabs">Working with Tabs</a>
 video: "https://www.youtube.com/embed/oFx3WQh5HaA"
-downloads:
+downloads: "https://www.dropbox.com/s/bgznn4itdh0hip0/indesign-tabs-and-indents.zip?dl=1"
 description: "The all-mighty tab character can do wonders in InDesign. We'll explore setting indented text and building grids with tabs and indents, too."
 details: |
   ### Tabs
@@ -100,4 +100,3 @@ assignment: |
   Consult the provided PDF file to guide the construction of the page layout.
 ---
 
-"https://www.dropbox.com/s/bgznn4itdh0hip0/indesign-tabs-and-indents.zip?dl=1"

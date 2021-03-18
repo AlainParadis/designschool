@@ -10,8 +10,8 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "indesign-package"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/bullets-numbering.html" target="_blank" title="Bullets & Number Lists">Bullets & Number Lists</a>
-video: "https://www.youtube.com/embed/f7aEJeWDSAo"
-downloads:
+video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLBCEGm6yeFf73Tm2cKSvGl6"
+downloads: "https://www.dropbox.com/s/piepbivcdvwe8jx/indesign-bullet-number-lists.zip?dl=1"
 description: "Whether they are bulleted or numbered, InDesign is very adept at creating lists. There are very granular, flexible controls to create the lists that fit your design."
 details: |  
   When you create lists in InDesign, each bulleted or numbered item is a paragraph. Numbered lists aren't only numbered; they include lists with arabic letters or roman numberals. Each item gets its bullet or number automatically. You can't select the bullets or numbers; nor can you search them. They're kind of *virtual*.
@@ -248,4 +248,3 @@ assignment: |
 
   I could use Split Columns here to make two-column numbered lists within a single column of text.
 
-"https://www.dropbox.com/s/piepbivcdvwe8jx/indesign-bullet-number-lists.zip?dl=1"

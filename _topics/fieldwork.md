@@ -10,7 +10,7 @@ brightspace:
 submission:
 links: |
   - <a href="https://algonquinlivecom-my.sharepoint.com/:x:/g/personal/paradia_algonquincollege_com/EXHtI3FYf2hPoVLloOpmSBwB9X_yMloIb7awnJl13WR6dA?e=GUMXJ2" target="_blank" title="Activity Log Spreadsheet">Activity Log Spreadsheet</a>
-  - <a href="http://www.cic.gc.ca/english/study/work-coop.asp" target="_blank" title="Fieldwork Info for Employers">Internation Student Work Permit</a>
+  - <a href="https://www.algonquincollege.com/international/" target="_blank" title="Algonquin's International Education Centre">International Education Centre</a>
   - <a href="https://algonquindesign.ca/fieldwork/" title="Fieldwork Info for Employers" target="_blank">Fieldwork Info for Employers</a>
   - <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWFC-QM7-zoCXIVZZcprjPr9TaHt9B_ZlixE3Krz9-QVaxbA/viewform" title="Employers Fieldwork Request" target="_blank">Employers Fieldwork Request</a>
   - <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=JNkb7GoKqUqqicmAMWwESfjne9J-c6VKlt4hDsO6Z5ZURUU5WFowU1MxVTdLQzNQVUc0NzVRTEpLWS4u" title="Form: I Got My Fieldwork!" target="_blank">I Got My Fieldwork!</a>
@@ -78,20 +78,5 @@ details: |
 
   #### International Students
 
-  If you are an international student you need to contact me and I will supply you with a required letter that you have to have signed by me to enable your eligibility to work in Canada for the required 6 weeks of placement in order for you to graduate.
-
-  If an international student is enrolled in a co-op program at the College, the Cooperative Education office will assist the student in obtaining a work permit.
-
-  If you're an international student, download this info sheet in PDF format from the downloads link.
-
-  More information about the co-op work permit, <a href="http://www.cic.gc.ca/english/study/work-coop.asp" target="_blank">is found here</a>
-
-  <!--  ## I got my internship!
-
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfkXRNcO7qSXaXhlLhSeFpLZpcqgHMiG_j5Pwi-_2z1dA_yeQ/viewform?embedded=true" width="760" height="1200">Loading...</iframe>
-
-  <p>&nbsp;</p>
-
-
-  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT2TWQwNcXNPy_WIEmDPvYbd7_kEgiH1Oqiv_hbChdkbLJvXU_uWjMl37K6SQTBvFr8hCCtS6H8kaRA/pubhtml?widget=true&amp;headers=false" width="760" height="1000"></iframe> -->
+  If you are an international student you need to contact the <a href="https://www.algonquincollege.com/international/" title="International Education Centre" target="_blank">International Education Centre</a>. You can email <a href="mailto:iecsupport@algonquincollege.com" title="International Education Centre">iecsupport@algonquincollege.com</a> to inquire. They will supply you with a required letter that you have to have signed by me to enable your eligibility to work in Canada for the required 6 weeks of placement in order for you to graduate.
 ---

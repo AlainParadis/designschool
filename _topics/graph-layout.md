@@ -17,21 +17,9 @@ details: |
   
 assignment: |
 
-  ### How To Do This Assignment
-  
-  1. Read the whole page.
-  2. Watch the video tutorial again, if necessary.
-  3. Submit the assignment following the posted instructions.
-
-  If you need assistance, please reach out on Slack [<a href="https://join.slack.com/t/2022graphicde-wu69873/shared_invite/zt-crlvp4tc-olmVUudBP3iCKBOEleiYSA" title="Link to Slack Workspace" target="_blank">Link to Slack workspace</a>]. Everyone must be on Slack!
-
-    <span class="orange fw700">Due Date:</span> As soon as possible. The actual date is April 10, 2020
-
-  <hr />
-
   ### Info Porn — Take Delight In Numbers.
 
-  Choose a topic of interest. It could be baseball, motocycles, Barbie Dolls ... it's on you. Find some numbers related to it. So, for example, you could graph the powerband of the <a href="https://www.harley-davidson.com/us/en/motorcycles/2018/softail/fat-boy/detailed-specs-and-pricing.html" title="Harley Davidson Soft Tail Fat Boy" target="_blank">Harley Davidson Soft Tail Fat Boy</a>. In this specific example, you would graph horsepower on one axis and RPM on the other. Don't hesitate to pass your idea by me before you start.
+  Choose a topic of interest. It could be baseball, motocycles, Barbie Dolls ... it's on you. Find some numbers related to it.
 
   You're going to buil a page layout **in InDesign** which contains these elements:
 

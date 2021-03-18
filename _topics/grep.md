@@ -8,8 +8,7 @@ title: "GREP in InDesign"
 level: undetermined
 brightspace: 
 submission: "my-assignment-folder"
-links: |
-  - 
+links:
 video: 
 downloads: 
 description: 

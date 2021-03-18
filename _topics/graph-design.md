@@ -7,27 +7,13 @@ appsused: ai, indd
 title: "Graph Design"
 level: cg2
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=289094&grpid=0&isprv=0&bp=0&ou=314364"
-submission: "my-assignment-folder"
+submission: "graph-design"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/graphs.html" title="Adobe: Graphs" target="_blank">Graphs</a>
 video: "https://www.youtube.com/embed/K_vENVmUluM"
-downloads: 
+downloads: "https://www.dropbox.com/s/5jp9nz5iumdk8pc/illustrator-graph-design.zip?dl=1"
 description: "Boring graphs can really put the kibosh on a great design. As a designer, one of the most difficult and rewarding jobs is to transform boring data into exciting, engaging visuals. The challenge is to present so many numbers in a compelling way."
 details: |
-
-  ### How To Do This Assignment
-  
-  1. Download the assignment files.
-  2. Read the whole page.
-  3. Watch the video tutorial.
-  4. Submit the assignment following the posted instructions.
-  5. **Do not** submit the practice files.
-
-  If you need assistance, please reach out on Slack [<a href="https://join.slack.com/t/2022graphicde-wu69873/shared_invite/zt-crlvp4tc-olmVUudBP3iCKBOEleiYSA" title="Link to Slack Workspace" target="_blank">Link to Slack workspace</a>]. Everyone must be on Slack!
-
-    <span class="orange fw700">Due Date:</span> As soon as possible. The actual date is April 10, 2020
-
-  <hr />
 
   Mark Twain said "There are lies, damned lies, and statistics." That may be true. Well, consider yourself an interpreter of those lies. Columns representing numbers are pretty lame. As designers, it is our job to represent information in an interesting and informative manner. Luckily, Adobe has provided some really great graphing tools in Illustrator. This is what we are going to explore this week.
 
@@ -36,7 +22,7 @@ details: |
   An Illustrator graph is special type of live, grouped object. When you select a graph, Illustrator's Object Type Indicator tells us it's a live graph object.
   
     <figure>
-    <img class="size50" alt="graph-object-type" src="/images/illustrator-graphs/graph-object-type.jpg">
+    <img class="size50" alt="graph-object-type" src="/images/illustrator-graph-design/graph-object-type.jpg">
   <figcaption>
     Graphs are a special type of grouped object in Illustrator.
   </figcaption>
@@ -50,7 +36,7 @@ details: |
   To draw a graph, it's important to have data well formatted ahead of time. It can be in a text file or a spreadsheet. Then, simply take one of the graph tools and draw a rectangle where you want the graph. The data window will open automatically. Type, or better yet, paste your data into the data window. Once you're done, hit the check mark button or hit Enter (not Return).
 
   <figure>
-    <img class="size100" alt="graph-example" src="/images/illustrator-graphs/graph-example.jpg">    
+    <img class="size100" alt="graph-example" src="/images/illustrator-graph-design/graph-example.jpg">	
   <figcaption>
   This is an example of the basic graph that Illustrator produces.
   </figcaption>
@@ -58,7 +44,7 @@ details: |
 
   Once you hit Enter, you'll get a live preview of the graph. If you find you've entered the data on the wrong axis, just hit the Transpose button in the graph window.
 
-  <img class="size50" alt="graph-number-labels" src="/images/illustrator-graphs/graph-number-labels.jpg">
+  <img class="size50" alt="graph-number-labels" src="/images/illustrator-graph-design/graph-number-labels.jpg">
 
     <div class="attentionbox achtung">If you want to use numbers as a label in the graph, you need to wrap the text in quote marks.</div>
 
@@ -68,7 +54,7 @@ details: |
 
   Clicking on the Import Data button in the data window rarely yields satisfactory results.
 
-  <img class="size100" alt="graph-spreadsheet" src="/images/illustrator-graphs/graph-spreadsheet.jpg">
+  <img class="size100" alt="graph-spreadsheet" src="/images/illustrator-graph-design/graph-spreadsheet.jpg">
 
   <div class="fs15 textcenter">
   <a href="https://docs.google.com/spreadsheets/d/1-1PeqKm-lULLPUhLXgd6nXEKY42k2C9M1-ls_r2NGcY/edit?usp=sharing" title="Copy the spreadsheet data" target="_blank" class="limegreen">Spreadsheet Data</a>
@@ -92,15 +78,15 @@ details: |
 
   Illustrator Graphs really come to life when you replace the bland, greyscale shapes with novel designs. you need to define your design first. Go <span class="command">Object > Graph > Design...</span>
 
-  <img class="size50" alt="graph-design" src="/images/illustrator-graphs/graph-design.jpg">
+  <img class="size50" alt="graph-design" src="/images/illustrator-graph-design/graph-design.jpg">
 
   Once you define your design, you need to select a data set to apply the design to. Use the Group Selection Tool. Once it's selected, go Object > Graph > Column... Choose the settings which suit your graph design.
 
-  <img class="size50" alt="graph-column-design" src="/images/illustrator-graphs/graph-column-design.jpg">
+  <img class="size50" alt="graph-column-design" src="/images/illustrator-graph-design/graph-column-design.jpg">
 
   You actually have quite fine control of how the design can stretch. You can determine which portion of the column stretches using guides.
 
-  <img class="size100" alt="graph-sliding-column-design" src="/images/illustrator-graphs/graph-sliding-column-design.jpg">
+  <img class="size100" alt="graph-sliding-column-design" src="/images/illustrator-graph-design/graph-sliding-column-design.jpg">
 
   Draw lines where you want the graph to stretch. Convert them to guides using <span class="command">⌘-5</span>. Make sure the guides are unlocked by hitting <span class="command">Option-⌘-;</span>. Create a new graph design with it set to Sliding, as shown.
 
@@ -119,29 +105,36 @@ details: |
   The final product is that you have a live graph in Illustrator. You have a copy of that graph which is outlined. You place the outlined one in InDesign. The end.
 
 assignment: |
-  Create graphs with the provided data about smokers in Canada. Your layout can be on a letter or a tabloid page, in either landscape or portrait orientation.
+  Create graphs with the provided data about smokers in Canada. Make your layout  a tabloid page, in either landscape or portrait orientation.
 
-  #### Graph #1
+  #### Graphs
 
-  Create a bar chart depicting the number of smokers in Canada. Your chart must be a sliding bar chart. It can be horizontal or vertical.
+  Create a bar chart depicting the number of smokers in Canada —  for men and for women. Your chart must be a sliding bar chart. It can be horizontal or vertical.
 
-  #### Graph #2
+  Create a pie chart with the provided data. Customize it at will.
 
-  Create a pie chart with the provided data.
+  #### InDesign Layout
+
+  Create duplicate, outlined versions of your graphs that'll be placed in your layout in InDesign.
 
   #### My Design
 
   This is what *I did* for this exercise. Feel free to mimic my design or create your own. The important thing is to use Illustrator's graph tools properly.
 
-    <figure>
-      <img src="/images/illustrator-graphs/graphs-formative-mine.jpg" alt="graphs formative mine" class="size100">
+  <figure>
+     <img src="/images/illustrator-graph-design/graph-assignment-illustrator.jpg" alt="graphs formative mine" class="size75">
     <figcaption>
-      This is my design. Note the art on the paste-board. Keep live art there in case you need to go back to it.
+    This is my graph construction in Illustrator. Keep live graphs there in case you need to go back to them.
     </figcaption>
-    </figure>
+  </figure>
 
-    Be sure to keep live graphs and other live artwork on the paste-board. Also, limit yourself only to Adobe Fonts.
+  <figure>
+     <img src="/images/illustrator-graph-design/graph-assignment-indesign.jpg" alt="graphs formative mine" class="size100">
+    <figcaption>
+    This is my design in InDesign. Keep live art there in case you need to go back to it.
+    </figcaption>
+  </figure>
 
-    <div class="reminder">Remember: <span class="command">Go Type > Find Font</span> to see which fonts are in use in your document. Use the Change function to switch them all to Adobe Fonts.</div>
+  Be sure to keep live graphs and other live artwork on the paste-board. Also, limit yourself only to Adobe Fonts.
+
 ---
-"https://www.dropbox.com/s/hn7vuywxeyczywo/illustrator-graph-design.zip?dl=1"

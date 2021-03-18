@@ -9,7 +9,7 @@ level: info
 brightspace: 
 submission: 
 links: |
-  - <a href="" class="https://support.apple.com/mac/accessories">Apple Accessories Support</a>
+  - <a href="https://support.apple.com/mac/accessories">Apple Accessories Support</a>
   - <a href="https://www.apple.com/ca/shop/product/MLA02LL/A/magic-mouse-2-silver?fnode=56">Buy a Magic Mouse 2</a>
 video:
 downloads: 

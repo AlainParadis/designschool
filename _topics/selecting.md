@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 4.1
+sortorder: 5.1
 appsused: psd
 title: "Selecting"
 level: cg1

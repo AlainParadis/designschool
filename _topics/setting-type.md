@@ -13,7 +13,7 @@ links: |
   - <a href="https://design.tutsplus.com/tutorials/illustrators-type-tool-a-comprehensive-introduction--vector-521" target="_blank" title="Tutsplus: Intro to Type">Tutsplus: Intro to Type</a>
   - <a href="https://helpx.adobe.com/illustrator/using/special-characters.html" target="_blank" title="Using Special Characters">Using Special Characters</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLAYNkJloWY5-PIQSHFt1UT_"
-downloads:
+downloads: "https://www.dropbox.com/s/xf5go2x4swhrty9/illustrator-setting-type.zip?dl=1"
 description: "Adobe Illustrator is pretty good at setting type. It's no InDesign, but it can set point type, area type, type on a path and more. What's really great, is that you don't always need to draw a box to type."
 details: |
   For your introduction to type in Illustrator, we'll set the type for a half-letter sized advertisment for Adobe Illustrator in Adobe Illustrator. Pretty meta, eh? We'll use this layout to discover how to set point type and area type. We'll put text in columns. The appearance of the text will be controlled with Paragraph Styles.
@@ -63,4 +63,3 @@ assignment: |
 
   We'll use fonts you already have on your computer. They're part of the **Acumin Variable Concept Wide**.
 ---
- "https://www.dropbox.com/s/xf5go2x4swhrty9/illustrator-setting-type.zip?dl=1"

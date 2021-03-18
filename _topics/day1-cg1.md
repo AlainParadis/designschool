@@ -9,7 +9,7 @@ level: cg1
 brightspace:
 submission:
 links: |
-  - <a href="https://www.dropbox.com/s/1dtbltaftyubvrk/Graphic-Design-Program-of-Study-2020.pdf?dl=1" title="Download your Program of Study">Download your Program of Study (PDF)</a>
+  - <a href="https://uc0a7f1b6963c46e266f0dba37df.dl.dropboxusercontent.com/cd/0/get/BJfWwYqS0t7I24MEn71DIPMki5RreTamjbSzGSehH2Cfubq2Ha4rbKJW1XovvCD9f6RqxXDxayRy-SFL_y5Mgr59n7oKCeDsJpxRI2P7LgnTez0mz_SqDDfKhFjKyypXVLY/file?dl=1" title="Download your Program of Study">Download your Program of Study (PDF)</a>
   - <a href="/setups/mac.html" title="macOS Setup">macOS Setup</a>
   - <a href="/setups/college-services.html" title="Set up your college online services">Setup College Services</a>
 video: 
@@ -54,7 +54,7 @@ details: |
   #### About Computer Graphics
 
   - Why a Mac?
-    - The minimum requirement for your computer is a <a href="https://www.apple.com/ca_edu_93120/shop/buy-mac/macbook-pro/15-inch" target="_blank">15” or 16" Retina MacBook Pro</a>.
+    - The minimum requirement for your computer is a <a href="https://www.apple.com/ca_edu_93120/shop/buy-mac/macbook-pro" target="_blank">15” or 16" Retina MacBook Pro</a>.
     - You're encouraged to purchase AppleCare with your new laptop.
   - Why Creative Cloud?
     - InDesign for page layout.
@@ -67,7 +67,7 @@ details: |
     - <a href="https://www.youtube.com/user/ACComputerGraphics/featured" target="_blank">CG YouTube Channel</a>.
     - Grades will be on Brightspace.
       - Brightspace quick tour.
-      - Download the Brightspace <a href="https://itunes.apple.com/ca/app/brightspace-pulse/id1001688546?mt=8" target="_blank">app for iOS</a> or <a href="https://play.google.com/store/apps/details?id=com.d2l.brightspace.student.android&amp;hl=en" target="_blank">for Android</a>.
+      - Download the Brightspace <a href="https://apps.apple.com/ca/app/brightspace-pulse/id1001688546" target="_blank">app for iOS</a> or <a href="https://play.google.com/store/apps/details?id=com.d2l.brightspace.student.android&amp;hl=en" target="_blank">for Android</a>.
     - Formative assignments: learn & practice software skills.
     - Summative assignments: evaluate your mastery of software skills.
 

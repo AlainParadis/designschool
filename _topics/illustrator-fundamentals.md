@@ -10,7 +10,7 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "my-assignment-folder"
 links:
 video:
-downloads:
+downloads: "https://www.dropbox.com/s/1yrs6w2qxj6qtxd/illustrator-fundamentals.zip?dl=1"
 description: "This is a summative assignment which includes all the Illustrator skills you've learned to date. Follow the instructions on this page carefully."
 details:
 assignment: |
@@ -40,7 +40,7 @@ assignment: |
 
   ### Type in Illustrator
 
-  Create a new Illustrator document with the specifications shown below. Use point type and area type where appropriate.
+  Create a new Illustrator document with the specifications shown below. Use point type and area type where appropriate. Create paragraph styles for all the text. The *ijustdrive.ca* will need a character style for the *.ca*.
 
   Save the file into the exercise folder named: <span class="fw500 darkgreen">03-illustrator-type-summative.ai</span>
 
@@ -87,4 +87,3 @@ assignment: |
 
   Make sure to save your document where it is. Don't rename.
 ---
- "https://www.dropbox.com/s/1yrs6w2qxj6qtxd/illustrator-fundamentals.zip?dl=1"

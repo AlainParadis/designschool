@@ -2,18 +2,18 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 2.4
+sortorder: 3.9
 appsused: ai
 title: "Gradients & Blends"
-level: cg1
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=301750&grpid=0&isprv=0&bp=0&ou=314355"
+level: cg2
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=289097&grpid=0&isprv=0&bp=0&ou=314364"
 submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/gradients.html" target="_blank" title="Apply & Edit Gradients">Apply & Edit Gradients</a>
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/blending-objects.html" target="_blank" title="Blend Objects">Blend Objects</a>
   - Video Tutorial: <a href="https://www.youtube.com/watch?v=8SFiVoZbIW8" target="_blank" title="Gradients on a Stroke">Gradients on a Stroke</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLCH0nGq1ZceFuwNCRRUxB3E"
-downloads: "https://www.dropbox.com/s/ljr92euv3ejafqs/illustrator-gradients-and-blends.zip?dl=1"
+downloads: 
 description: "Create, edit and apply gradients to strokes and fills in Adobe Illustrator."
 details: |
 
@@ -91,3 +91,4 @@ assignment: |
   
 ---
   * [My Gradients on a Stroke Tutorial on YouTube](https://www.youtube.com/watch?v=8SFiVoZbIW8)
+"https://www.dropbox.com/s/ljr92euv3ejafqs/illustrator-gradients-and-blends.zip?dl=1"

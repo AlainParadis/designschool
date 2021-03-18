@@ -10,7 +10,7 @@ brightspace:
 submission:
 links: |
   - <a href="https://algonquinlivecom-my.sharepoint.com/:x:/g/personal/paradia_algonquincollege_com/EXHtI3FYf2hPoVLloOpmSBwB9X_yMloIb7awnJl13WR6dA?e=GUMXJ2" target="_blank" title="Activity Log Spreadsheet">Activity Log Spreadsheet</a>
-  - <a href="http://www.cic.gc.ca/english/study/work-coop.asp" target="_blank" title="Fieldwork Info for Employers">Internation Student Work Permit</a>
+  - <a href="https://www.algonquincollege.com/international/" target="_blank" title="Algonquin's International Education Centre">International Education Centre</a>
   - <a href="https://algonquindesign.ca/fieldwork/" title="Fieldwork Info for Employers" target="_blank">Fieldwork Info for Employers</a>
   - <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWFC-QM7-zoCXIVZZcprjPr9TaHt9B_ZlixE3Krz9-QVaxbA/viewform" title="Employers Fieldwork Request" target="_blank">Employers Fieldwork Request</a>
   - <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=JNkb7GoKqUqqicmAMWwESfjne9J-c6VKlt4hDsO6Z5ZURUU5WFowU1MxVTdLQzNQVUc0NzVRTEpLWS4u" title="Form: I Got My Fieldwork!" target="_blank">I Got My Fieldwork!</a>

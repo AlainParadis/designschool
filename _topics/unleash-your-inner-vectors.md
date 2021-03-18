@@ -27,5 +27,7 @@ assignment: |
   * You'll finish with one un-coloured and three coloured instances of your sketch.
 
    <img src="/images/illustrator-unleash-your-vectors/image-trace-live-paint-mine.svg" alt="My Image Trace" class="size100">
+   
+   Zip-compress your folder, then submit on Brightspace.
 
 ---
