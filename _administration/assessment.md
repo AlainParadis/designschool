@@ -71,7 +71,7 @@ details: |
   When submitting a file, you need to name it according to a specific naming convention. Make sure you close your file before you re-name it in Finder.  Use this convention: First Name, Last Name, Group Nº, Assignment Name.ai. So, name it like this example:
   
   <figure>
-      <img class="size75" alt="submission-file-naming" src="/images/grading-system/submission-file-naming.jpg">
+      <img class="size75" alt="submission-file-naming" src="/images/assessment/submission-file-naming.jpg">
   <figcaption>
   Only submit the zip file. You can delete the zip only after submission.
   </figcaption>
@@ -82,7 +82,7 @@ details: |
   <span class="orangefs90">The following is incorrect:</span>
 
   <figure>
-      <img class="size75" alt="submission-file-incorrect" src="/images/grading-system/submission-file-incorrect.jpg">
+      <img class="size75" alt="submission-file-incorrect" src="/images/assessment/submission-file-incorrect.jpg">
   <figcaption>
   Name your file <b>before</b> zip-compressing it.
   </figcaption>
@@ -94,14 +94,14 @@ details: |
 
   Follow the same process for submitting a folder. Name it First Name, Last Name, Group Nº, Assignment Name. So, name it like this example:
 
-  <img class="size75" alt="submission-folders" src="/images/grading-system/submission-folders.jpg">
+  <img class="size75" alt="submission-folders" src="/images/assessment/submission-folders.jpg">
 
   Once you have submitted your zip file, you can delete it. Keep the original folder *at least* as long as your time in the program.
 
   <span class="orangefs90">The following is incorrect:</span>
 
   <figure>
-      <img class="size75" alt="submission-folders-incorrect" src="/images/grading-system/submission-folders-incorrect.jpg">
+      <img class="size75" alt="submission-folders-incorrect" src="/images/assessment/submission-folders-incorrect.jpg">
   <figcaption>
   Name your folder <b>before</b> zip-compressing it.
   </figcaption>
@@ -114,4 +114,32 @@ details: |
   </div>
 
   Not complying with this will cause a needless loss of points. Pay close attention while submitting.
+
+  ### Confirm Your Brightspace Submission
+ 
+  It is your responsibility to confirm your Brightspace submissions have worked. You receive *two* confirmations from Brightspace.
+
+  <figure>
+      <img class="size50 borderlightgrey1" alt="Brightspace Confirmation" src="/images/assessment/brightspace-confirmation.jpg">
+  <figcaption>
+  Make sure you see this confirmation on Brightspace.
+  </figcaption>
+  </figure>
+
+  When you submit your file, you'll see the green text on Brighspace showing you the submission was uploaded sucessfully.
+
+  <figure>
+      <img class="size75 borderlightgrey1" alt="Email Confirmation" src="/images/assessment/email-confirmation.jpg">
+  <figcaption>
+  Keep the email message you receive after submission.
+  </figcaption>
+  </figure>
+
+  You will also receive an email confirmation at your college email address to confirm your submission. Keep this email as evidence the submission was done.
+
+  <div class="attentionbox achtung">
+  If your submissions are not received and you have no confirmation messages, they will not be graded.
+  </div>
+
+
 ---
