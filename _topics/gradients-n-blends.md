@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 3.9
+sortorder: 5.0
 appsused: ai
 title: "Gradients & Blends"
 level: cg2

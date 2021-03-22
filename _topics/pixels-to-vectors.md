@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 4.0
+sortorder: 3.0
 appsused: ai, macos
 title: "Pixels to Vectors"
 level: cg2

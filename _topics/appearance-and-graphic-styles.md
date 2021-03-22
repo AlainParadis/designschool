@@ -2,7 +2,7 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 5.0
+sortorder: 6.0
 appsused: ai
 title: "Appearance & Graphic Styles"
 level: cg2
