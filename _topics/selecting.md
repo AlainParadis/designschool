@@ -34,6 +34,17 @@ details: |
 
   <img class="size100" alt="photohsop-marquee-tools" src="/images/photoshop-selecting/photohsop-marquee-tools.jpg">
 
+  #### Important Keyboard Shortcuts
+
+  - D: Set foreground & background swatches to default colours, black & white.
+  - X: Switch focus of foreground/background colours.
+  - ⌘-Delete: Fill with background colour.
+  - Option-Delete: Fill with foreground colour.
+  - B: Brush Tool. Right-click with Brush tool for controls.
+  - [ &nbsp;  or &nbsp; ] : Make brush smaller or bigger.
+  - ⌘-D to deselect
+  - ⌘-A to select all
+
   ### Marquee Tool
 
   The Marquee Tool can be either rectangular or elliptical. These are some practical tips for dragging with the tool:
@@ -67,15 +78,6 @@ details: |
   </figure>
 
   You don't drag with this tool; you just click from one spot to the next. Hitting the delete key removes the last click. Escape deselects while you're drawing a selection.
-
-  #### Important Keyboard Shortcuts
-
-  - D: Set foreground & background swatches to default colours, black & white.
-  - X: Switch focus of foreground/background colours.
-  - ⌘-Delete: Fill with background colour.
-  - Option-Delete: Fill with foreground colour.
-  - B: Brush Tool. Right-click with Brush tool for controls.
-  - [ &nbsp;  or &nbsp; ] : Make brush smaller or bigger.
 
   ### Quick Selection
 
