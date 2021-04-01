@@ -5,7 +5,7 @@ formsum:
 sortorder: 1.3
 appsused:
 title: "Fundraising"
-level:
+level: undetermined
 brightspace: 
 submission:
 links: |
