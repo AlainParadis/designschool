@@ -2,11 +2,11 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 2.5
+sortorder: undetermined
 appsused: psd
 title: "Adjustment Layers"
-level: undetermined
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=190517&grpid=0&isprv=0&bp=0&ou=227639"
+level: cg2
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=319160&grpid=0&isprv=0&bp=0&ou=350784"
 submission: "my-assignment-folder"
 links: |
   - <a href="https://helpx.adobe.com/photoshop/using/adjustment-fill-layers.html" target="_blank" title="Adobe: Adjustment Layers">Adobe: Adjustment Layers</a>
@@ -46,16 +46,16 @@ details: |
 
   #### Colourizing
 
-  Let's open the leaf photo to colourize the leaf itself.
+  Let's open the flower photo to colourize the flower itself.
 
   <figure>
-      <img class="size100" alt="photoshop-adjustment-layers-leaf" src="/images/photoshop-adjustment-layers/photoshop-adjustment-layers-leaf.jpg">
+      <img class="size100" alt="photoshop-adjustment-layers-flower.jpg" src="/images/photoshop-adjustment-layers/photoshop-adjustment-layers-flower.jpg">
   <figcaption>
     In only a few steps we can edit the colour in selected areas of a photo in a non-destructive workflow.
   </figcaption>
   </figure>
 
-  We'll use <span class="command">Select > Colour Range...</span> to create a marquee around the leaf since it has a unique colour in the photo to start with. Now we're ready to add our Hue/Saturation Adjustment Layer. Once our mask is created, we need to brush with black and with white to clean it up. Adjust the colour of the leaf in the Properties panel.
+  We'll use <span class="command">Select Subject</span> to create a marquee around the leaf since it has a unique colour in the photo to start with. Now we're ready to add our Hue/Saturation Adjustment Layer. Adjust the colour of the leaf in the Properties panel. Remember to rename your adjustment layer by what it does, like *Flower Colour*.
 
   ### Correcting Colour
 
@@ -67,6 +67,7 @@ details: |
     See how much improved the photo is with a couple of quick non-destructive fixes.
   </figcaption>
   </figure>
+
   We'll also enhence the logo that's painted on the building. Once you're done, it's best to proof the photo in its final intent ie: web, print...
 
   ### Blending Adjustment Layers
@@ -88,6 +89,19 @@ details: |
   * Fill the adjustment layer's mask with black with <span class="command">Edit > Fill > Black</span>.
   * Paint berries with a very soft brush to change their colour.
   * Set the blend mode of your adjustment layer to Hue.
+
+  ### Hot Rod a Car!
+
+  Let's have some fun turning an every-day Fiat 500 into a real hot rod.
+
+  <figure>
+      <img class="size100" alt="photoshop-adjustment-layers-pink-car" src="/images/photoshop-adjustment-layers/photoshop-adjustment-layers-pink-car.jpg">
+  <figcaption>
+    Transform an everyday car into a hot rod.
+  </figcaption>
+  </figure>
+
+  First, we select the car, then add the adjustment layer to make it the colour you want. Now we can jazz it up with some cool flame decals -- all on Adjustment Layers.
 
 assignment: |
   Your job is to use Adjustment Layers to edit the photos as shown below.
@@ -112,11 +126,23 @@ assignment: |
 
   <img class="size100" alt="photoshop-adjustment-layers-correction-exercise" src="/images/photoshop-adjustment-layers/photoshop-adjustment-layers-correction-exercise.jpg">
 
-  Adjust highlights, mid-tones and shadows with a Levels Adjustment Layer.
+  Adjust White Point and Black Point with a Levels Adjustment Layer.
 
   ### Blending Adjustment Layers
 
   <img alt="photoshop-adjustment-layers" src="/images/photoshop-adjustment-layers/photoshop-adjustment-layers-colourize-photo.jpg">
 
-  Use a gradient on an Adjustment Layers and a blend mode to colourize the front of the car.
+  Use a gradient on Colour Fill Adjustment Layer and a blend mode to colourize the front of the car.
+
+  ### Hot Rod Your Own Car!
+
+  Use the provided photo of the BMW and the vector flames to trick out your ride.
+
+  <figure>
+      <img class="size100" alt="photoshop-adjustment-layers-bmw" src="/images/photoshop-adjustment-layers/photoshop-adjustment-layers-bmw.jpg">
+  <figcaption>
+    Transform an everyday car into a hot rod.
+  </figcaption>
+  </figure>
+  
 ---
