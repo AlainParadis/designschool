@@ -12,7 +12,7 @@ links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html" target="_blank" title="Adobe: Retouch & Repair Photos">Retouch & Repair Photos</a>
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/content-aware-patch-move.html" title="Adobe: Content-Aware Patch and Move" target="_blank">Content-Aware Patch and Move</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDkwOG1w_wxTWQLU3tf88Bi"
-downloads:
+downloads: "https://www.dropbox.com/s/o068h1i5uku7102/photoshop-retouching-fundamentals.zip?dl=1"
 description: "We'll use the Clone Stamp Tool, the Healing Brush and Content Aware tools to remove blemishes from a photograph."
 details: |
   Whether they're blemishes on skin or stains on a surface, Photoshop has a tool to remove them quite easily. Our focus here will be on working non-destructively. That means that we don't want to paint on the original photo at all. The added advantage working this way is that our painting will be accessible on their own layers.
@@ -110,6 +110,8 @@ details: |
 
   We'll explore the best process for smoothing skin. It's documented in the video tutorial in the playlist above. These are the steps:
 
+  Before we start, we'll make a new composite layer by targeting all the layers, then holding Option while going to <span class="command">Layers > Merge Visible</span>.
+
   1. Duplicate the subject's layer
   1. Convert it to a Smart Object
   1. Go Filter > Other > High Pass, 24
@@ -161,6 +163,8 @@ assignment: |
   All you need to do in this photo is remove the blemishes, then whiten the man's teeth using the technique we practiced in class. Make sure it doesn't look over-done.
 
   <img class="size100 borderdarkgrey1" alt="summative-teeth-whitening" src="/images/photoshop-retouching-fundamentals/summative-teeth-whitening.jpg">
+  
+  Do not use the skin smoothing on this photo.
 
   ### Content Aware Fill
 
@@ -170,4 +174,3 @@ assignment: |
 
   Save, then close the document.
 ---
- "https://www.dropbox.com/s/o068h1i5uku7102/photoshop-retouching-fundamentals.zip?dl=1"

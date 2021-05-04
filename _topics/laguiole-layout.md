@@ -6,12 +6,12 @@ sortorder: 7.0
 appsused: indd, ai, psd
 title: "Laguiole Layout"
 level: cg2
-brightspace:
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=319159&grpid=0&isprv=0&bp=0&ou=350784"
 submission: "indesign-package"
 links: |
-  Some link
+  - [Forge de Laguiole](https://forge-de-laguiole.com)
 video:
-downloads: "https://www.dropbox.com/s/k8i5o2xvu10ltaq/indesign-laguiole-layout.zip?dl=1"
+downloads: "https://www.dropbox.com/s/5yg3iqk9rru65fm/indesign-laguiole-layout.zip?dl=1"
 description: |
   Today, we'll build this layout in InDesign using all the software skills you've learned to date. We'll take it through to production, preparing all the files for press.
 details: |
@@ -52,36 +52,19 @@ details: |
   ### Typography
 
   - Sans serif typeface
-    - Pill Gothic 600mg Black
-    - Pill Gothic 600mg Bold
-    - Pill Gothic 600mg Regular
-  
+    - <a href="https://fonts.adobe.com/fonts/pill-gothic" title="Activate Pill Gothic Font" target="_blank">Pill Gothic</a> <span class="fw700">600mg Black</span>
+    - <a href="https://fonts.adobe.com/fonts/pill-gothic" title="Activate Pill Gothic Font" target="_blank">Pill Gothic</a> <span class="fw600">600mg Bold</span>
+    - <a href="https://fonts.adobe.com/fonts/pill-gothic" title="Activate Pill Gothic Font" target="_blank">Pill Gothic</a> 600mg Regular
+
   - Serif typeface
-    - Kinesis Pro Regular
-    - Kinesis Pro Italic
+    - <a href="https://fonts.adobe.com/fonts/kinesis" title="Activate Kinesis Font" target="_blank">Kinesis Pro</a> Regular
+    - <a href="https://fonts.adobe.com/fonts/kinesis" title="Activate Kinesis Font" target="_blank">Kinesis Pro</a> *Italic*
+
+  - Decorative Script
+    - <a href="https://fonts.adobe.com/fonts/antiquarian-scribe" title="Activate Antiquarian Scribe Font" target="_blank">Antiquarian Scribe</a>
 
 assignment: |
 
   Build the page layout based on the skills you've learned to date and the content provided.
 
 ---
-
-- Single two-column text frame
-- Accurate bleeds all around.
-- Paragraph styles for everything.
-- Character style for italic French text.
-- Prep Laguiole logo in CMYK in Illustrator.
-- Prep Bumble Bee graphic
-  - in rich black
-  - outline stroke
-
-- Use Laguiole's spot colour, but convert them to CMYK.
-- Prep images:
-  - Size to 100%
-  - Convert to CMYK
-- Check font usage to ensure there are only the two font families.
-- Mask the knife
-- Make sure of bleed.
-- Outline the big title.
-
-- Package with a press-ready PDF.

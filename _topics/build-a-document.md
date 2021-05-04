@@ -6,7 +6,7 @@ sortorder: 2.9
 appsused: indd
 title: "Build a Document"
 level: cg2
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=289083&grpid=0&isprv=0&bp=0&ou=314364"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=319150&grpid=0&isprv=0&bp=0&ou=350784"
 submission: "indesign-package"
 links: |
   - <a href="#assignment" title="Go to the assignment">The assignment</a>

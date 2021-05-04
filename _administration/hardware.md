@@ -20,7 +20,7 @@ description: "As students in a Bring Your Own Device (BYOD) program, you'll need
 details: |
   ### What's Required
 
-  The Graphic Design Program is part of the College’s BYOD program, as such a Macintosh laptop is mandatory equipment. The base model 15” or 16" MacBook Pro is the minimum required equipment.
+  The Graphic Design Program is part of the College’s BYOD program, as such a Macintosh laptop is mandatory equipment. The base model 16" MacBook Pro is the minimum required equipment. They come with a minim of 16GB of memory (RAM).
 
   ### Why Do I Need to Buy This?
 
