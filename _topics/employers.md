@@ -20,6 +20,14 @@ downloads: "https://www.dropbox.com/s/jp8m950e6g5k77i/fieldwork-gradshow-downloa
 description: "This page contains a list of potential employers you can contact to do fieldwork. Most have taken students for fieldwork before."
 details: |
 
+  ### Ottawa Animation Studios
+
+  - [Big Jump](https://bigjumpent.com)
+  - [PIP Animation](https://www.pipanimation.com/w5/)
+  - [Mercury Film Works](https://mercuryfilmworks.com)
+  - [Jam Filled](https://www.jamfilled.com)
+  - [Atomic Cartoons](https://atomiccartoons.com)
+
   ### Recent Employers
 
   The top of the list of employers have recently expressed interest in taking on a student.
