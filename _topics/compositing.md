@@ -29,7 +29,7 @@ details: |
 
   The more specific you are about your theme, the better. For example, rather than simply choosing *My Travels*, choose *The Grand Canyon, 2019* . The more specific you are with your choice of concept, the easier it will be for you to design your composition.
 
-  Your concept *can* convey a message. It could be an environmental, anti-gun, pro-Trump (!) or whatever else you can think of. It can be edgy; even controversial. Just keep it decent. The decency test is: *would the College allow you to post it on their bulletin boards?*
+  Your concept *can* convey a message. It could be an environmental, anti-gun, political, social or whatever else you can think of. It can be edgy; even controversial. Just keep it decent. The decency test is: *would the College allow you to post it on their bulletin boards?*
 
   #### Goals, Technical
 
