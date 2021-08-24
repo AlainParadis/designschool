@@ -14,62 +14,64 @@ details: |
 
   ### SVG and Icons
 
-  - <a href="https://iconmonstr.com/" title="Icon Monstr" target="_blank">IconMonstr</a>
-  - <a href="https://openmoji.org/" title="OpenMoji" target="_blank">OpenMoji</a>
-  - <a href="https://phosphoricons.com" title="Phosphor Icons" target="_blank">Phosphor Icons</a>
-  - <a href="https://simpleicons.org/" title="Simple Icons" target="_blank">Simple Icons</a>
-  - <a href="https://thenounproject.com/" title="The Noun Project" target="_blank">The Noun Project</a>
-  - <a href="https://github.com/edent/SuperTinyIcons" title="Super Tiny Icons" target="_blank">Super Tiny Icons</a>
+  - <a href="https://iconmonstr.com/" title="Icon Monstr">IconMonstr</a>
+  - <a href="https://openmoji.org/" title="OpenMoji">OpenMoji</a>
+  - <a href="https://phosphoricons.com" title="Phosphor Icons">Phosphor Icons</a>
+  - <a href="https://simpleicons.org/" title="Simple Icons">Simple Icons</a>
+  - <a href="https://www.svgrepo.com" title="SVG Repo">SVG Repo</a>
+  - <a href="https://thenounproject.com/" title="The Noun Project">The Noun Project</a>
+  - <a href="https://github.com/edent/SuperTinyIcons" title="Super Tiny Icons">Super Tiny Icons</a>
 
   ### Vector Logos
 
-  - <a href="https://www.brandsoftheworld.com" title="Brands of the world" target="_blank">Brands of the World</a>
-  - <a href="https://worldvectorlogo.com/" target="_blank">World Vector Logo — Brand logos free to download</a>
+  - <a href="https://www.brandsoftheworld.com" title="Brands of the world">Brands of the World</a>
+  - <a href="https://worldvectorlogo.com/">World Vector Logo — Brand logos free to download</a>
+  - <a href="https://goodlogo.com" title="GoodLogo!">GoodLogo!</a>
 
   ### Photography
 
   #### General Stock Photos
-  - <a href="https://search.creativecommons.org/" target="_blank">Creative Commons Stock Photography</a>
-  - <a href="https://deathtothestockphoto.com/" target="_blank">Death to the Stock Photo</a>
-  - <a href="https://www.everypixel.com" target="_blank">EveryPixel</a>
-  - <a href="https://gratisography.com" target="_blank">Gratisography</a>
-  - <a href="https://www.growthtext.com/free-stock-photos" target="_blank">Growth Text</a>
-  - <a href="https://uhdwallpapers.org" target="_blank">HD Wallpapers</a>
-  - <a href="http://imcreator.com/free" target="_blank">IM Free</a>
-  - <a href="https://isorepublic.com" target="_blank">ISO Republic</a>
-  - <a href="http://jaymantri.com" target="_blank">jay mantri</a>
-  - <a href="https://librestock.com/" target="_blank">Libre Stock</a>
-  - <a href="https://littlevisuals.co/" target="_blank">Little Visuals</a>
-  - <a href="https://magdeleine.co/browse/" target="_blank">Magdeleine</a>
-  - <a href="https://focastock.com" target="_blank">MMT Stock</a>
-  - <a href="https://nappy.co" title="Nappy stock photography" target="_blank">Nappy</a>
-  - <a href="https://images.nasa.gov/#/" title="NASA Image Library" target="_blank">NASA Image Library</a>
-  - <a href="https://negativespace.co" target="_blank">Negative Space.co</a>
-  - <a href="https://picjumbo.com/" target="_blank">picjumbo</a>
-  - <a href="https://picography.co/" target="_blank">Picography</a>
-  - <a href="https://www.pexels.com" target="_blank">Pexels</a>
-  - <a href="http://pixabay.com/" target="_blank">Pixabay - Free Images</a>
-  - <a href="http://skuawk.com/" target="_blank">Skuawk</a>
-  - <a href="http://snapwiresnaps.tumblr.com" target="_blank">Snapwire Snaps</a>
-  - <a href="https://www.splitshire.com" target="_blank">SplitShire</a>
-  - <a href="https://startupstockphotos.com/" target="_blank">Startup Stock Photos</a>
-  - <a href="https://stocksnap.io/" target="_blank">StockSnap</a>
-  - <a href="https://stockup.sitebuilderreport.com" target="_blank">Stock Up</a>
-  - <a href="https://images.superfamous.com" target="_blank">Superfamous Images</a>
-  - <a href="https://unsplash.com/" target="_blank">Unsplash</a>
+  - <a href="https://search.creativecommons.org/">Creative Commons Stock Photography</a>
+  - <a href="https://deathtothestockphoto.com/">Death to the Stock Photo</a>
+  - <a href="https://www.everypixel.com">EveryPixel</a>
+  - <a href="https://gratisography.com">Gratisography</a>
+  - <a href="https://www.growthtext.com/free-stock-photos">Growth Text</a>
+  - <a href="https://uhdwallpapers.org">HD Wallpapers</a>
+  - <a href="http://imcreator.com/free">IM Free</a>
+  - <a href="https://isorepublic.com">ISO Republic</a>
+  - <a href="http://jaymantri.com">jay mantri</a>
+  - <a href="https://librestock.com/">Libre Stock</a>
+  - <a href="https://littlevisuals.co/">Little Visuals</a>
+  - <a href="https://magdeleine.co/browse/">Magdeleine</a>
+  - <a href="https://focastock.com">MMT Stock</a>
+  - <a href="https://nappy.co" title="Nappy stock photography">Nappy</a>
+  - <a href="https://images.nasa.gov/#/" title="NASA Image Library">NASA Image Library</a>
+  - <a href="https://negativespace.co">Negative Space.co</a>
+  - <a href="https://picjumbo.com/">picjumbo</a>
+  - <a href="https://picography.co/">Picography</a>
+  - <a href="https://www.pexels.com">Pexels</a>
+  - <a href="http://pixabay.com/">Pixabay - Free Images</a>
+  - <a href="http://skuawk.com/">Skuawk</a>
+  - <a href="http://snapwiresnaps.tumblr.com">Snapwire Snaps</a>
+  - <a href="https://www.splitshire.com">SplitShire</a>
+  - <a href="https://startupstockphotos.com/">Startup Stock Photos</a>
+  - <a href="https://stocksnap.io/">StockSnap</a>
+  - <a href="https://stockup.sitebuilderreport.com">Stock Up</a>
+  - <a href="https://images.superfamous.com">Superfamous Images</a>
+  - <a href="https://unsplash.com/">Unsplash</a>
 
   #### Food Photos
 
-  - <a href="http://foodiesfeed.com" target="_blank">Foodie's Feed</a>
+  - <a href="http://foodiesfeed.com">Foodie's Feed</a>
 
   ### Vintage Photos
 
-  - <a href="http://nos.twnsnd.co/" target="_blank">New Old Stock</a>
-  - <a href="https://digitalcollections.nypl.org/" target="_blank">NYPL Digital Collections</a>
+  - <a href="http://nos.twnsnd.co/">New Old Stock</a>
+  - <a href="https://digitalcollections.nypl.org/">NYPL Digital Collections</a>
 
   ### Patterns & Textures
 
-  - <a href="http://thepatternlibrary.com/" target="_blank">The Pattern Library</a>
-  - <a href="https://lostandtaken.com" title="Lost & Taken Textures" target="_blank">Lost & Taken</a>
+  - <a href="http://thepatternlibrary.com/">The Pattern Library</a>
+  - <a href="https://lostandtaken.com" title="Lost & Taken Textures">Lost & Taken</a>
 
 ---
