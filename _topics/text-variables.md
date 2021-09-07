@@ -6,7 +6,7 @@ sortorder: 1.2
 appsused: indd, psd
 title: "Text Variables"
 level: cg3
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236877&grpid=0&isprv=0&bp=0&ou=279810"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=354407&grpid=0&isprv=0&bp=0&ou=372603"
 submission: "indesign-package"
 links: |
   - <a href="https://helpx.adobe.com/indesign/using/captions.html" target="_blank" title="Adobe: Using Captions">Adobe: Using Captions</a>

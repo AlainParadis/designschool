@@ -6,7 +6,7 @@ sortorder: 5.1
 appsused: psd
 title: "Selecting"
 level: cg1
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=289057&grpid=0&isprv=0&bp=0&ou=314355"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=354446&grpid=0&isprv=0&bp=0&ou=372612"
 submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/selecting-marquee-tools.html" target="_blank" title="Marquee Tools">Select with Marquee Tools</a>

@@ -6,7 +6,7 @@ sortorder: 2.3
 appsused: ai
 title: "Colour Spaces"
 level: cg1
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=289052&grpid=0&isprv=0&bp=0&ou=314355"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=354441&grpid=0&isprv=0&bp=0&ou=372612"
 submission: "my-assignment-folder"
 links: |
   - <a href="https://helpx.adobe.com/illustrator/using/using-creating-swatches.html" target="_blank" title="Adobe: Use & Create Swatches">Adobe: Use & Create Swatches</a>

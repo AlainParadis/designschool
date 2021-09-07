@@ -6,7 +6,7 @@ sortorder: 1.9
 appsused: indd
 title: "Structured Text"
 level: cg3
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236879&grpid=0&isprv=0&bp=0&ou=279810"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=354409&grpid=0&isprv=0&bp=0&ou=372603"
 submission: "indesign-package"
 links:
 video: 

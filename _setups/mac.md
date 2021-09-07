@@ -13,7 +13,7 @@ video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLC801w73wa2lid
 downloads:
 description: "Let's get your Mac set up for the semester. Some important Finder preferences need to be changed. We'll create a folder structure so that you stay organized during the semester. We'll need to ensure you have proper backups of your work. If you're a returning students, you'll need to archive past semesters' work."
 details: | 
-  In order to keep all course files organized, you'll create a folder for each course inside a Semester One folder. Place the Semester One folder inside of either a <a href="http://drive.google.com" title="Google Drive" target="_blank">Google Drive</a> or a <a href="http://www.dropbox.com" title="Dropbox Cloud Storage" target="_blank">Dropbox.com</a> folder. Once you're done, drag your Semester One folder to the Sidebar of a Finder window.
+  In order to keep all course files organized, you'll create a folder for each course inside a Semester One folder. Place the Semester One folder inside of either a <a href="http://drive.google.com" title="Google Drive" target="_blank">Google Drive</a>, a <a href="http://www.dropbox.com" title="Dropbox Cloud Storage" target="_blank">Dropbox.com</a> folder. Once you're done, drag your Semester One folder to the Sidebar of a Finder window.
 
   <img class="size100" alt="mac-os-finder-window" src="/images/mac-setup/mac-os-finder-window.jpg">
 

@@ -2,11 +2,11 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 3.3
+sortorder: 2.3
 appsused: psd, indd
 title: "Beautiful Line Art"
 level: cg3
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236883&grpid=0&isprv=0&bp=0&ou=279810"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=354413&grpid=0&isprv=0&bp=0&ou=372603"
 submission: "indesign-package"
 links:
 video: "https://www.youtube.com/embed/h4d4jKXsMLk"

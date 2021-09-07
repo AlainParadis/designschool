@@ -6,7 +6,7 @@ sortorder: 4.0
 appsused: psd
 title: "Brushes"
 level: cg3
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236885&grpid=0&isprv=0&bp=0&ou=279810"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=354415&grpid=0&isprv=0&bp=0&ou=372603"
 submission: "photoshop-document"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/how-to/photoshop-brushes-intro.html" title="Adobe: How to use Photoshop Brushes video tutorial" target="_blank">Brushes</a>

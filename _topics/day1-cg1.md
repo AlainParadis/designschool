@@ -29,32 +29,10 @@ details: |
   - No phone use during class, unless on a break.
   - Want to provide anonymous feedback? Use this <a href="/administration/feedback.html" title="Submit anonymous feedback" target="_blank">anonymous feedback form</a>. The link is in the footer on every page of this site.
 
-  #### Your Program of Study
-
-  We're review your Program of Study. These are the courses which you must successfully complete in order to graduate. Keep this PDF handy during your stay in the program. It's your responsibility to ensure you've progressed through all of these courses.
-
-  <!--  #### Student Photos
-  <span class="command"></span><span class="command"></span>
-  I'd like you to take a head shot of yourself for your teachers to better learn your names. The photos will only be shared with your teachers and go nowhere else.
-
-  This should be a clear photo of yourself, full frame, against a wall or another flat, untextured surface. A passport type photo will do the trick.
-
-  Name your photo like this:
-
-  <div class="textcenter fs12">last-name-first-name.jpg</div>
-
-  <div class="button-wrapper"><a href="https://www.dropbox.com/request/R0bV8U6vZ1wvPjP2Zz3P" title="Submit a photo of yourself." target="_blank" class="button">Submit Your Photo</a></div> -->
-
-  #### Academic Advising Questionnaire
-
-  We'd like to know a bit about you in an effort to be aware of any challenges you may be facing which could get in the way of your academic success. To that end, we'd appreciate if you filled out our Academic Advising Questionnaire.
-
-  <div class="button-wrapper"><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=JNkb7GoKqUqqicmAMWwESfjne9J-c6VKlt4hDsO6Z5ZUME9MTVAyS1BUSzgxUU4wNDJFWUlHRThMVy4u" title="Fill out the Academic Advising form." target="_blank" class="button">Complete the Questionnaire</a></div>
-
   #### About Computer Graphics
 
   - Why a Mac?
-    - The minimum requirement for your computer is a <a href="https://www.apple.com/ca_edu_93120/shop/buy-mac/macbook-pro" target="_blank">15” or 16" Retina MacBook Pro</a>.
+    - The minimum requirement for your computer is a <a href="https://www.apple.com/ca_edu_93120/shop/buy-mac/macbook-pro" target="_blank">16" Retina MacBook Pro</a>.
     - You're encouraged to purchase AppleCare with your new laptop.
   - Why Creative Cloud?
     - InDesign for page layout.
@@ -66,18 +44,17 @@ details: |
   - This site contains all of the Computer Graphics curriculum.
     - <a href="https://www.youtube.com/user/ACComputerGraphics/featured" target="_blank">CG YouTube Channel</a>.
     - Grades will be on Brightspace.
-      - Brightspace quick tour.
       - Download the Brightspace <a href="https://apps.apple.com/ca/app/brightspace-pulse/id1001688546" target="_blank">app for iOS</a> or <a href="https://play.google.com/store/apps/details?id=com.d2l.brightspace.student.android&amp;hl=en" target="_blank">for Android</a>.
     - Formative assignments: learn & practice software skills.
     - Summative assignments: evaluate your mastery of software skills.
 
   ### Get Set Up
-  - <a href="https://join.slack.com/t/fall2023algon-xjm1286/shared_invite/zt-kicvofrr-RUpEcqUqGn8fvoUKKZ2WOQ" title="Join the Grads of 'F23 Slack workspace" target="_blank">Join the Grads of 'F23 Slack workspace</a>.
+  - <a href="https://join.slack.com/t/2024graphicde-abb2216/shared_invite/zt-urikpexz-Mbd3HlB8WokP0pAh0n6HcA" title="Join the Grads of '24 Slack workspace" target="_blank">Join the Grads of '24 Slack workspace</a>.
   - <a href="/setups/mac.html" >Set up macOS</a>.
   - Back up your files.
   - Connect to <a href="/setups/college-services.html">college online services</a>.
   - Use a mouse every class.
-  - Optional: If needed, <a href="https://www.apple.com/ca/shop/product/MMEL2AM/A/thunderbolt-3-usb-c-to-thunderbolt-2-adapter" target="_blank">purchase this adaptor</a> to connect to displays.
+  <!--- - Optional: If needed, <a href="https://www.apple.com/ca/shop/product/MMEL2AM/A/thunderbolt-3-usb-c-to-thunderbolt-2-adapter" target="_blank">purchase this adaptor</a> to connect to displays.--->
   - Bring a pair of earphones/headphones to listen to video tutorials.
 
   #### Software installation

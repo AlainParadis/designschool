@@ -2,11 +2,11 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 3.0
+sortorder: 2.0
 appsused: sketching, ai, indd
 title: "Die Lines"
 level: cg3
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236880&grpid=0&isprv=0&bp=0&ou=279810"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=354410&grpid=0&isprv=0&bp=0&ou=372603"
 submission: "indesign-package"
 links: |
   - <a href="http://media2.fwpublications.com/DESIGN/Digital-Downloads/handmade-packaging-creating-a-dieline.pdf" target="_blank" title="How to make a die line">Make a die line</a>
