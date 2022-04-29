@@ -6,7 +6,7 @@ sortorder: 2.2
 appsused: ai
 title: "Setting Type"
 level: cg1
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=354440&grpid=0&isprv=0&bp=0&ou=372612"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=381843&grpid=0&isprv=0&bp=0&ou=409084"
 submission: "my-assignment-folder"
 links: |
   - <a href="https://helpx.adobe.com/illustrator/using/creating-text.html" target="_blank" title="Create Type in Illustrator">Adobe: Create Type</a>

@@ -6,7 +6,7 @@ sortorder: 3.0
 appsused: indd
 title: "Books"
 level: cg6
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=291690&grpid=0&isprv=0&bp=0&ou=314375"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=385682&grpid=0&isprv=0&bp=0&ou=411803"
 submission: "indd-book-package-plus-pdf"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/creating-book-files.html" title="Adobe: Help, Creating Books in InDesign" target="_blank">Creating Books</a>
@@ -81,7 +81,7 @@ details: |
   </ol>
   </figcaption>
   </figure>
-  On the left side of the panel, there's a column where you can establish the style source for the book. The style source is the master document for the book. It's used to set the source for styles, swatches, master pages, lists, text variables and more.
+  On the left side of the panel, there's a column where you can establish the style source for the book. The style source is the parent document for the book. It's used to set the source for styles, swatches, parent pages, lists, text variables and more.
 
   To the right, we see the page range. To the right of that there's a column for the document's open status. To the right of that, there's a column for the document's preflight status.
 
@@ -89,7 +89,7 @@ details: |
 
   ### Manage book files
 
-  With InDesign books, you can establish numbering in a master document, then have them sync across all the files in the book. You can add or remove documents in the Book panel. You can also re-order them by dragging them up and down the panel.
+  With InDesign books, you can establish numbering in a parent document, then have them sync across all the files in the book. You can add or remove documents in the Book panel. You can also re-order them by dragging them up and down the panel.
 
   Remember that the Book panel only refers to the InDesign documents it contains. If you move or delete the originals from your computer, the panel will lose control of them.
 
@@ -177,11 +177,11 @@ details: |
   <figure>
       <img class="size75" alt="indesign-books-sync-options" src="/images/indesign-books/indesign-books-sync-options.jpg">
   <figcaption>
-    Option-click on the Synchronize button to see and edit what you can sync. Check on "Master Pages".
+    Option-click on the Synchronize button to see and edit what you can sync. Check on "Parent Pages".
   </figcaption>
   </figure>
 
-  You'll notice that layers don't sync. The trick to get around this is simply to put an item from each layer on a Master Page, then sync Master Pages. That will make them sync.
+  You'll notice that layers don't sync. The trick to get around this is simply to put an item from each layer on a Parent Page, then sync Parent Pages. That will make them sync.
 
   ## Print or output a book file
 
@@ -236,7 +236,7 @@ assignment: |
   </figcaption>
   </figure>
 
-  Let's make some changes to our source document before we create a book. The first document we create is our master document. It's going to be the model upon which all the other documents in the book are based. Do this:
+  Let's make some changes to our source document before we create a book. The first document we create is our parent document. It's going to be the model upon which all the other documents in the book are based. Do this:
 
   1. Rename Layer 1 to 'Text'. Create new layers 'Images' and 'Folios'. Make sure 'Text' is above 'Images'.
   2. Change Basic Paragraph style to Minion Pro 9pt.
@@ -285,23 +285,23 @@ assignment: |
 
   Now open the Front Matter and End Matter documents. Delete 16 pages from these documents so there are only 4 pages left in them. These are the pages for the table of contents, dedication page, index, etc... Note how the page numbering adjusts across all the doucuments in the book.
 
-  You'll need to Option-click on the Sync button &#8646;, then turn on Master Pages.
+  You'll need to Option-click on the Sync button &#8646;, then turn on Parent Pages.
 
-  ## Master Pages
+  ## Parent Pages
 
   ### Pagination
 
-  Create a new layer in the Layers panel called Folios. Add page numbers to A-Master master page on the Folios layer. Remember to set text alignment to Away from Spine in the paragraph style.
+  Create a new layer in the Layers panel called Folios. Add page numbers to A-Parent page on the Folios layer. Remember to set text alignment to Away from Spine in the paragraph style.
 
   <figure>
       <img class="size75" alt="indesign-books-formative-page-numbers" src="/images/indesign-books/indesign-books-formative-page-numbers.jpg">
   <figcaption>
-    Add automatic page numbers on A-Master in Chapter 1 document.
+    Add automatic page numbers on A-Parent in Chapter 1 document.
   </figcaption>
   </figure>
 
   <div class="attentionbox tip">
-    Layers don't sync across book files unless you add artwork on layers on a master page. Then when master pages sync, the layers sync too.
+    Layers don't sync across book files unless you add artwork on layers on a parent page. Then when parent pages sync, the layers sync too.
   </div>
 
   ## Let's Sync Some Content!
@@ -322,12 +322,12 @@ assignment: |
 
   ### Page Decorations
 
-  On the Folios layer and on the A-Master, add a 3p0 black bar across the top of the spread using the Rectangle tool. Make sure you reach the bleed line on three sides.
+  On the Folios layer and on the A-Parent, add a 3p0 black bar across the top of the spread using the Rectangle tool. Make sure you reach the bleed line on three sides.
 
   <figure>
       <img class="size100" alt="indesign-books-formative-page-decoration" src="/images/indesign-books/indesign-books-formative-page-decoration.jpg">
   <figcaption>
-    A black bar is placed along the tops of the spreads on A-Master, on a Folios layer.
+    A black bar is placed along the tops of the spreads on A-Parent, on a Folios layer.
   </figcaption>
   </figure>
 
@@ -347,11 +347,11 @@ assignment: |
   </figure>
 
   1. Hold Option, then double-click on the page numbers for Chapter 1 in the Book panel. Set the numbering to start at 1.
-  2. Create a new Master Page called B-Chapter.
-  3. On the B-Chapter master page. Create a text frame on the 'Text' layer. Type 'Chapter'. Style it. Insert the text variable as shown.
+  2. Create a new Parent Page called B-Chapter.
+  3. On the B-Chapter parent page. Create a text frame on the 'Text' layer. Type 'Chapter'. Style it. Insert the text variable as shown.
   4. Type a chapter name in the same text frame in its own paragraph style. We'll be using this for a Running Header.
 
-  Once you've synced the chapter number and title info, you need to go to each document to apply the Chapter master page to the first page of each document.
+  Once you've synced the chapter number and title info, you need to go to each document to apply the Chapter parent page to the first page of each document.
 
   ### Running Headers
 
@@ -364,7 +364,7 @@ assignment: |
   </figcaption>
   </figure>
 
-  Go to the A-Master master page. Add a running header in the same text frame as the page number. Simply put your cursor in the frame. Hit <span class="command">Shift-Tab</span> to type a right-aligned tab. Then...
+  Go to the A-Parent page. Add a running header in the same text frame as the page number. Simply put your cursor in the frame. Hit <span class="command">Shift-Tab</span> to type a right-aligned tab. Then...
 
   1. Go <span class="command">Type > Text Variables > Define...</span>
   2. Click <span class="command">New</span>
@@ -373,7 +373,7 @@ assignment: |
   5. Select the 'Chapter Titles'. Click <span class="command">OK</span>.
   6. Click <span class="command">Insert</span> from the Text Variables dialogue.
 
-  You'll see \<Chapter Titles\> appear in the text frame. This will reproduce the text that's in Chapter Titles paragraph style. You'll need to apply Master to the first page, then unlock the frame by <span class="command">Shift-⌘-clicking</span> on it.
+  You'll see \<Chapter Titles\> appear in the text frame. This will reproduce the text that's in Chapter Titles paragraph style. You'll need to apply Parent to the first page, then unlock the frame by <span class="command">Shift-⌘-clicking</span> on it.
 
   Now, go to each of your book documents to drag B-Chapter onto the first page's icon in the Pages panel. Go to the first page, then type in a chapter title. It will automatically populate to all the pages. *Magic!*
 

@@ -6,7 +6,7 @@ sortorder: 1.0
 appsused: ai
 title: "Symbols"
 level: cg4
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=292868&grpid=0&isprv=0&bp=0&ou=314350"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=384439&grpid=0&isprv=0&bp=0&ou=411216"
 submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/symbols.html#use_9_slice_scaling" title="Symbols" target="_blank">Symbols</a>
@@ -26,7 +26,7 @@ details: |
 
   ### What Are Dynamic Symbols?
 
-  > With Dynamic Symbols, symbols can share a master shape but different instances of the symbol can have dynamically modified appearances. If the master shape is modified, symbol instances receive the new modification, but maintain their own modifications as well. <cite><a href="https://helpx.adobe.com/illustrator/using/symbols.html" target="_blank" title="Adobe's support page about Symbols.">Adobe</a></cite>
+  > With Dynamic Symbols, symbols can share a parent shape but different instances of the symbol can have dynamically modified appearances. If the parent shape is modified, symbol instances receive the new modification, but maintain their own modifications as well. <cite><a href="https://helpx.adobe.com/illustrator/using/symbols.html" target="_blank" title="Adobe's support page about Symbols.">Adobe</a></cite>
 
   You an select parts of a symbol instance with the Direct Selection tool.
 

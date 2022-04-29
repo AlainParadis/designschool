@@ -11,7 +11,7 @@ submission: "indesign-package"
 links: |
   - <a href="#assignment" title="Go to the assignment">The assignment</a>
   - Adobe: <a href="https://helpx.adobe.com/indesign/user-guide.html?topic=/indesign/morehelp/layout_and_design.ug.js" title="InDesign Layout & Design" target="_blank">InDesign Layout & Design</a>
-  - Adobe: <a href="https://helpx.adobe.com/indesign/using/master-pages.html" title="Master Pages" target="_blank">Master Pages</a>
+  - Adobe: <a href="https://helpx.adobe.com/indesign/using/master-pages.html" title="Parent Pages" target="_blank">Parent Pages</a>
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/paragraph-character-styles.html" title="Paragraph & Character Styles" target="_blank">Paragraph & Character Styles</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLAM7iNFT5e-fXbxQn2nt7X7"
 downloads:
@@ -153,14 +153,14 @@ assignment: |
       <dd>Acumen Condensed Semibold, 9pt, Blue, Align left</dd>
   </dl>
 
-  ### Master Pages
+  ### Parent Pages
 
-  Set up your master pages as shown below.
+  Set up your Parent Pages as shown below.
 
   <figure>
       <img class="size100 borderlimegreen1" alt="indesign-pages-setup" src="/images/indesign-build-a-magazine/indesign-pages-setup.jpg">
   <figcaption>
-    This is how your master pages, text frames and image frames should be set up.
+    This is how your Parent pages, text frames and image frames should be set up.
   </figcaption>
   </figure>
 

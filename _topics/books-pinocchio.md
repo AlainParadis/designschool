@@ -6,7 +6,7 @@ sortorder: 3.9
 appsused: indd
 title: "Books Pinocchio"
 level: cg6
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=291691&grpid=0&isprv=0&bp=0&ou=314375"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=385683&grpid=0&isprv=0&bp=0&ou=411803"
 submission: "indd-book-package-plus-pdf"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/creating-book-files.html" title="Adobe: Help, Creating Books in InDesign" target="_blank">Creating Books</a>
@@ -32,7 +32,7 @@ assignment: |
 
   ### Create Book Documents
 
-  Start by creating an InDesign document. This is the file which will serve as the master file from which all the other book files will be based. This is the format:
+  Start by creating an InDesign document. This is the file which will serve as the parent file from which all the other book files will be based. This is the format:
 
   <figure>
       <img class="size50" alt="new-document-setup" src="/images/indesign-books-pinocchio/new-document-setup.jpg">
@@ -41,7 +41,7 @@ assignment: |
   </figcaption>
   </figure>
 
-  We'll need to set up our master document before we duplicate it for each chapter. Remember, if you leave unwanted content in the panels in this document, it'll be present in all your book files. We don't want that. That's why it's important to plan ahead to build this document properly.
+  We'll need to set up our parent document before we duplicate it for each chapter. Remember, if you leave unwanted content in the panels in this document, it'll be present in all your book files. We don't want that. That's why it's important to plan ahead to build this document properly.
 
   ### Initial Document Setup
 
@@ -84,15 +84,15 @@ assignment: |
   </figcaption>
   </figure>
 
-  Remember, layers don't sync across documents unless you have content on them on master pages. When the master pages sync, the layers get created.
+  Remember, layers don't sync across documents unless you have content on them on parent pages. When the parent pages sync, the layers get created.
 
   #### Text Frames
 
-  Create a primary text frame on your master pages. Make sure you have one on each master. Thread them together on the master. When you import your text in the next steps, hold the Shift key. That will make the text thread onto all the pages. Cool, eh?
+  Create a primary text frame on your parent pages. Make sure you have one on each parent. Thread them together on the parent. When you import your text in the next steps, hold the Shift key. That will make the text thread onto all the pages. Cool, eh?
 
   ### Book Documents
 
-  Once your InDesign master document is ready with all the basic settings, we can duplicate it to have a total of seven files. See the image below.
+  Once your InDesign parent document is ready with all the basic settings, we can duplicate it to have a total of seven files. See the image below.
 
   <div class="attentionbox shortcut">
     Close all InDesign documents. Go to the Finder, then hit cmd-D to duplicate the file until you have seven of them.
@@ -128,12 +128,12 @@ assignment: |
   </figure>
 
   <div class="attentionbox achtung">
-    Remember to turn on Master Page synching in the Book sync settings. Option-click on the Sync button to do so.
+    Remember to turn on Parent Page synching in the Book sync settings. Option-click on the Sync button to do so.
   </div>
 
   #### Folios
 
-  Let's add page numbers to our master pages for the FM, EM and chapters. Make sure they're on the Folio layer and on the Master Page. Create a paragraph style for them.
+  Let's add page numbers to our parent pages for the FM, EM and chapters. Make sure they're on the Folio layer and on the Parent Page. Create a paragraph style for them.
 
   <figure>
       <img class="size100" alt="folios" src="/images/indesign-books-pinocchio/folios.jpg">

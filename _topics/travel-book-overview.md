@@ -36,7 +36,7 @@ details: |
   #### Production
 
   Once your planning has been approved, you can move on to production. 
-  InDesign will be the hub in which we'll layout text, photography and illustrations. You will build the document in a way that avoids per-page construction using master pages, paragraph styles and more of the tools listed. <a href="travel-book-production.html" class="">Read more...</a>
+  InDesign will be the hub in which we'll layout text, photography and illustrations. You will build the document in a way that avoids per-page construction using parent pages, paragraph styles and more of the tools listed. <a href="travel-book-production.html" class="">Read more...</a>
 
   #### Output
 

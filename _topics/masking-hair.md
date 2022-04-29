@@ -6,7 +6,7 @@ sortorder: 5.3
 appsused: psd
 title: "Masking Hair"
 level: cg1
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=354448&grpid=0&isprv=0&bp=0&ou=372612"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=381852&grpid=0&isprv=0&bp=0&ou=409084"
 submission: "my-assignment-folder"
 links:
 video: "https://www.youtube.com/embed/zbLqGf6JCZc?rel=0"

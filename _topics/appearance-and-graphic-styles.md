@@ -5,8 +5,8 @@ formsum: formative
 sortorder: 6.0
 appsused: ai
 title: "Appearance & Graphic Styles"
-level: cg2
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=319156&grpid=0&isprv=0&bp=0&ou=350784"
+level:
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=384497&grpid=0&isprv=0&bp=0&ou=411224"
 submission: "illustrator-package"
 links: |
   - <a href="https://helpx.adobe.com/illustrator/how-to/illustrator-mastering-appearance-panel.html" target="_blank" title="Using the Appearance Panel">Using the Appearance Panel</a>

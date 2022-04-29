@@ -6,7 +6,7 @@ sortorder: 4.9
 appsused: ai, indd
 title: "Graph Layout"
 level: cg2
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=289085&grpid=0&isprv=0&bp=0&ou=314364"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=384496&grpid=0&isprv=0&bp=0&ou=411224"
 submission: "graph-layout"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/graphs.html" title="Adobe: Graphs" target="_blank">Graphs</a>

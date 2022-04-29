@@ -6,11 +6,11 @@ sortorder: 2.0
 appsused: psd
 title: "Blending & Masking"
 level: cg6
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=291688&grpid=0&isprv=0&bp=0&ou=314375"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=385680&grpid=0&isprv=0&bp=0&ou=411803"
 submission: "my-assignment-folder"
 links:
 video: 
-downloads: "https://www.dropbox.com/s/i31969trkpddevj/photoshop-blending-and-masking.zip?dl=1"
+downloads: "https://www.dropbox.com/s/397fnbeca3pt0bo/photoshop-blending-and-masking.zip?dl=1"
 description: "This effect has been trendy for a while now. Notwithstanding the trend, the effect makes use of important features in Photoshop."
 details: | 
   ### The Double Exposure Effect

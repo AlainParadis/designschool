@@ -6,7 +6,7 @@ sortorder: 1.9
 appsused: dn
 title: "Design with Dimension"
 level: cg6
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=291687&grpid=0&isprv=0&bp=0&ou=314375"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=385679&grpid=0&isprv=0&bp=0&ou=411803"
 submission: "pdf+zipped-folder"
 links: |
   - <a href="http://www.brandsoftheworld.com" title="Source for vector logos." target="_blank">Brands of the World</a>

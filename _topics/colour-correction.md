@@ -6,7 +6,7 @@ sortorder: 3.1
 appsused: psd
 title: "Colour Correction"
 level: cg4
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=292875&grpid=0&isprv=0&bp=0&ou=314350"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=384446&grpid=0&isprv=0&bp=0&ou=411216"
 submission: "my-assignment-folder"
 links: 
 video: "https://www.youtube.com/embed/whPTSAlEdQk"

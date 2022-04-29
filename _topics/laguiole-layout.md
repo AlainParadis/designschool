@@ -5,8 +5,8 @@ formsum: formative
 sortorder: 7.0
 appsused: indd, ai, psd
 title: "Laguiole Layout"
-level: cg2
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=319159&grpid=0&isprv=0&bp=0&ou=350784"
+level:
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=384498&grpid=0&isprv=0&bp=0&ou=411224"
 submission: "indesign-package"
 links: |
   - [Forge de Laguiole](https://forge-de-laguiole.com)

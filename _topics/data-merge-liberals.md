@@ -6,7 +6,7 @@ sortorder: 4.2
 appsused: indd
 title: "Data Merge Liberals"
 level: cg4
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=292881&grpid=0&isprv=0&bp=0&ou=314350"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=384450&grpid=0&isprv=0&bp=0&ou=411216"
 submission: "indesign-package"
 links: |
   - <a href="https://helpx.adobe.com/indesign/using/data-merge.html" title="x">InDesign Data Merge</a>
@@ -34,7 +34,7 @@ details: |
 
   <img class="size50" alt="indesign-data-merge-document-setup" src="/images/indesign-data-merge/indesign-data-merge-document-setup.jpg">
 
-  Create your whole design on a Master Page. This will make it that if you need to edit after the fact, you can do your edits on the Master. As you can see, rather than typing in the individual's info, we've entered the column headers in their places. This makes it easier to identify things as we work.
+  Create your whole design on a Parent Page. This will make it that if you need to edit after the fact, you can do your edits on the Parent. As you can see, rather than typing in the individual's info, we've entered the column headers in their places. This makes it easier to identify things as we work.
 
   <img class="size100" alt="indesign-data-merge-master-design" src="/images/indesign-data-merge/indesign-data-merge-master-design.jpg">
 

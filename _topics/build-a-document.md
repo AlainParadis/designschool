@@ -6,12 +6,12 @@ sortorder: 2.9
 appsused: indd
 title: "Build a Document"
 level: cg2
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=319150&grpid=0&isprv=0&bp=0&ou=350784"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=384489&grpid=0&isprv=0&bp=0&ou=411224"
 submission: "indesign-package"
 links: |
   - <a href="#assignment" title="Go to the assignment">The assignment</a>
   - Adobe: <a href="https://helpx.adobe.com/indesign/user-guide.html?topic=/indesign/morehelp/layout_and_design.ug.js" title="InDesign Layout & Design" target="_blank">InDesign Layout & Design</a>
-  - Adobe: <a href="https://helpx.adobe.com/indesign/using/master-pages.html" title="Master Pages" target="_blank">Master Pages</a>
+  - Adobe: <a href="https://helpx.adobe.com/indesign/using/master-pages.html" title="Master Pages" target="_blank">Parent Pages</a>
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/paragraph-character-styles.html" title="Paragraph & Character Styles" target="_blank">Paragraph & Character Styles</a>
   - <a href="https://design.tutsplus.com/tutorials/quick-tip-speed-up-your-adobe-indesign-workflow-with-the-content-collector-tool--cms-23629" class="" target="_blank">InDesign's Content Collector</a>
 video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLAM7iNFT5e-fXbxQn2nt7X7"
@@ -42,7 +42,7 @@ details: |
   There's a tutorial in the playlist above on how to print your page layout grid on tabloid sheets. Draw out your sketches on these pages. The better the planning, the less time it will take you to build your plublication.
 
   <div class="attentionbox tip">
-    Build your Master Pages based on these thumbnails. Remember! Design on paper, then build on the computer.
+    Build your Parent Pages based on these thumbnails. Remember! Design on paper, then build on the computer.
   </div>
 
   ### New Document Settings
@@ -93,9 +93,9 @@ details: |
   </figcaption>
   </figure>
 
-  There can only be one primary text stream through a document. The beauty of Primary Text Frames is that when you apply a new Master with a Primary Frame, it adapts to the new layout with the text simply re-flowing through it.
+  There can only be one primary text stream through a document. The beauty of Primary Text Frames is that when you apply a new Parent with a Primary Frame, it adapts to the new layout with the text simply re-flowing through it.
 
-  If you didn't check the Primary Text Frame checkbox when you created the document, you can always go to your Master Pages to activate them there. All you need to do is click on the icon shown above to make the little arrow appear.
+  If you didn't check the Primary Text Frame checkbox when you created the document, you can always go to your Parent Pages to activate them there. All you need to do is click on the icon shown above to make the little arrow appear.
 
   #### Bleeds
 
@@ -117,11 +117,11 @@ details: |
   </figcaption>
   </figure>
 
-  ### Master Pages
+  ### Parent Pages
 
   #### Set Up a Horizontal Grid
 
-  Go to your A-Master, then use <span class="command">Layout > Create Guides...</span> To create horizontal guides on your pages.
+  Go to your A-Parent, then use <span class="command">Layout > Create Guides...</span> To create horizontal guides on your pages.
 
   <figure>
       <img class="size50" alt="indesign-create-guides" src="/images/indesign-build-a-document/indesign-create-guides.jpg">
@@ -132,29 +132,29 @@ details: |
 
   These guides will give you a structure for aligning objects.
 
-  #### Master Text Frames
+  #### Parent Text Frames
 
-  Text frames which are on Master Pages appear on all pages that have that Master applied to them. Master pages act like templates for your pages. If you modify a Master Page's layout, all the pages with that Master applied will change.
+  Text frames which are on Parent Pages appear on all pages that have that Parent applied to them. Parent pages act like templates for your pages. If you modify a Parent Page's layout, all the pages with that Parent applied will change.
 
-  If you modify a Master item on a document page, that item will no longer change with the Master.
+  If you modify a Parent item on a document page, that item will no longer change with the Parent.
 
-  Master Page items are locked on document pages. That means that you cannot select them on the document page without unlocking them. You can <span class="command">Shift-⌘-click</span> on a locked frame on a document page to unlock it. Alternatively, you can type <span class="command">Shift-⌘-⌥-L</span> to unlock all Master Page elements on a document page.
+  Parent Page items are locked on document pages. That means that you cannot select them on the document page without unlocking them. You can <span class="command">Shift-⌘-click</span> on a locked frame on a document page to unlock it. Alternatively, you can type <span class="command">Shift-⌘-⌥-L</span> to unlock all Parent Page elements on a document page.
 
   #### Automatic Page Numbering
 
-  InDesign can assign page numbers automatically. All you need to do is type <span class="command">Shift-⌥-⌘-N</span> in a text frame on a Master Page.
+  InDesign can assign page numbers automatically. All you need to do is type <span class="command">Shift-⌥-⌘-N</span> in a text frame on a Parent Page.
 
   <figure>
       <img class="size100 borderlimegreen1" alt="indesign-automatic-page-numbers" src="/images/indesign-build-a-document/indesign-automatic-page-numbers.jpg">
   <figcaption>
-    See how the letter on the Master Page become the actual page number on the document pages.
+    See how the letter on the Parent Page become the actual page number on the document pages.
   </figcaption>
   </figure>
 
    It's a good idea to set the alignment of the page folios to Away from Spine.
 
   <div class="attentionbox tip">
-    You can drag a master's icon in the Pages Panel onto another to base it on that master. For example, Drag B-Master onto A-Master to base B on A.
+    You can drag a parent's icon in the Pages Panel onto another to base it on that parent. For example, Drag B-Parent onto A-Parent to base B on A.
   </div>
 
   ### Managing Text Frames
@@ -369,20 +369,20 @@ assignment: |
 
   Rename Layer 1 to Text. Create a new layer. Call it Images.
 
-  ### Master Pages
+  ### Parent Pages
 
-  Let's create our Master Pages based on our sketches. In the panel below, 2C & 3C refer to how many columns wide our text frames are.
+  Let's create our Parent Pages based on our sketches. In the panel below, 2C & 3C refer to how many columns wide our text frames are.
 
-  Rename *A-Master* to *A-Grid-Folio*. Place guides on the page using <span class="command">Layout > Create Guides...</span>, like this:
+  Rename *A-Parent* to *A-Grid-Folio*. Place guides on the page using <span class="command">Layout > Create Guides...</span>, like this:
 
   <figure>
-      <img class="size100 borderlimegreen1" alt="indesign-master-page-setup" src="/images/indesign-build-a-document/indesign-master-page-setup-create-guides.jpg">
+      <img class="size100 borderlimegreen1" alt="indesign-parent-page-setup" src="/images/indesign-build-a-document/indesign-master-page-setup-create-guides.jpg">
   <figcaption>
-    Set up your Master Pages like this. Note which masters are based on which.
+    Set up your Parent Pages like this. Note which Parent Pages are based on which.
   </figcaption>
   </figure>
 
-  Continue to create Master Pages named as they are above. They'll all be blank as you create them.
+  Continue to create Parent Pages named as they are above. They'll all be blank as you create them.
 
   <div class="attentionbox shortcut">
     Use ⌘-; to show and hide guides.
@@ -391,7 +391,7 @@ assignment: |
   <figure>
       <img class="size100" alt="indesign-master-pages-layouts" src="/images/indesign-build-a-document/indesign-master-pages-layouts.jpg">
   <figcaption>
-    Create text and image frames on your Master Pages as shown above.
+    Create text and image frames on your Parent Pages as shown above.
   </figcaption>
   </figure>
 
@@ -419,9 +419,9 @@ assignment: |
   </figcaption>
   </figure>
 
-  ### Apply Masters
+  ### Apply Parents
 
-  Let's apply Master Pages to our document pages. Use the provided PDF as a guide. There may be some minor differences. It's fine. Sometimes we riff off a Master Page.
+  Let's apply Parent Pages to our document pages. Use the provided PDF as a guide. There may be some minor differences. It's fine. Sometimes we riff off a Parent Page.
 
   <div class="attentionbox achtung">
     We'll only format the first story. Once it's completely set up, we'll add more pages to our document, then format the rest.

@@ -6,7 +6,7 @@ sortorder: 1.1
 appsused: psd
 title: "Blend Modes"
 level: cg2
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=319149&grpid=0&isprv=0&bp=0&ou=350784"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=384487&grpid=0&isprv=0&bp=0&ou=411224"
 submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/blending-modes.html" target="_blank" title="Blending Modes">Blending Modes</a>

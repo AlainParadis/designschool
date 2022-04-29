@@ -7,7 +7,7 @@ appsused: indd
 submission: "indesign-package"
 title: "Our First Layout"
 level: cg1
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=354443&grpid=0&isprv=0&bp=0&ou=372612"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=381847&grpid=0&isprv=0&bp=0&ou=409084"
 links: |
   - <a href="https://helpx.adobe.com/indesign/using/create-documents.html" target="_blank" title="Adobe: Create Documents">Adobe: Create Documents</a>
   - <a href="https://helpx.adobe.com/indesign/using/threading-text.html" target="_blank" title="Adobe: Threading Text Frames">Adobe: Threading Text Frames</a>
@@ -166,13 +166,13 @@ details: |
 
   Make sure you delete every last character at the end of the paragraph the <span class="orange fw800">&#8744;</span> glyph needs to be the last glyph in the column, right after the period glyph.
 
-  ### Master Pages
+  ### Parent Pages
 
-  In publications, some elements repeat themselves on multiple pages. Rather than manually placing items on each page of your document, we place them on master pages.
+  In publications, some elements repeat themselves on multiple pages. Rather than manually placing items on each page of your document, we place them on parent pages.
 
   <img class="size33" alt="pages-panel" src="/images/indesign-our-first-layout/indesign-pages-panel.jpg">
 
-  You can see, in the image above, that the black bar with the  logo is on the Master Page. You can also see the letter A at the top of the document page. That means A-Master is applied to the document page. Anything on A-Master will appear on page one.
+  You can see, in the image above, that the black bar with the  logo is on the Parent Page. You can also see the letter A at the top of the document page. That means A-Parent is applied to the document page. Anything on A-Parent will appear on page one.
 
   ### Bleeds
 

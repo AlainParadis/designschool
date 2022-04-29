@@ -79,5 +79,5 @@ assignment: |
 
   You will have at least one info-graphic taking up a minimum of a page or as much as a spread.
 
-  You should have other illustrations as page decorations. It might be more convenient to place them on master pages rather than having to position them individually on each page.
+  You should have other illustrations as page decorations. It might be more convenient to place them on parent pages rather than having to position them individually on each page.
 ---

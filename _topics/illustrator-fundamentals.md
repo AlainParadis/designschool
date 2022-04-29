@@ -6,7 +6,7 @@ sortorder: 2.9
 appsused: ai
 title: "Illustrator Fundamentals"
 level: cg1
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=354442&grpid=0&isprv=0&bp=0&ou=372612"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=381846&grpid=0&isprv=0&bp=0&ou=409084"
 submission: "my-assignment-folder"
 links:
 video:
@@ -42,7 +42,7 @@ assignment: |
 
   Create a new Illustrator document with the specifications shown below. Use point type and area type where appropriate. Create paragraph styles for all the text. The *ijustdrive.ca* will need a character style for the *.ca*.
 
-  Save the file into the exercise folder named: <span class="fw500 darkgreen">03-illustrator-type-summative.ai</span>
+  Save the file as: <span class="fw500 darkgreen">03-illustrator-type-summative.ai</span>
 
   <img class="size100" alt="Illustrator Type Summative" src="/images/illustrator-fundamentals/illustrator-type-summative.svg">
 

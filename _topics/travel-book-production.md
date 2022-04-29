@@ -34,8 +34,8 @@ assignment: |
 
   #### InDesign
 
-  - Master pages
-    - *Based-on* master pages
+  - Parent pages
+    - *Based-on* Parent pages
     - Primary text frames
     - Threaded text frames
   - Style sheets

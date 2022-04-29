@@ -39,11 +39,11 @@ details: |
   * Chapter Names, based on Base Sans
   * Recipe Names, based on Base Sans
 
-  ### Master Pages
+  ### Parent Pages
 
-  Rename A-Master to A-Base. This is the master that will contain any elements which repeat on all pages of the document.
+  Rename A-Parent to A-Base. This is the page that will contain any elements which repeat on all pages of the document.
 
-  Create a second master called B-Master which is based on A-Base. This will contain all of our content.
+  Create a second page called B-Parent which is based on A-Base. This will contain all of our content.
 
   See the images just below...
 
@@ -57,7 +57,7 @@ details: |
 
   ### Place Text
 
-  Put threaded primary text frames on the <span class="command">B Master</span> pages. Let's apply the masters from the third page to the last. The best way to do this is select the page icons in the Pages panel, then option-click on the master you want to apply to them.
+  Put threaded primary text frames on the <span class="command">B Parent</span> pages. Let's apply the pages from the third page to the last. The best way to do this is select the page icons in the Pages panel, then option-click on the parent page you want to apply to them.
 
   Use <span class="command">File > Place...</span> to flow the text for chicken, beef and fish recipes. Shift-click on the Open button to access import options shown below.
 
@@ -69,7 +69,7 @@ details: |
 
   Page folios can be at the top or bottom corners or centers of the pages. They can figure on every page of the publication or change depending on the content. They can include: page numbers, chapter numbers, publication title, section title, story title, issue date, web address and more.
 
-  We create them on the Master Page. They should be distinct from text and consistent in appearance. Make them on a new layer so the stacking order can be changed.
+  We create them on the Parent Page. They should be distinct from text and consistent in appearance. Make them on a new layer so the stacking order can be changed.
 
   Let's place page numbers on our A-Base. They'll automatically appear on all pages of our document.
 
@@ -171,13 +171,13 @@ assignment: |
 
   This is my Paragraph Styles panel. Make sure you base all serif styles on Basic Paragraph. Base all sans-serif styles on Base Sans.
 
-  ### Master Pages
+  ### Parent Pages
 
-  Rename A-Master to A-Base. Create a new master based on A-Base called B-Content.
+  Rename A-Parent to A-Base. Create a new parent page based on A-Base called B-Content.
 
-  <img class="size100" alt="indesign-master-pages" src="/images/indesign-text-variables/indesign-master-pages.jpg">
+  <img class="size100" alt="indesign-parent-pages" src="/images/indesign-text-variables/indesign-master-pages.jpg">
 
-  Create a Primary Text Frame on B-Content. Make sure it has two columns. Thread the frame on the left-hand master to the one on the right-hand master.
+  Create a Primary Text Frame on B-Content. Make sure it has two columns. Thread the frame on the left-hand parent page to the one on the right-hand parent page.
 
   ### Numbering & Sections
 
@@ -195,7 +195,7 @@ assignment: |
 
   ### Page Folios
 
-  Set up automatic page numbers on your B-Content master page.
+  Set up automatic page numbers on your A-Base Parent Page.
 
   <img class="size100" alt="indesign-footer-variable-master" src="/images/indesign-text-variables/indesign-footer-variable-master.jpg">
 
@@ -203,7 +203,7 @@ assignment: |
 
   ### Slug Info
 
-  Go to your A-Base master. We'll increase the size of the slug to accomodate messages for the design team. Make the top slug 6p0 (1 inch)
+  Go to your A-Base Parent Page. We'll increase the size of the slug to accomodate messages for the design team. Make the top slug 6p0 (1 inch)
 
   <img class="size100" alt="indesign-slug-text-variable" src="/images/indesign-text-variables/indesign-slug-text-variable.jpg">
 
