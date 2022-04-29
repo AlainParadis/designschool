@@ -10,7 +10,6 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/conditional-actions-creative-cloud.html" target="_blank" title="x">Conditional Actions</a>
-video: "https://www.youtube.com/embed/aCfGzKmuJ50?rel=0"
 downloads: "https://www.dropbox.com/s/7vwjuzxer3atc95/photoshop-conditional-actions.zip?dl=1"
 description: "You're aware of Actions in Photoshop. Did you know you can create if/then statements which setup conditions before an action is run?"
 details: | 

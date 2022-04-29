@@ -13,7 +13,6 @@ links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/bookmarks.html" target="_blank" title="Bookmarks">Bookmarks</a>
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/interactivity-5.html" target="_blank" title="Buttons">Buttons</a>
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/movies-sounds.html" target="_blank" title="Movies & Sounds">Movies & Sounds</a>
-video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLApCkZmFu02T_fnG2WR-mQz"
 downloads: "https://www.dropbox.com/s/90mrd4pg8qftpx0/indesign-interactive-indesign.zip?dl=1"
 description: "In this lesson, we'll explore interactivity in InDesign with the eventual goal of an output to PDF, ePub and Adobe's Publish Online service."
 details: |

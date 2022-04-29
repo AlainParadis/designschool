@@ -12,7 +12,6 @@ links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/creating-book-files.html" title="Adobe: Help, Creating Books in InDesign" target="_blank">Creating Books</a>
   - <a href="bullet-and-number-lists.html" title="InDesign Bullet & Number Lists">About defined lists</a>
   - <a href="https://helpx.adobe.com/indesign/using/numbering-pages-chapters-sections.html" title="InDesign: Numbering Chapters" target="_blank">Numbering Chapters</a>
-video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLCQ4NQ5PzDMzi9Vs8p8aUtG"
 downloads:
 description: "InDesign book files are an important tool to help you manage automatic numbering of pages & chapters, synchronizing styles & swatches. They can also ease preflighting, packaging and exporting long documents."
 details: |

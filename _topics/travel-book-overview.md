@@ -9,7 +9,6 @@ level: undetermined
 brightspace: 
 submission:
 links:
-video: 
 downloads: 
 description: "This is a semester-long, self-directed project with milestones and deliverables. It will include publication design and production, photo manipulation and illustration. It is a software-skills culminating performance for the Computer Graphics courses."
 details: |

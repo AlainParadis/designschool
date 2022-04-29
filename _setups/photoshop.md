@@ -7,7 +7,6 @@ appsused: psd, cc
 title: "Set Up Photoshop"
 level: setup
 brightspace: 
-video: 
 downloads: "https://www.dropbox.com/s/ahi3vdxl1b5awqq/setup-photoshop.zip?dl=1"
 description: "Before we start to use Photoshop, we need to edit settings to make it work better for us."
 details: |

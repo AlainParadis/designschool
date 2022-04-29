@@ -9,7 +9,6 @@ level: cg5
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236858&grpid=0&isprv=0&bp=0&ou=279828"
 submission: "indesign-package"
 links:
-video: 
 downloads: "https://www.dropbox.com/s/vt8hq0jmto9rlh0/acrobat-acrobat-forms.zip?dl=1"
 description: "Use the text and logo provided in today's downloads to design a form, then make it a fillable PDF file."
 details: |

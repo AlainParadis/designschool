@@ -10,7 +10,6 @@ brightspace:
 submission: 
 links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/editing-text.html#use_the_story_editor" target="_blank" title="Story Editor">Story Editor</a>
-video: "https://www.youtube.com/embed/lWYgxy1SC7I"
 downloads: 
 description: "The Story Editor is a text-only view of your InDesign page layout in a separate window. It allows you to edit text without layout and formatting distractions."
 details: |

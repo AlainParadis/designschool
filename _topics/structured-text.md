@@ -9,7 +9,6 @@ level: cg3
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=354409&grpid=0&isprv=0&bp=0&ou=372603"
 submission: "indesign-package"
 links:
-video: 
 downloads: "https://www.dropbox.com/s/vzxs22a67827s2v/indesign-structured-text.zip?dl=1"
 description: "In this summative assignment, you'll use the provided files to build the layouts as directed."
 details: |

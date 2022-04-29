@@ -9,7 +9,6 @@ level: cg1
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=381852&grpid=0&isprv=0&bp=0&ou=409084"
 submission: "my-assignment-folder"
 links:
-video: "https://www.youtube.com/embed/zbLqGf6JCZc?rel=0"
 downloads: "https://www.dropbox.com/s/8fzflxubke149eb/photoshop-masking-hair.zip?dl=1"
 description: "Before you can correct, you must select. This is a time-tested saying amongst Photoshop pros. Learning to make accurate selections of complex and detailed objects in Photoshop is a life-long learning process. We'll continue that here."
 details: | 

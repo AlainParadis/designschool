@@ -15,7 +15,6 @@ links: |
   - <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWFC-QM7-zoCXIVZZcprjPr9TaHt9B_ZlixE3Krz9-QVaxbA/viewform" title="Employers Fieldwork Request" target="_blank">Employers Fieldwork Request</a>
   - <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=JNkb7GoKqUqqicmAMWwESfjne9J-c6VKlt4hDsO6Z5ZURUU5WFowU1MxVTdLQzNQVUc0NzVRTEpLWS4u" title="Form: I Got My Fieldwork!" target="_blank">I Got My Fieldwork!</a>
   - <a href="https://www.dropbox.com/s/tjqodow0x06ohfe/fieldwork-consent-form-2021.pdf?dl=1" title="Fieldwork Consent Form">Fieldwork Consent Form PDF</a>
-video: 
 downloads: "https://www.dropbox.com/s/jp8m950e6g5k77i/fieldwork-gradshow-downloads.zip?dl=1"
 description: "This page contains a list of potential employers you can contact to do fieldwork. Most have taken students for fieldwork before."
 details: |

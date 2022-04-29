@@ -12,7 +12,6 @@ links: |
   - <a href="https://helpx.adobe.com/illustrator/how-to/illustrator-mastering-appearance-panel.html" target="_blank" title="Using the Appearance Panel">Using the Appearance Panel</a>
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/graphic-styles.html" target="_blank" title="Graphic Styles">Graphic Styles</a>
   - <a href="https://helpx.adobe.com/illustrator/using/patterns.html" target="_blank" title="How to create patterns manually in Illustrator">Make patterns manually</a>
-video: "https://www.youtube.com/embed/wVnUrRBT_s4"
 downloads: "https://www.dropbox.com/s/1wmotbk7m2zky7b/illustrator-appearance-and-graphic-styles.zip?dl=1"
 description: |
   The Appearance Panel contains each element of a graphic, including strokes, fills, effects and more. It should be on your screen at all times. Use it for all your stylin'.

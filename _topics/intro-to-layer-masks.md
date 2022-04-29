@@ -10,7 +10,6 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "my-assignment-folder"
 links: |
   - <a href="https://helpx.adobe.com/photoshop/using/masking-layers.html" target="_blank" title="Adobe: Mask Layers">Adobe: Mask Layers</a>
-video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDXxSkeR7f0X8DmBp0hlEaj"
 downloads: "https://www.dropbox.com/s/j67xx5h5g6jxjes/photoshop-intro-to-layer-masks.zip?dl=1"
 description: "Layer Masks are arguably the most powerful, most frequently used tool in the whole Photoshop universe. We'll create pixel-based Layer Masks to achieve different results."
 details: |

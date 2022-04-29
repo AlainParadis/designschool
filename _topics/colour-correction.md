@@ -9,7 +9,6 @@ level: cg4
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=384446&grpid=0&isprv=0&bp=0&ou=411216"
 submission: "my-assignment-folder"
 links: 
-video: "https://www.youtube.com/embed/whPTSAlEdQk"
 downloads: "https://www.dropbox.com/s/mhf0ay8it0kwvnx/photoshop-colour-correction.zip?dl=1"
 description: "We'll explore techniques which take the guesswork out of making colour corrections in Photoshop."
 details: |

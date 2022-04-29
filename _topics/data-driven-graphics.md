@@ -13,7 +13,6 @@ links: |
   - <a href="http://www.liberal.ca" target="_blank">Liberal Party of Canada Web site</a>
   - <a href="http://www.conservative.ca" target="_blank">Conservative Party of Canada Web site</a>
   - <a href="http://www.ndp.ca/about-ndp" target="_blank">New Democratic Party Web site</a>
-video: "https://www.youtube.com/embed/lsPD9rLwJjc?rel=0"
 downloads: "https://www.dropbox.com/s/vsdmmubmw3mptif/photoshop-data-driven-graphics.zip?dl=1"
 description: "Garbage in, garbage out is a sound warning to heed when working with data. You'll need to take special care to format your spreadsheet with a column for each variable in your file."
 details: |

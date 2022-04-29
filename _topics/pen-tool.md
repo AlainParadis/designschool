@@ -12,7 +12,6 @@ links: |
   - <a href="https://helpx.adobe.com/illustrator/using/drawing-pen-curvature-or-pencil.html" target="_blank" title="Draw with the Pen Tool">Draw with the Pen Tool</a>
   - <a href="https://design.tutsplus.com/tutorials/illustrators-pen-tool-the-comprehensive-guide--vector-141" target="_blank" title="Tutsplus: Pen Tool Guide">Tutsplus: Pen Tool Guide</a>
   - <a href="https://bezier.method.ac" title="Bezier Method.ac" target="_blank">https://bezier.method.ac</a>
-video: "https://www.youtube.com/embed/qFeLqHS83P4"
 downloads: "https://www.dropbox.com/s/73wyq3ddr8z0rlb/illustrator-pen-tool.zip?dl=1"
 description: "The Pen Tool is one of the trickiest tools in Illustrator. It's also one of the most fundamental to vector drawing. You need to do your time with the tool in order to tame it."
 details: |

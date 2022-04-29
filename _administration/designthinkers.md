@@ -9,7 +9,6 @@ brightspace:
 links:  |
   - <a href="https://www.rgd.ca" alt:="The RGD" target="_blank">The RGD's Web Site</a>
   - <a href="https://designthinkers.com/toronto" alt:="DesignThinkers Toronto" target="_blank">DesignThinkers Toronto</a>
-video: 
 downloads:
 description: "Through RGD, Canadian designers exchange ideas, educate and inspire, set professional standards and build a strong, supportive community dedicated to advocating for the value of design."
 details: |

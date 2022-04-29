@@ -9,7 +9,6 @@ level: cg5
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236857&grpid=0&isprv=0&bp=0&ou=279828"
 submission: pdf-file
 links:
-video: "https://www.youtube.com/embed/5SLD5Bv2rGg"
 downloads: "https://www.dropbox.com/s/skdz0piynua7131/acrobat-fillable-forms.zip?dl=1"
 description: "Creating a fillable form using the Acrobat PDF format is a reliable, flexible and versatile way to have forms distributed and signed. We'll explore this functionality today."
 details: |

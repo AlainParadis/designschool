@@ -6,7 +6,6 @@ appsused:
 title: "Applied Arts Student Awards Submission"
 level: undetermined
 brightspace: 
-video: 
 downloads: 
 submission: 
 description: ""

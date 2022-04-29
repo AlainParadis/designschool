@@ -6,7 +6,6 @@ appsused:
 title: "Pantone Books"
 level: admin
 brightspace: 
-video: 
 downloads:
 description: "The most versatile tool for graphic and digital designers, Colour Bridge Set provides a side-by-side visual comparison of Pantone spot colours versus their closest CMYK process printing match on coated and uncoated paper. The guide also includes corresponding CMYK, Hex, and RGB values, perfect for digital designers. Use Colour Bridge Set for digital design, animation, and packaging when CMYK printing is required."
 details: |

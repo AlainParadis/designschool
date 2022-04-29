@@ -9,7 +9,6 @@ level: undetermined
 brightspace: 
 submission: "my-assignment-folder"
 links:
-video: 
 downloads: 
 description: "These are the main software instructions, which are really the bulk of the assessed skills."
 details: |

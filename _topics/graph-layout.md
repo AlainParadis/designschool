@@ -10,7 +10,6 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "graph-layout"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/graphs.html" title="Adobe: Graphs" target="_blank">Graphs</a>
-video: "https://www.youtube.com/embed/K_vENVmUluM"
 downloads:
 description: "Boring graphs can really put the kibosh on a great design. As a designer, one of the most difficult and rewarding jobs is to transform boring data into exciting, engaging visuals. The challenge is to present so many numbers in a compelling way."
 details: |

@@ -9,7 +9,6 @@ level: cg3
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=354413&grpid=0&isprv=0&bp=0&ou=372603"
 submission: "indesign-package"
 links:
-video: "https://www.youtube.com/embed/h4d4jKXsMLk"
 downloads: "https://www.dropbox.com/s/2m2u5f2lsb0go85/photoshop-beautiful-line-art.zip?dl=1"
 description: "Line art is artwork which only contains black and white pixels. Line art images always contain sharp edges with no greys or colours. You would think that it would be the easiest to scan. The problem is that bitmap images often end up either lacking detail or clogged in darker areas. The Bitmap or Black & White settings in your scanning software will rarely yield favourable results. I'll show you how to create beautiful line art."
 details: |

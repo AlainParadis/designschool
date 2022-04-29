@@ -13,7 +13,6 @@ links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/drawing-pen-tool.html" target="_blank" title="InDesign's Pen Tool">InDesign's Pen Tool</a>
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/drawing-pencil-tool.html" target="_blank" title="InDesign Pencil Tool">InDesign Pencil Tool</a>
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/editing-paths.html" target="_blank" title="Edit Paths in InDesign">Adobe: Edit Paths in InDesign</a>
-video: "https://www.youtube.com/embed/Mxcfrm7m99Y"
 downloads: 
 description: "InDesign is surprisingly adept at illustration. There's often no need to jump into Illustrator to create vector art. It can be done right in your page layout in InDesign."
 details: |

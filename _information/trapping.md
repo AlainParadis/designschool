@@ -10,7 +10,6 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission:
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/trapping.html" target="_blank">Trapping</a>
-video: "https://www.youtube.com/embed/q3ReWstCi0Y"
 downloads: "https://www.dropbox.com/s/2scolofucbf6zm6/illustrator-trapping.zip?dl=1"
 description: "While designers shouldn't need to do trapping on their files, they should be familiar with the concept and the mechanics of how it works."
 details: |

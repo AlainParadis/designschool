@@ -12,7 +12,6 @@ links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/creating-book-files.html" title="Adobe: Help, Creating Books in InDesign" target="_blank">Creating Books</a>
   - <a href="bullet-and-number-lists.html" title="InDesign Bullet & Number Lists">About defined lists</a>
   - <a href="https://helpx.adobe.com/indesign/using/numbering-pages-chapters-sections.html" title="InDesign: Numbering Chapters" target="_blank">Numbering Chapters</a>
-video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLCQ4NQ5PzDMzi9Vs8p8aUtG"
 downloads: "https://www.dropbox.com/s/tmtvvpenmhfnwsd/indesign-books-pinocchio.zip?dl=1"
 description: "In this assignment, you'll assemble the story of Pinocchio in an InDesign book which includes automatic numbering of pages & chapters, a table of contents, running headers, synchronized styles & swatches."
 details:

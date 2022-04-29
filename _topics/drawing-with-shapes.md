@@ -15,7 +15,6 @@ links: |
   - <a href="https://helpx.adobe.com/illustrator/using/drawing-simple-lines-shapes.html" target="_blank" title="aa">Drawing Lines & Shapes</a>
   - <a href="https://helpx.adobe.com/illustrator/atv/cs5-tutorials/using-drawing-modes.html" target="_blank" title="Drawing Modes">Drawing Modes</a>
   - <a href="https://helpx.adobe.com/illustrator/using/combining-objects.html#compound_shapes" target="_blank" title="Compound Paths">Compound Paths</a>
-video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLCeEpUWTPF0uIYDRYMMwOZH"
 downloads: "https://www.dropbox.com/s/g2tw15fl48u1dt1/illustrator-drawing-with-shapes.zip?dl=1"
 description: "Using Illustrator's shape tools to draw can be an effective way to create smooth paths and predictable results. We can go much further than simply dragging shapes. There are a number of keyboard shortcuts that can help us create well-formed objects."
 details: |

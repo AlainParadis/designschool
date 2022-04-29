@@ -11,7 +11,6 @@ submission: "my-assignment-folder"
 links: |
   - <a href="https://helpx.adobe.com/photoshop/using/crop-straighten-photos.html" target="_blank" title="Adobe: Crop & Straighten Photos">Adobe: Crop & Straighten Photos</a>
   - <a href="https://helpx.adobe.com/photoshop/using/adjusting-crop-rotation-canvas.html" target="_blank" title="Adobe: Adjust Crop, Rotation and Canvas Size">Adobe: Adjust Crop, Rotation and Canvas Size</a>
-video: "https://www.youtube.com/embed/UMfPztQlQLg"
 downloads: "https://www.dropbox.com/s/02fi9jky5ds1lqu/photoshop-cropping.zip?dl=1"
 description: "The Crop tool has been in Photoshop since about 1988. Since then, it has learned to do much more than crop an image. We'll explore these features today."
 details: |

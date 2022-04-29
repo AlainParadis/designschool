@@ -11,7 +11,6 @@ submission:
 links: |
   - <a href="https://helpx.adobe.com/illustrator/using/using-multiple-artboards.html" target="_blank" title="Adobe: Set Up Artboards">Adobe: Set Up Artboards</a>
   - <a href="https://helpx.adobe.com/illustrator/using/artboard-overview.html" target="_blank" title="Lynda: Artboard Overview">Lynda: Artboard Overview</a>
-video: "https://www.youtube.com/embed/0RCdWsivG6M"
 downloads: "https://www.dropbox.com/s/j8z1xus5wth01h0/illustrator-artboards.zip?dl=1"
 description: "Artboards are more than simple pages in Illustrator. They can be different sizes, re-arranged and even nested. We'll create, edit and manage artboards in Adobe Illustrator."
 details: |

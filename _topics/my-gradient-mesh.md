@@ -9,7 +9,6 @@ level: cg4
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=384441&grpid=0&isprv=0&bp=0&ou=411216"
 submission: "illustrator-package"
 links: 
-video: "https://www.youtube.com/embed/uh3pZzyXmks"
 downloads: "https://www.dropbox.com/s/yo45qyxrh775ujv/illustrator-my-gradient-mesh.zip?dl=1"
 description: "Adobe -- A mesh object is a multi-coloured object on which colors can flow in different directions and transition smoothly from one point to another."
 details: | 

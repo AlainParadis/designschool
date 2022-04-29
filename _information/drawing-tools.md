@@ -14,7 +14,6 @@ links: |
   - <a href="https://helpx.adobe.com/illustrator/atv/cs6-tutorials/using-the-blob-brush-and-eraser-tools.html" target="_blank" title="Blob Brush & Eraser Tools">Blob Brush & Eraser Tools</a>
   - Adobe: <a href="https://helpx.adobe.com/illustrator/how-to/new-pencil-tool-in-illustrator.html" target="_blank" title="All New Pencil Tool">All New Pencil Tool</a>
   - Adobe: <a href="https://www.youtube.com/embed/n1CcJuTl70c?rel=0" target="_blank" title="Shaper Tool">Shaper Tool</a>
-video: "https://www.youtube.com/embed/aqyZiVOtOYc"
 downloads:
 description: "In the past few years, Adobe have created new drawing tools for Illustrator. These enhance basic vector drawing capabilities beyond the tools that have been in Illustrator since its inception in the 1980's."
 details: |

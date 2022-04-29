@@ -11,7 +11,6 @@ submission: "unleash-your-inner-vectors"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/image-trace.html" title="Image Trace" target="_blank">Image Trace</a>
   - Adobe: <a href="https://helpx.adobe.com/illustrator/atv/cs6-tutorials/new-image-trace.html" title="Image Trace Video" target="_blank">Image Trace Video</a>
-video: "https://www.youtube.com/embed/myOzR2TQWQY?list=PL4qBMvigUSLDGk988g2BxIS96BJT6ZDO_"
 downloads: 
 description: "Your job is to draw your own image, scan it, then use Image Trace to vectorize it. Once it's vectors, use Live Paint and Edit Colours to create a total of three different colour variations."
 details: |

@@ -9,7 +9,6 @@ level: undetermined
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission: "illustrator-package"
 links:
-video:
 downloads: 
 description: "Use the Illustrator skills you've learned to date to draw a sugar skull."
 details: |

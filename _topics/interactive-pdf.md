@@ -9,7 +9,6 @@ level: cg5
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236856&grpid=0&isprv=0&bp=0&ou=279828"
 submission: "indesign-package"
 links: 
-video: 
 downloads: "https://www.dropbox.com/s/vt8hq0jmto9rlh0/acrobat-acrobat-forms.zip?dl=1"
 description: "It's a good idea to create a PDF version of your portfolio in case you need to present it without an internet connection. This is a local, dependable, self-contained multimedia portfolio that will never fail you."
 details: |

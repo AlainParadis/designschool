@@ -10,7 +10,6 @@ brightspace:
 submission:
 links: |
   - <a href="http://www.rgd.ca" title="RGD" target="_blank">Association of Registered Graphic Designers of Ontario</a>
-video: 
 downloads: 
 description: 
 details: |

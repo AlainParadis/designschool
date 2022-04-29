@@ -10,7 +10,6 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "indesign-package"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/printing-spot-colors.html" target="_blank" title="Spot Colour Channels">Spot Colour Channels</a>
-video: "https://www.youtube.com/embed/sddPWRJa5WI"
 downloads: "https://www.dropbox.com/s/ytj4i1yf2m9ydux/photoshop-spot-colour-channels.zip?dl=1"
 description: "At times, four colour process printing can be quite bland. There are times when you want a more crafted printed piece with more accurate colours and more punch. This is where spot colour printing can come to the rescue."
 details: |

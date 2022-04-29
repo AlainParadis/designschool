@@ -10,7 +10,6 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "my-assignment-folder"
 links: |
  - <a href="http://www.glitschkastudios.com" title="Von Glitschka" target="_blank">Von Glitschka's site</a>
-video: "https://www.youtube.com/embed/TQJF1-QqT9k?list=PL4qBMvigUSLCF_-Av9YPxwF2NrtmirNa-"
 downloads: "https://www.dropbox.com/s/jbluzdsenp36jo0/illustrator-intro-to-isometrics.ai.zip?dl=1"
 description: "We'll learn what isometric illustration is. How does it differ from drawing in a two-point perspective? We'll look at some examples and applications for isometrics."
 details: | 

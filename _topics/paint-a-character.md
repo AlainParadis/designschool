@@ -9,7 +9,6 @@ level: cg5
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236850&grpid=0&isprv=0&bp=0&ou=279828"
 submission: "my-assignment-folder"
 links:
-video: 
 downloads:
 description: "Now that you've created your own custom Illustrator brushes, let's use them to create something wonderful. Paint a character in Illustrator using a variety of brushes and techniques."
 details: | 

@@ -10,7 +10,6 @@ brightspace:
 submission:
 links: |
   - 
-video: 
 downloads: 
 description: "These are all the pages that are in no specific course."
 details: |

@@ -10,7 +10,6 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "my-assignment-folder"
 links: |
   - <a href="https://helpx.adobe.com/photoshop/using/adjustment-fill-layers.html" target="_blank" title="Adobe: Adjustment Layers">Adobe: Adjustment Layers</a>
-video: "https://www.youtube.com/embed/EkvQKy-03ck"
 downloads: "https://www.dropbox.com/s/e2u472x6gljgw1u/photoshop-adjustment-layers.zip?dl=1"
 description: "Adjustment Layers give instructions to layers below to do something like change colour, increase contrast, invert colours and much, much more. They're central to a non-destructive colour adjustment workflow."
 details: |

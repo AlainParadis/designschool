@@ -10,7 +10,6 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "my-assignment-folder"
 links: |
   - <a href="https://helpx.adobe.com/photoshop/using/transforming-objects.html" target="_blank" title="Transform Objects">Transform Objects</a>
-video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLCPV88lerrXcuLpXw0bX4q-"
 downloads: "https://www.dropbox.com/s/ho5atnoj3grivpp/photoshop-transforms.zip?dl=1"
 description: "In this lesson, we'll explore the limitless transformation capabilities of Adobe Photoshop; all in a non-destructive workflow, of course."
 details: | 

@@ -13,7 +13,6 @@ links: |
   - <a href="https://brightspace.algonquincollege.com/d2l/home" title="Log in to Brightspace." target="_blank">Brightspace</a>
   - <a href="http://algonquincollege.freshdesk.com/" title="IT Support" target="_blank">IT Support</a>
   - <a href="http://algonquincollege.freshdesk.com/support/solutions/articles/11000016291-how-to-install-a-find-me-printer-on-your-mac" title="College printer drivers" target="_blank">College printer drivers</a>
-video: 
 downloads:
 description: "Our first steps are to get you logged in to various online services. This will allow you to access your schedule, bursary information, cours materials, your network password, your grades and more."
 details: | 

@@ -13,7 +13,6 @@ links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/user-guide.html?topic=/indesign/morehelp/layout_and_design.ug.js" title="InDesign Layout & Design" target="_blank">InDesign Layout & Design</a>
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/master-pages.html" title="Parent Pages" target="_blank">Parent Pages</a>
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/paragraph-character-styles.html" title="Paragraph & Character Styles" target="_blank">Paragraph & Character Styles</a>
-video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLAM7iNFT5e-fXbxQn2nt7X7"
 downloads:
 description: "As a follow up to our first document construction, you will build these magazine pages with the provided content, based on the provided model. "
 details: |

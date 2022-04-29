@@ -9,7 +9,6 @@ level: undetermined
 brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission: "my-assignment-folder"
 links:
-video: 
 downloads: 
 description: "This will include Actions, Conditional Actions and Data Driven Graphics in Photoshop."
 details: |

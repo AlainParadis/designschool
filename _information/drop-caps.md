@@ -10,7 +10,6 @@ brightspace:
 submission:
 links: |
   - <a href="https://helpx.adobe.com/indesign/using/drop-caps-nested-styles.html" target="_blank" title="Drop Caps">Drop Caps</a>
-video: "https://www.youtube.com/embed/AKPclQr00ro"
 downloads:
 description: "Drop caps originate from decorative capitals hand-drawn or painted onto the page. We'll take a much less messy route by letting InDesign set a custom attention-grabbing drop cap."
 details: | 

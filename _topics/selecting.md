@@ -14,7 +14,6 @@ links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/selecting-color-range-image.html" target="_blank" title="Select Colour Range">Select Colour Range</a>
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/select-area-focus.html" target="_blank" title="Select Focus Area">Select Focus Area</a>
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/create-temporary-quick-mask.html" target="_blank" title="Quick Mask">Quick Mask</a>
-video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLD-jwtDjjxD_pY4JrgSUHcf"
 downloads: "https://www.dropbox.com/s/dgw8s32a7hanvpc/photoshop-selecting.zip?dl=1"
 description: "Selecting pixels is central to editing in Photoshop. Leveraging the characteristics of the photo is critical to getting a good selection. From there after, you can target selected pixels for editing. All this is done in a non-destructive workflow."
 details: |

@@ -10,7 +10,6 @@ brightspace:
 submission:
 links: |
   - <a href="https://helpx.adobe.com/indesign/using/footnotes.html" title="Adobe Support: InDesign Footnotes" target="_blank">Adobe Support: Footnotes</a>
-video: 
 downloads: 
 description: "When designing long documents, you'll often need to set up footnotes. They have a superscript number in the text which refers to a number at the bottom of the page. InDesign takes care of most of the setup for you."
 details: |

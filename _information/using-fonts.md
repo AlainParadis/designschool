@@ -12,7 +12,6 @@ links: |
   - <a href="https://helpx.adobe.com/indesign/using/using-fonts.html" target="_blank" title="Using Fonts">Using Fonts</a>
   - <a href="https://helpx.adobe.com/fonts/using/add-fonts-website.html" target="_blank" title="Adobe Fonts: Add Fonts to Your Web Site">Adobe Fonts: Add Fonts to Your Web Site</a>
   - <a href="https://helpx.adobe.com/fonts/using/activate-fonts-desktop.html" target="_blank" title="Adobe Fonts: Sync Fonts">Adobe Fonts: Sync Fonts</a>
-video: "https://www.youtube.com/embed/-GzgaKUs_gI"
 downloads: 
 description: "Because you'll be juggling many simultaneous assignments, you'll need to activate and deactivate fonts. Most of the time, you'll use fonts from Adobe Fonts. The odd time, you'll need to install fonts on your computer."
 details: |

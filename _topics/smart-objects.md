@@ -10,7 +10,6 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "my-assignment-folder"
 links: |
   - <a href="https://blogs.adobe.com/jkost/2017/12/working-with-smart-objects-in-photoshop-cc.html?utm_source=dlvr.it&utm_medium=twitter" class="" target="_blank">15 Tips for Smart Objects</a>
-video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLCHHO2khLLnHHSvukoas8Y6"
 downloads: "https://www.dropbox.com/s/q3e7tjzzpc92122/photoshop-mockups.zip?dl=1"
 description: "Photoshop mockups are layered files in which you can insert an image of a portfolio piece to show it in its natural environment."
 details: | 

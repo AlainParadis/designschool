@@ -10,7 +10,6 @@ brightspace:
 submission: 
 links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/how-to/print-black.html" alt:="Adobe: How to print blacks." target="_blank">Printing Blacks</a>
-video: 
 downloads: 
 description: "The black you get by default in Photoshop is different than the one in Illustrator and in InDesign. We'll take control of this unruly colour for once and for all."
 details: |

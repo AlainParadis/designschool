@@ -9,7 +9,6 @@ level: cg5
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236848&grpid=0&isprv=0&bp=0&ou=279828"
 submission: "illustrator-package"
 links: 
-video: 
 downloads:
 description: "Now that you know how to draw in an isometric projection, you'll illustrate a process with characters in it."
 details: |

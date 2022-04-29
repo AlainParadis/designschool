@@ -9,7 +9,6 @@ level: cg4
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=384449&grpid=0&isprv=0&bp=0&ou=411216"
 submission: "photoshop-document"
 links:
-video: "https://www.youtube.com/embed/Rou1YNOMsMQ"
 downloads: "https://www.dropbox.com/s/p93mavgdl9gcty8/photoshop-vector-shapes.zip?dl=1"
 description: "Vectors aren't only the domain of Illustrator. Photoshop is quite adept at creating beautiful resolution-independant scalable graphics."
 details: |

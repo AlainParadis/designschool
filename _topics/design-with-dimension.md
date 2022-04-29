@@ -11,7 +11,6 @@ submission: "pdf+zipped-folder"
 links: |
   - <a href="http://www.brandsoftheworld.com" title="Source for vector logos." target="_blank">Brands of the World</a>
   - <a href="https://www.turbosquid.com/Search/Index.cfm?keyword=&amp;media_typeid=2&amp;file_type=119&amp;=true&amp;max_price=0&amp;min_price=0" title="TurboSquid" target="_blank">TurboSquid</a>
-video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLAm2vGv4DlgbVvuGVvIbr1F"
 downloads: 
 description: "In this assignment you'll build a scene in which you'll map brand artwork in a photograph in three dimensions."
 details: |

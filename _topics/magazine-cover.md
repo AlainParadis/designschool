@@ -11,7 +11,6 @@ submission: "photoshop-document"
 links: |
   - <a href="https://www.brandsoftheworld.com" title="Brands of the World Vector Logos" target="_blank">Brands of the World</a>
   - <a href="https://duckduckgo.com/?q=women%27s+magazine+covers+headshot&amp;t=osx&amp;iax=images&amp;ia=images" title="Magazine Cover images" target="_blank">Magazine Cover images</a>
-video: "https://www.youtube.com/embed/Rou1YNOMsMQ"
 downloads:
 description: "We'll use all the Photoshop tools we've covered to date to design a magazine cover using a non-destructive workflow."
 details: |

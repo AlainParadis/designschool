@@ -11,7 +11,6 @@ submission: "travel-book-planning"
 links: |
   - <a href="/administration/stock.html">Stock photography</a>
   - <a href="https://helpx.adobe.com/photoshop/how-to/create-contact-sheets.html" target="_blank"></a> Create a Photoshop Contact Sheet</a>
-video: 
 downloads:
 description: "Publication design demands planning. You'll inventory content, sketch page layouts, search stock photography and more. The more planning you do, the smoother the production stage will be. Approval will be required before you can move to production."
 details: |

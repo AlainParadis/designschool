@@ -6,7 +6,6 @@ appsused:
 title: "Assessment"
 level: admin
 brightspace: 
-video: 
 downloads:
 description: "Each faculty member in the Graphic Design Program strives for clear, known, detailed and fair assessment. The information below is provided to show each and every student where their target goal is and how to attain it."
 details: |

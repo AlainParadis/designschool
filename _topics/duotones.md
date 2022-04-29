@@ -10,7 +10,6 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "indesign-package"
 links: |
   - Behance: <a href="https://www.behance.net/search?search=duotone" target="_blank" title="Examples of Duotones">Examples of Duotones</a>
-video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDfiqtRsavncYqJWoHnEjRy"
 downloads: "https://www.dropbox.com/s/9zbqkz0k6s437kx/photoshop-duotones.zip?dl=1"
 description: "A duotone Photoshop image is a greyscale image printed with a coloured ink rather than with black ink. You can obtain striking results with a well thought-out production strategy."
 details: |

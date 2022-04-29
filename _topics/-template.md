@@ -9,7 +9,6 @@ level:
 brightspace: 
 submission: "my-assignment-folder"
 links:
-video: 
 downloads: 
 description: 
 details: |

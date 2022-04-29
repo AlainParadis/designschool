@@ -10,7 +10,6 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "indesign-package"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/creating-tables.html" target="_blank" title="Adobe: Tables">Tables</a>
-video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLDQSMVBZMxW-sp44u3Kbiup"
 downloads: "https://www.dropbox.com/s/yqcbxgb11zt57ih/indesign-tables.zip?dl=1"
 description: "The potential usefulness of Tables in InDesign is virtually limitless. We'll start with the basics, then progress to blow-your-mind tables that you can't even tell are tables. You'll see. It'll blow your mind."
 details: |

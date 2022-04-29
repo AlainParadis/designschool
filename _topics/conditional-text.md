@@ -10,7 +10,6 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/home"
 submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/editing-text.html" title="Adobe: Conditional Text" target="_blank">Conditional Text</a>
-video: 
 downloads: 
 description: 
 details: |

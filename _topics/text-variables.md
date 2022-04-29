@@ -14,7 +14,6 @@ links: |
   - <a href="https://helpx.adobe.com/indesign/using/text-variables.html" target="_blank" title="Adobe: Text Variables">Adobe: Text Variables</a>
   - <a href="https://helpx.adobe.com/indesign/using/numbering-pages-chapters-sections.html#create_headers_and_footers" target="_blank" title="Adobe: Numbering Pages...">Adobe: Numbering Pages...</a>
   - <a href="https://helpx.adobe.com/indesign/using/cross-references.html#cross_references" target="_blank" title="Adobe: Cross References">Adobe: Cross References</a>
-video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLAe_aVG7bNa4YGL8g7EAtWm"
 downloads: "https://www.dropbox.com/s/vwvemtzwmz17jum/indesign-text-variables.zip?dl=1"
 description: "Automatic page numbering, automatic story jumps, text variables; these are only some of the tools we'll use to create a publication in InDesign. They all allow us to have content that updates dynamically, which makes editing a breeze."
 details: |

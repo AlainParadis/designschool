@@ -7,7 +7,6 @@ appsused: macos
 title: "Print at the Print Shop"
 level: setup
 brightspace: 
-video: 
 downloads: "https://www.dropbox.com/s/2heuq4qychwmhkf/Fiery-Printer-Driver.pkg?dl=1"
 description: "Set up your MacBook Pro to print at the Algonquin College Print Shop."
 details: |

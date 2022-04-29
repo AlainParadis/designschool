@@ -14,7 +14,6 @@ links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/master-pages.html" title="Master Pages" target="_blank">Parent Pages</a>
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/paragraph-character-styles.html" title="Paragraph & Character Styles" target="_blank">Paragraph & Character Styles</a>
   - <a href="https://design.tutsplus.com/tutorials/quick-tip-speed-up-your-adobe-indesign-workflow-with-the-content-collector-tool--cms-23629" class="" target="_blank">InDesign's Content Collector</a>
-video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLAM7iNFT5e-fXbxQn2nt7X7"
 downloads: "https://www.dropbox.com/s/pqofvnl3f2ayokp/indesign-build-a-document.zip?dl=1"
 description: "In this assignment, we'll look at the foundations of building an InDesign document from scratch. We'll set up the document to for maximum flexibility when doing revisions. This is really how every InDesign document you make should be built."
 details: |

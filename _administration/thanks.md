@@ -9,7 +9,6 @@ level: undetermined
 brightspace: 
 submission:
 links:
-video: 
 downloads: 
 description: "Thank you for providing feedback on your Computer Graphics course."
 details: |

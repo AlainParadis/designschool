@@ -11,7 +11,6 @@ submission: "illustrator-package"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/perspective-drawing.html" target="_blank" title="Perspective Drawing">Perspective Drawing</a>
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/perspective-grid.html" target="_blank" title="Define Perspective Grids">Define Perspective Grids</a>
-video: 
 downloads: "https://www.dropbox.com/s/82vaphr0mohgux6/illustrator-drawing-in-perspective.zip?dl=1"
 description: "Drawing in perspective is really rewarding. In this unit, we'll explore the different types of perspective available to us."
 details: |

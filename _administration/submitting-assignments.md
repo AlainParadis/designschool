@@ -6,7 +6,6 @@ appsused: macos
 title: "Submitting Assignments on Brightspace"
 level: admin
 brightspace: 
-video: 
 downloads: 
 description: "When handing in assignments on Brightspace, there are a few techniques which can help you ensure a timely submission."
 details: | 

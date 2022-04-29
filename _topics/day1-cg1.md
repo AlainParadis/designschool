@@ -12,7 +12,6 @@ links: |
   - <a href="https://uc0a7f1b6963c46e266f0dba37df.dl.dropboxusercontent.com/cd/0/get/BJfWwYqS0t7I24MEn71DIPMki5RreTamjbSzGSehH2Cfubq2Ha4rbKJW1XovvCD9f6RqxXDxayRy-SFL_y5Mgr59n7oKCeDsJpxRI2P7LgnTez0mz_SqDDfKhFjKyypXVLY/file?dl=1" title="Download your Program of Study">Download your Program of Study (PDF)</a>
   - <a href="/setups/mac.html" title="macOS Setup">macOS Setup</a>
   - <a href="/setups/college-services.html" title="Set up your college online services">Setup College Services</a>
-video: 
 downloads:
 description: "Congratulations on being accepted into the Graphic Design program at Algonquin College. We have a number of topics to cover in our first Computer Graphics class."
 details: |

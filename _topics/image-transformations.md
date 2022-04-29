@@ -9,7 +9,6 @@ level: cg4
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=384444&grpid=0&isprv=0&bp=0&ou=411216"
 submission: "my-assignment-folder"
 links:
-video: 
 downloads: "https://www.dropbox.com/s/sl41dvd5ob876iv/photoshop-transforms-summative.zip?dl=1"
 description: "This summative assignment includes Photoshop skills you've used in the last few classes. Download the assignment files. Replicate the effects that are shown on the page." 
 details: |

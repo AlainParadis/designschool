@@ -10,7 +10,6 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "photoshop-document"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/how-to/photoshop-brushes-intro.html" title="Adobe: How to use Photoshop Brushes video tutorial" target="_blank">Brushes</a>
-video: 
 downloads: "https://www.dropbox.com/s/t54bhbfoasjhrav/photoshop-brushes.zip?dl=1"
 description: "You don't need to be a fine artist to create beautiful artwork with brushes in Photoshop. As a matter of fact, Photoshop brushes can help the novice painter create stunning artwork. It also opens new possibilities for the more experienced."
 details: |

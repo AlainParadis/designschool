@@ -14,7 +14,6 @@ links: |
   - <a href="https://www.apple.com/ca/support/products/mac.html" target="_blank">AppleCare Canada</a>
   - <a href="https://www.bestbuy.ca/en-ca/brand/apple" target="_blank">Macs @ BestBuy Canada</a>
   - <a href="http://www.backblaze.com" target="_blank">Backblaze</a>
-video: 
 downloads: 
 description: "As students in a Bring Your Own Device (BYOD) program, you'll need to come to class with approved hardware. This is what you'll need and when."
 details: |

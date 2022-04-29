@@ -12,7 +12,6 @@ links: |
   - <a href="https://helpx.adobe.com/photoshop/using/content-aware-patch-move.html" target="_blank" title="x">Content-Aware Patch & Move</a>
   - <a href="https://helpx.adobe.com/photoshop/using/content-aware-scaling.html" target="_blank" title="Content-Aware Scale">Content-Aware Scale</a>
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/create-panoramic-images-photomerge.html" target="_blank" title="Photomerge">Photomerge</a>
-video: "https://www.youtube.com/embed/6WVh4dz_zt4?rel=0"
 downloads: "https://www.dropbox.com/s/ypc0ff2irknva21/photoshop-content-aware.zip?dl=1"
 description: "Content-Aware tools intelligently fill areas of a photo with a seamlessly background. These tools appear throughout Photoshop. We'll discover the many ways it can be used."
 details: |

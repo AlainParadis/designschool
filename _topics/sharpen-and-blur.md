@@ -9,7 +9,6 @@ level: cg4
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=384448&grpid=0&isprv=0&bp=0&ou=411216"
 submission: "my-assignment-folder"
 links:
-video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLCUswI9YXYxaFu9nKSO0a1o"
 downloads: "https://www.dropbox.com/s/jyl8bb0eh0ewxks/photoshop-sharpen-and-blur.zip?dl=1"
 description: "Photoshop doesn't really understand blurry or sharp. It just sees more or less contrast between pixels. It uses different algorithms in its blurring and sharpening tools to achieve its ends. Yeah. Algorithms."
 details: |

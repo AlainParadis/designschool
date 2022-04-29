@@ -10,7 +10,6 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/symbols.html#use_9_slice_scaling" title="Symbols" target="_blank">Symbols</a>
-video: "https://www.youtube.com/embed/8BfO3RTKamA"
 downloads: "https://www.dropbox.com/s/j0y5jfk1whw50ek/illustrator-symbols.zip?dl=1"
 description: "If you have a piece of artwork that repeats many times in your work, it's best to make a Symbol of it. The symbol can be edited, then all the instances you've used will update at once. You can even make colour variations with Dynamic Symbols."
 details: |

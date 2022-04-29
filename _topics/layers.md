@@ -12,7 +12,6 @@ links: |
   - <a href="https://helpx.adobe.com/photoshop/using/layer-basics.html" target="_blank" title="Layer Basics">Layer Basics</a>
   - <a href="https://helpx.adobe.com/photoshop/using/selecting-grouping-linking-layers.html" target="_blank" title="Select, Group & Link Layers">Select, Group & Link Layers</a>
   - <a href="https://photoshopetiquette.com/" title="Photoshop Etiquette" target="_blank">Photoshop Etiquette</a>
-video: "https://www.youtube.com/embed/YxTD7iRe-UE"
 downloads: "https://www.dropbox.com/s/wwvwc8gdnnb8hrl/photoshop-layers.zip?dl=1"
 description: "Layers are among the fundamental features in Photoshop which aid editing. Superficially, they're simple, but the feature set goes deep. Photoshop features a number of kinds of layers. This is what we'll explore here."
 details: |
