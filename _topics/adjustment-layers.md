@@ -6,7 +6,7 @@ sortorder: 1.2
 appsused: psd
 title: "Adjustment Layers"
 level: cg2
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=384488&grpid=0&isprv=0&bp=0&ou=411224"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=405771&grpid=0&isprv=0&bp=0&ou=448668"
 submission: "my-assignment-folder"
 links: |
   - <a href="https://helpx.adobe.com/photoshop/using/adjustment-fill-layers.html" target="_blank" title="Adobe: Adjustment Layers">Adobe: Adjustment Layers</a>

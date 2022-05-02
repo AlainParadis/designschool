@@ -9,7 +9,6 @@ level: cg1
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=381846&grpid=0&isprv=0&bp=0&ou=409084"
 submission: "my-assignment-folder"
 links:
-video:
 downloads: "https://www.dropbox.com/s/1yrs6w2qxj6qtxd/illustrator-fundamentals.zip?dl=1"
 description: "This is a summative assignment which includes all the Illustrator skills you've learned to date. Follow the instructions on this page carefully."
 details:

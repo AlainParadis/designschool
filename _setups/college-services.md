@@ -72,8 +72,6 @@ details: |
 
   As a student in a Bring Your Own Device (BYOD) program, you are entitled to a vast array of resources, including Adobe Creative Cloud software. You will receive a message at your <a href="https://liveac.algonquincollege.com" title="Check your college e-mail for instructions on setting up Adobe Apps." target="_blank">college e-mail account</a> with a link and instructions.
 
-  Now that you have all this great software, you can also use videos I post on <a href="http://www.youtube.com/accomputergraphics" title="Visit my YouTube Channel" target="_blank">my YouTube channel</a>.
-
   Creative Cloud is a large suite of creative applications and services offered by Adobe. We'll be principally using Illustrator, Photoshop and InDesign. They're installed through the Creative Cloud desktop app. You should also run updates with the app from your menu bar.
 
   <img class="size100 borderlightgrey1" alt="creative-cloud-setup" src="/images/mac-setup/creative-cloud-setup.jpg">

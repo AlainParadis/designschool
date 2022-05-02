@@ -9,7 +9,6 @@ level: cg3
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=354416&grpid=0&isprv=0&bp=0&ou=372603"
 submission: "photoshop-document"
 links:
-video:
 downloads:
 description: "In this unit, we'll set up Photoshop for Pastel drawing, including installing a workspace file, swatches and more. By the end of this module, you'll be able to produce artwork that looks like it was made with real pastels."
 details: | 

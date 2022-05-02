@@ -6,7 +6,7 @@ sortorder: 2.1
 appsused: indd
 title: "Bullet & Number Lists"
 level: cg2
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=384491&grpid=0&isprv=0&bp=0&ou=411224"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=405774&grpid=0&isprv=0&bp=0&ou=448668"
 submission: "indesign-package"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/bullets-numbering.html" target="_blank" title="Bullets & Number Lists">Bullets & Number Lists</a>

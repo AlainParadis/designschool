@@ -10,7 +10,6 @@ brightspace:
 submission: "my-assignment-folder"
 links: |
   - Some link
-video:
 downloads:
 description: "Visitors to the site you're building will want it to load as quickly as possible. We'll export various types of graphics so they're as small and colour-accurate as possible."
 details: |

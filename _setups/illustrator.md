@@ -7,7 +7,6 @@ appsused: ai, cc
 title: "Set Up Illustrator"
 level: setup
 brightspace: 
-video: "https://www.youtube.com/embed/1c4SNj6Gd08"
 downloads: "https://www.dropbox.com/s/kl0l85nuxyrsqks/setup-illustrator.zip?dl=1"
 description: "Before we start working in Illustrator, we need to take a tour of the user interface. The default settings Adobe provides really aren't well suited to our type of work. We'll improve on them by installing a few files and flipping a few switches."
 details: |

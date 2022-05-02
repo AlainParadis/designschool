@@ -10,7 +10,6 @@ brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/fold
 submission: "indesign-package"
 links: |
   - [Forge de Laguiole](https://forge-de-laguiole.com)
-video:
 downloads: "https://www.dropbox.com/s/5yg3iqk9rru65fm/indesign-laguiole-layout.zip?dl=1"
 description: |
   Today, we'll build this layout in InDesign using all the software skills you've learned to date. We'll take it through to production, preparing all the files for press.

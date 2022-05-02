@@ -6,11 +6,10 @@ sortorder: 1.1
 appsused: psd
 title: "Blend Modes"
 level: cg2
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=384487&grpid=0&isprv=0&bp=0&ou=411224"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=405770&grpid=0&isprv=0&bp=0&ou=448668"
 submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/blending-modes.html" target="_blank" title="Blending Modes">Blending Modes</a>
-video:
 downloads: "https://www.dropbox.com/s/ufziabhdlq7tl4c/photoshop-blend-modes.zip?dl=1"
 description: "Blend Modes are used like paints being mixed. You have your base colour which you blend to obtain your blended result."
 details: |

@@ -7,7 +7,6 @@ appsused: indd cc
 title: "Set Up InDesign"
 level: setup
 brightspace: 
-video: "https://www.youtube.com/embed/Hf_S0wMyek0"
 downloads: "https://www.dropbox.com/s/5yu01jiyufi5vfh/setup-indesign.zip?dl=1"
 description: "Before we start to use InDesign, we need to edit settings to make it work better for us. We'll even modify the default settings for the entire application."
 details: |

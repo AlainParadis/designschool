@@ -6,7 +6,7 @@ sortorder: 1.0
 appsused: psd
 title: "Layers"
 level: cg2
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=384486&grpid=0&isprv=0&bp=0&ou=411224"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=405769&grpid=0&isprv=0&bp=0&ou=448668"
 submission: "photoshop-document"
 links: |
   - <a href="https://helpx.adobe.com/photoshop/using/layer-basics.html" target="_blank" title="Layer Basics">Layer Basics</a>

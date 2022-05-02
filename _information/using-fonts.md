@@ -23,7 +23,7 @@ details: |
 
   ### Local Fonts
 
-  Sometimes you may need to install a specific font on your computer. The video above shows you how to set up a simple font management system that doesn't require installing any software.
+  Sometimes you may need to install a specific font on your computer.
 
   <img class="size100" alt="fonts-folder-location" src="/images/using-fonts/fonts-folder-location.jpg">
 

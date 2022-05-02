@@ -4,7 +4,7 @@ type: informational
 sortorder:appsused:
 title: "Student Support Resources"
 level: admin
-brightspace:video:downloads:
+brightspace:
 description: "Academic Advisors do more than provide resources and answer questions for students in need. They help you set academic goals, help you develop a career plan, and connect you with resources at the College. Your Academic Advisor is here to support you as you pursue your educational endeavors at Algonquin College."
 details: |
   ### Centre for Accessible Learning (CAL)

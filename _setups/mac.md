@@ -9,7 +9,6 @@ level: setup
 brightspace: 
 links: |
   - <a href="https://support.apple.com/en-ca/guide/disk-utility/dskutl14079/mac" target="_blank">Apple Support Erase a Drive</a>
-video: "https://www.youtube.com/embed/videoseries?list=PL4qBMvigUSLC801w73wa2lidM9d61x0aE"
 downloads:
 description: "Let's get your Mac set up for the semester. Some important Finder preferences need to be changed. We'll create a folder structure so that you stay organized during the semester. We'll need to ensure you have proper backups of your work. If you're a returning students, you'll need to archive past semesters' work."
 details: | 

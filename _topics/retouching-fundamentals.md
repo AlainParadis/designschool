@@ -107,7 +107,7 @@ details: |
 
   ### Skin Smoothing
 
-  We'll explore the best process for smoothing skin. It's documented in the video tutorial in the playlist above. These are the steps:
+  We'll explore the best process for smoothing skin. These are the steps:
 
   Before we start, we'll make a new composite layer by targeting all the layers, then holding Option while going to <span class="command">Layers > Merge Visible</span>.
 

@@ -9,7 +9,6 @@ level: cg5
 brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236852&grpid=0&isprv=0&bp=0&ou=279828"
 submission: "my-assignment-folder"
 links: 
-video:
 downloads: "https://www.dropbox.com/s/q3e7tjzzpc92122/photoshop-mockups.zip?dl=1"
 description: "Create mockups that you can use to promote your work online or in print. It will be easy to swap out portfolio pieces in your files, thanks to smart objects."
 details: | 
